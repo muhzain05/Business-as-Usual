@@ -1,0 +1,94 @@
+{
+  "method": "Two independent Windows processes, actual NGO/UTP localhost UDP, production E dispatch and held input, opt-in server test placement.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "public_ledger_excludes_personal_action_message",
+      "passed": true
+    },
+    {
+      "name": "two_personal_staff_notes",
+      "passed": true
+    },
+    {
+      "name": "compact_paper_hud_under_12_percent",
+      "passed": true
+    },
+    {
+      "name": "markers_match_real_interaction_points",
+      "passed": true
+    },
+    {
+      "name": "Tab_opens_local_book_and_releases_cursor",
+      "passed": true
+    },
+    {
+      "name": "Tab_closes_book_and_restores_capture",
+      "passed": true
+    },
+    {
+      "name": "J_opens_staff_desk_locally",
+      "passed": true
+    },
+    {
+      "name": "J_closes_staff_desk_and_restores_capture",
+      "passed": true
+    },
+    {
+      "name": "actor_feedback_stays_private",
+      "passed": true
+    },
+    {
+      "name": "only_mechanic_inspection_objectives",
+      "passed": true
+    },
+    {
+      "name": "completed_inspection_removes_active_pin",
+      "passed": true
+    },
+    {
+      "name": "repair_spots_visible_while_collecting_parts",
+      "passed": true
+    },
+    {
+      "name": "repair_objectives_activate_after_real_pickup",
+      "passed": true
+    },
+    {
+      "name": "repair_progress_advances_local_guidance",
+      "passed": true
+    },
+    {
+      "name": "carried_bag_points_only_to_matching_bin",
+      "passed": true
+    },
+    {
+      "name": "sorted_bag_advances_to_file_manifest",
+      "passed": true
+    },
+    {
+      "name": "role_change_replaces_personal_guidance",
+      "passed": true
+    },
+    {
+      "name": "interior_map_projects_self_to_market",
+      "passed": true
+    },
+    {
+      "name": "shop_has_stockroom_objective",
+      "passed": true
+    },
+    {
+      "name": "delivery_advances_to_stock_crate_marker",
+      "passed": true
+    },
+    {
+      "name": "carried_crate_marks_three_product_shelves",
+      "passed": true
+    },
+    {
+      "name": "stocked_shelf_retires_its_objective",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Phase 7A Review</title>
+<style>
+:root{--paper:#F6E9C9;--ink:#244047;--rule:#D4C7A8;--mustard:#EFC864;--bg:#efe6d0}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#2a3336;--ink:#f1e6c8;--rule:#4b5558;--bg:#1d2426}}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,sans-serif}
+main{max-width:1200px;margin:0 auto;padding:24px 16px}
+h1{margin:.2em 0}h2{border-bottom:2px solid var(--rule);padding-bottom:4px;margin-top:2em}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:12px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
+figure{margin:0;background:var(--paper);border:2px solid var(--ink);padding:6px}figure img{width:100%;display:block}
+figcaption{font-size:14px;padding-top:4px}
+@media (max-width:700px){.pair{grid-template-columns:1fr}}
+</style></head><body><main>
+<h1>Phase 7A: first person and technical polish</h1>
+<p>Matched before/after editor captures, plus first-person and UI captures from the two Windows processes. Results and limitations are in <code>Docs/phase7A-handoff-to-codex.md</code>.</p>
+
+<h2>Market doorway (collision gap and door now centred in the modeled frame)</h2>
+<div class="pair"><figure><img src="Before/market-door.png" alt="Before: door offset in frame"><figcaption>Before: the leaf and collision gap sat 0.4 m east of the frame</figcaption></figure>
+<figure><img src="After/market-door.png" alt="After: door centred"><figcaption>After: centred, handle on the swinging edge</figcaption></figure></div>
+
+<h2>Mechanic vans (grounded, fitted collider, contact shadow)</h2>
+<div class="pair"><figure><img src="Before/vehicles-front.png" alt="Before vans"><figcaption>Before</figcaption></figure><figure><img src="After/vehicles-front.png" alt="After vans"><figcaption>After</figcaption></figure>
+<figure><img src="Before/van0-side-low.png" alt="Before wheel"><figcaption>Before</figcaption></figure><figure><img src="After/van0-side-low.png" alt="After wheel"><figcaption>After: tyres on the floor, soft contact shadow</figcaption></figure></div>
+
+<h2>First person and hands (Windows build, 1920×1080)</h2>
+<div class="grid">
+<figure><img src="TwoProcess1080/host-fp-hud-minimap.png" alt=""><figcaption>Idle hands, HUD and live minimap; colleague in full third person</figcaption></figure>
+<figure><img src="TwoProcess1080/host-fp-inspect.png" alt=""><figcaption>Inspect (magnifier), from authoritative work state</figcaption></figure>
+<figure><img src="TwoProcess1080/host-fp-repair.png" alt=""><figcaption>Repair (wrench)</figcaption></figure>
+<figure><img src="TwoProcess1080/client-fp-carry-bag.png" alt=""><figcaption>Carrying a route bag</figcaption></figure>
+<figure><img src="TwoProcess1080/client-fp-sort.png" alt=""><figcaption>Sorting into the paper bin</figcaption></figure>
+<figure><img src="TwoProcess1080/host-fp-pressed-against-market-wall.png" alt=""><figcaption>Pressed against a wall: no clipping, hands pull back</figcaption></figure>
+<figure><img src="TwoProcess1080/client-remote-host-walking.png" alt=""><figcaption>Colleague view: remote Sunny walking</figcaption></figure>
+<figure><img src="TwoProcess1080/client-remote-host-jumping.png" alt=""><figcaption>Colleague view: remote jump</figcaption></figure>
+</div>
+
+<h2>Map, pause and settings</h2>
+<div class="grid">
+<figure><img src="TwoProcess1080/host-map-expanded.png" alt=""><figcaption>Expanded map (M); staff marker only when in plain view</figcaption></figure>
+<figure><img src="TwoProcess1080/host-pause-menu.png" alt=""><figcaption>Local pause</figcaption></figure>
+<figure><img src="TwoProcess1080/host-pause-settings.png" alt=""><figcaption>Settings saved on this computer</figcaption></figure>
+<figure><img src="TwoProcess1080/host-pause-controls.png" alt=""><figcaption>Controls card</figcaption></figure>
+</div>
+</main></body></html>

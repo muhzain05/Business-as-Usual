@@ -1,0 +1,78 @@
+[
+  {
+    "name": "intro_blocks_local_gameplay",
+    "passed": true
+  },
+  {
+    "name": "one_next_destination",
+    "passed": true
+  },
+  {
+    "name": "help_reopens_and_blocks",
+    "passed": true
+  },
+  {
+    "name": "escape_closes_help",
+    "passed": true
+  },
+  {
+    "name": "host-market-shelf",
+    "passed": true
+  },
+  {
+    "name": "host-market-counter",
+    "passed": true
+  },
+  {
+    "name": "host-market-wall",
+    "passed": true
+  },
+  {
+    "name": "host-yard-bin",
+    "passed": true
+  },
+  {
+    "name": "host-service-vehicle",
+    "passed": true
+  },
+  {
+    "name": "host-service-desk",
+    "passed": true
+  },
+  {
+    "name": "client1-market-shelf",
+    "passed": true
+  },
+  {
+    "name": "client1-market-counter",
+    "passed": true
+  },
+  {
+    "name": "client1-market-wall",
+    "passed": true
+  },
+  {
+    "name": "client1-yard-bin",
+    "passed": true
+  },
+  {
+    "name": "client1-service-vehicle",
+    "passed": true
+  },
+  {
+    "name": "client1-service-desk",
+    "passed": true
+  },
+  {
+    "name": "local_E_receives_new_shipment_not_legacy_work",
+    "passed": true
+  },
+  {
+    "name": "carried_parcel_guidance_is_delivery",
+    "passed": true
+  },
+  {
+    "name": "receiving_tray_accessible_with_solids",
+    "passed": true
+  }
+]

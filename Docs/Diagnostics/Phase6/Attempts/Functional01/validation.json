@@ -1,0 +1,31 @@
+{
+  "method": "Two independent Windows processes, actual NGO/UTP localhost UDP, production E dispatch and held input, opt-in server test placement.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "two_owned_players_one_input_camera_listener",
+      "passed": true
+    },
+    {
+      "name": "different_jobs_synchronize",
+      "passed": true
+    },
+    {
+      "name": "cannot_steal_colleague_assignment",
+      "passed": true
+    },
+    {
+      "name": "unimplemented_professions_rejected",
+      "passed": true
+    },
+    {
+      "name": "private_job_tasks_require_assignment",
+      "passed": true
+    },
+    {
+      "name": "unexpected_failure",
+      "passed": false,
+      "details": "Traceback (most recent call last):\n  File \"D:\\Business as Usual\\Scripts\\test_phase6_network.py\", line 68, in <module>\n    place('host','Service Desk');use('host','Service Desk',local=True);place('client','Collection Route Desk');use('client','Collection Route Desk',local=True)\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Business as Usual\\Scripts\\test_phase6_network.py\", line 48, in use\n    wait(lambda:state()['revision']>rev);synced()\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Business as Usual\\Scripts\\test_phase6_network.py\", line 22, in wait\n    raise AssertionError('Timed out waiting for network state')\nAssertionError: Timed out waiting for network state\n"
+    }
+  ]
+}

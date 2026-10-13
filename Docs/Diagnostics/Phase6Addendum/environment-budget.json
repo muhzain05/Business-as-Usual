@@ -1,0 +1,101 @@
+{
+    "renderers": 208,
+    "materialAssets": 24,
+    "uniqueMeshes": 28,
+    "instancedTriangles": 346824,
+    "uniqueTriangles": 83646,
+    "notes": "Active town environment geometry including workplace fixtures, excluding the connected approved shop and runtime Sunny. Meshes and instanced material assets are shared. Draw calls and shipping hardware performance require profiler measurement.",
+    "viewpoints": [
+        {
+            "name": "street",
+            "position": {
+                "x": 0.0,
+                "y": 1.7000000476837159,
+                "z": -7.0
+            },
+            "aim": {
+                "x": 0.0,
+                "y": 1.5,
+                "z": 5.0
+            }
+        },
+        {
+            "name": "square",
+            "position": {
+                "x": -1.5,
+                "y": 1.7000000476837159,
+                "z": 3.5
+            },
+            "aim": {
+                "x": 1.0,
+                "y": 1.399999976158142,
+                "z": 7.5
+            }
+        },
+        {
+            "name": "garage",
+            "position": {
+                "x": 8.0,
+                "y": 1.7000000476837159,
+                "z": 2.0999999046325685
+            },
+            "aim": {
+                "x": 8.0,
+                "y": 1.2999999523162842,
+                "z": 8.0
+            }
+        },
+        {
+            "name": "yard",
+            "position": {
+                "x": 7.0,
+                "y": 1.7000000476837159,
+                "z": -3.5
+            },
+            "aim": {
+                "x": 8.0,
+                "y": 1.2000000476837159,
+                "z": -8.5
+            }
+        },
+        {
+            "name": "overhead",
+            "position": {
+                "x": 0.0,
+                "y": 32.0,
+                "z": -1.0
+            },
+            "aim": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "shopfront",
+            "position": {
+                "x": -8.0,
+                "y": 1.7000000476837159,
+                "z": -0.800000011920929
+            },
+            "aim": {
+                "x": -8.0,
+                "y": 1.600000023841858,
+                "z": 4.0
+            }
+        },
+        {
+            "name": "alley",
+            "position": {
+                "x": -4.0,
+                "y": 1.7000000476837159,
+                "z": 11.699999809265137
+            },
+            "aim": {
+                "x": -9.0,
+                "y": 1.2000000476837159,
+                "z": 10.5
+            }
+        }
+    ]
+}

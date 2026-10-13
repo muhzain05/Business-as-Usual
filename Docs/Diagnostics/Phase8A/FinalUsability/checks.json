@@ -1,0 +1,240 @@
+[
+  {
+    "name": "intro_blocks_local_gameplay",
+    "passed": true
+  },
+  {
+    "name": "one_next_destination",
+    "passed": true
+  },
+  {
+    "name": "help_reopens_and_blocks",
+    "passed": true
+  },
+  {
+    "name": "escape_closes_help",
+    "passed": true
+  },
+  {
+    "name": "host-market-shelf",
+    "passed": true,
+    "start": [
+      -42,
+      0.08,
+      4.7
+    ],
+    "stop": {
+      "x": -42.0,
+      "y": 0.02499993145465851,
+      "z": 5.335000038146973
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "host-market-counter",
+    "passed": true,
+    "start": [
+      -41,
+      0.08,
+      3.0
+    ],
+    "stop": {
+      "x": -41.0,
+      "y": 0.02499993145465851,
+      "z": 2.489999771118164
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "host-market-wall",
+    "passed": true,
+    "start": [
+      -43.8,
+      0.08,
+      2.8
+    ],
+    "stop": {
+      "x": -45.035003662109375,
+      "y": 0.024999871850013733,
+      "z": 2.799999713897705
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "host-yard-bin",
+    "passed": true,
+    "start": [
+      6,
+      0.08,
+      -6.8
+    ],
+    "stop": {
+      "x": 6.0,
+      "y": 0.024999871850013733,
+      "z": -7.785000324249268
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "host-service-vehicle",
+    "passed": true,
+    "start": [
+      6.9,
+      0.08,
+      4.0
+    ],
+    "stop": {
+      "x": 7.115164279937744,
+      "y": 0.024999871850013733,
+      "z": 4.840695381164551
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "host-service-desk",
+    "passed": true,
+    "start": [
+      8,
+      0.08,
+      8.8
+    ],
+    "stop": {
+      "x": 8.0,
+      "y": 0.024999871850013733,
+      "z": 8.164999961853027
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "host-manifest-desk",
+    "passed": true,
+    "start": [
+      10,
+      0.08,
+      -7.5
+    ],
+    "stop": {
+      "x": 10.0,
+      "y": 0.02499993145465851,
+      "z": -6.664999961853027
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "client1-market-shelf",
+    "passed": true,
+    "start": [
+      -42,
+      0.08,
+      4.7
+    ],
+    "stop": {
+      "x": -41.99998092651367,
+      "y": 0.03141513839364052,
+      "z": 5.330019474029541
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "client1-market-counter",
+    "passed": true,
+    "start": [
+      -41,
+      0.08,
+      3.0
+    ],
+    "stop": {
+      "x": -41.00001907348633,
+      "y": 0.03549555316567421,
+      "z": 2.4948830604553223
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "client1-market-wall",
+    "passed": true,
+    "start": [
+      -43.8,
+      0.08,
+      2.8
+    ],
+    "stop": {
+      "x": -45.03011703491211,
+      "y": 0.024999940767884254,
+      "z": 2.799999237060547
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "client1-yard-bin",
+    "passed": true,
+    "start": [
+      6,
+      0.08,
+      -6.8
+    ],
+    "stop": {
+      "x": 5.999997138977051,
+      "y": 0.02499999850988388,
+      "z": -7.7800679206848145
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "client1-service-vehicle",
+    "passed": true,
+    "start": [
+      6.9,
+      0.08,
+      4.0
+    ],
+    "stop": {
+      "x": 7.110742568969727,
+      "y": 0.03742355480790138,
+      "z": 4.835884094238281
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "client1-service-desk",
+    "passed": true,
+    "start": [
+      8,
+      0.08,
+      8.8
+    ],
+    "stop": {
+      "x": 7.999997615814209,
+      "y": 0.02499997802078724,
+      "z": 8.176919937133789
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "client1-manifest-desk",
+    "passed": true,
+    "start": [
+      10,
+      0.08,
+      -7.5
+    ],
+    "stop": {
+      "x": 9.999996185302734,
+      "y": 0.02499997615814209,
+      "z": -7.174929141998291
+    },
+    "input": "W held for 2.1 seconds through production InputActions"
+  },
+  {
+    "name": "local_E_receives_new_shipment_not_legacy_work",
+    "passed": true
+  },
+  {
+    "name": "carried_parcel_guidance_is_delivery",
+    "passed": true
+  },
+  {
+    "name": "receiving_tray_accessible_with_solids",
+    "passed": true
+  }
+]

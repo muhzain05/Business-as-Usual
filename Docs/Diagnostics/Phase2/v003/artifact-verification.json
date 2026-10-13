@@ -1,0 +1,21 @@
+{
+  "nine_original_source_hashes_verified": 9,
+  "prior_projects_hash_unchanged": [
+    "Sunny_Phase1_Audit.blend",
+    "Sunny_Phase2_Extraction_v001.blend",
+    "Sunny_Phase2_Repair_v002.blend"
+  ],
+  "v003_saved_hash_verified": true,
+  "protected_meshes": 16,
+  "all_animation_samples": 166,
+  "renders": 300,
+  "png_artifacts_verified": 317,
+  "gif_clips_verified": 6,
+  "controlled_pose_versions": 12,
+  "lfs_tracking_verified": true,
+  "required_assets_ignored": false,
+  "staged_files": 0,
+  "commits": 0,
+  "remotes": 0,
+  "quality_gate": "FAILED: residual shorts contact and deep-flexion collapse. Integrity checks are not a visual pass."
+}

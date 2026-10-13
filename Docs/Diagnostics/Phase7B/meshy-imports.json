@@ -1,0 +1,52 @@
+[
+  {
+    "asset": "Market",
+    "dimensions": [
+      7.7,
+      6.86,
+      4.56
+    ],
+    "faces": 6273,
+    "source": "D:\\Business as Usual\\Assets\\Environment\\Phase7B\\Meshy\\Market.glb"
+  },
+  {
+    "asset": "Garage",
+    "dimensions": [
+      7.7,
+      6.78,
+      4.5
+    ],
+    "faces": 4923,
+    "source": "D:\\Business as Usual\\Assets\\Environment\\Phase7B\\Meshy\\Garage.glb"
+  },
+  {
+    "asset": "Cottage",
+    "dimensions": [
+      5.8,
+      5.6,
+      5.8
+    ],
+    "faces": 4509,
+    "source": "D:\\Business as Usual\\Assets\\Environment\\Phase7B\\Meshy\\Cottage.glb"
+  },
+  {
+    "asset": "Tree",
+    "dimensions": [
+      3.4,
+      3.3,
+      4.3
+    ],
+    "faces": 1384,
+    "source": "D:\\Business as Usual\\Assets\\Environment\\Phase7B\\Meshy\\Tree.glb"
+  },
+  {
+    "asset": "Lamp",
+    "dimensions": [
+      0.71,
+      0.7,
+      3.0
+    ],
+    "faces": 1316,
+    "source": "D:\\Business as Usual\\Assets\\Environment\\Phase7B\\Meshy\\Lamp.glb"
+  }
+]

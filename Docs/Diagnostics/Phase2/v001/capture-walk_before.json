@@ -1,0 +1,17 @@
+{
+  "scene": "P2_v001_Reference_Walk",
+  "frame": 20,
+  "look_settings": {
+    "mode": "angles",
+    "target": [
+      "Mesh_0.006"
+    ],
+    "views": [
+      "front"
+    ],
+    "shading": "material",
+    "distance": 2.5,
+    "max_size": 700
+  },
+  "restore_required": true
+}

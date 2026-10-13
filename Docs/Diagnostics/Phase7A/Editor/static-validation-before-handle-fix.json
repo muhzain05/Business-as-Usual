@@ -1,0 +1,119 @@
+{
+    "suite": "Phase 7A static",
+    "scene": "Assets/Town/Scenes/DaylightTown.unity",
+    "utc": "2026-10-11T11:48:27.7053181Z",
+    "passed": 21,
+    "total": 22,
+    "checks": [
+        {
+            "name": "collision_walls_cover_modeled_shells",
+            "passed": true,
+            "detail": "714 rays; "
+        },
+        {
+            "name": "market_door_gap_matches_frame",
+            "passed": true,
+            "detail": "frame -8.91..-7.49 collision gap -8.91..-7.49"
+        },
+        {
+            "name": "market_door_leaf_and_entry_centered_in_frame",
+            "passed": true,
+            "detail": "hinge -8.90 portal -8.20"
+        },
+        {
+            "name": "solid_props_inside_bounds_have_colliders",
+            "passed": true,
+            "detail": "33 props; missing "
+        },
+        {
+            "name": "vehicle_0_grounded",
+            "passed": true,
+            "detail": "lowest tyre y 0.046, floor 0.050, scale 0.85"
+        },
+        {
+            "name": "vehicle_0_collider_fits_body",
+            "passed": true,
+            "detail": "collider (5.67, 0.05, 5.11)..(7.13, 1.51, 7.47) body (5.65, 0.05, 5.08)..(7.15, 1.51, 7.50)"
+        },
+        {
+            "name": "vehicle_0_contact_shadow",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "vehicle_1_grounded",
+            "passed": true,
+            "detail": "lowest tyre y 0.046, floor 0.050, scale 0.85"
+        },
+        {
+            "name": "vehicle_1_collider_fits_body",
+            "passed": true,
+            "detail": "collider (8.87, 0.05, 5.11)..(10.33, 1.51, 7.47) body (8.85, 0.05, 5.08)..(10.35, 1.51, 7.50)"
+        },
+        {
+            "name": "vehicle_1_contact_shadow",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "every_interaction_point_has_a_free_standing_spot_in_server_range",
+            "passed": true,
+            "detail": "28 targets; blocked: "
+        },
+        {
+            "name": "interaction_points_on_their_objects",
+            "passed": false,
+            "detail": "Shop Door 1.19 m"
+        },
+        {
+            "name": "repair_and_inspection_points_accessible",
+            "passed": true,
+            "detail": "Vehicle 0 Inspection: stand (5.35, 0.00, 5.95) reach 0.45 | Vehicle 0 Repair: stand (6.85, 0.00, 4.75) reach 0.45 | Vehicle 1 Repair: stand (10.05, 0.00, 4.75) reach 0.45 | Vehicle 1 Inspection: stand (10.65, 0.00, 5.95) reach 0.45"
+        },
+        {
+            "name": "settings_persist_across_reload",
+            "passed": true,
+            "detail": "master 0.35 fx 0.6 sens 0.21 invert True fov 83 cap 60 vsync False"
+        },
+        {
+            "name": "settings_apply_audio_in_editor",
+            "passed": true,
+            "detail": "listener 0.35"
+        },
+        {
+            "name": "settings_clamp_invalid_values",
+            "passed": true,
+            "detail": "sensitivity 0.5"
+        },
+        {
+            "name": "music_setting_hidden_without_music",
+            "passed": true,
+            "detail": "no music source exists in the project; the slider is not shown"
+        },
+        {
+            "name": "map_world_to_map_round_trip",
+            "passed": true,
+            "detail": "max error 0.00000 m; market at (0.25, 0.27)"
+        },
+        {
+            "name": "map_regions_cover_all_targets",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "map_textures_baked_once_with_matching_aspect",
+            "passed": true,
+            "detail": "768x672, 520x600"
+        },
+        {
+            "name": "player_prefab_has_first_person_components",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "phase5_shop_prefab_keeps_third_person",
+            "passed": true,
+            "detail": ""
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+  "assemblySha256": "53997d4179ad617916cb0767ac39fea17963520f947a9a128bc1cbb75be13097",
+  "results": [
+    {
+      "folder": "UI720",
+      "passed": 20,
+      "assemblySha256": "53997d4179ad617916cb0767ac39fea17963520f947a9a128bc1cbb75be13097",
+      "latestAssembly": true
+    },
+    {
+      "folder": "UI1080",
+      "passed": 18,
+      "assemblySha256": "4bd6990856f9821d0975b3cd62319b4a9e03a27eac40caa98b6b6fe5bf00fdaf",
+      "latestAssembly": false
+    },
+    {
+      "folder": "SoloShop",
+      "passed": 10,
+      "assemblySha256": "b5cc7bd1808132247e3f7a3a8beecd8e6dfb38cc004fe0a593ac6e5b006fb678",
+      "latestAssembly": false
+    },
+    {
+      "folder": "SoloMechanic",
+      "passed": 9,
+      "assemblySha256": "b5cc7bd1808132247e3f7a3a8beecd8e6dfb38cc004fe0a593ac6e5b006fb678",
+      "latestAssembly": false
+    },
+    {
+      "folder": "SoloSanitation",
+      "passed": 9,
+      "assemblySha256": "b5cc7bd1808132247e3f7a3a8beecd8e6dfb38cc004fe0a593ac6e5b006fb678",
+      "latestAssembly": false
+    },
+    {
+      "folder": "TwoProcess",
+      "passed": 23,
+      "assemblySha256": "53997d4179ad617916cb0767ac39fea17963520f947a9a128bc1cbb75be13097",
+      "latestAssembly": true
+    },
+    {
+      "folder": "FourProcess",
+      "passed": 23,
+      "assemblySha256": "53997d4179ad617916cb0767ac39fea17963520f947a9a128bc1cbb75be13097",
+      "latestAssembly": true
+    },
+    {
+      "folder": "PreferencesRestore",
+      "passed": 1,
+      "assemblySha256": "c3b3bd7401915bd9d0c6a8142f7f33507b9e7a9b68d1d6c4d566dd459ee51bd5",
+      "latestAssembly": false
+    }
+  ],
+  "checks": [
+    {
+      "name": "native_build_succeeded",
+      "passed": true
+    },
+    {
+      "name": "UI720_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "UI1080_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "SoloShop_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "SoloMechanic_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "SoloSanitation_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "TwoProcess_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "FourProcess_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "PreferencesRestore_checks_pass",
+      "passed": true
+    },
+    {
+      "name": "latest_build_has_native_ui_and_four_player_coverage",
+      "passed": true
+    },
+    {
+      "name": "SoloShop_real_complete_conserved_day",
+      "passed": true
+    },
+    {
+      "name": "SoloShop_private_practice_complete",
+      "passed": true
+    },
+    {
+      "name": "SoloMechanic_real_complete_conserved_day",
+      "passed": true
+    },
+    {
+      "name": "SoloMechanic_private_practice_complete",
+      "passed": true
+    },
+    {
+      "name": "SoloSanitation_real_complete_conserved_day",
+      "passed": true
+    },
+    {
+      "name": "SoloSanitation_private_practice_complete",
+      "passed": true
+    },
+    {
+      "name": "native_W_input_moved_the_cart",
+      "passed": true
+    },
+    {
+      "name": "credit_budget_and_task_statuses",
+      "passed": true
+    },
+    {
+      "name": "protected_baseline_and_staged_index_intact",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_../../Design/phase8b-validation-report.md",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_../../Design/phase8b-playtest.md",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_../../Design/phase8b-remaining-issues.md",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_BaselineUI/host-main.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_BaselineUI/host-main.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI1080/host-main-menu.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI1080/host-main-menu.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_BaselineUI/host-compact-hud.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_BaselineUI/host-compact-hud.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-named-turn-guidance.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-named-turn-guidance.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-loading.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-loading.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-profession-selection.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-profession-selection.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_FourProcess/host-staff-hub.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_FourProcess/host-staff-hub.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-current-shift-crew.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-current-shift-crew.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloShop/host-private-note.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloShop/host-private-note.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloShop/host-temporary-hold.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloShop/host-temporary-hold.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloMechanic/host-temporary-hold.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloMechanic/host-temporary-hold.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloMechanic/host-hood-after.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloMechanic/host-hood-after.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloSanitation/host-loaded-cart.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_SoloSanitation/host-loaded-cart.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_FourProcess/host-two-selected-copies.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_FourProcess/host-two-selected-copies.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_FourProcess/host-shared-shift-summary.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_FourProcess/host-shared-shift-summary.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-settings.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-settings.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI1080/host-resized-1366.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI1080/host-resized-1366.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-credits.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI720/host-credits.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI1080/host-returned-main-menu.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_UI1080/host-returned-main-menu.png",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_hood-native-sequence.gif",
+      "passed": true
+    },
+    {
+      "name": "gallery_link_cart-native-sequence.gif",
+      "passed": true
+    },
+    {
+      "name": "all_requested_reports_delivered",
+      "passed": true
+    },
+    {
+      "name": "editable_asset_StaffKiosk.blend",
+      "passed": true
+    },
+    {
+      "name": "editable_asset_ReturnsCabinet.blend",
+      "passed": true
+    },
+    {
+      "name": "editable_asset_geometry-audit.json",
+      "passed": true
+    },
+    {
+      "name": "editable_asset_provenance.json",
+      "passed": true
+    }
+  ],
+  "scope": "Native technical evidence; no human fun/usability or cross-machine LAN claim."
+}

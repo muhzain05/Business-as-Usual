@@ -1,0 +1,12 @@
+{
+  "version": "v001",
+  "project": "Assets/Characters/Sunny/Working/Sunny_Phase2_Extraction_v001.blend",
+  "bytes": 89359155,
+  "sha256": "75fa375d8080389a5fe9bb6cc8ec423decf04a330f451f87b73bbcdb6bc95afe",
+  "phase1_sha256": "965b0370c530bc46105beffe580a17e1ddf805785b77f88365f6a57f13633df0",
+  "source_hashes_verified": 9,
+  "checkpoint": "extraction complete; reconstruction and rig/weight repairs await approval",
+  "active_file_unchanged": "",
+  "review_scene": "P2_v001_Modules_Rest",
+  "mainfile_scope": "current session plus isolated Phase 2 scenes; previous scenes preserved"
+}

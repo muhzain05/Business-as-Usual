@@ -1,0 +1,146 @@
+{
+  "method": "Two independent Windows processes, actual NGO/UTP localhost UDP, production E dispatch and held input, opt-in server test placement.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "two_owned_players_one_input_camera_listener",
+      "passed": true
+    },
+    {
+      "name": "town_excludes_black_debug_fixtures",
+      "passed": true
+    },
+    {
+      "name": "different_jobs_synchronize",
+      "passed": true
+    },
+    {
+      "name": "cannot_steal_colleague_assignment",
+      "passed": true
+    },
+    {
+      "name": "unimplemented_professions_rejected",
+      "passed": true
+    },
+    {
+      "name": "private_job_tasks_require_assignment",
+      "passed": true
+    },
+    {
+      "name": "other_profession_station_has_no_E_prompt",
+      "passed": true
+    },
+    {
+      "name": "release_E_cancels_inspection",
+      "passed": true
+    },
+    {
+      "name": "authoritative_visible_bag_pickup",
+      "passed": true
+    },
+    {
+      "name": "normal_E_bag_drop",
+      "passed": true
+    },
+    {
+      "name": "disconnect_recovers_bag_and_releases_role",
+      "passed": true
+    },
+    {
+      "name": "rejoin_can_resume_shared_job",
+      "passed": true
+    },
+    {
+      "name": "mechanic_and_sanitation_work_simultaneously",
+      "passed": true
+    },
+    {
+      "name": "two_fault_types_identified",
+      "passed": true
+    },
+    {
+      "name": "unoccupied_shop_fallback_transfers_real_stock",
+      "passed": true
+    },
+    {
+      "name": "repair_cancel_keeps_part_and_fault",
+      "passed": true
+    },
+    {
+      "name": "repairs_install_parts_and_generate_shared_waste",
+      "passed": true
+    },
+    {
+      "name": "mechanic_shift_records_and_contribution",
+      "passed": true
+    },
+    {
+      "name": "shop_delivery_generates_packaging_bag",
+      "passed": true
+    },
+    {
+      "name": "carried_stock_cannot_leave_shop",
+      "passed": true
+    },
+    {
+      "name": "original_shop_E_restocking_in_shared_town",
+      "passed": true
+    },
+    {
+      "name": "sort_bag_1",
+      "passed": true
+    },
+    {
+      "name": "sort_bag_2",
+      "passed": true
+    },
+    {
+      "name": "sort_bag_3",
+      "passed": true
+    },
+    {
+      "name": "sort_bag_4",
+      "passed": true
+    },
+    {
+      "name": "sort_bag_5",
+      "passed": true
+    },
+    {
+      "name": "three_collection_points_and_cross_job_waste_processed",
+      "passed": true
+    },
+    {
+      "name": "sanitation_manifest_complete_no_duplicate_records",
+      "passed": true
+    },
+    {
+      "name": "shop_order_1",
+      "passed": true
+    },
+    {
+      "name": "shop_order_2",
+      "passed": true
+    },
+    {
+      "name": "shop_order_3",
+      "passed": true
+    },
+    {
+      "name": "all_three_shifts_complete",
+      "passed": true
+    },
+    {
+      "name": "shop_exit_keeps_network_session",
+      "passed": true
+    },
+    {
+      "name": "two_players_traverse_street_to_square",
+      "passed": true
+    },
+    {
+      "name": "host_shutdown_ends_session",
+      "passed": true
+    }
+  ]
+}

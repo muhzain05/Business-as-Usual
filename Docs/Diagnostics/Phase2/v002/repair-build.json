@@ -1,0 +1,31 @@
+{
+  "version": "v002",
+  "sources_verified": 9,
+  "skeleton_replaced": false,
+  "new_body_surfaces": [
+    "Body_Torso",
+    "Body_Pelvis",
+    "Body_UpperArm_L",
+    "Body_Thigh_L",
+    "Body_ConcealedFoot_L",
+    "Body_UpperArm_R",
+    "Body_Thigh_R",
+    "Body_ConcealedFoot_R"
+  ],
+  "jacket_strategy": "Rebuilt rounded quad shell using original silhouette and colour palette; original retained in v001 reference.",
+  "limitations": [
+    "Underlying body is a modular set of overlapping closed envelopes, not a single welded production skin. Shoulder/pelvis joins need artist inspection for bare-body clothing swaps.",
+    "Shoulder/sleeve and knee/cuff defects remain; see deformation-validation.json and final rendered comparisons.",
+    "Head-map cleanup and independent facial shape keys implemented; production facial validation still pending."
+  ],
+  "changes": [
+    "Upper outfit rebuilt with connected quad sleeve cages, cream inner shirt, split collar, front opening and 4 mm inward thickness.",
+    "Regional arm, knee and ankle weights corrected on retained L exterior.",
+    "Regional arm, knee and ankle weights corrected on retained R exterior.",
+    "Localized shorts cap openings; original outer cuffs and all other surfaces retained, with inward inner rims.",
+    "Head/face rigid Head attachment; independent eye Blink and mouth SmileWidth shape keys; buttons moved to consistent garment positions and reweighted."
+  ],
+  "shorts_cap_faces_removed": 65,
+  "quality_pass": false,
+  "status": "Rejected repair prototype; not ready for the next phase"
+}

@@ -1,0 +1,361 @@
+{
+    "screen": "Handbook",
+    "action": "Open hood",
+    "headingFont": "",
+    "tab": 0,
+    "records": 0,
+    "menuOpen": true,
+    "reference": {
+        "x": 1280.0,
+        "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+        {
+            "value": "MECHANIC / STAFF COPY",
+            "font": "Labels",
+            "at": {
+                "x": 491.982666015625,
+                "y": 938.364013671875
+            },
+            "size": {
+                "x": 781.0816650390625,
+                "y": 33.2039794921875
+            },
+            "preferred": {
+                "x": 170.74000549316407,
+                "y": 16.809999465942384
+            },
+            "pointSize": 14.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Today's work",
+            "font": "Display",
+            "at": {
+                "x": 491.982666015625,
+                "y": 854.5647583007813
+            },
+            "size": {
+                "x": 781.0816650390625,
+                "y": 75.89398193359375
+            },
+            "preferred": {
+                "x": 186.08999633789063,
+                "y": 38.40999984741211
+            },
+            "pointSize": 32.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "×",
+            "font": "Labels",
+            "at": {
+                "x": 1360.0279541015625,
+                "y": 901.996826171875
+            },
+            "size": {
+                "x": 49.01513671875,
+                "y": 66.407958984375
+            },
+            "preferred": {
+                "x": 9.529999732971192,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "JOB",
+            "font": "Labels",
+            "at": {
+                "x": 510.9555358886719,
+                "y": 778.6690063476563
+            },
+            "size": {
+                "x": 186.57431030273438,
+                "y": 63.24462890625
+            },
+            "preferred": {
+                "x": 32.08000183105469,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "ITEMS",
+            "font": "Labels",
+            "at": {
+                "x": 748.1270751953125,
+                "y": 778.6690063476563
+            },
+            "size": {
+                "x": 186.5728759765625,
+                "y": 63.24462890625
+            },
+            "preferred": {
+                "x": 55.56999969482422,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "RECORDS",
+            "font": "Labels",
+            "at": {
+                "x": 985.2971801757813,
+                "y": 778.6690063476563
+            },
+            "size": {
+                "x": 186.57293701171876,
+                "y": 63.24462890625
+            },
+            "preferred": {
+                "x": 85.18000030517578,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "TOWN",
+            "font": "Labels",
+            "at": {
+                "x": 1222.4686279296875,
+                "y": 778.6690063476563
+            },
+            "size": {
+                "x": 186.574462890625,
+                "y": 63.24462890625
+            },
+            "preferred": {
+                "x": 54.560001373291019,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Open",
+            "font": "Labels",
+            "at": {
+                "x": 498.3070068359375,
+                "y": 615.8115844726563
+            },
+            "size": {
+                "x": 158.11285400390626,
+                "y": 36.3663330078125
+            },
+            "preferred": {
+                "x": 41.29999923706055,
+                "y": 19.209999084472658
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Check",
+            "font": "Labels",
+            "at": {
+                "x": 688.042724609375,
+                "y": 615.8115844726563
+            },
+            "size": {
+                "x": 158.1129150390625,
+                "y": 36.3663330078125
+            },
+            "preferred": {
+                "x": 48.970001220703128,
+                "y": 19.209999084472658
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Replace",
+            "font": "Labels",
+            "at": {
+                "x": 877.7799682617188,
+                "y": 615.8115844726563
+            },
+            "size": {
+                "x": 158.11285400390626,
+                "y": 36.3663330078125
+            },
+            "preferred": {
+                "x": 62.63999938964844,
+                "y": 19.209999084472658
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Verify",
+            "font": "Labels",
+            "at": {
+                "x": 1067.5157470703125,
+                "y": 615.8115844726563
+            },
+            "size": {
+                "x": 158.1129150390625,
+                "y": 36.3663330078125
+            },
+            "preferred": {
+                "x": 46.849998474121097,
+                "y": 19.209999084472658
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Sign",
+            "font": "Labels",
+            "at": {
+                "x": 1257.2529296875,
+                "y": 615.8115844726563
+            },
+            "size": {
+                "x": 158.113037109375,
+                "y": 36.3663330078125
+            },
+            "preferred": {
+                "x": 34.68000030517578,
+                "y": 19.209999084472658
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Open hood",
+            "font": "Display",
+            "at": {
+                "x": 757.61279296875,
+                "y": 490.9012145996094
+            },
+            "size": {
+                "x": 646.6866455078125,
+                "y": 86.96340942382813
+            },
+            "preferred": {
+                "x": 134.75999450683595,
+                "y": 33.61000061035156
+            },
+            "pointSize": 28.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Lift the marked hood latch.",
+            "font": "Reading",
+            "at": {
+                "x": 757.61279296875,
+                "y": 389.7086486816406
+            },
+            "size": {
+                "x": 646.6866455078125,
+                "y": 79.05718994140625
+            },
+            "preferred": {
+                "x": 212.02999877929688,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Supplies are shared across the town.",
+            "font": "Reading",
+            "at": {
+                "x": 491.982666015625,
+                "y": 298.0022277832031
+            },
+            "size": {
+                "x": 711.51025390625,
+                "y": 37.947845458984378
+            },
+            "preferred": {
+                "x": 257.6400146484375,
+                "y": 19.850000381469728
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "WHY?",
+            "font": "Labels",
+            "at": {
+                "x": 1279.388671875,
+                "y": 299.58380126953127
+            },
+            "size": {
+                "x": 129.6544189453125,
+                "y": 50.59716796875
+            },
+            "preferred": {
+                "x": 50.349998474121097,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Tab  Close     H  Illustrated help",
+            "font": "Reading",
+            "at": {
+                "x": 491.982666015625,
+                "y": 217.36431884765626
+            },
+            "size": {
+                "x": 632.4544677734375,
+                "y": 34.784637451171878
+            },
+            "preferred": {
+                "x": 195.19000244140626,
+                "y": 17.3700008392334
+            },
+            "pointSize": 14.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "HELP",
+            "font": "Labels",
+            "at": {
+                "x": 1261.99658203125,
+                "y": 218.94593811035157
+            },
+            "size": {
+                "x": 147.0465087890625,
+                "y": 47.43394470214844
+            },
+            "preferred": {
+                "x": 45.11000061035156,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        }
+    ],
+    "handPose": "Idle",
+    "interaction": "",
+    "authoredGestures": 1,
+    "authoredHandsVisible": true
+}

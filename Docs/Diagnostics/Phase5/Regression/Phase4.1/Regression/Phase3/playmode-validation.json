@@ -1,0 +1,104 @@
+{
+    "unityVersion": "6000.3.26f1",
+    "scene": "Assets/Prototype/Scenes/TownPrototype.unity",
+    "method": "Live Unity Play mode; synthetic Input System device reads plus deterministic calls to production motor, camera and interaction methods. No human keyboard/mouse session.",
+    "timestampUtc": "2026-10-10T15:08:22.8999494Z",
+    "humanInputTested": false,
+    "checks": [
+        {
+            "name": "scene_spawn",
+            "passed": true,
+            "details": "Player, controller and prototype scene loaded in Play mode."
+        },
+        {
+            "name": "prefab_configuration",
+            "passed": true,
+            "details": "Valid Generic avatar; camera, carry anchor and Animator references present."
+        },
+        {
+            "name": "materials_and_skin",
+            "passed": true,
+            "details": "19 skinned modules; 53 bone references each; no missing materials."
+        },
+        {
+            "name": "walk_animation",
+            "passed": true,
+            "details": "Duration=1.333333; all curve paths resolve; moving foot; two baked cuff curves."
+        },
+        {
+            "name": "run_animation",
+            "passed": true,
+            "details": "Duration=1; all curve paths resolve; moving foot; two baked cuff curves."
+        },
+        {
+            "name": "synthetic_input_bindings",
+            "passed": true,
+            "details": "Virtual keyboard W/Shift/Space/E read through enabled production InputActions; no human input tested."
+        },
+        {
+            "name": "gravity_grounding",
+            "passed": true,
+            "details": "Settled position=(0.00, 0.02, -6.00) grounded=True"
+        },
+        {
+            "name": "walk_sprint",
+            "passed": true,
+            "details": "One second walk=2.066667m; sprint=3.683333m."
+        },
+        {
+            "name": "camera_relative_rotation",
+            "passed": true,
+            "details": "Yaw 90 displacement=(2.07, 0.00, 0.00); visual faces movement."
+        },
+        {
+            "name": "jump_land",
+            "passed": true,
+            "details": "Jump rise=0.6562089m; landed=True"
+        },
+        {
+            "name": "wall_collision",
+            "passed": true,
+            "details": "Controller blocked by shop west wall at (-11.92, 0.02, 6.00)"
+        },
+        {
+            "name": "nearby_prompt",
+            "passed": true,
+            "details": "Nearest visible box selected for on-screen prompt."
+        },
+        {
+            "name": "box_pickup_drop",
+            "passed": true,
+            "details": "Production interaction path picked up, attached, placed on ground and restored physics."
+        },
+        {
+            "name": "interaction_occlusion",
+            "passed": true,
+            "details": "Temporary wall blocks box detection."
+        },
+        {
+            "name": "interaction_range",
+            "passed": true,
+            "details": "No prompt beyond interaction reach."
+        },
+        {
+            "name": "door_open_close",
+            "passed": true,
+            "details": "Detected door; rotated 99.99999 degrees; closed to original rotation."
+        },
+        {
+            "name": "workstation",
+            "passed": true,
+            "details": "Nearest workstation increments use count and sends HUD feedback."
+        },
+        {
+            "name": "camera_obstruction",
+            "passed": true,
+            "details": "Shop front wall shortens camera boom to 1.514342m."
+        },
+        {
+            "name": "mouse_orbit_clamp",
+            "passed": true,
+            "details": "Synthetic mouse delta changed yaw and clamped pitch."
+        }
+    ]
+}

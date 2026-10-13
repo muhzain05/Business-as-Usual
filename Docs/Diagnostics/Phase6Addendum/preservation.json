@@ -1,0 +1,13 @@
+{
+  "indexUnchanged": true,
+  "changedExistingFiles": [
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkPlayer.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkSession.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scenes/DaylightTown.unity",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/TownHandbook.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/TownJobs.cs"
+  ],
+  "protectedAssetsChanged": []
+}

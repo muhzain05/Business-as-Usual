@@ -1,0 +1,22 @@
+[
+  {
+    "suite": "TownFull1080",
+    "exitCode": 0,
+    "seconds": 125.81200000000536
+  },
+  {
+    "suite": "Staffed1080",
+    "exitCode": 0,
+    "seconds": 106.43799999999464
+  },
+  {
+    "suite": "MarketEntry720",
+    "exitCode": 0,
+    "seconds": 28.15600000001723
+  },
+  {
+    "suite": "Guidance720",
+    "exitCode": 0,
+    "seconds": 76.68799999999464
+  }
+]

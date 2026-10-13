@@ -1,0 +1,10 @@
+{
+    "timestampUtc": "2026-10-11T09:08:03.8068021Z",
+    "scene": "Assets/Town/Scenes/DaylightTown.unity",
+    "playing": true,
+    "initialState": true,
+    "depthLabels": true,
+    "bags": 6,
+    "services": 2,
+    "labels": 9
+}

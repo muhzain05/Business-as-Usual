@@ -1,0 +1,538 @@
+{
+  "role": "client",
+  "status": "CLIENT / Sunny 1 / 2 players",
+  "feedback": "Assigned: Sanitation",
+  "currentTarget": "",
+  "listening": true,
+  "connected": true,
+  "host": false,
+  "localCarried": false,
+  "localId": 1,
+  "serial": 3,
+  "snapshots": 0,
+  "bytes": 0,
+  "accepted": 0,
+  "rejected": 0,
+  "players": [
+    {
+      "id": 3,
+      "owner": 1,
+      "local": true,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "position": {
+        "x": 0.6499999761581421,
+        "y": 0.0299999862909317,
+        "z": -0.800000011920929
+      },
+      "speed": 0.0,
+      "inputs": 0
+    },
+    {
+      "id": 1,
+      "owner": 0,
+      "local": false,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "position": {
+        "x": -0.6499999761581421,
+        "y": 0.024999871850013733,
+        "z": -0.800000011920929
+      },
+      "speed": 0.0,
+      "inputs": 0
+    }
+  ],
+  "state": {
+    "revision": 2,
+    "orderIndex": 0,
+    "received": false,
+    "closed": false,
+    "dropped": false,
+    "holder": 18446744073709551615,
+    "message": "Town ledger updated.",
+    "quantities": [
+      6,
+      6,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "progress": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movements": [],
+    "receipts": [],
+    "cratePosition": {
+      "x": -36.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    "crateRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "doorIds": [
+      "Graybox Town/Shop/Shop Door"
+    ],
+    "workIds": [],
+    "doorOpen": [
+      false
+    ],
+    "workUses": [],
+    "town": {
+      "owners": [
+        18446744073709551615,
+        0,
+        1,
+        18446744073709551615,
+        18446744073709551615,
+        18446744073709551615
+      ],
+      "started": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "completed": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mechanicProgress": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sanitationProgress": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "quantities": [
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "partsRequested": false,
+      "services": [
+        {
+          "id": "SV-001",
+          "vehicle": "Mikan delivery van",
+          "fault": "Weak battery",
+          "part": "battery",
+          "inspected": false,
+          "repaired": false,
+          "recorded": false
+        },
+        {
+          "id": "SV-002",
+          "vehicle": "Municipal mini truck",
+          "fault": "Clogged oil filter",
+          "part": "filter",
+          "inspected": false,
+          "repaired": false,
+          "recorded": false
+        }
+      ],
+      "bags": [
+        {
+          "id": "WB-001",
+          "source": "Town Square",
+          "materialType": "Paper",
+          "objectDescription": "Ordinary packaging",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": -1.0,
+            "y": 0.30000001192092896,
+            "z": 7.800000190734863
+          },
+          "position": {
+            "x": -1.0,
+            "y": 0.30000001192092896,
+            "z": 7.800000190734863
+          }
+        },
+        {
+          "id": "WB-002",
+          "source": "Back Alley",
+          "materialType": "Mixed",
+          "objectDescription": "Discarded umbrella and wrappers",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 0.0,
+            "y": 0.30000001192092896,
+            "z": 11.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.30000001192092896,
+            "z": 11.0
+          }
+        },
+        {
+          "id": "WB-003",
+          "source": "Sanitation Yard",
+          "materialType": "Metal",
+          "objectDescription": "Ordinary packaging",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 5.0,
+            "y": 0.30000001192092896,
+            "z": -6.800000190734863
+          },
+          "position": {
+            "x": 5.0,
+            "y": 0.30000001192092896,
+            "z": -6.800000190734863
+          }
+        },
+        {
+          "id": "WB-004",
+          "source": "Daylight Market",
+          "materialType": "Paper",
+          "objectDescription": "Ordinary packaging",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": -10.0,
+            "y": 0.30000001192092896,
+            "z": 2.9000000953674316
+          },
+          "position": {
+            "x": -10.0,
+            "y": 0.30000001192092896,
+            "z": 2.9000000953674316
+          }
+        },
+        {
+          "id": "WB-005",
+          "source": "Garage",
+          "materialType": "Metal",
+          "objectDescription": "Replaced vehicle parts",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 5.150000095367432,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          },
+          "position": {
+            "x": 5.150000095367432,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          }
+        },
+        {
+          "id": "WB-006",
+          "source": "Garage",
+          "materialType": "Metal",
+          "objectDescription": "Replaced vehicle parts",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 10.850000381469727,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          },
+          "position": {
+            "x": 10.850000381469727,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          }
+        }
+      ],
+      "serviceRecords": [],
+      "disposalRecords": [],
+      "movements": [],
+      "message": "Town work updated.",
+      "works": [
+        {
+          "worker": 18446744073709551615,
+          "target": "",
+          "started": 0.0,
+          "duration": 0.0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "worker": 18446744073709551615,
+          "target": "",
+          "started": 0.0,
+          "duration": 0.0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "contribution": 0
+    }
+  },
+  "targetIds": [
+    "Town Workplaces/Vehicle 0 Inspection",
+    "Graybox Town/Garage/Service Desk",
+    "Daylight Market Interior/Functional Fixtures/Town Exit",
+    "Town Workplaces/Route Bag 1",
+    "Town Workplaces/Route Bag 5",
+    "Graybox Town/Sanitation Area/Paper Sorting Bin",
+    "Town Workplaces/Enter Daylight Market",
+    "Graybox Town/Sanitation Area/Collection Route Desk",
+    "Graybox Town/Sanitation Area/Mixed Sorting Bin",
+    "Daylight Market Interior/Functional Fixtures/Delivery Desk",
+    "Town Workplaces/Vehicle 1 Inspection",
+    "Town Workplaces/Route Bag 4",
+    "Daylight Market Interior/Functional Fixtures/Golden Crackers Shelf",
+    "Town Workplaces/Vehicle 0 Repair",
+    "Daylight Market Interior/Functional Fixtures/Stock Crate",
+    "Town Workplaces/Parts Pickup Locker",
+    "Graybox Town/Shop/Shop Door",
+    "Town Workplaces/Route Bag 0",
+    "Graybox Town/Sanitation Area/Metal Sorting Bin",
+    "Town Workplaces/Route Bag 2",
+    "Town Workplaces/Parts Request Slip",
+    "Daylight Market Interior/Functional Fixtures/Sunbeam Cola Shelf",
+    "Daylight Market Interior/Functional Fixtures/Closing Terminal",
+    "Town Workplaces/Route Bag 3",
+    "Daylight Market Interior/Functional Fixtures/Checkout",
+    "Town Workplaces/Parts Packing Counter",
+    "Daylight Market Interior/Functional Fixtures/Meadow Tea Shelf",
+    "Town Workplaces/Vehicle 1 Repair"
+  ],
+  "targetPoints": [
+    {
+      "x": 5.349999904632568,
+      "y": 0.6499999761581421,
+      "z": 5.5
+    },
+    {
+      "x": 8.0,
+      "y": 1.0999999046325684,
+      "z": 7.5
+    },
+    {
+      "x": -40.0,
+      "y": 0.6499999761581421,
+      "z": -0.10000000149011612
+    },
+    {
+      "x": 0.0,
+      "y": 0.45000001788139343,
+      "z": 11.0
+    },
+    {
+      "x": 10.850000381469727,
+      "y": 0.45000001788139343,
+      "z": 8.550000190734863
+    },
+    {
+      "x": 6.0,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": -7.800000190734863,
+      "y": 0.6499999761581421,
+      "z": 4.199999809265137
+    },
+    {
+      "x": 10.0,
+      "y": 1.0499999523162842,
+      "z": -6.0
+    },
+    {
+      "x": 7.5,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": -36.0,
+      "y": 0.6499999761581421,
+      "z": 10.300000190734863
+    },
+    {
+      "x": 10.649999618530273,
+      "y": 0.6499999761581421,
+      "z": 5.5
+    },
+    {
+      "x": 5.150000095367432,
+      "y": 0.45000001788139343,
+      "z": 8.550000190734863
+    },
+    {
+      "x": -38.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": 6.400000095367432,
+      "y": 0.6499999761581421,
+      "z": 4.75
+    },
+    {
+      "x": -36.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    {
+      "x": -10.800000190734863,
+      "y": 0.6499999761581421,
+      "z": 2.75
+    },
+    {
+      "x": -7.442857265472412,
+      "y": 0.9636363983154297,
+      "z": 2.2499990463256836
+    },
+    {
+      "x": -1.0,
+      "y": 0.45000001788139343,
+      "z": 7.800000190734863
+    },
+    {
+      "x": 9.0,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": 5.0,
+      "y": 0.45000001788139343,
+      "z": -6.800000190734863
+    },
+    {
+      "x": 10.300000190734863,
+      "y": 0.6499999761581421,
+      "z": 8.199999809265137
+    },
+    {
+      "x": -42.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": -10.0,
+      "y": 0.45000001788139343,
+      "z": 2.9000000953674316
+    },
+    {
+      "x": -41.0,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": -35.900001525878906,
+      "y": 0.6499999761581421,
+      "z": 4.800000190734863
+    },
+    {
+      "x": -40.0,
+      "y": 0.6499999761581421,
+      "z": 9.699999809265137
+    },
+    {
+      "x": 9.600000381469727,
+      "y": 0.6499999761581421,
+      "z": 4.75
+    }
+  ],
+  "cameras": 1,
+  "listeners": 1,
+  "inputs": 1,
+  "huds": 0,
+  "townHuds": 1,
+  "frameMilliseconds": 6.2837018966674805,
+  "guidance": {
+    "job": "Sanitation",
+    "note": "Pick up your route slip",
+    "detail": "The collection yard desk starts your round.",
+    "objectives": [
+      {
+        "id": "Graybox Town/Sanitation Area/Collection Route Desk",
+        "title": "Yard route desk",
+        "icon": "slip",
+        "active": true,
+        "position": {
+          "x": 10.0,
+          "y": 1.0499999523162842,
+          "z": -6.0
+        }
+      }
+    ],
+    "mapPlayer": {
+      "x": 0.6499999761581421,
+      "y": 0.0299999862909317,
+      "z": -0.800000011920929
+    },
+    "markerCount": 1,
+    "paperFraction": 0.11102816462516785,
+    "bookOpen": false,
+    "staffDesk": false,
+    "cursorLocked": false
+  },
+  "feedbackCount": 1
+}

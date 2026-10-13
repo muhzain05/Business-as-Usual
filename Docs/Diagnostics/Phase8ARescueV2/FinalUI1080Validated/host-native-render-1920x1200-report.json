@@ -1,0 +1,133 @@
+{
+    "screen": "Report",
+    "action": "Open hood",
+    "headingFont": "",
+    "tab": 0,
+    "records": 0,
+    "menuOpen": true,
+    "reference": {
+        "x": 1280.0,
+        "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+        {
+            "value": "DAYLIGHT / END OF SHIFT",
+            "font": "Labels",
+            "at": {
+                "x": 514.1198120117188,
+                "y": 900.41796875
+            },
+            "size": {
+                "x": 891.7617797851563,
+                "y": 39.52679443359375
+            },
+            "preferred": {
+                "x": 172.72999572753907,
+                "y": 16.809999465942384
+            },
+            "pointSize": 14.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Shift time ended",
+            "font": "Display",
+            "at": {
+                "x": 514.1198120117188,
+                "y": 803.9657592773438
+            },
+            "size": {
+                "x": 891.7617797851563,
+                "y": 79.05718994140625
+            },
+            "preferred": {
+                "x": 263.8900146484375,
+                "y": 43.209999084472659
+            },
+            "pointSize": 36.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Mechanic shift",
+            "font": "Labels",
+            "at": {
+                "x": 514.1198120117188,
+                "y": 421.3309631347656
+            },
+            "size": {
+                "x": 891.7617797851563,
+                "y": 50.5963134765625
+            },
+            "preferred": {
+                "x": 175.0800018310547,
+                "y": 28.809999465942384
+            },
+            "pointSize": 24.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Town supply  5 / 20",
+            "font": "ReadingBold",
+            "at": {
+                "x": 514.1198120117188,
+                "y": 359.66790771484377
+            },
+            "size": {
+                "x": 891.7617797851563,
+                "y": 44.270751953125
+            },
+            "preferred": {
+                "x": 188.3800048828125,
+                "y": 24.799999237060548
+            },
+            "pointSize": 20.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "NEW WORKDAY",
+            "font": "Labels",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 255.311279296875
+            },
+            "size": {
+                "x": 401.60870361328127,
+                "y": 60.083251953125
+            },
+            "preferred": {
+                "x": 137.47000122070313,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "VIEW RECORDS",
+            "font": "Labels",
+            "at": {
+                "x": 991.6213989257813,
+                "y": 255.311279296875
+            },
+            "size": {
+                "x": 395.28594970703127,
+                "y": 60.083251953125
+            },
+            "preferred": {
+                "x": 136.0500030517578,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        }
+    ],
+    "handPose": "Idle",
+    "interaction": "",
+    "authoredGestures": 1,
+    "authoredHandsVisible": true
+}

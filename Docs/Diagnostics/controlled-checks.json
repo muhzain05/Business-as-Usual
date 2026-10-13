@@ -1,0 +1,82 @@
+{
+  "topology": {
+    "Walk": {
+      "longest_edge_to_altitude_p95": 5.415020071164736,
+      "max": 164.1020492500224,
+      "triangles_over_aspect_10": 87
+    },
+    "Run": {
+      "longest_edge_to_altitude_p95": 5.415020071164736,
+      "max": 164.1020492500224,
+      "triangles_over_aspect_10": 87
+    }
+  },
+  "algorithm_comparison": {
+    "Walk": {
+      "frame": 20,
+      "metrics": {
+        "linear_blend": {
+          "p99": 1.8898868201235826,
+          "max": 10.713008519856334,
+          "edges_over_1_5": 615,
+          "edges_under_0_5": 86
+        },
+        "preserve_volume": {
+          "p99": 1.954544109135781,
+          "max": 11.273955609923217,
+          "edges_over_1_5": 773,
+          "edges_under_0_5": 74
+        }
+      }
+    },
+    "Run": {
+      "frame": 9,
+      "metrics": {
+        "linear_blend": {
+          "p99": 2.2175929720354612,
+          "max": 14.964207434772266,
+          "edges_over_1_5": 888,
+          "edges_under_0_5": 204
+        },
+        "preserve_volume": {
+          "p99": 2.5245109095891163,
+          "max": 15.82864440226287,
+          "edges_over_1_5": 1190,
+          "edges_under_0_5": 133
+        }
+      }
+    }
+  },
+  "motion_channels": {
+    "Walk": [
+      {
+        "bone": "mixamorig:Hips",
+        "location": [
+          0.012241610325872898,
+          -0.020640304312109947,
+          0.02609412558376789
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999998807907104,
+          0.9999998211860657
+        ]
+      }
+    ],
+    "Run": [
+      {
+        "bone": "mixamorig:Hips",
+        "location": [
+          0.0106396758928895,
+          -0.029412977397441864,
+          0.017409170046448708
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.0,
+          0.9999998211860657
+        ]
+      }
+    ]
+  }
+}

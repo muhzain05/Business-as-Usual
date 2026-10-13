@@ -1,0 +1,799 @@
+{
+    "timestampUtc": "2026-10-11T08:39:28.3377315Z",
+    "unityVersion": "6000.3.26f1",
+    "scene": "Assets/Shopkeeper/Scenes/ShopkeeperShift.unity",
+    "method": "Live Unity Play mode; production PlayerInteractor and motor calls, deterministic synthetic traversal; no human session.",
+    "checks": [
+        {
+            "name": "initial_inventory",
+            "details": "6 units per SKU; 18 total.",
+            "passed": true
+        },
+        {
+            "name": "early_close_rejected",
+            "details": "Cannot skip shift tasks.",
+            "passed": true
+        },
+        {
+            "name": "early_checkout_atomic",
+            "details": "No receipt or sale on incomplete basket.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Delivery Desk",
+            "details": "Detected=Delivery Desk position=(4.00, 0.05, 9.20)",
+            "passed": true
+        },
+        {
+            "name": "receive",
+            "details": "Delivery station used through production interaction.",
+            "passed": true
+        },
+        {
+            "name": "duplicate_receive_rejected",
+            "details": "Delivery cannot be counted twice.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Stock Crate",
+            "details": "Detected=Stock Crate position=(4.00, 0.05, 7.40)",
+            "passed": true
+        },
+        {
+            "name": "carry",
+            "details": "Crate attached to unchanged Sunny carry anchor.",
+            "passed": true
+        },
+        {
+            "name": "Q_return_action",
+            "details": "Synthetic Q read through production return-crate action.",
+            "passed": true
+        },
+        {
+            "name": "return_conservation",
+            "details": "Return restores dock stock.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Stock Crate",
+            "details": "Detected=Stock Crate position=(4.00, 0.05, 7.40)",
+            "passed": true
+        },
+        {
+            "name": "carry_again",
+            "details": "Returned crate can be collected again.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Sunbeam Cola Shelf",
+            "details": "Detected=Sunbeam Cola Shelf position=(-2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "stock:cola",
+            "details": "Stocked through E interaction.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Meadow Tea Shelf",
+            "details": "Detected=Meadow Tea Shelf position=(0.00, 0.05, 8.60)",
+            "passed": true
+        },
+        {
+            "name": "stock:tea",
+            "details": "Stocked through E interaction.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Golden Crackers Shelf",
+            "details": "Detected=Golden Crackers Shelf position=(2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "stock:crackers",
+            "details": "Stocked through E interaction.",
+            "passed": true
+        },
+        {
+            "name": "crate_auto_return",
+            "details": "Empty crate returns automatically.",
+            "passed": true
+        },
+        {
+            "name": "stock_visual:crackers",
+            "details": "Counted stock row displays six units after stocking.",
+            "passed": true
+        },
+        {
+            "name": "stock_visual:cola",
+            "details": "Counted stock row displays six units after stocking.",
+            "passed": true
+        },
+        {
+            "name": "stock_visual:tea",
+            "details": "Counted stock row displays six units after stocking.",
+            "passed": true
+        },
+        {
+            "name": "wrong_sku_rejected",
+            "details": "First order does not request tea.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Sunbeam Cola Shelf",
+            "details": "Detected=Sunbeam Cola Shelf position=(-2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-001:cola:0",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Sunbeam Cola Shelf",
+            "details": "Detected=Sunbeam Cola Shelf position=(-2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-001:cola:1",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "overpick_rejected:S1-001cola",
+            "details": "Requested quantity enforced.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Golden Crackers Shelf",
+            "details": "Detected=Golden Crackers Shelf position=(2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-001:crackers:0",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "overpick_rejected:S1-001crackers",
+            "details": "Requested quantity enforced.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Checkout",
+            "details": "Detected=Checkout position=(-1.00, 0.05, 0.70)",
+            "passed": true
+        },
+        {
+            "name": "sale:S1-001",
+            "details": "Basket sold and receipt printed.",
+            "passed": true
+        },
+        {
+            "name": "duplicate_sale:S1-001",
+            "details": "Order identity prevents duplicate sale.",
+            "passed": true
+        },
+        {
+            "name": "conservation:S1-001",
+            "details": "All accounts sum to original stock.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Meadow Tea Shelf",
+            "details": "Detected=Meadow Tea Shelf position=(0.00, 0.05, 8.60)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-002:tea:0",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "overpick_rejected:S1-002tea",
+            "details": "Requested quantity enforced.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Golden Crackers Shelf",
+            "details": "Detected=Golden Crackers Shelf position=(2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-002:crackers:0",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Golden Crackers Shelf",
+            "details": "Detected=Golden Crackers Shelf position=(2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-002:crackers:1",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "overpick_rejected:S1-002crackers",
+            "details": "Requested quantity enforced.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Checkout",
+            "details": "Detected=Checkout position=(-1.00, 0.05, 0.70)",
+            "passed": true
+        },
+        {
+            "name": "sale:S1-002",
+            "details": "Basket sold and receipt printed.",
+            "passed": true
+        },
+        {
+            "name": "duplicate_sale:S1-002",
+            "details": "Order identity prevents duplicate sale.",
+            "passed": true
+        },
+        {
+            "name": "conservation:S1-002",
+            "details": "All accounts sum to original stock.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Sunbeam Cola Shelf",
+            "details": "Detected=Sunbeam Cola Shelf position=(-2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-003:cola:0",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "overpick_rejected:S1-003cola",
+            "details": "Requested quantity enforced.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Meadow Tea Shelf",
+            "details": "Detected=Meadow Tea Shelf position=(0.00, 0.05, 8.60)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-003:tea:0",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Meadow Tea Shelf",
+            "details": "Detected=Meadow Tea Shelf position=(0.00, 0.05, 8.60)",
+            "passed": true
+        },
+        {
+            "name": "pick:S1-003:tea:1",
+            "details": "Inventory transferred shelf to basket.",
+            "passed": true
+        },
+        {
+            "name": "overpick_rejected:S1-003tea",
+            "details": "Requested quantity enforced.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Checkout",
+            "details": "Detected=Checkout position=(-1.00, 0.05, 0.70)",
+            "passed": true
+        },
+        {
+            "name": "sale:S1-003",
+            "details": "Basket sold and receipt printed.",
+            "passed": true
+        },
+        {
+            "name": "duplicate_sale:S1-003",
+            "details": "Order identity prevents duplicate sale.",
+            "passed": true
+        },
+        {
+            "name": "conservation:S1-003",
+            "details": "All accounts sum to original stock.",
+            "passed": true
+        },
+        {
+            "name": "receipts",
+            "details": "Expected revenue $16.50; three unique receipts.",
+            "passed": true
+        },
+        {
+            "name": "accessible:Closing Terminal",
+            "details": "Detected=Closing Terminal position=(3.80, 0.05, 0.70)",
+            "passed": true
+        },
+        {
+            "name": "close",
+            "details": "All tasks complete; stability contribution +3.",
+            "passed": true
+        },
+        {
+            "name": "closed_mutation_rejected",
+            "details": "Closed shift rejects repeat actions.",
+            "passed": true
+        },
+        {
+            "name": "atomic_bundle",
+            "details": "Insufficient bundle leaves all accounts untouched.",
+            "passed": true
+        },
+        {
+            "name": "negative_transfer",
+            "details": "Negative quantities rejected.",
+            "passed": true
+        },
+        {
+            "name": "walkable_west_aisle",
+            "details": "Production controller walks clear aisle: (-4.00, 0.02, 5.07)",
+            "passed": true
+        },
+        {
+            "name": "shelf_collision",
+            "details": "Shelf collision blocks controller: (-2.00, 0.02, 5.34)",
+            "passed": true
+        },
+        {
+            "name": "camera_ceiling_clearance",
+            "details": "Unchanged camera's spherecast remains under the solid ceiling: (0.00, 2.91, 2.47)",
+            "passed": true
+        },
+        {
+            "name": "accessible:Sunbeam Cola Shelf",
+            "details": "Detected=Sunbeam Cola Shelf position=(-2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "accessible:Closing Terminal",
+            "details": "Detected=Closing Terminal position=(3.80, 0.05, 0.70)",
+            "passed": true
+        },
+        {
+            "name": "accessible:Checkout",
+            "details": "Detected=Checkout position=(-1.00, 0.05, 0.70)",
+            "passed": true
+        },
+        {
+            "name": "accessible:Town Exit",
+            "details": "Detected=Town Exit position=(0.00, 0.05, 0.90)",
+            "passed": true
+        },
+        {
+            "name": "accessible:Meadow Tea Shelf",
+            "details": "Detected=Meadow Tea Shelf position=(0.00, 0.05, 8.60)",
+            "passed": true
+        },
+        {
+            "name": "accessible:Golden Crackers Shelf",
+            "details": "Detected=Golden Crackers Shelf position=(2.00, 0.05, 4.90)",
+            "passed": true
+        },
+        {
+            "name": "accessible:Delivery Desk",
+            "details": "Detected=Delivery Desk position=(4.00, 0.05, 9.20)",
+            "passed": true
+        },
+        {
+            "name": "navigation_build_settings",
+            "details": "Both scenes enabled.",
+            "passed": true
+        },
+        {
+            "name": "collision_route:Sunbeam Cola Shelf",
+            "details": "Connected clear 0.5m-grid route from spawn for a player-sized capsule to (-4, 10)",
+            "passed": true
+        },
+        {
+            "name": "collision_route:Closing Terminal",
+            "details": "Connected clear 0.5m-grid route from spawn for a player-sized capsule to (8, 1)",
+            "passed": true
+        },
+        {
+            "name": "collision_route:Checkout",
+            "details": "Connected clear 0.5m-grid route from spawn for a player-sized capsule to (-2, 1)",
+            "passed": true
+        },
+        {
+            "name": "collision_route:Town Exit",
+            "details": "Connected clear 0.5m-grid route from spawn for a player-sized capsule to (0, 2)",
+            "passed": true
+        },
+        {
+            "name": "collision_route:Meadow Tea Shelf",
+            "details": "Connected clear 0.5m-grid route from spawn for a player-sized capsule to (0, 17)",
+            "passed": true
+        },
+        {
+            "name": "collision_route:Golden Crackers Shelf",
+            "details": "Connected clear 0.5m-grid route from spawn for a player-sized capsule to (4, 10)",
+            "passed": true
+        },
+        {
+            "name": "collision_route:Delivery Desk",
+            "details": "Connected clear 0.5m-grid route from spawn for a player-sized capsule to (8, 18)",
+            "passed": true
+        },
+        {
+            "name": "remaining_stock_visual:crackers",
+            "details": "Visual stock reflects three remaining units.",
+            "passed": true
+        },
+        {
+            "name": "remaining_stock_visual:cola",
+            "details": "Visual stock reflects three remaining units.",
+            "passed": true
+        },
+        {
+            "name": "remaining_stock_visual:tea",
+            "details": "Visual stock reflects three remaining units.",
+            "passed": true
+        },
+        {
+            "name": "actual_exit_navigation",
+            "details": "Production E interaction loaded Assets/Prototype/Scenes/TownPrototype.unity with original player.",
+            "passed": true
+        }
+    ],
+    "summary": {
+        "receipts": [
+            {
+                "id": "BAU-0001",
+                "orderId": "S1-001",
+                "customer": "Mara / morning break",
+                "timestampUtc": "2026-10-11T08:39:28.3697820Z",
+                "totalCents": 510,
+                "lines": [
+                    {
+                        "sku": "cola",
+                        "name": "Sunbeam Cola",
+                        "quantity": 2,
+                        "unitPriceCents": 180,
+                        "totalCents": 360
+                    },
+                    {
+                        "sku": "crackers",
+                        "name": "Golden Crackers",
+                        "quantity": 1,
+                        "unitPriceCents": 150,
+                        "totalCents": 150
+                    }
+                ]
+            },
+            {
+                "id": "BAU-0002",
+                "orderId": "S1-002",
+                "customer": "Eli / lunch supplies",
+                "timestampUtc": "2026-10-11T08:39:28.3710036Z",
+                "totalCents": 520,
+                "lines": [
+                    {
+                        "sku": "tea",
+                        "name": "Meadow Tea",
+                        "quantity": 1,
+                        "unitPriceCents": 220,
+                        "totalCents": 220
+                    },
+                    {
+                        "sku": "crackers",
+                        "name": "Golden Crackers",
+                        "quantity": 2,
+                        "unitPriceCents": 150,
+                        "totalCents": 300
+                    }
+                ]
+            },
+            {
+                "id": "BAU-0003",
+                "orderId": "S1-003",
+                "customer": "Jo / afternoon pickup",
+                "timestampUtc": "2026-10-11T08:39:28.3710036Z",
+                "totalCents": 620,
+                "lines": [
+                    {
+                        "sku": "cola",
+                        "name": "Sunbeam Cola",
+                        "quantity": 1,
+                        "unitPriceCents": 180,
+                        "totalCents": 180
+                    },
+                    {
+                        "sku": "tea",
+                        "name": "Meadow Tea",
+                        "quantity": 2,
+                        "unitPriceCents": 220,
+                        "totalCents": 440
+                    }
+                ]
+            }
+        ],
+        "movements": [
+            {
+                "sequence": 1,
+                "quantity": 6,
+                "sku": "cola",
+                "from": "delivery",
+                "to": "dock",
+                "reason": "delivery received"
+            },
+            {
+                "sequence": 2,
+                "quantity": 6,
+                "sku": "tea",
+                "from": "delivery",
+                "to": "dock",
+                "reason": "delivery received"
+            },
+            {
+                "sequence": 3,
+                "quantity": 6,
+                "sku": "crackers",
+                "from": "delivery",
+                "to": "dock",
+                "reason": "delivery received"
+            },
+            {
+                "sequence": 4,
+                "quantity": 6,
+                "sku": "cola",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 5,
+                "quantity": 6,
+                "sku": "tea",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 6,
+                "quantity": 6,
+                "sku": "crackers",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 7,
+                "quantity": 6,
+                "sku": "cola",
+                "from": "carry",
+                "to": "dock",
+                "reason": "crate returned"
+            },
+            {
+                "sequence": 8,
+                "quantity": 6,
+                "sku": "tea",
+                "from": "carry",
+                "to": "dock",
+                "reason": "crate returned"
+            },
+            {
+                "sequence": 9,
+                "quantity": 6,
+                "sku": "crackers",
+                "from": "carry",
+                "to": "dock",
+                "reason": "crate returned"
+            },
+            {
+                "sequence": 10,
+                "quantity": 6,
+                "sku": "cola",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 11,
+                "quantity": 6,
+                "sku": "tea",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 12,
+                "quantity": 6,
+                "sku": "crackers",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 13,
+                "quantity": 6,
+                "sku": "cola",
+                "from": "carry",
+                "to": "shelf",
+                "reason": "shelf restock"
+            },
+            {
+                "sequence": 14,
+                "quantity": 6,
+                "sku": "tea",
+                "from": "carry",
+                "to": "shelf",
+                "reason": "shelf restock"
+            },
+            {
+                "sequence": 15,
+                "quantity": 6,
+                "sku": "crackers",
+                "from": "carry",
+                "to": "shelf",
+                "reason": "shelf restock"
+            },
+            {
+                "sequence": 16,
+                "quantity": 1,
+                "sku": "cola",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-001"
+            },
+            {
+                "sequence": 17,
+                "quantity": 1,
+                "sku": "cola",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-001"
+            },
+            {
+                "sequence": 18,
+                "quantity": 1,
+                "sku": "crackers",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-001"
+            },
+            {
+                "sequence": 19,
+                "quantity": 2,
+                "sku": "cola",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-001"
+            },
+            {
+                "sequence": 20,
+                "quantity": 1,
+                "sku": "crackers",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-001"
+            },
+            {
+                "sequence": 21,
+                "quantity": 1,
+                "sku": "tea",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-002"
+            },
+            {
+                "sequence": 22,
+                "quantity": 1,
+                "sku": "crackers",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-002"
+            },
+            {
+                "sequence": 23,
+                "quantity": 1,
+                "sku": "crackers",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-002"
+            },
+            {
+                "sequence": 24,
+                "quantity": 1,
+                "sku": "tea",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-002"
+            },
+            {
+                "sequence": 25,
+                "quantity": 2,
+                "sku": "crackers",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-002"
+            },
+            {
+                "sequence": 26,
+                "quantity": 1,
+                "sku": "cola",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-003"
+            },
+            {
+                "sequence": 27,
+                "quantity": 1,
+                "sku": "tea",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-003"
+            },
+            {
+                "sequence": 28,
+                "quantity": 1,
+                "sku": "tea",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-003"
+            },
+            {
+                "sequence": 29,
+                "quantity": 1,
+                "sku": "cola",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-003"
+            },
+            {
+                "sequence": 30,
+                "quantity": 2,
+                "sku": "tea",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-003"
+            }
+        ],
+        "tasks": [
+            {
+                "id": "receive",
+                "description": "Receive one sealed delivery",
+                "target": 1,
+                "progress": 1
+            },
+            {
+                "id": "stock:cola",
+                "description": "Restock 6 Sunbeam Cola",
+                "target": 6,
+                "progress": 6
+            },
+            {
+                "id": "stock:tea",
+                "description": "Restock 6 Meadow Tea",
+                "target": 6,
+                "progress": 6
+            },
+            {
+                "id": "stock:crackers",
+                "description": "Restock 6 Golden Crackers",
+                "target": 6,
+                "progress": 6
+            },
+            {
+                "id": "orders",
+                "description": "Fulfill three customer orders",
+                "target": 3,
+                "progress": 3
+            },
+            {
+                "id": "close",
+                "description": "Review receipts and close shift",
+                "target": 1,
+                "progress": 1
+            }
+        ],
+        "revenueCents": 1650,
+        "stabilityContribution": 3,
+        "timestampUtc": "2026-10-11T08:39:28.3377315Z"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "sources_sha256_verified": 9,
+  "protected_projects_verified": 2,
+  "repair_project_sha256_verified": true,
+  "walk_frames_rendered_and_evaluated": 26,
+  "run_frames_rendered_and_evaluated": 17,
+  "required_assets_ignored": false,
+  "git_lfs_tracking_verified": true,
+  "commits": 0,
+  "remotes": 0,
+  "staged_files": 0,
+  "artifact_integrity_pass": true,
+  "character_quality_pass": false,
+  "next_phase_ready": false
+}

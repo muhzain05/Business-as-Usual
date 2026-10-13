@@ -1,0 +1,86 @@
+{
+  "method": "Two independent Windows processes, actual NGO/UTP localhost UDP, production E dispatch and held input, opt-in server test placement.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "fresh_session_resets_all_jobs_and_records",
+      "passed": true
+    },
+    {
+      "name": "cannot_abandon_active_shift",
+      "passed": true
+    },
+    {
+      "name": "moving_cancels_timed_work",
+      "passed": true
+    },
+    {
+      "name": "occupied_shop_requires_actual_packing",
+      "passed": true
+    },
+    {
+      "name": "shopkeeper_packs_real_parts_for_colleague",
+      "passed": true
+    },
+    {
+      "name": "duplicate_packing_cannot_mint_parts",
+      "passed": true
+    },
+    {
+      "name": "client_collects_host_packed_stock",
+      "passed": true
+    },
+    {
+      "name": "replayed_repair_cannot_consume_again",
+      "passed": true
+    },
+    {
+      "name": "closed_service_records_immutable",
+      "passed": true
+    },
+    {
+      "name": "wrong_material_bin_rejected_without_bag_loss",
+      "passed": true
+    },
+    {
+      "name": "host_walk_street",
+      "passed": true
+    },
+    {
+      "name": "client_walk_street",
+      "passed": true
+    },
+    {
+      "name": "host_walk_garage",
+      "passed": true
+    },
+    {
+      "name": "client_walk_garage",
+      "passed": true
+    },
+    {
+      "name": "host_walk_yard",
+      "passed": true
+    },
+    {
+      "name": "client_walk_yard",
+      "passed": true
+    },
+    {
+      "name": "host_walk_alley",
+      "passed": true
+    },
+    {
+      "name": "client_walk_alley",
+      "passed": true
+    },
+    {
+      "name": "host_walk_square",
+      "passed": true
+    },
+    {
+      "name": "client_walk_square",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "name": "one_actual_solo_player",
+    "passed": true
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "Timeout; {'host': 'Assigned: Mechanic'}"
+  }
+]

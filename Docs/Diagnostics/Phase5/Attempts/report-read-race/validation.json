@@ -1,0 +1,31 @@
+{
+  "method": "Two independent Windows Development builds, actual NGO/Unity Transport localhost UDP. Automated commands and server test placement; no human-controlled playtest.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "host_client_connection_and_late_join_snapshot",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "separate_spawn_and_ownership",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "one_local_camera_listener_input_hud",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_movement_and_running_state",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "unexpected_failure",
+      "passed": false,
+      "details": "'players'"
+    }
+  ]
+}

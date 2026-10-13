@@ -1,0 +1,58 @@
+[
+  {
+    "name": "one_actual_solo_player",
+    "passed": true
+  },
+  {
+    "name": "hood_open_from_real_E",
+    "passed": true
+  },
+  {
+    "name": "visible_diagnosis_requests_supply",
+    "passed": true
+  },
+  {
+    "name": "same_parcel_arrives_by_labelled_service",
+    "passed": true
+  },
+  {
+    "name": "two_physical_load_readings",
+    "passed": true
+  },
+  {
+    "name": "real_mouse_turn_releases_clamp",
+    "passed": true
+  },
+  {
+    "name": "old_component_is_carried",
+    "passed": true
+  },
+  {
+    "name": "old_component_in_scrap_tray",
+    "passed": true
+  },
+  {
+    "name": "replacement_carried_packaging_released",
+    "passed": true
+  },
+  {
+    "name": "replacement_seated_hood_stays_open",
+    "passed": true
+  },
+  {
+    "name": "voltage_test_committed",
+    "passed": true
+  },
+  {
+    "name": "hood_closed_after_test",
+    "passed": true
+  },
+  {
+    "name": "service_ticket_signed",
+    "passed": true
+  },
+  {
+    "name": "complete_solo_shift_filed",
+    "passed": true
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "timestampUtc": "2026-10-11T06:12:56.470362+00:00",
+  "independentSharedStateVerified": true,
+  "revenueCents": 1650,
+  "receipts": 3,
+  "tasksComplete": 6,
+  "stabilityContribution": 3,
+  "sharedSnapshots": 28,
+  "sharedSnapshotUtf8Bytes": 74894,
+  "serverAccepted": 24,
+  "serverRejected": 11,
+  "serverInputCommands": 1977,
+  "images": {
+    "client-carrying.png": {
+      "width": 1280,
+      "height": 720,
+      "sha256": "6d98a8a1aa83de71f5716c55b4e5de7622fae218c7760119e17ea45322924dfc"
+    },
+    "client-cooperative.png": {
+      "width": 1280,
+      "height": 720,
+      "sha256": "2fef767c6b39e3edb522b51c17a15c0de52d454b04ec3e544e5fbbe0f70d2372"
+    },
+    "client.png": {
+      "width": 1280,
+      "height": 720,
+      "sha256": "2bfd796859090068cd8b0dc4cb1195af9c983fc93aeef7e4f495d7ea57286e73"
+    },
+    "host-carrying.png": {
+      "width": 1280,
+      "height": 720,
+      "sha256": "dcd4e6d677c9db46c497ee6828cdc57f6ba463dae45522e980cac3a2affedf80"
+    },
+    "host-cooperative.png": {
+      "width": 1280,
+      "height": 720,
+      "sha256": "bf84975a6f9fb5185ec0ff2ef81095c9b7c16fb7bed3c441f36bf317279bcb45"
+    },
+    "host.png": {
+      "width": 1280,
+      "height": 720,
+      "sha256": "34b971d836c71225cfab2255fd05ec15c7aff43ac4c5e5de5bf203cd7f9672e4"
+    }
+  },
+  "sources": {
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Editor.meta": "1a5129c2dce44d4d08eeeedbc6584c9174536e877b8d3fc623d0561dcad4ffd1",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Prefabs.meta": "075e03a0f46d9f05e74b6ae4ab0e670a848fe2d1f828c04671d4262ef30a9eba",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scenes.meta": "e70958ea196b28cfc26f02493c7dbb7d6485cf2ff8ea2842763c85d8c7d01536",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts.meta": "620f293c4d55fe271b737e3c3d42a4662d951d5048edfedf7f367392eed2c948",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Editor/NetworkBuilder.cs": "c59876b574122eab3fbb655042dfa259991d4ba221bed911bbdca64b73d2aae1",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Editor/NetworkBuilder.cs.meta": "cfd8c32f6e51c07e3ca65d6092a2c934c3f82585a89278f7e5cb591140689aa8",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Prefabs/SunnyNetworkPlayer.prefab": "b1a1d1225f56cffd4532b065bd7b3ff69f60829c95be5378da7f9edfd8b30b06",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Prefabs/SunnyNetworkPlayer.prefab.meta": "cfdb99def1ca96c506a75c2e84be352e2f32aebb18a6691594963fb94da84eb8",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scenes/ShopkeeperMultiplayer.unity": "b94f38ff487b6e2fae7a2d1d69f36e6777bbfe1c1d60f9138fd5335f7df89862",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scenes/ShopkeeperMultiplayer.unity.meta": "f2c5d2f828721be2c18386c320504c0035957c042a26f538482dd54bdce01ec8",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkPlayer.cs": "1895e6ca8763f18e39072744bb094518e4b79ea1ab2caf0d6072479e34c4774c",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkPlayer.cs.meta": "ba6cc1fb7b04aca21d962f317eedb3a184ff8b1fbe6bc1f9121ee19471dda9aa",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkSession.cs": "4d4b781e3d94c716061f93093f9409a816df503c9e110490a3160ea8f2f17f8f",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkSession.cs.meta": "2e797c55147045592717fc2e74af10a17d53100e4e69363a122a9f27f3811ec7",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs": "90fe5e9be60d350082c32f6e0f15913d968291f9c11e8c64eff505ee4506f45d",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs.meta": "4bd683f2ca2e1c8b5adef076bfed4ae2754e1408abf64a66fdb58e09433ec43f",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs": "85a305c7fa6d13fe9ddc04a2fba3324b7f6649151431d7f5bcb66d4b23b42603",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs.meta": "3cfe327c33f8d73f261c957727fc7da314b0909dada0141579217e8dea93a6cf",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopHUD.cs": "da4cbf6612efd2ce2377418c6c6fc229b20bbc8a3a5ecc8330cf1a0ff6011b9d",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopDomain.cs": "9509aa9016eed91691376e3fb83488c747d4b889a3909b37862a096631b8da75",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopShift.cs": "5cda631fd42897f5f7b5601e493eb10218fea9b20f3c008d936ca51045328260",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/StockCrate.cs": "e985c7c7bc40d3e15d878da7a5db04935a34920e1339a848562917f8aadb40d8",
+    "Unity/BusinessAsUsual/Assets/Prototype/Scripts/PlayerInteractor.cs": "53153a683ff6db280f69c27bd83cf07e9844876f8854fedb2386ad5dfcacac09",
+    "Unity/BusinessAsUsual/Assets/Prototype/Scripts/SimpleDoor.cs": "ec46e7dda18115f793bf01dbf5f248e7e7c79b069e41dccf185e21be3c3344b0",
+    "Unity/BusinessAsUsual/Assets/Prototype/Scripts/BasicWorkstation.cs": "39befa693c5c4267a310621f06fb0c7544b58b1e629d7661da321815b5d6631b",
+    "Scripts/test_phase5_network.py": "ddf1896549d2f5d2d5701d2f3afcc9b52ef33de834683f8f1bbb28eadd65b239",
+    "Scripts/launch_phase5.ps1": "a761f41d3a34784104155d84061b1070dcc0484b98457305c3c93460fcac4daf"
+  },
+  "build": {
+    "Builds/Phase5/BusinessAsUsual.exe": "b7cca8b82003185f22644d0ee1c23b3640de1b996802d4f5d0501e287011afa6",
+    "Builds/Phase5/BusinessAsUsual_Data/Managed/Assembly-CSharp.dll": "a467e66441144c66b251b5b645896385d8c667518ad0380a7e21f8018ed531fa"
+  }
+}

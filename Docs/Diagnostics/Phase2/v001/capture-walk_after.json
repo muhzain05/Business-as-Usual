@@ -1,0 +1,31 @@
+{
+  "scene": "P2_v001_Modules_Rest",
+  "frame": 20,
+  "look_settings": {
+    "mode": "angles",
+    "target": [
+      "Sunny_v001_UpperOutfit",
+      "Sunny_v001_Shoe_R",
+      "Sunny_v001_Shoe_L",
+      "Sunny_v001_ForearmHand_R",
+      "Sunny_v001_ForearmHand_L",
+      "Sunny_v001_Shorts",
+      "Sunny_v001_Head",
+      "Sunny_v001_LowerLeg_R",
+      "Sunny_v001_LowerLeg_L",
+      "Sunny_v001_Mouth",
+      "Sunny_v001_Eye_R",
+      "Sunny_v001_Eye_L",
+      "Sunny_v001_Button_Top",
+      "Sunny_v001_Button_Middle",
+      "Sunny_v001_Button_Bottom"
+    ],
+    "views": [
+      "front"
+    ],
+    "shading": "material",
+    "distance": 2.5,
+    "max_size": 700
+  },
+  "restore_required": true
+}

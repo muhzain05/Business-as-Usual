@@ -1,0 +1,76 @@
+[
+  {
+    "name": "StaffKiosk",
+    "meshes": 5,
+    "polygons": 9954,
+    "triangles": 9978,
+    "vertices": 12292,
+    "objects": [
+      {
+        "name": "StaffKioskBody",
+        "materials": [
+          "StaffKiosk_Material_0"
+        ],
+        "uvLayers": 1
+      },
+      {
+        "name": "WritingCounter",
+        "materials": [
+          "StaffKiosk_Wood"
+        ],
+        "uvLayers": 1
+      },
+      {
+        "name": "CounterSupport",
+        "materials": [
+          "StaffKiosk_Wood"
+        ],
+        "uvLayers": 1
+      },
+      {
+        "name": "CounterSupport.001",
+        "materials": [
+          "StaffKiosk_Wood"
+        ],
+        "uvLayers": 1
+      },
+      {
+        "name": "BlankStaffBoard",
+        "materials": [
+          "StaffKiosk_Paper"
+        ],
+        "uvLayers": 1
+      }
+    ]
+  },
+  {
+    "name": "ReturnsCabinet",
+    "meshes": 3,
+    "polygons": 6844,
+    "triangles": 6856,
+    "vertices": 7636,
+    "objects": [
+      {
+        "name": "ReturnsCabinetBody",
+        "materials": [
+          "ReturnsCabinet_Material_0"
+        ],
+        "uvLayers": 1
+      },
+      {
+        "name": "LeftReceivingTray",
+        "materials": [
+          "ReturnsCabinet_Wood"
+        ],
+        "uvLayers": 1
+      },
+      {
+        "name": "ReturnsLabel",
+        "materials": [
+          "ReturnsCabinet_Paper"
+        ],
+        "uvLayers": 1
+      }
+    ]
+  }
+]

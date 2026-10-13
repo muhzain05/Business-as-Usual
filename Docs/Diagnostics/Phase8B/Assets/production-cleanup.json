@@ -1,0 +1,30 @@
+[
+  {
+    "name": "StaffKiosk",
+    "height": 1.78,
+    "meshes": 5,
+    "triangles": 9978,
+    "operations": [
+      "world transforms applied",
+      "grounded pivot",
+      "separate texture names",
+      "authored supports/label surfaces",
+      "FBX + editable BLEND"
+    ],
+    "polygons": 9954
+  },
+  {
+    "name": "ReturnsCabinet",
+    "height": 0.88,
+    "meshes": 3,
+    "triangles": 6856,
+    "operations": [
+      "world transforms applied",
+      "grounded pivot",
+      "separate texture names",
+      "authored supports/label surfaces",
+      "FBX + editable BLEND"
+    ],
+    "polygons": 6844
+  }
+]

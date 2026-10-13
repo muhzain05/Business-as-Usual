@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Sunny_v002_Shoe_R",
+    "vertices": 1130,
+    "polygons": 2223,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Shoe_L",
+    "vertices": 1130,
+    "polygons": 2217,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_ForearmHand_R",
+    "vertices": 1073,
+    "polygons": 1977,
+    "materials": [
+      "Material_0.002",
+      "Sunny_v002_ConcealedSkin"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_ForearmHand_L",
+    "vertices": 1085,
+    "polygons": 1987,
+    "materials": [
+      "Material_0.002",
+      "Sunny_v002_ConcealedSkin"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_Shorts",
+    "vertices": 783,
+    "polygons": 1481,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "SOLIDIFY"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Head",
+    "vertices": 589,
+    "polygons": 1174,
+    "materials": [
+      "Sunny_v002_HeadClean.001"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_LowerLeg_R",
+    "vertices": 331,
+    "polygons": 473,
+    "materials": [
+      "Material_0.002",
+      "Sunny_v002_ConcealedSkin"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_LowerLeg_L",
+    "vertices": 329,
+    "polygons": 467,
+    "materials": [
+      "Material_0.002",
+      "Sunny_v002_ConcealedSkin"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_Mouth",
+    "vertices": 106,
+    "polygons": 178,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [
+      "Basis",
+      "SmileWidth"
+    ],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Eye_R",
+    "vertices": 76,
+    "polygons": 128,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [
+      "Basis",
+      "Blink"
+    ],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Eye_L",
+    "vertices": 76,
+    "polygons": 128,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [
+      "Basis",
+      "Blink"
+    ],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Button_Top",
+    "vertices": 43,
+    "polygons": 72,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Button_Middle",
+    "vertices": 42,
+    "polygons": 71,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Button_Bottom",
+    "vertices": 42,
+    "polygons": 71,
+    "materials": [
+      "Material_0.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_UpperOutfit",
+    "vertices": 1029,
+    "polygons": 856,
+    "materials": [
+      "Sunny_v002_JacketTeal.002",
+      "Sunny_v002_ShirtCream.002",
+      "Sunny_v002_CollarCream.002"
+    ],
+    "modifiers": [
+      "SUBSURF",
+      "ARMATURE",
+      "SOLIDIFY"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Body_Torso",
+    "vertices": 240,
+    "polygons": 218,
+    "materials": [
+      "Sunny_v002_ConcealedSkin.002"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_Body_Pelvis",
+    "vertices": 120,
+    "polygons": 98,
+    "materials": [
+      "Sunny_v002_ConcealedSkin.002"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_Body_UpperArm_L",
+    "vertices": 168,
+    "polygons": 146,
+    "materials": [
+      "Sunny_v002_ConcealedSkin.002"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [],
+    "production_status": "nonproduction reference envelope",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_Body_Thigh_L",
+    "vertices": 168,
+    "polygons": 146,
+    "materials": [
+      "Sunny_v002_ConcealedSkin.002"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "nonproduction reference envelope",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_Body_ConcealedFoot_L",
+    "vertices": 120,
+    "polygons": 98,
+    "materials": [
+      "Sunny_v002_ConcealedSkin.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 5.364418029785156e-07,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  },
+  {
+    "name": "Sunny_v002_Body_UpperArm_R",
+    "vertices": 168,
+    "polygons": 146,
+    "materials": [
+      "Sunny_v002_ConcealedSkin.002"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 0.0,
+    "shape_keys": [],
+    "production_status": "nonproduction reference envelope",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_Body_Thigh_R",
+    "vertices": 168,
+    "polygons": 146,
+    "materials": [
+      "Sunny_v002_ConcealedSkin.002"
+    ],
+    "modifiers": [
+      "ARMATURE",
+      "MASK"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "nonproduction reference envelope",
+    "mask_modifiers_enabled": false
+  },
+  {
+    "name": "Sunny_v002_Body_ConcealedFoot_R",
+    "vertices": 120,
+    "polygons": 98,
+    "materials": [
+      "Sunny_v002_ConcealedSkin.002"
+    ],
+    "modifiers": [
+      "ARMATURE"
+    ],
+    "deform_weight_sum_max_error": 2.9802322387695312e-08,
+    "shape_keys": [],
+    "production_status": "unapproved repair prototype",
+    "mask_modifiers_enabled": null
+  }
+]

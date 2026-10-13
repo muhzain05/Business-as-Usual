@@ -1,0 +1,13 @@
+{
+  "method": "Hidden Windows player startup with -batchmode -nographics and a repository-local log",
+  "engine_initialization_observed": true,
+  "input_system_initialization_observed": true,
+  "physx_initialization_observed": true,
+  "logged_exceptions": 0,
+  "human_input_tested": false,
+  "graphical_player_rendering_tested": false,
+  "normal_exit_verified": false,
+  "terminated_by_agent": true,
+  "exit_code_after_termination": -1,
+  "notes": "The standalone player did not exit using -quit; after log inspection, only the matching agent-launched process was stopped. No sustained gameplay or graphical standalone input behavior is claimed."
+}

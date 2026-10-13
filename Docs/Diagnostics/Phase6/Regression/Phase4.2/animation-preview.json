@@ -1,0 +1,11 @@
+{
+  "frames": 15,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "firstSampleSeconds": 0.0,
+  "lastSampleSeconds": 0.6562,
+  "distinctFrames": 5,
+  "method": "Actual Unity Game view frames. GIF preserves recorded intervals with a final 900ms review hold."
+}

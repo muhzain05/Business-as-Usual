@@ -1,0 +1,293 @@
+{
+  "source": "Assets\\Characters\\Sunny\\Working\\Sunny_Locomotion_v004.blend",
+  "source_sha256": "694b527c44d88b09e09453058357e1f2edf997ff3b615e9013a2d08df990a861",
+  "skeleton_bones": 53,
+  "module_count": 19,
+  "modules": [
+    {
+      "name": "Shoe_R",
+      "vertices": 1130,
+      "weighted_vertices": 1130,
+      "blendshapes": []
+    },
+    {
+      "name": "Shoe_L",
+      "vertices": 1130,
+      "weighted_vertices": 1130,
+      "blendshapes": []
+    },
+    {
+      "name": "ForearmHand_R",
+      "vertices": 1073,
+      "weighted_vertices": 1073,
+      "blendshapes": []
+    },
+    {
+      "name": "ForearmHand_L",
+      "vertices": 1085,
+      "weighted_vertices": 1085,
+      "blendshapes": []
+    },
+    {
+      "name": "Shorts",
+      "vertices": 2092,
+      "weighted_vertices": 2092,
+      "blendshapes": [
+        "Basis",
+        "RearCuffClearance_Left",
+        "RearCuffClearance_Right"
+      ]
+    },
+    {
+      "name": "Head",
+      "vertices": 589,
+      "weighted_vertices": 589,
+      "blendshapes": []
+    },
+    {
+      "name": "LowerLeg_R",
+      "vertices": 432,
+      "weighted_vertices": 432,
+      "blendshapes": []
+    },
+    {
+      "name": "LowerLeg_L",
+      "vertices": 432,
+      "weighted_vertices": 432,
+      "blendshapes": []
+    },
+    {
+      "name": "Mouth",
+      "vertices": 106,
+      "weighted_vertices": 106,
+      "blendshapes": [
+        "Basis",
+        "SmileWidth"
+      ]
+    },
+    {
+      "name": "Eye_R",
+      "vertices": 76,
+      "weighted_vertices": 76,
+      "blendshapes": [
+        "Basis",
+        "Blink"
+      ]
+    },
+    {
+      "name": "Eye_L",
+      "vertices": 76,
+      "weighted_vertices": 76,
+      "blendshapes": [
+        "Basis",
+        "Blink"
+      ]
+    },
+    {
+      "name": "Button_Top",
+      "vertices": 43,
+      "weighted_vertices": 43,
+      "blendshapes": []
+    },
+    {
+      "name": "Button_Middle",
+      "vertices": 42,
+      "weighted_vertices": 42,
+      "blendshapes": []
+    },
+    {
+      "name": "Button_Bottom",
+      "vertices": 42,
+      "weighted_vertices": 42,
+      "blendshapes": []
+    },
+    {
+      "name": "UpperOutfit",
+      "vertices": 7514,
+      "weighted_vertices": 7514,
+      "blendshapes": []
+    },
+    {
+      "name": "Body_Torso",
+      "vertices": 240,
+      "weighted_vertices": 240,
+      "blendshapes": []
+    },
+    {
+      "name": "Body_Pelvis",
+      "vertices": 120,
+      "weighted_vertices": 120,
+      "blendshapes": []
+    },
+    {
+      "name": "Body_ConcealedFoot_L",
+      "vertices": 120,
+      "weighted_vertices": 120,
+      "blendshapes": []
+    },
+    {
+      "name": "Body_ConcealedFoot_R",
+      "vertices": 120,
+      "weighted_vertices": 120,
+      "blendshapes": []
+    }
+  ],
+  "fps": 24,
+  "height": 1.2,
+  "exports": [
+    {
+      "file": "Sunny_v004.fbx",
+      "clip": "Rest",
+      "frames": [
+        1,
+        2
+      ],
+      "sha256": "044c548286077694cd41a5733e478a768e938ffae526b2744866709be9f1fc4a",
+      "bytes": 2281852
+    },
+    {
+      "file": "Sunny_Walk_v004.fbx",
+      "clip": "Walk",
+      "frames": [
+        1,
+        33
+      ],
+      "sha256": "71dd4c34d797a3290941f5db0ddb466c9a6d3ef019b0aa964fe74a8dd81f8424",
+      "bytes": 2418428
+    },
+    {
+      "file": "Sunny_Run_v004.fbx",
+      "clip": "Run",
+      "frames": [
+        1,
+        25
+      ],
+      "sha256": "87112b1ce99d852bc038b868135164df817c8b93073fd29885e3a5c090463455",
+      "bytes": 2401884
+    }
+  ],
+  "materials": [
+    {
+      "name": "Material_0.008",
+      "color_linear": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "textures": {
+        "base": "Texture_0.png",
+        "data": "Texture_1.png",
+        "normal": "Texture_2.png"
+      }
+    },
+    {
+      "name": "Sunny_v002_CollarCream.007",
+      "color_linear": [
+        0.8100000023841858,
+        0.7799999713897705,
+        0.7099999785423279,
+        1.0
+      ],
+      "roughness": 0.7799999713897705,
+      "metallic": 0.0,
+      "textures": {}
+    },
+    {
+      "name": "Sunny_v002_ConcealedSkin.011",
+      "color_linear": [
+        0.6800000071525574,
+        0.4000000059604645,
+        0.23000000417232513,
+        1.0
+      ],
+      "roughness": 0.7799999713897705,
+      "metallic": 0.0,
+      "textures": {}
+    },
+    {
+      "name": "Sunny_v002_ConcealedSkin.012",
+      "color_linear": [
+        0.6800000071525574,
+        0.4000000059604645,
+        0.23000000417232513,
+        1.0
+      ],
+      "roughness": 0.7799999713897705,
+      "metallic": 0.0,
+      "textures": {}
+    },
+    {
+      "name": "Sunny_v002_HeadClean.006",
+      "color_linear": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "roughness": 0.5,
+      "metallic": 0.0,
+      "textures": {
+        "base": "Texture_3.png",
+        "data": "Texture_1.png",
+        "normal": "Texture_4.png"
+      }
+    },
+    {
+      "name": "Sunny_v002_JacketTeal.007",
+      "color_linear": [
+        0.08500000089406967,
+        0.20499999821186066,
+        0.23999999463558197,
+        1.0
+      ],
+      "roughness": 0.7799999713897705,
+      "metallic": 0.0,
+      "textures": {}
+    },
+    {
+      "name": "Sunny_v002_ShirtCream.007",
+      "color_linear": [
+        0.7200000286102295,
+        0.6899999976158142,
+        0.6299999952316284,
+        1.0
+      ],
+      "roughness": 0.7799999713897705,
+      "metallic": 0.0,
+      "textures": {}
+    },
+    {
+      "name": "Sunny_v003_ConcealedLegSkin.004",
+      "color_linear": [
+        0.8700000047683716,
+        0.6200000047683716,
+        0.4300000071525574,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "textures": {}
+    },
+    {
+      "name": "Sunny_v003_ShortsCuff.003",
+      "color_linear": [
+        0.01899999938905239,
+        0.029999999329447746,
+        0.0430000014603138,
+        1.0
+      ],
+      "roughness": 0.800000011920929,
+      "metallic": 0.0,
+      "textures": {}
+    }
+  ],
+  "notes": [
+    "Subdivision/thickness evaluated in bind pose on export copies.",
+    "Existing cuff drivers sampled into blendshape curves.",
+    "Generic exact skeleton; no retargeting or source saves.",
+    "Unity linear skinning differs from Blender preserve-volume skinning."
+  ]
+}

@@ -1,0 +1,78 @@
+PASS host_native_initial | {'screenWidth': 1280, 'screenHeight': 720, 'internalWidth': 1280, 'internalHeight': 720, 'renderScale': 1.0, 'dynamicResolution': False}
+PASS client_native_initial | {'screenWidth': 1280, 'screenHeight': 720, 'internalWidth': 1280, 'internalHeight': 720, 'renderScale': 1.0, 'dynamicResolution': False}
+PASS quality_preset_selected_0
+PASS native_quality_0 | {'screenWidth': 1280, 'screenHeight': 720, 'internalWidth': 1280, 'internalHeight': 720, 'renderScale': 1.0, 'dynamicResolution': False}
+PASS quality_preset_selected_1
+PASS native_quality_1 | {'screenWidth': 1280, 'screenHeight': 720, 'internalWidth': 1280, 'internalHeight': 720, 'renderScale': 1.0, 'dynamicResolution': False}
+PASS synchronized_server_clock
+PASS same_town_phase
+PASS network_facing_survives_animation_overrides
+PASS hands_visible_fov_60
+PASS hands_visible_fov_74
+PASS hands_visible_fov_95
+PASS mechanic_initial_inspections
+PASS mechanic_initial_inspections_coordinates
+PASS one_inspection_after_completion
+PASS one_inspection_after_completion_coordinates
+PASS completed_inspection_gone
+PASS no_inactive_repair_blue_pin
+PASS private_markers_no_cross_job
+PASS parts_unlock
+PASS parts_unlock_coordinates
+PASS repairs_unlock
+PASS repairs_unlock_coordinates
+PASS repair_one_completed
+PASS repair_one_completed_coordinates
+PASS record_unlock
+PASS record_unlock_coordinates
+PASS mechanic_complete_no_markers
+PASS sanitation_route
+PASS sanitation_route_coordinates
+PASS matching_bin_Paper
+PASS matching_bin_Paper_coordinates
+PASS sorted_Paper
+PASS sorted_Paper_coordinates
+PASS collected_bag_removed_0
+PASS matching_bin_Mixed
+PASS matching_bin_Mixed_coordinates
+PASS sorted_Mixed
+PASS sorted_Mixed_coordinates
+PASS collected_bag_removed_1
+PASS matching_bin_Metal
+PASS matching_bin_Metal_coordinates
+PASS sorted_Metal
+PASS sorted_Metal_coordinates
+PASS collected_bag_removed_2
+PASS sanitation_complete_no_markers
+PASS shop_delivery_interior
+PASS shop_delivery_interior_coordinates
+PASS exterior_objective_bound_to_actual_door
+PASS stock_crate_unlock
+PASS stock_crate_unlock_coordinates
+PASS shelves_unlock
+PASS shelves_unlock_coordinates
+PASS restock_Sunbeam_Cola_Shelf
+PASS restock_Sunbeam_Cola_Shelf_coordinates
+PASS stocked_marker_retires_Sunbeam Cola Shelf
+PASS restock_Meadow_Tea_Shelf
+PASS restock_Meadow_Tea_Shelf_coordinates
+PASS stocked_marker_retires_Meadow Tea Shelf
+PASS restock_Golden_Crackers_Shelf
+PASS restock_Golden_Crackers_Shelf_coordinates
+PASS stocked_marker_retires_Golden Crackers Shelf
+PASS checkout_ready_0
+PASS checkout_ready_0_coordinates
+PASS checkout_ready_1
+PASS checkout_ready_1_coordinates
+PASS checkout_ready_2
+PASS checkout_ready_2_coordinates
+PASS closing_unlock
+PASS closing_unlock_coordinates
+PASS shop_complete_outside_no_stale_marker
+PASS cadence_walk | 1.692307949066162
+PASS remote_speed_2.2
+PASS remote_bones_animate_walk | 0.11950449675027502
+PASS cadence_run | 1.4000000953674316
+PASS remote_speed_4.2
+PASS remote_bones_animate_run | 0.2864725786104189
+77/77 passed

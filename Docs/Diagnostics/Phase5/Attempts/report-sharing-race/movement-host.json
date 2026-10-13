@@ -1,0 +1,204 @@
+{
+  "role": "host",
+  "status": "HOST / Sunny 0 / 2 players",
+  "feedback": "18 units received. Pick up the sealed crate beside the delivery desk.",
+  "listening": true,
+  "connected": true,
+  "host": true,
+  "localCarried": false,
+  "localId": 0,
+  "serial": 4,
+  "snapshots": 3,
+  "bytes": 2209,
+  "accepted": 1,
+  "rejected": 0,
+  "players": [
+    {
+      "id": 3,
+      "owner": 1,
+      "local": false,
+      "spawned": true,
+      "grounded": false,
+      "running": true,
+      "jumping": false,
+      "position": {
+        "x": -4.0,
+        "y": 1.1022826433181763,
+        "z": 3.81433367729187
+      },
+      "speed": 4.199999809265137,
+      "inputs": 49
+    },
+    {
+      "id": 1,
+      "owner": 0,
+      "local": true,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "position": {
+        "x": -3.0,
+        "y": 0.3939937353134155,
+        "z": 3.5797805786132812
+      },
+      "speed": 2.200000047683716,
+      "inputs": 291
+    }
+  ],
+  "state": {
+    "revision": 1,
+    "orderIndex": 0,
+    "received": true,
+    "closed": false,
+    "dropped": false,
+    "holder": 18446744073709551615,
+    "message": "18 units received. Pick up the sealed crate beside the delivery desk.",
+    "quantities": [
+      0,
+      0,
+      0,
+      6,
+      6,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "progress": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movements": [
+      {
+        "sequence": 1,
+        "quantity": 6,
+        "sku": "cola",
+        "from": "delivery",
+        "to": "dock",
+        "reason": "delivery received"
+      },
+      {
+        "sequence": 2,
+        "quantity": 6,
+        "sku": "tea",
+        "from": "delivery",
+        "to": "dock",
+        "reason": "delivery received"
+      },
+      {
+        "sequence": 3,
+        "quantity": 6,
+        "sku": "crackers",
+        "from": "delivery",
+        "to": "dock",
+        "reason": "delivery received"
+      }
+    ],
+    "receipts": [],
+    "cratePosition": {
+      "x": 4.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    "crateRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "doorIds": [
+      "Shared Door Test Fixture"
+    ],
+    "workIds": [
+      "Shared Workstation Test Fixture"
+    ],
+    "doorOpen": [
+      false
+    ],
+    "workUses": [
+      0
+    ]
+  },
+  "targetIds": [
+    "Shared Door Test Fixture",
+    "Functional Fixtures/Meadow Tea Shelf",
+    "Shared Workstation Test Fixture",
+    "Functional Fixtures/Closing Terminal",
+    "Functional Fixtures/Checkout",
+    "Functional Fixtures/Delivery Desk",
+    "Functional Fixtures/Town Exit",
+    "Functional Fixtures/Sunbeam Cola Shelf",
+    "Functional Fixtures/Stock Crate",
+    "Functional Fixtures/Golden Crackers Shelf"
+  ],
+  "targetPoints": [
+    {
+      "x": -3.200000286102295,
+      "y": 0.800000011920929,
+      "z": 6.349999904632568
+    },
+    {
+      "x": 0.0,
+      "y": 0.6499999761581421,
+      "z": 9.699999809265137
+    },
+    {
+      "x": -4.099999904632568,
+      "y": 0.0,
+      "z": 3.0
+    },
+    {
+      "x": 3.799999952316284,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": -1.0,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 4.0,
+      "y": 0.6499999761581421,
+      "z": 10.300000190734863
+    },
+    {
+      "x": 0.0,
+      "y": 0.6499999761581421,
+      "z": -0.10000000149011612
+    },
+    {
+      "x": -2.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": 4.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    {
+      "x": 2.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    }
+  ],
+  "cameras": 1,
+  "listeners": 1,
+  "inputs": 1,
+  "huds": 1
+}

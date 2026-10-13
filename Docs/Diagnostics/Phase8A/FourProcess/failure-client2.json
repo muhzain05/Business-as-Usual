@@ -1,0 +1,1030 @@
+{
+  "role": "client2",
+  "status": "CLIENT / Sunny 2 / 3 players",
+  "feedback": "Move closer with a clear line of sight.",
+  "currentTarget": "",
+  "listening": true,
+  "connected": true,
+  "host": false,
+  "localCarried": false,
+  "localId": 2,
+  "serial": 5,
+  "snapshots": 0,
+  "bytes": 0,
+  "accepted": 0,
+  "rejected": 0,
+  "players": [
+    {
+      "id": 1,
+      "owner": 0,
+      "local": false,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "bodyVisible": true,
+      "position": {
+        "x": -37.995182037353516,
+        "y": 0.02500004880130291,
+        "z": 6.199084758758545
+      },
+      "leftFoot": {
+        "x": -0.12874984741210938,
+        "y": 0.15808731317520142,
+        "z": -0.033492088317871094
+      },
+      "speed": 0.0,
+      "lookYaw": 0.0,
+      "lookPitch": 0.0,
+      "facing": 0.0,
+      "inputs": 0
+    },
+    {
+      "id": 3,
+      "owner": 1,
+      "local": false,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "bodyVisible": true,
+      "position": {
+        "x": 5.250903129577637,
+        "y": 0.025369424372911453,
+        "z": 3.9398810863494873
+      },
+      "leftFoot": {
+        "x": -0.12874841690063477,
+        "y": 0.15808731317520142,
+        "z": -0.033492326736450195
+      },
+      "speed": 0.0,
+      "lookYaw": 0.0,
+      "lookPitch": 0.0,
+      "facing": 0.0,
+      "inputs": 0
+    },
+    {
+      "id": 6,
+      "owner": 4,
+      "local": false,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "bodyVisible": true,
+      "position": {
+        "x": 4.8808913230896,
+        "y": 0.025006404146552086,
+        "z": 5.7996602058410645
+      },
+      "leftFoot": {
+        "x": -0.12874841690063477,
+        "y": 0.15808731317520142,
+        "z": -0.033492088317871094
+      },
+      "speed": 0.0,
+      "lookYaw": 0.0,
+      "lookPitch": 0.0,
+      "facing": 0.0,
+      "inputs": 0
+    },
+    {
+      "id": 4,
+      "owner": 2,
+      "local": true,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "bodyVisible": false,
+      "position": {
+        "x": 4.001785755157471,
+        "y": 0.025020984932780266,
+        "z": 6.795642852783203
+      },
+      "leftFoot": {
+        "x": -0.12874817848205566,
+        "y": 0.15808731317520142,
+        "z": -0.033492088317871094
+      },
+      "speed": 0.0,
+      "lookYaw": 0.0,
+      "lookPitch": 0.0,
+      "facing": 0.0,
+      "inputs": 0
+    }
+  ],
+  "state": {
+    "revision": 18,
+    "orderIndex": 0,
+    "received": false,
+    "closed": false,
+    "dropped": false,
+    "holder": 18446744073709551615,
+    "message": "Town ledger updated.",
+    "quantities": [
+      6,
+      6,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "progress": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movements": [],
+    "receipts": [],
+    "cratePosition": {
+      "x": -36.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    "crateRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "doorIds": [
+      "Graybox Town/Shop/Shop Door"
+    ],
+    "workIds": [],
+    "doorOpen": [
+      false
+    ],
+    "workUses": [],
+    "town": {
+      "owners": [
+        0,
+        1,
+        2,
+        4,
+        18446744073709551615,
+        18446744073709551615
+      ],
+      "started": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "completed": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mechanicProgress": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sanitationProgress": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "quantities": [
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "partsRequested": false,
+      "services": [
+        {
+          "id": "SV-001",
+          "vehicle": "Mikan delivery van",
+          "fault": "Weak battery",
+          "part": "battery",
+          "inspected": false,
+          "repaired": false,
+          "recorded": false
+        },
+        {
+          "id": "SV-002",
+          "vehicle": "Municipal mini truck",
+          "fault": "Clogged oil filter",
+          "part": "filter",
+          "inspected": false,
+          "repaired": false,
+          "recorded": false
+        }
+      ],
+      "bags": [
+        {
+          "id": "WB-001",
+          "source": "Town Square",
+          "materialType": "Paper",
+          "objectDescription": "Ordinary packaging",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": -1.0,
+            "y": 0.30000001192092896,
+            "z": 7.800000190734863
+          },
+          "position": {
+            "x": -1.0,
+            "y": 0.30000001192092896,
+            "z": 7.800000190734863
+          }
+        },
+        {
+          "id": "WB-002",
+          "source": "Back Alley",
+          "materialType": "Mixed",
+          "objectDescription": "Discarded umbrella and wrappers",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 0.0,
+            "y": 0.30000001192092896,
+            "z": 11.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.30000001192092896,
+            "z": 11.0
+          }
+        },
+        {
+          "id": "WB-003",
+          "source": "Sanitation Yard",
+          "materialType": "Metal",
+          "objectDescription": "Ordinary packaging",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 5.0,
+            "y": 0.30000001192092896,
+            "z": -6.800000190734863
+          },
+          "position": {
+            "x": 5.0,
+            "y": 0.30000001192092896,
+            "z": -6.800000190734863
+          }
+        },
+        {
+          "id": "WB-004",
+          "source": "Daylight Market",
+          "materialType": "Paper",
+          "objectDescription": "Ordinary packaging",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": -10.0,
+            "y": 0.30000001192092896,
+            "z": 2.9000000953674316
+          },
+          "position": {
+            "x": -10.0,
+            "y": 0.30000001192092896,
+            "z": 2.9000000953674316
+          }
+        },
+        {
+          "id": "WB-005",
+          "source": "Garage",
+          "materialType": "Metal",
+          "objectDescription": "Replaced vehicle parts",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 5.150000095367432,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          },
+          "position": {
+            "x": 5.150000095367432,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          }
+        },
+        {
+          "id": "WB-006",
+          "source": "Garage",
+          "materialType": "Metal",
+          "objectDescription": "Replaced vehicle parts",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 10.850000381469727,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          },
+          "position": {
+            "x": 10.850000381469727,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          }
+        }
+      ],
+      "serviceRecords": [],
+      "disposalRecords": [],
+      "movements": [],
+      "message": "Town work updated.",
+      "works": [
+        {
+          "worker": 18446744073709551615,
+          "target": "",
+          "started": 0.0,
+          "duration": 0.0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "worker": 18446744073709551615,
+          "target": "",
+          "started": 0.0,
+          "duration": 0.0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "contribution": 0,
+      "assistantProfession": 1
+    },
+    "workday": {
+      "items": [
+        {
+          "id": "PART-8A-001",
+          "material": "battery",
+          "custody": "parcel",
+          "holder": 4,
+          "revision": 5,
+          "inspected": true
+        },
+        {
+          "id": "PACK-8A-001",
+          "material": "paper",
+          "custody": "parcel",
+          "holder": 4,
+          "revision": 5,
+          "inspected": false
+        },
+        {
+          "id": "OLD-8A-001",
+          "material": "metal",
+          "custody": "vehicle",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "BAG-8A-001",
+          "material": "paper",
+          "custody": "square",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "ORDER-8A-001",
+          "material": "stock",
+          "custody": "counter",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "ORDER-8A-002",
+          "material": "stock",
+          "custody": "counter",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "ORDER-8A-003",
+          "material": "stock",
+          "custody": "counter",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        }
+      ],
+      "received": true,
+      "verified": true,
+      "requested": true,
+      "prepared": true,
+      "dispatched": false,
+      "diagnosed": true,
+      "loadChecked": false,
+      "hood": true,
+      "released": false,
+      "installed": false,
+      "bench": false,
+      "closed": false,
+      "customerOrders": 0,
+      "bolts": 0,
+      "stability": 5,
+      "cleaned": 4,
+      "assisted": 0,
+      "requestedAt": 46.47871723204851,
+      "began": 50.47498163309414,
+      "gateUntil": 0.0,
+      "priority": "garage",
+      "collectionOrder": "paper",
+      "records": []
+    }
+  },
+  "targetIds": [
+    "Town Workplaces/Route Bag 0",
+    "Town Workplaces/Vehicle 0 Repair",
+    "Town Workplaces/Parts Request Slip",
+    "Town Workplaces/Route Bag 3",
+    "Town Workplaces/Route Bag 5",
+    "Daylight Market Interior/Functional Fixtures/Town Exit",
+    "Daylight Market Interior/Functional Fixtures/Stock Crate",
+    "Graybox Town/Shop/Shop Door",
+    "Daylight Market Interior/Functional Fixtures/Golden Crackers Shelf",
+    "Town Workplaces/Route Bag 2",
+    "Daylight Market Interior/Functional Fixtures/Meadow Tea Shelf",
+    "Graybox Town/Sanitation Area/Mixed Sorting Bin",
+    "Daylight Market Interior/Functional Fixtures/Sunbeam Cola Shelf",
+    "Town Workplaces/Enter Daylight Market",
+    "Town Workplaces/Vehicle 1 Repair",
+    "Graybox Town/Sanitation Area/Paper Sorting Bin",
+    "Daylight Market Interior/Functional Fixtures/Closing Terminal",
+    "Graybox Town/Sanitation Area/Metal Sorting Bin",
+    "Town Workplaces/Parts Pickup Locker",
+    "Town Workplaces/Route Bag 1",
+    "Graybox Town/Garage/Service Desk",
+    "Graybox Town/Sanitation Area/Collection Route Desk",
+    "Town Workplaces/Parts Packing Counter",
+    "Daylight Market Interior/Functional Fixtures/Delivery Desk",
+    "Town Workplaces/Vehicle 0 Inspection",
+    "Daylight Market Interior/Functional Fixtures/Checkout",
+    "Town Workplaces/Route Bag 4",
+    "Town Workplaces/Vehicle 1 Inspection",
+    "Living Workday/Shipment",
+    "Living Workday/Dispatch",
+    "Living Workday/Parcel",
+    "Living Workday/Counter",
+    "Living Workday/Request",
+    "Living Workday/Hood",
+    "Living Workday/Probes",
+    "Living Workday/Terminal",
+    "Living Workday/Socket",
+    "Living Workday/Bay tray",
+    "Living Workday/Paper pickup",
+    "Living Workday/Metal pickup",
+    "Living Workday/Square pickup",
+    "Living Workday/Manifest",
+    "Living Workday/Paper chute",
+    "Living Workday/Mixed chute",
+    "Living Workday/Metal chute",
+    "Living Workday/Market reset",
+    "Living Workday/Garage reset",
+    "Living Workday/Yard reset",
+    "Living Workday/Shift report"
+  ],
+  "targetPoints": [
+    {
+      "x": -1.0,
+      "y": 0.45000001788139343,
+      "z": 7.800000190734863
+    },
+    {
+      "x": 6.400000095367432,
+      "y": 0.6499999761581421,
+      "z": 4.75
+    },
+    {
+      "x": 10.300000190734863,
+      "y": 0.6499999761581421,
+      "z": 8.199999809265137
+    },
+    {
+      "x": -10.0,
+      "y": 0.45000001788139343,
+      "z": 2.9000000953674316
+    },
+    {
+      "x": 10.850000381469727,
+      "y": 0.45000001788139343,
+      "z": 8.550000190734863
+    },
+    {
+      "x": -40.0,
+      "y": 0.6499999761581421,
+      "z": -0.10000000149011612
+    },
+    {
+      "x": -36.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    {
+      "x": -7.75,
+      "y": 0.9500000476837158,
+      "z": 3.380000114440918
+    },
+    {
+      "x": -38.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": 5.0,
+      "y": 0.45000001788139343,
+      "z": -6.800000190734863
+    },
+    {
+      "x": -40.0,
+      "y": 0.6499999761581421,
+      "z": 9.699999809265137
+    },
+    {
+      "x": 7.5,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": -42.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": -8.199999809265137,
+      "y": 0.6499999761581421,
+      "z": 4.199999809265137
+    },
+    {
+      "x": 9.600000381469727,
+      "y": 0.6499999761581421,
+      "z": 4.75
+    },
+    {
+      "x": 6.0,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 9.0,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": -10.800000190734863,
+      "y": 0.6499999761581421,
+      "z": 2.75
+    },
+    {
+      "x": 0.0,
+      "y": 0.45000001788139343,
+      "z": 11.0
+    },
+    {
+      "x": 8.0,
+      "y": 1.0999999046325684,
+      "z": 7.5
+    },
+    {
+      "x": 10.0,
+      "y": 1.0499999523162842,
+      "z": -6.0
+    },
+    {
+      "x": -35.900001525878906,
+      "y": 0.6499999761581421,
+      "z": 4.800000190734863
+    },
+    {
+      "x": -36.0,
+      "y": 0.6499999761581421,
+      "z": 10.300000190734863
+    },
+    {
+      "x": 5.349999904632568,
+      "y": 0.6499999761581421,
+      "z": 5.5
+    },
+    {
+      "x": -41.0,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 5.150000095367432,
+      "y": 0.45000001788139343,
+      "z": 8.550000190734863
+    },
+    {
+      "x": 10.649999618530273,
+      "y": 0.6499999761581421,
+      "z": 5.5
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.75,
+      "z": 4.900000095367432
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.75,
+      "z": 3.4000000953674316
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.8399999737739563,
+      "z": 3.4000000953674316
+    },
+    {
+      "x": -42.5,
+      "y": 0.75,
+      "z": 7.599999904632568
+    },
+    {
+      "x": 10.300000190734863,
+      "y": 0.75,
+      "z": 8.199999809265137
+    },
+    {
+      "x": 5.349999904632568,
+      "y": 0.75,
+      "z": 5.5
+    },
+    {
+      "x": 5.25,
+      "y": 0.8500000238418579,
+      "z": 4.699999809265137
+    },
+    {
+      "x": 6.349999904632568,
+      "y": 0.8399999737739563,
+      "z": 4.449999809265137
+    },
+    {
+      "x": 6.349999904632568,
+      "y": 0.8799999952316284,
+      "z": 4.449999809265137
+    },
+    {
+      "x": 4.699999809265137,
+      "y": 0.75,
+      "z": 6.800000190734863
+    },
+    {
+      "x": 5.099999904632568,
+      "y": 0.5,
+      "z": 8.550000190734863
+    },
+    {
+      "x": 5.800000190734863,
+      "y": 0.5,
+      "z": 8.550000190734863
+    },
+    {
+      "x": -1.0,
+      "y": 0.5,
+      "z": 7.800000190734863
+    },
+    {
+      "x": 10.0,
+      "y": 0.75,
+      "z": -6.0
+    },
+    {
+      "x": 6.0,
+      "y": 0.800000011920929,
+      "z": -8.5
+    },
+    {
+      "x": 7.5,
+      "y": 0.800000011920929,
+      "z": -8.5
+    },
+    {
+      "x": 9.0,
+      "y": 0.800000011920929,
+      "z": -8.5
+    },
+    {
+      "x": -38.0,
+      "y": 0.800000011920929,
+      "z": 7.199999809265137
+    },
+    {
+      "x": 10.399999618530273,
+      "y": 0.800000011920929,
+      "z": 6.800000190734863
+    },
+    {
+      "x": 10.600000381469727,
+      "y": 0.800000011920929,
+      "z": -8.300000190734863
+    },
+    {
+      "x": 0.0,
+      "y": 0.800000011920929,
+      "z": 4.699999809265137
+    }
+  ],
+  "cameras": 1,
+  "listeners": 1,
+  "inputs": 1,
+  "huds": 0,
+  "townHuds": 1,
+  "frameMilliseconds": 13.218204498291016,
+  "guidance": {
+    "job": "Sanitation",
+    "note": "Choose and collect a batch",
+    "detail": "E handles the work point. R chooses its alternative. Q returns a load. Each paper copy omits earlier handling.",
+    "objectives": [
+      {
+        "id": "Living Workday/Bay tray",
+        "title": "Place parcel",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": 4.699999809265137,
+          "y": 0.75,
+          "z": 6.800000190734863
+        }
+      },
+      {
+        "id": "Living Workday/Square pickup",
+        "title": "Lift square bag",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": -1.0,
+          "y": 0.5,
+          "z": 7.800000190734863
+        }
+      },
+      {
+        "id": "Living Workday/Manifest",
+        "title": "File manifest",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": 10.0,
+          "y": 0.75,
+          "z": -6.0
+        }
+      },
+      {
+        "id": "Living Workday/Paper chute",
+        "title": "Sort paper",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": 6.0,
+          "y": 0.800000011920929,
+          "z": -8.5
+        }
+      },
+      {
+        "id": "Living Workday/Mixed chute",
+        "title": "Sort mixed",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": 7.5,
+          "y": 0.800000011920929,
+          "z": -8.5
+        }
+      },
+      {
+        "id": "Living Workday/Metal chute",
+        "title": "Sort metal",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": 9.0,
+          "y": 0.800000011920929,
+          "z": -8.5
+        }
+      },
+      {
+        "id": "Living Workday/Market reset",
+        "title": "Reset workstation",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": -38.0,
+          "y": 0.800000011920929,
+          "z": 7.199999809265137
+        }
+      },
+      {
+        "id": "Living Workday/Garage reset",
+        "title": "Reset tool tray",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": 10.399999618530273,
+          "y": 0.800000011920929,
+          "z": 6.800000190734863
+        }
+      },
+      {
+        "id": "Living Workday/Yard reset",
+        "title": "Reset sorting station",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": 10.600000381469727,
+          "y": 0.800000011920929,
+          "z": -8.300000190734863
+        }
+      },
+      {
+        "id": "Living Workday/Shift report",
+        "title": "File living workday",
+        "icon": "recycle",
+        "active": true,
+        "position": {
+          "x": 0.0,
+          "y": 0.800000011920929,
+          "z": 4.699999809265137
+        }
+      }
+    ],
+    "mapPlayer": {
+      "x": 4.001785755157471,
+      "y": 0.025020984932780266,
+      "z": 6.795642852783203
+    },
+    "markerCount": 10,
+    "paperFraction": 0.11102816462516785,
+    "bookOpen": false,
+    "staffDesk": false,
+    "cursorLocked": false
+  },
+  "feedbackCount": 3,
+  "firstPerson": {
+    "active": true,
+    "hiddenBody": true,
+    "handsVisible": true,
+    "paused": false,
+    "gameplayActive": false,
+    "inputBlocked": false,
+    "mapBaked": true,
+    "mapExpanded": false,
+    "yaw": 0.0,
+    "pitch": 0.0,
+    "cameraHeight": 1.0,
+    "fov": 87.0,
+    "handPose": "idle",
+    "pausePage": "Main",
+    "gestures": 3,
+    "viewmodels": 1,
+    "visibleColleagues": 0,
+    "mapObjectives": 10,
+    "mapClamped": 6,
+    "remoteHeadsTurned": 0,
+    "pauseOpened": 0,
+    "sfx": 80,
+    "vSyncCount": 0,
+    "targetFrameRate": -1,
+    "qualityLevel": 0,
+    "listenerVolume": 1.0,
+    "sensitivity": 0.15723077952861786,
+    "screenWidth": 1280,
+    "screenHeight": 720,
+    "windowed": true,
+    "mapPlayer": {
+      "x": 139.0,
+      "y": 87.5
+    },
+    "cameraPosition": {
+      "x": 4.001785755157471,
+      "y": 1.025020956993103,
+      "z": 6.795642852783203
+    },
+    "remoteHandPose": "",
+    "internalWidth": 1280,
+    "internalHeight": 720,
+    "renderSamples": 1,
+    "renderScale": 1.0,
+    "cadence": 1.0,
+    "townPhase": 0.4911549389362335,
+    "townClock": 90.69295629407279,
+    "dynamicResolution": false,
+    "serverClock": true,
+    "mapMarkerIds": [
+      "Living Workday/Bay tray",
+      "Living Workday/Square pickup",
+      "Living Workday/Manifest",
+      "Living Workday/Paper chute",
+      "Living Workday/Mixed chute",
+      "Living Workday/Metal chute",
+      "Living Workday/Market reset",
+      "Living Workday/Garage reset",
+      "Living Workday/Yard reset",
+      "Living Workday/Shift report"
+    ],
+    "mapMarkerWorld": [
+      {
+        "x": 4.699999809265137,
+        "y": 0.75,
+        "z": 6.800000190734863
+      },
+      {
+        "x": -1.0,
+        "y": 0.5,
+        "z": 7.800000190734863
+      },
+      {
+        "x": 10.0,
+        "y": 0.75,
+        "z": -6.0
+      },
+      {
+        "x": 6.0,
+        "y": 0.800000011920929,
+        "z": -8.5
+      },
+      {
+        "x": 7.5,
+        "y": 0.800000011920929,
+        "z": -8.5
+      },
+      {
+        "x": 9.0,
+        "y": 0.800000011920929,
+        "z": -8.5
+      },
+      {
+        "x": -8.199999809265137,
+        "y": 0.6499999761581421,
+        "z": 4.199999809265137
+      },
+      {
+        "x": 10.399999618530273,
+        "y": 0.800000011920929,
+        "z": 6.800000190734863
+      },
+      {
+        "x": 10.600000381469727,
+        "y": 0.800000011920929,
+        "z": -8.300000190734863
+      },
+      {
+        "x": 0.0,
+        "y": 0.800000011920929,
+        "z": 4.699999809265137
+      }
+    ]
+  }
+}

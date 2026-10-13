@@ -1,0 +1,25 @@
+{
+  "builtFiles": [
+    {
+      "path": "Builds/Phase7B/BusinessAsUsual.exe",
+      "exists": true,
+      "sha256": "b7cca8b82003185f22644d0ee1c23b3640de1b996802d4f5d0501e287011afa6"
+    },
+    {
+      "path": "Builds/Phase7B/BusinessAsUsual_Data/Managed/Assembly-CSharp.dll",
+      "exists": true,
+      "sha256": "3019f17c37cd668246463f519ffafcef068ebd88e5c9278378ca71b21b694164"
+    },
+    {
+      "path": "Builds/Phase7B/BusinessAsUsual_Data/globalgamemanagers",
+      "exists": true,
+      "sha256": "07fb370c45d57677adc56717b0e4805687368d5bbbee7eb67eac09fb28854ad5"
+    },
+    {
+      "path": "Builds/Phase7B-Phase5Regression/BusinessAsUsual_Data/Managed/Assembly-CSharp.dll",
+      "exists": true,
+      "sha256": "3019f17c37cd668246463f519ffafcef068ebd88e5c9278378ca71b21b694164"
+    }
+  ],
+  "stampedUtc": "2026-10-11T15:58:03.354054+00:00"
+}

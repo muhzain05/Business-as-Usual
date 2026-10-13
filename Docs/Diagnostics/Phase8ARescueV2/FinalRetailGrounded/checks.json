@@ -1,0 +1,46 @@
+[
+  {
+    "name": "one_real_solo_player",
+    "passed": true
+  },
+  {
+    "name": "walking_threshold_retains_same_parcel",
+    "passed": true
+  },
+  {
+    "name": "conserved_battery_parcel_delivered",
+    "passed": true
+  },
+  {
+    "name": "stock_matches_printed_shelf_0",
+    "passed": true
+  },
+  {
+    "name": "physical_checkout_0",
+    "passed": true
+  },
+  {
+    "name": "stock_matches_printed_shelf_1",
+    "passed": true
+  },
+  {
+    "name": "physical_checkout_1",
+    "passed": true
+  },
+  {
+    "name": "stock_matches_printed_shelf_2",
+    "passed": true
+  },
+  {
+    "name": "physical_checkout_2",
+    "passed": true
+  },
+  {
+    "name": "retail_receipts_have_partial_scope",
+    "passed": true
+  },
+  {
+    "name": "full_shopkeeper_solo_shift_completed",
+    "passed": true
+  }
+]

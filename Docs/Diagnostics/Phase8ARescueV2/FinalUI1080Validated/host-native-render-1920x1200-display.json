@@ -1,0 +1,228 @@
+{
+    "screen": "Display",
+    "action": "Open hood",
+    "headingFont": "",
+    "tab": 0,
+    "records": 0,
+    "menuOpen": true,
+    "reference": {
+        "x": 1280.0,
+        "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+        {
+            "value": "Display & performance",
+            "font": "Display",
+            "at": {
+                "x": 514.1198120117188,
+                "y": 917.8094482421875
+            },
+            "size": {
+                "x": 891.7617797851563,
+                "y": 71.14996337890625
+            },
+            "preferred": {
+                "x": 307.80999755859377,
+                "y": 36.0099983215332
+            },
+            "pointSize": 30.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "1280 × 720",
+            "font": "ReadingBold",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 807.1290283203125
+            },
+            "size": {
+                "x": 398.44732666015627,
+                "y": 66.40789794921875
+            },
+            "preferred": {
+                "x": 94.87999725341797,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "1366 × 768",
+            "font": "ReadingBold",
+            "at": {
+                "x": 988.4599609375,
+                "y": 807.1290283203125
+            },
+            "size": {
+                "x": 398.4473876953125,
+                "y": 66.40789794921875
+            },
+            "preferred": {
+                "x": 95.33000183105469,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "1920 × 1080",
+            "font": "ReadingBold",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 721.7489624023438
+            },
+            "size": {
+                "x": 398.44732666015627,
+                "y": 66.40606689453125
+            },
+            "preferred": {
+                "x": 104.45999908447266,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "1920 × 1200",
+            "font": "ReadingBold",
+            "at": {
+                "x": 988.4599609375,
+                "y": 721.7489624023438
+            },
+            "size": {
+                "x": 398.4473876953125,
+                "y": 66.40606689453125
+            },
+            "preferred": {
+                "x": 103.76000213623047,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "MODE / WINDOWED",
+            "font": "Labels",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 611.068603515625
+            },
+            "size": {
+                "x": 853.8145141601563,
+                "y": 66.406982421875
+            },
+            "preferred": {
+                "x": 172.86000061035157,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "QUALITY / High",
+            "font": "Labels",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 525.6876220703125
+            },
+            "size": {
+                "x": 853.8145141601563,
+                "y": 66.40704345703125
+            },
+            "preferred": {
+                "x": 130.24000549316407,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "V-SYNC / ON",
+            "font": "Labels",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 440.304931640625
+            },
+            "size": {
+                "x": 853.8145141601563,
+                "y": 66.406982421875
+            },
+            "preferred": {
+                "x": 108.80000305175781,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "FRAME LIMIT / NONE",
+            "font": "Labels",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 354.9239807128906
+            },
+            "size": {
+                "x": 853.8145141601563,
+                "y": 66.406982421875
+            },
+            "preferred": {
+                "x": 182.08999633789063,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "INVERT LOOK / OFF",
+            "font": "Labels",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 269.5430908203125
+            },
+            "size": {
+                "x": 853.8145141601563,
+                "y": 66.406982421875
+            },
+            "preferred": {
+                "x": 166.11000061035157,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "BACK",
+            "font": "Labels",
+            "at": {
+                "x": 533.0912475585938,
+                "y": 195.22894287109376
+            },
+            "size": {
+                "x": 215.03582763671876,
+                "y": 47.43394470214844
+            },
+            "preferred": {
+                "x": 48.970001220703128,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        }
+    ],
+    "handPose": "Idle",
+    "interaction": "",
+    "authoredGestures": 1,
+    "authoredHandsVisible": true
+}

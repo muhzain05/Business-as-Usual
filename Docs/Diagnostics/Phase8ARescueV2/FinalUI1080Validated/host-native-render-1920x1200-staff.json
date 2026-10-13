@@ -1,0 +1,247 @@
+{
+    "screen": "Staff",
+    "action": "Open hood",
+    "headingFont": "",
+    "tab": 0,
+    "records": 0,
+    "menuOpen": true,
+    "reference": {
+        "x": 1280.0,
+        "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+        {
+            "value": "STAFF DESK",
+            "font": "Labels",
+            "at": {
+                "x": 450.8726806640625,
+                "y": 919.39013671875
+            },
+            "size": {
+                "x": 1018.2518310546875,
+                "y": 37.94793701171875
+            },
+            "preferred": {
+                "x": 83.18000030517578,
+                "y": 16.809999465942384
+            },
+            "pointSize": 14.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "What is your job?",
+            "font": "Display",
+            "at": {
+                "x": 450.8726806640625,
+                "y": 834.00830078125
+            },
+            "size": {
+                "x": 1018.2518310546875,
+                "y": 71.14996337890625
+            },
+            "preferred": {
+                "x": 242.33999633789063,
+                "y": 38.40999984741211
+            },
+            "pointSize": 32.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Shopkeeper",
+            "font": "Labels",
+            "at": {
+                "x": 469.84698486328127,
+                "y": 520.944580078125
+            },
+            "size": {
+                "x": 284.6043701171875,
+                "y": 49.0146484375
+            },
+            "preferred": {
+                "x": 136.75999450683595,
+                "y": 27.610000610351564
+            },
+            "pointSize": 23.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Stock · serve · supply",
+            "font": "Reading",
+            "at": {
+                "x": 469.84698486328127,
+                "y": 437.14349365234377
+            },
+            "size": {
+                "x": 284.6043701171875,
+                "y": 67.9886474609375
+            },
+            "preferred": {
+                "x": 147.63999938964845,
+                "y": 19.850000381469728
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "1  START",
+            "font": "ReadingBold",
+            "at": {
+                "x": 488.8198547363281,
+                "y": 375.477783203125
+            },
+            "size": {
+                "x": 246.65719604492188,
+                "y": 60.084136962890628
+            },
+            "preferred": {
+                "x": 75.94000244140625,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Mechanic",
+            "font": "Labels",
+            "at": {
+                "x": 814.53564453125,
+                "y": 520.944580078125
+            },
+            "size": {
+                "x": 284.6043701171875,
+                "y": 49.0146484375
+            },
+            "preferred": {
+                "x": 110.29000091552735,
+                "y": 27.610000610351564
+            },
+            "pointSize": 23.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Inspect · repair · verify",
+            "font": "Reading",
+            "at": {
+                "x": 814.53564453125,
+                "y": 437.14349365234377
+            },
+            "size": {
+                "x": 284.6043701171875,
+                "y": 67.9886474609375
+            },
+            "preferred": {
+                "x": 158.0399932861328,
+                "y": 19.850000381469728
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "2  START",
+            "font": "ReadingBold",
+            "at": {
+                "x": 833.5084838867188,
+                "y": 375.477783203125
+            },
+            "size": {
+                "x": 246.65728759765626,
+                "y": 60.084136962890628
+            },
+            "preferred": {
+                "x": 78.43000030517578,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Sanitation",
+            "font": "Labels",
+            "at": {
+                "x": 1159.221435546875,
+                "y": 520.944580078125
+            },
+            "size": {
+                "x": 284.60595703125,
+                "y": 49.0146484375
+            },
+            "preferred": {
+                "x": 116.29000091552735,
+                "y": 27.610000610351564
+            },
+            "pointSize": 23.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Collect · sort · recover",
+            "font": "Reading",
+            "at": {
+                "x": 1159.221435546875,
+                "y": 437.14349365234377
+            },
+            "size": {
+                "x": 284.60595703125,
+                "y": 67.9886474609375
+            },
+            "preferred": {
+                "x": 153.5,
+                "y": 19.850000381469728
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "3  START",
+            "font": "ReadingBold",
+            "at": {
+                "x": 1178.19580078125,
+                "y": 375.477783203125
+            },
+            "size": {
+                "x": 246.6572265625,
+                "y": 60.084136962890628
+            },
+            "preferred": {
+                "x": 78.7699966430664,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "One window. Choose a job and complete its shift.",
+            "font": "Reading",
+            "at": {
+                "x": 450.8726806640625,
+                "y": 228.4329071044922
+            },
+            "size": {
+                "x": 1018.2518310546875,
+                "y": 37.94697570800781
+            },
+            "preferred": {
+                "x": 345.92999267578127,
+                "y": 19.850000381469728
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        }
+    ],
+    "handPose": "Idle",
+    "interaction": "",
+    "authoredGestures": 1,
+    "authoredHandsVisible": true
+}

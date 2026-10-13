@@ -1,0 +1,18 @@
+[
+  {
+    "name": "native_staff_desk_1280x720",
+    "passed": true
+  },
+  {
+    "name": "native_staff_desk_1920x1080",
+    "passed": true
+  },
+  {
+    "name": "native_staff_desk_1366x768",
+    "passed": true
+  },
+  {
+    "name": "native_staff_desk_1280x800",
+    "passed": true
+  }
+]

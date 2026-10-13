@@ -1,0 +1,1155 @@
+{
+  "role": "host",
+  "status": "HOST / Sunny 0 / 1 players",
+  "feedback": "Assigned: Mechanic",
+  "currentTarget": "",
+  "listening": true,
+  "connected": true,
+  "host": true,
+  "localCarried": false,
+  "localId": 0,
+  "serial": 21,
+  "snapshots": 2,
+  "bytes": 9408,
+  "accepted": 1,
+  "rejected": 0,
+  "players": [
+    {
+      "id": 1,
+      "owner": 0,
+      "local": true,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "bodyVisible": false,
+      "position": {
+        "x": -1.125,
+        "y": 0.024999871850013733,
+        "z": -0.800000011920929
+      },
+      "leftFoot": {
+        "x": -0.12874817848205566,
+        "y": 0.15808731317520142,
+        "z": -0.03349226713180542
+      },
+      "speed": 0.0,
+      "lookYaw": 0.0,
+      "lookPitch": 0.0,
+      "facing": 0.0,
+      "inputs": 403
+    }
+  ],
+  "state": {
+    "revision": 1,
+    "orderIndex": 0,
+    "received": false,
+    "closed": false,
+    "dropped": false,
+    "holder": 18446744073709551615,
+    "message": "Town ledger updated.",
+    "quantities": [
+      6,
+      6,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "progress": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movements": [],
+    "receipts": [],
+    "cratePosition": {
+      "x": -36.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    "crateRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "doorIds": [
+      "Graybox Town/Shop/Shop Door"
+    ],
+    "workIds": [],
+    "doorOpen": [
+      false
+    ],
+    "workUses": [],
+    "town": {
+      "owners": [
+        18446744073709551615,
+        0,
+        18446744073709551615,
+        18446744073709551615,
+        18446744073709551615,
+        18446744073709551615
+      ],
+      "started": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "completed": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mechanicProgress": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sanitationProgress": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "quantities": [
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "partsRequested": false,
+      "services": [
+        {
+          "id": "SV-001",
+          "vehicle": "Mikan delivery van",
+          "fault": "Weak battery",
+          "part": "battery",
+          "inspected": false,
+          "repaired": false,
+          "recorded": false
+        },
+        {
+          "id": "SV-002",
+          "vehicle": "Municipal mini truck",
+          "fault": "Clogged oil filter",
+          "part": "filter",
+          "inspected": false,
+          "repaired": false,
+          "recorded": false
+        }
+      ],
+      "bags": [
+        {
+          "id": "WB-001",
+          "source": "Town Square",
+          "materialType": "Paper",
+          "objectDescription": "Ordinary packaging",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": -1.0,
+            "y": 0.30000001192092896,
+            "z": 7.800000190734863
+          },
+          "position": {
+            "x": -1.0,
+            "y": 0.30000001192092896,
+            "z": 7.800000190734863
+          }
+        },
+        {
+          "id": "WB-002",
+          "source": "Back Alley",
+          "materialType": "Mixed",
+          "objectDescription": "Discarded umbrella and wrappers",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 0.0,
+            "y": 0.30000001192092896,
+            "z": 11.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.30000001192092896,
+            "z": 11.0
+          }
+        },
+        {
+          "id": "WB-003",
+          "source": "Sanitation Yard",
+          "materialType": "Metal",
+          "objectDescription": "Ordinary packaging",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 5.0,
+            "y": 0.30000001192092896,
+            "z": -6.800000190734863
+          },
+          "position": {
+            "x": 5.0,
+            "y": 0.30000001192092896,
+            "z": -6.800000190734863
+          }
+        },
+        {
+          "id": "WB-004",
+          "source": "Daylight Market",
+          "materialType": "Paper",
+          "objectDescription": "Ordinary packaging",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": -10.0,
+            "y": 0.30000001192092896,
+            "z": 2.9000000953674316
+          },
+          "position": {
+            "x": -10.0,
+            "y": 0.30000001192092896,
+            "z": 2.9000000953674316
+          }
+        },
+        {
+          "id": "WB-005",
+          "source": "Garage",
+          "materialType": "Metal",
+          "objectDescription": "Replaced vehicle parts",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 5.150000095367432,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          },
+          "position": {
+            "x": 5.150000095367432,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          }
+        },
+        {
+          "id": "WB-006",
+          "source": "Garage",
+          "materialType": "Metal",
+          "objectDescription": "Replaced vehicle parts",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 10.850000381469727,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          },
+          "position": {
+            "x": 10.850000381469727,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          }
+        }
+      ],
+      "serviceRecords": [],
+      "disposalRecords": [],
+      "movements": [],
+      "message": "Town work updated.",
+      "works": [
+        {
+          "worker": 18446744073709551615,
+          "target": "",
+          "started": 0.0,
+          "duration": 0.0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "worker": 18446744073709551615,
+          "target": "",
+          "started": 0.0,
+          "duration": 0.0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "contribution": 0,
+      "assistantProfession": 1
+    },
+    "workday": {
+      "items": [
+        {
+          "id": "PART-8A-001",
+          "material": "battery",
+          "custody": "shipment",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "PACK-8A-001",
+          "material": "paper",
+          "custody": "shipment",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "OLD-8A-001",
+          "material": "metal",
+          "custody": "vehicle",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "BAG-8A-001",
+          "material": "paper",
+          "custody": "square",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "ORDER-8A-001",
+          "material": "stock",
+          "custody": "counter",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "ORDER-8A-002",
+          "material": "stock",
+          "custody": "counter",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        },
+        {
+          "id": "ORDER-8A-003",
+          "material": "stock",
+          "custody": "counter",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false
+        }
+      ],
+      "received": false,
+      "verified": false,
+      "requested": false,
+      "prepared": false,
+      "dispatched": false,
+      "diagnosed": false,
+      "loadChecked": false,
+      "hood": false,
+      "released": false,
+      "installed": false,
+      "bench": false,
+      "closed": false,
+      "customerOrders": 0,
+      "bolts": 0,
+      "stability": 5,
+      "cleaned": 0,
+      "assisted": 0,
+      "checkSamples": 0,
+      "durationSeconds": 480.0,
+      "requestedAt": 0.0,
+      "began": 0.0,
+      "gateUntil": 0.0,
+      "priority": "garage",
+      "collectionOrder": "paper",
+      "records": []
+    }
+  },
+  "targetIds": [
+    "Town Workplaces/Route Bag 1",
+    "Daylight Market Interior/Functional Fixtures/Stock Crate",
+    "Daylight Market Interior/Functional Fixtures/Golden Crackers Shelf",
+    "Town Workplaces/Parts Packing Counter",
+    "Town Workplaces/Vehicle 0 Inspection",
+    "Town Workplaces/Parts Request Slip",
+    "Daylight Market Interior/Functional Fixtures/Sunbeam Cola Shelf",
+    "Graybox Town/Shop/Shop Door",
+    "Town Workplaces/Parts Pickup Locker",
+    "Graybox Town/Sanitation Area/Collection Route Desk",
+    "Daylight Market Interior/Functional Fixtures/Checkout",
+    "Town Workplaces/Route Bag 5",
+    "Daylight Market Interior/Functional Fixtures/Town Exit",
+    "Town Workplaces/Enter Daylight Market",
+    "Daylight Market Interior/Functional Fixtures/Delivery Desk",
+    "Graybox Town/Sanitation Area/Paper Sorting Bin",
+    "Town Workplaces/Vehicle 0 Repair",
+    "Town Workplaces/Vehicle 1 Inspection",
+    "Town Workplaces/Route Bag 2",
+    "Daylight Market Interior/Functional Fixtures/Meadow Tea Shelf",
+    "Town Workplaces/Route Bag 3",
+    "Daylight Market Interior/Functional Fixtures/Closing Terminal",
+    "Graybox Town/Sanitation Area/Mixed Sorting Bin",
+    "Town Workplaces/Route Bag 4",
+    "Graybox Town/Garage/Service Desk",
+    "Town Workplaces/Route Bag 0",
+    "Town Workplaces/Vehicle 1 Repair",
+    "Graybox Town/Sanitation Area/Metal Sorting Bin",
+    "Living Workday/Shipment",
+    "Living Workday/Dispatch",
+    "Living Workday/Parcel",
+    "Living Workday/Counter",
+    "Living Workday/Request",
+    "Living Workday/Hood",
+    "Living Workday/Probes",
+    "Living Workday/Terminal",
+    "Living Workday/Socket",
+    "Living Workday/Bay tray",
+    "Living Workday/Paper pickup",
+    "Living Workday/Metal pickup",
+    "Living Workday/Square pickup",
+    "Living Workday/Manifest",
+    "Living Workday/Yard intake",
+    "Living Workday/Paper chute",
+    "Living Workday/Mixed chute",
+    "Living Workday/Metal chute",
+    "Living Workday/Market reset",
+    "Living Workday/Garage reset",
+    "Living Workday/Yard reset",
+    "Living Workday/Shift report"
+  ],
+  "targetPoints": [
+    {
+      "x": 0.0,
+      "y": 0.45000001788139343,
+      "z": 11.0
+    },
+    {
+      "x": -36.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    {
+      "x": -38.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": -35.900001525878906,
+      "y": 0.6499999761581421,
+      "z": 4.800000190734863
+    },
+    {
+      "x": 5.349999904632568,
+      "y": 0.6499999761581421,
+      "z": 5.5
+    },
+    {
+      "x": 10.300000190734863,
+      "y": 0.6499999761581421,
+      "z": 8.199999809265137
+    },
+    {
+      "x": -42.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": -7.75,
+      "y": 0.9500000476837158,
+      "z": 3.380000114440918
+    },
+    {
+      "x": -10.800000190734863,
+      "y": 0.6499999761581421,
+      "z": 2.75
+    },
+    {
+      "x": 10.0,
+      "y": 1.0499999523162842,
+      "z": -6.0
+    },
+    {
+      "x": -41.0,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 10.850000381469727,
+      "y": 0.45000001788139343,
+      "z": 8.550000190734863
+    },
+    {
+      "x": -40.0,
+      "y": 0.6499999761581421,
+      "z": -0.10000000149011612
+    },
+    {
+      "x": -8.199999809265137,
+      "y": 0.6499999761581421,
+      "z": 4.199999809265137
+    },
+    {
+      "x": -36.0,
+      "y": 0.6499999761581421,
+      "z": 10.300000190734863
+    },
+    {
+      "x": 6.0,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": 6.400000095367432,
+      "y": 0.6499999761581421,
+      "z": 4.75
+    },
+    {
+      "x": 10.649999618530273,
+      "y": 0.6499999761581421,
+      "z": 5.5
+    },
+    {
+      "x": 5.0,
+      "y": 0.45000001788139343,
+      "z": -6.800000190734863
+    },
+    {
+      "x": -40.0,
+      "y": 0.6499999761581421,
+      "z": 9.699999809265137
+    },
+    {
+      "x": -10.0,
+      "y": 0.45000001788139343,
+      "z": 2.9000000953674316
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 7.5,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": 5.150000095367432,
+      "y": 0.45000001788139343,
+      "z": 8.550000190734863
+    },
+    {
+      "x": 8.0,
+      "y": 1.0999999046325684,
+      "z": 7.5
+    },
+    {
+      "x": -1.0,
+      "y": 0.45000001788139343,
+      "z": 7.800000190734863
+    },
+    {
+      "x": 9.600000381469727,
+      "y": 0.6499999761581421,
+      "z": 4.75
+    },
+    {
+      "x": 9.0,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.75,
+      "z": 4.900000095367432
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.75,
+      "z": 3.4000000953674316
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.8399999737739563,
+      "z": 3.4000000953674316
+    },
+    {
+      "x": -42.5,
+      "y": 0.75,
+      "z": 7.599999904632568
+    },
+    {
+      "x": 10.300000190734863,
+      "y": 0.75,
+      "z": 8.199999809265137
+    },
+    {
+      "x": 5.349999904632568,
+      "y": 0.75,
+      "z": 5.5
+    },
+    {
+      "x": 5.25,
+      "y": 0.8500000238418579,
+      "z": 4.699999809265137
+    },
+    {
+      "x": 6.349999904632568,
+      "y": 0.8399999737739563,
+      "z": 4.449999809265137
+    },
+    {
+      "x": 6.349999904632568,
+      "y": 0.8799999952316284,
+      "z": 4.449999809265137
+    },
+    {
+      "x": 5.050000190734863,
+      "y": 0.75,
+      "z": 6.800000190734863
+    },
+    {
+      "x": 5.099999904632568,
+      "y": 0.5,
+      "z": 8.550000190734863
+    },
+    {
+      "x": 5.800000190734863,
+      "y": 0.5,
+      "z": 8.550000190734863
+    },
+    {
+      "x": -1.0,
+      "y": 0.5,
+      "z": 7.800000190734863
+    },
+    {
+      "x": 10.0,
+      "y": 0.8999999761581421,
+      "z": -6.480000019073486
+    },
+    {
+      "x": 10.0,
+      "y": 0.6499999761581421,
+      "z": -7.0
+    },
+    {
+      "x": 6.0,
+      "y": 1.149999976158142,
+      "z": -7.980000019073486
+    },
+    {
+      "x": 7.5,
+      "y": 1.149999976158142,
+      "z": -7.980000019073486
+    },
+    {
+      "x": 9.0,
+      "y": 1.149999976158142,
+      "z": -7.980000019073486
+    },
+    {
+      "x": -38.0,
+      "y": 0.800000011920929,
+      "z": 7.199999809265137
+    },
+    {
+      "x": 10.800000190734863,
+      "y": 0.800000011920929,
+      "z": 6.800000190734863
+    },
+    {
+      "x": 10.600000381469727,
+      "y": 0.800000011920929,
+      "z": -8.300000190734863
+    },
+    {
+      "x": 0.0,
+      "y": 0.800000011920929,
+      "z": 4.699999809265137
+    }
+  ],
+  "cameras": 1,
+  "listeners": 1,
+  "inputs": 1,
+  "huds": 0,
+  "townHuds": 1,
+  "frameMilliseconds": 4.081596851348877,
+  "guidance": {
+    "job": "Mechanic",
+    "note": "Request a garage battery",
+    "detail": "Go to the garage request plate beside the rear crate and press E. The market supplies the same battery you will install.",
+    "objectives": [
+      {
+        "id": "Living Workday/Request",
+        "title": "Request battery",
+        "icon": "wrench",
+        "active": true,
+        "position": {
+          "x": 10.300000190734863,
+          "y": 0.75,
+          "z": 8.199999809265137
+        }
+      }
+    ],
+    "mapPlayer": {
+      "x": -1.125,
+      "y": 0.024999871850013733,
+      "z": -0.800000011920929
+    },
+    "markerCount": 0,
+    "paperFraction": 0.11102816462516785,
+    "bookOpen": true,
+    "staffDesk": false,
+    "cursorLocked": false
+  },
+  "feedbackCount": 1,
+  "firstPerson": {
+    "active": true,
+    "hiddenBody": true,
+    "handsVisible": true,
+    "paused": false,
+    "gameplayActive": false,
+    "inputBlocked": true,
+    "mapBaked": true,
+    "mapExpanded": false,
+    "yaw": 0.0,
+    "pitch": 0.0,
+    "cameraHeight": 1.0,
+    "fov": 92.0,
+    "handPose": "idle",
+    "pausePage": "Main",
+    "gestures": 0,
+    "viewmodels": 1,
+    "visibleColleagues": 0,
+    "mapObjectives": 0,
+    "mapClamped": 0,
+    "remoteHeadsTurned": 0,
+    "pauseOpened": 0,
+    "sfx": 6,
+    "vSyncCount": 1,
+    "targetFrameRate": -1,
+    "qualityLevel": 1,
+    "listenerVolume": 1.0,
+    "sensitivity": 0.11999999731779099,
+    "screenWidth": 1280,
+    "screenHeight": 720,
+    "windowed": true,
+    "mapPlayer": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cameraPosition": {
+      "x": -1.125,
+      "y": 1.0249998569488525,
+      "z": -0.800000011920929
+    },
+    "remoteHandPose": "",
+    "internalWidth": 1280,
+    "internalHeight": 720,
+    "renderSamples": 1,
+    "renderScale": 1.0,
+    "cadence": 1.0,
+    "townPhase": 0.3653354346752167,
+    "townClock": 15.201253838479715,
+    "dynamicResolution": false,
+    "serverClock": true,
+    "mapMarkerIds": [
+      "Living Workday/Request"
+    ],
+    "mapMarkerWorld": [
+      {
+        "x": 10.300000190734863,
+        "y": 0.75,
+        "z": 8.199999809265137
+      }
+    ]
+  },
+  "workRecords": [],
+  "serverAuditCount": 0,
+  "workSupport": [
+    0,
+    0,
+    0
+  ],
+  "rescueUI": {
+    "screen": "Handbook",
+    "action": "Request battery",
+    "headingFont": "",
+    "tab": 3,
+    "records": 0,
+    "menuOpen": true,
+    "reference": {
+      "x": 1280.0,
+      "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+      {
+        "value": "MECHANIC / STAFF COPY",
+        "font": "Labels",
+        "at": {
+          "x": 344.0,
+          "y": 574.0001831054688
+        },
+        "size": {
+          "x": 494.0,
+          "y": 21.0
+        },
+        "preferred": {
+          "x": 170.74000549316406,
+          "y": 16.809999465942383
+        },
+        "pointSize": 14.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Town today",
+        "font": "Display",
+        "at": {
+          "x": 344.0,
+          "y": 531.0001831054688
+        },
+        "size": {
+          "x": 494.0,
+          "y": 38.0
+        },
+        "preferred": {
+          "x": 164.0399932861328,
+          "y": 38.40999984741211
+        },
+        "pointSize": 32.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "\u00c3\u2014",
+        "font": "Labels",
+        "at": {
+          "x": 893.0,
+          "y": 551.0001831054688
+        },
+        "size": {
+          "x": 31.0,
+          "y": 42.0
+        },
+        "preferred": {
+          "x": 9.529999732971191,
+          "y": 21.610000610351562
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "JOB",
+        "font": "Labels",
+        "at": {
+          "x": 356.0,
+          "y": 488.00018310546875
+        },
+        "size": {
+          "x": 118.0,
+          "y": 40.0
+        },
+        "preferred": {
+          "x": 32.08000183105469,
+          "y": 21.610000610351562
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "ITEMS",
+        "font": "Labels",
+        "at": {
+          "x": 506.0,
+          "y": 488.00018310546875
+        },
+        "size": {
+          "x": 118.0,
+          "y": 40.0
+        },
+        "preferred": {
+          "x": 55.56999969482422,
+          "y": 21.610000610351562
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "RECORDS",
+        "font": "Labels",
+        "at": {
+          "x": 656.0,
+          "y": 488.00018310546875
+        },
+        "size": {
+          "x": 118.0,
+          "y": 40.0
+        },
+        "preferred": {
+          "x": 85.18000030517578,
+          "y": 21.610000610351562
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "TOWN",
+        "font": "Labels",
+        "at": {
+          "x": 806.0,
+          "y": 488.00018310546875
+        },
+        "size": {
+          "x": 118.0,
+          "y": 40.0
+        },
+        "preferred": {
+          "x": 54.560001373291016,
+          "y": 21.610000610351562
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Supply  5 / 20",
+        "font": "Display",
+        "at": {
+          "x": 503.0,
+          "y": 403.00018310546875
+        },
+        "size": {
+          "x": 400.0,
+          "y": 39.0
+        },
+        "preferred": {
+          "x": 166.17999267578125,
+          "y": 33.61000061035156
+        },
+        "pointSize": 28.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "SOLO / TOWN SERVICES ACTIVE",
+        "font": "Labels",
+        "at": {
+          "x": 503.0,
+          "y": 350.00018310546875
+        },
+        "size": {
+          "x": 409.0,
+          "y": 40.0
+        },
+        "preferred": {
+          "x": 244.97000122070312,
+          "y": 19.209999084472656
+        },
+        "pointSize": 16.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Customer orders",
+        "font": "Labels",
+        "at": {
+          "x": 344.0,
+          "y": 277.00018310546875
+        },
+        "size": {
+          "x": 440.0,
+          "y": 30.0
+        },
+        "preferred": {
+          "x": 165.8699951171875,
+          "y": 24.010000228881836
+        },
+        "pointSize": 20.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "0 / 3",
+        "font": "ReadingBold",
+        "at": {
+          "x": 819.0,
+          "y": 277.00018310546875
+        },
+        "size": {
+          "x": 117.0,
+          "y": 30.0
+        },
+        "preferred": {
+          "x": 46.790000915527344,
+          "y": 24.799999237060547
+        },
+        "pointSize": 20.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Repair",
+        "font": "Labels",
+        "at": {
+          "x": 344.0,
+          "y": 233.00018310546875
+        },
+        "size": {
+          "x": 440.0,
+          "y": 30.0
+        },
+        "preferred": {
+          "x": 64.05999755859375,
+          "y": 24.010000228881836
+        },
+        "pointSize": 20.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "OPEN",
+        "font": "Labels",
+        "at": {
+          "x": 819.0,
+          "y": 233.00018310546875
+        },
+        "size": {
+          "x": 117.0,
+          "y": 30.0
+        },
+        "preferred": {
+          "x": 55.41999816894531,
+          "y": 24.010000228881836
+        },
+        "pointSize": 20.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Waste filed",
+        "font": "Labels",
+        "at": {
+          "x": 344.0,
+          "y": 189.00018310546875
+        },
+        "size": {
+          "x": 440.0,
+          "y": 30.0
+        },
+        "preferred": {
+          "x": 109.68000030517578,
+          "y": 24.010000228881836
+        },
+        "pointSize": 20.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "0 / 3",
+        "font": "ReadingBold",
+        "at": {
+          "x": 819.0,
+          "y": 189.00018310546875
+        },
+        "size": {
+          "x": 117.0,
+          "y": 30.0
+        },
+        "preferred": {
+          "x": 46.790000915527344,
+          "y": 24.799999237060547
+        },
+        "pointSize": 20.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Tab  Close     H  Illustrated help",
+        "font": "Reading",
+        "at": {
+          "x": 344.0,
+          "y": 118.00018310546875
+        },
+        "size": {
+          "x": 400.0,
+          "y": 22.0
+        },
+        "preferred": {
+          "x": 195.19000244140625,
+          "y": 17.3700008392334
+        },
+        "pointSize": 14.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "HELP",
+        "font": "Labels",
+        "at": {
+          "x": 831.0,
+          "y": 119.00018310546875
+        },
+        "size": {
+          "x": 93.0,
+          "y": 30.0
+        },
+        "preferred": {
+          "x": 45.11000061035156,
+          "y": 21.610000610351562
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      }
+    ]
+  }
+}

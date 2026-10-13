@@ -1,0 +1,12 @@
+[
+  {
+    "name": "main_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "Timeout; {'host': ''}"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "four_actual_processes_connected",
+    "passed": true
+  },
+  {
+    "name": "four_player_roster_UI_updates_after_other_clients_join",
+    "passed": true
+  },
+  {
+    "name": "one_owned_camera_listener_input_hud_each",
+    "passed": true
+  },
+  {
+    "name": "staff_desk_keyboard_assignment",
+    "passed": true
+  },
+  {
+    "name": "three_leads_and_shared_assistant",
+    "passed": true
+  },
+  {
+    "name": "assistant_cannot_steal_lead",
+    "passed": true
+  },
+  {
+    "name": "all_four_have_independent_fallback_work",
+    "passed": true
+  },
+  {
+    "name": "shipment_verification_and_preparation",
+    "passed": true
+  },
+  {
+    "name": "duplicate_sequence_one_custody_change",
+    "passed": true
+  },
+  {
+    "name": "disconnect_recovers_parcel_and_assistant_slot",
+    "passed": true
+  },
+  {
+    "name": "rejoin_restores_shared_workday",
+    "passed": true
+  },
+  {
+    "name": "optional_gate_assist_saves_solo_open_step",
+    "passed": true
+  },
+  {
+    "name": "first_person_mouse_drag_turns_two_terminals",
+    "passed": true
+  },
+  {
+    "name": "manual_bench_repair_releases_real_packaging_and_scrap",
+    "passed": true
+  },
+  {
+    "name": "customer_order_consumes_conserved_counter_item",
+    "passed": true
+  },
+  {
+    "name": "sanitation_assistant_transports_to_lead_without_duplicate_progression",
+    "passed": true
+  },
+  {
+    "name": "wrong_sort_retains_BAG-8A-001",
+    "passed": true
+  },
+  {
+    "name": "wrong_sort_retains_OLD-8A-001",
+    "passed": true
+  },
+  {
+    "name": "wrong_sort_retains_PACK-8A-001",
+    "passed": true
+  },
+  {
+    "name": "three_connected_waste_batches_recorded",
+    "passed": true
+  },
+  {
+    "name": "public_snapshots_omit_profession_records_and_server_audit",
+    "passed": true
+  },
+  {
+    "name": "targeted_paper_records_match_profession",
+    "passed": true
+  },
+  {
+    "name": "client_has_no_server_audit",
+    "passed": true
+  },
+  {
+    "name": "walk_through_market_threshold_no_second_E",
+    "passed": true
+  },
+  {
+    "name": "workday_closes_with_conserved_history",
+    "passed": true
+  }
+]

@@ -1,0 +1,434 @@
+{
+    "dayPrivate": {
+        "personalTitle": "",
+        "personalNote": "",
+        "arrangementTitle": "",
+        "arrangementNote": "",
+        "practice": false,
+        "hasArrangement": false,
+        "detour": false,
+        "declaredDirect": false,
+        "productive": false,
+        "personalDone": false
+    },
+    "music": 0.699999988079071,
+    "effects": 0.16538462042808534,
+    "master": 1.0,
+    "performance": {
+        "gpu": "",
+        "cpu": "",
+        "graphics": "",
+        "samples": 0,
+        "medianFrameMs": 0.0,
+        "p95FrameMs": 0.0,
+        "drawCalls": 0,
+        "batches": 0,
+        "triangles": 0,
+        "renderCountersAvailable": false
+    },
+    "role": "client2",
+    "status": "Main menu",
+    "feedback": "",
+    "currentTarget": "",
+    "listening": false,
+    "connected": false,
+    "host": false,
+    "localCarried": false,
+    "localId": 0,
+    "serial": 44,
+    "snapshots": 0,
+    "bytes": 0,
+    "accepted": 0,
+    "rejected": 0,
+    "players": [],
+    "state": {
+        "revision": 0,
+        "orderIndex": 0,
+        "received": false,
+        "closed": false,
+        "dropped": false,
+        "holder": 0,
+        "message": "",
+        "quantities": [],
+        "progress": [],
+        "movements": [],
+        "receipts": [],
+        "cratePosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "crateRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "doorIds": [],
+        "workIds": [],
+        "doorOpen": [],
+        "workUses": [],
+        "town": {
+            "owners": [],
+            "started": [],
+            "completed": [],
+            "mechanicProgress": [],
+            "sanitationProgress": [],
+            "quantities": [],
+            "partsRequested": false,
+            "services": [],
+            "bags": [],
+            "serviceRecords": [],
+            "disposalRecords": [],
+            "movements": [],
+            "message": "",
+            "works": [],
+            "contribution": 0,
+            "assistantProfession": 0
+        },
+        "workday": {
+            "items": [],
+            "received": false,
+            "verified": false,
+            "requested": false,
+            "prepared": false,
+            "dispatched": false,
+            "diagnosed": false,
+            "loadChecked": false,
+            "hood": false,
+            "released": false,
+            "installed": false,
+            "bench": false,
+            "closed": false,
+            "physical": false,
+            "removed": false,
+            "oldPlaced": false,
+            "repairTested": false,
+            "serviceSigned": false,
+            "shiftSigned": false,
+            "suspicious": false,
+            "parcelNote": "Direct transfer",
+            "serviceNote": "Initial diagnosis",
+            "noteAmendments": 0,
+            "customerOrders": 0,
+            "bolts": 0,
+            "stability": 5,
+            "cleaned": 0,
+            "assisted": 0,
+            "checkSamples": 0,
+            "durationSeconds": 480.0,
+            "requestedAt": 0.0,
+            "began": 0.0,
+            "gateUntil": 0.0,
+            "priority": "garage",
+            "collectionOrder": "paper",
+            "cartX": 7.5,
+            "cartZ": -4.900000095367432,
+            "cartYaw": 0.0,
+            "cartPusher": 18446744073709551615,
+            "cartChoice": 0,
+            "records": []
+        },
+        "day": {
+            "started": false,
+            "closed": false,
+            "solo": false,
+            "unattended": true,
+            "startedAt": 0.0,
+            "band": 0,
+            "ready": [],
+            "papers": [],
+            "bulletin": "Choose a workplace. Unstaffed jobs use labelled town services."
+        }
+    },
+    "targetIds": [],
+    "targetPoints": [],
+    "cameras": 0,
+    "listeners": 0,
+    "inputs": 0,
+    "huds": 0,
+    "townHuds": 0,
+    "frameMilliseconds": 0.0,
+    "guidance": {
+        "job": "",
+        "note": "",
+        "detail": "",
+        "objectives": [],
+        "mapPlayer": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "markerCount": 0,
+        "paperFraction": 0.0,
+        "bookOpen": false,
+        "staffDesk": false,
+        "cursorLocked": false
+    },
+    "feedbackCount": 0,
+    "firstPerson": {
+        "active": false,
+        "hiddenBody": false,
+        "handsVisible": false,
+        "paused": false,
+        "gameplayActive": false,
+        "inputBlocked": false,
+        "mapBaked": false,
+        "mapExpanded": false,
+        "yaw": 0.0,
+        "pitch": 0.0,
+        "cameraHeight": 0.0,
+        "fov": 0.0,
+        "handPose": "",
+        "pausePage": "",
+        "gestures": 0,
+        "viewmodels": 0,
+        "visibleColleagues": 0,
+        "mapObjectives": 0,
+        "mapClamped": 0,
+        "remoteHeadsTurned": 0,
+        "pauseOpened": 0,
+        "sfx": 0,
+        "vSyncCount": 0,
+        "targetFrameRate": 0,
+        "qualityLevel": 0,
+        "listenerVolume": 0.0,
+        "sensitivity": 0.0,
+        "screenWidth": 0,
+        "screenHeight": 0,
+        "windowed": false,
+        "mapPlayer": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "cameraPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "remoteHandPose": "",
+        "internalWidth": 0,
+        "internalHeight": 0,
+        "renderSamples": 0,
+        "renderScale": 0.0,
+        "cadence": 0.0,
+        "townPhase": 0.0,
+        "townClock": 0.0,
+        "dynamicResolution": false,
+        "serverClock": false,
+        "mapMarkerIds": [],
+        "mapMarkerWorld": []
+    },
+    "workRecords": [],
+    "serverAuditCount": 0,
+    "workSupport": [],
+    "rescueUI": {
+        "screen": "Main",
+        "action": "Shift finished",
+        "headingFont": "",
+        "tab": 0,
+        "records": 0,
+        "menuOpen": true,
+        "reference": {
+            "x": 1280.0,
+            "y": 720.0
+        },
+        "activeCanvases": 1,
+        "text": [
+            {
+                "value": "DAYLIGHT NEIGHBORHOOD",
+                "font": "Labels",
+                "at": {
+                    "x": 74.0,
+                    "y": 621.0
+                },
+                "size": {
+                    "x": 388.0,
+                    "y": 22.0
+                },
+                "preferred": {
+                    "x": 183.4199981689453,
+                    "y": 16.809999465942384
+                },
+                "pointSize": 14.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "Business\nas Usual",
+                "font": "Display",
+                "at": {
+                    "x": 74.0,
+                    "y": 479.0
+                },
+                "size": {
+                    "x": 388.0,
+                    "y": 128.0
+                },
+                "preferred": {
+                    "x": 194.36000061035157,
+                    "y": 116.16999816894531
+                },
+                "pointSize": 48.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "Ordinary jobs.\nExtraordinary suspicion.",
+                "font": "Reading",
+                "at": {
+                    "x": 74.0,
+                    "y": 424.0
+                },
+                "size": {
+                    "x": 388.0,
+                    "y": 54.0
+                },
+                "preferred": {
+                    "x": 209.74000549316407,
+                    "y": 50.0099983215332
+                },
+                "pointSize": 20.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "START SOLO",
+                "font": "Labels",
+                "at": {
+                    "x": 86.0,
+                    "y": 367.0
+                },
+                "size": {
+                    "x": 364.0,
+                    "y": 39.0
+                },
+                "preferred": {
+                    "x": 106.81999969482422,
+                    "y": 21.610000610351564
+                },
+                "pointSize": 18.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "HOST GAME",
+                "font": "Labels",
+                "at": {
+                    "x": 86.0,
+                    "y": 320.0
+                },
+                "size": {
+                    "x": 364.0,
+                    "y": 39.0
+                },
+                "preferred": {
+                    "x": 106.19999694824219,
+                    "y": 21.610000610351564
+                },
+                "pointSize": 18.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "JOIN GAME",
+                "font": "Labels",
+                "at": {
+                    "x": 86.0,
+                    "y": 273.0
+                },
+                "size": {
+                    "x": 364.0,
+                    "y": 39.0
+                },
+                "preferred": {
+                    "x": 97.19999694824219,
+                    "y": 21.610000610351564
+                },
+                "pointSize": 18.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "SETTINGS",
+                "font": "Labels",
+                "at": {
+                    "x": 86.0,
+                    "y": 226.0
+                },
+                "size": {
+                    "x": 364.0,
+                    "y": 39.0
+                },
+                "preferred": {
+                    "x": 88.5999984741211,
+                    "y": 21.610000610351564
+                },
+                "pointSize": 18.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "CREDITS",
+                "font": "Labels",
+                "at": {
+                    "x": 86.0,
+                    "y": 179.0
+                },
+                "size": {
+                    "x": 364.0,
+                    "y": 39.0
+                },
+                "preferred": {
+                    "x": 75.68000030517578,
+                    "y": 21.610000610351564
+                },
+                "pointSize": 18.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "QUIT",
+                "font": "Labels",
+                "at": {
+                    "x": 86.0,
+                    "y": 132.0
+                },
+                "size": {
+                    "x": 364.0,
+                    "y": 39.0
+                },
+                "preferred": {
+                    "x": 41.84000015258789,
+                    "y": 21.610000610351564
+                },
+                "pointSize": 18.0,
+                "offscreen": false,
+                "overflows": false
+            },
+            {
+                "value": "FIRST SUSPICIOUS DAY / PHASE 8B",
+                "font": "ReadingBold",
+                "at": {
+                    "x": 74.0,
+                    "y": 78.0
+                },
+                "size": {
+                    "x": 388.0,
+                    "y": 24.0
+                },
+                "preferred": {
+                    "x": 244.38999938964845,
+                    "y": 17.3700008392334
+                },
+                "pointSize": 14.0,
+                "offscreen": false,
+                "overflows": false
+            }
+        ],
+        "handPose": "legacy",
+        "interaction": "",
+        "authoredGestures": 0,
+        "authoredHandsVisible": false
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "Walk": {
+    "ankle_target_max_error": 4.454955032764692e-07,
+    "sole_clearance_max_error": 4.5517942658595623e-07,
+    "stance_ground_height_max_error": 4.3147853575649505e-07,
+    "left_right_fore_aft_correlation": -0.8675233969005386,
+    "same_side_foot_arm_correlation": {
+      "Left": 0.9178666133800941,
+      "Right": 0.8890015328768678
+    },
+    "implied_forward_speed_units_per_second": 0.16935483870967744,
+    "stance_virtual_speed_max_error": 8.779187356255935e-06,
+    "in_place_foot_sliding_note": "Stance feet move rearward because root stays centered. Adding implied forward root travel cancels ankle drift; heel/toe sole contact can still migrate during foot roll."
+  },
+  "Run": {
+    "ankle_target_max_error": 4.2937909942941453e-07,
+    "sole_clearance_max_error": 4.6101429027051296e-07,
+    "stance_ground_height_max_error": 4.43178275600102e-07,
+    "left_right_fore_aft_correlation": -0.9699138173388453,
+    "same_side_foot_arm_correlation": {
+      "Left": 0.9215678559175154,
+      "Right": 0.9185794915846359
+    },
+    "implied_forward_speed_units_per_second": 0.5882352941176471,
+    "stance_virtual_speed_max_error": 5.508170408341506e-06,
+    "in_place_foot_sliding_note": "Stance feet move rearward because root stays centered. Adding implied forward root travel cancels ankle drift; heel/toe sole contact can still migrate during foot roll."
+  }
+}

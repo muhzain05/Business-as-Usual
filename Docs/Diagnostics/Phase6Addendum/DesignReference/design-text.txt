@@ -1,0 +1,274 @@
+PAGE 1
+Working-Town Social Deduction — Game
+Design Doc
+Oct 4, 2026  ·  @Zain Asad
+Elevator pitch
+Six friends live and work in a small town for five days. Five are ordinary workers; one is
+secretly covering up a crime while holding down the same kind of job as everyone else.
+Every job controls something the criminal needs, so the impostor has to lie, trade, steal
+and manipulate without looking suspicious. At the end of each day the town compares
+stories and evidence, but innocent players have secrets of their own. Catch the criminal
+before Day 5, or help them get away with it without realizing.
+Core hook: one player runs a multi-step cover-up inside a functioning town, while
+everyone else does legitimate jobs that naturally overlap with the resources the impostor
+needs. Positioning: Among Us × Hitman-style sandbox × detective game, without combat.
+Design pillars
+These are the rules every system gets checked against. If a feature breaks one, cut or
+rework it.
+1. Every criminal action resembles at least one legitimate task. If the impostor carries a
+suspicious bag, some jobs carry bags. If they need a tool, several jobs use it. If they
+need a restricted room, at least one civilian task sometimes sends people there.
+2. Evidence is never binary. Aim for "I saw Zain leave the pharmacy carrying something,"
+not "I saw red kill." Every suspicious act should have a plausible innocent explanation.
+3. Everyone has a real job, including the impostor. The impostor is never the one person
+wandering aimlessly; their cover is built in.
+4. Innocents lie too. Personal secrets give civilians reasons to act shifty, so lying is not
+proof of guilt.
+5. Work matters to the town. Ignoring your shift to stalk suspects hurts the civilian team.
+The tension is "I think he's sus, but I still need to finish my shift."
+6. Small, dense, systemic. Players should run into each other every couple of minutes.
+"Why are YOU here?" is the target moment, not "Where is everyone?"
+Working-Town Social Deduction — Game Design Doc
+Page 1 of 8
+
+PAGE 2
+7. Crime is stylized. Evidence bags, suspicious packages, contaminated clothes, stolen
+tools, forged records. Game-y and funny, not grim.
+Round structure
+Six players, five in-game days of 7–10 minutes each. Five are legitimate workers; one is
+secretly the criminal, randomly assigned a normal public job like everyone else. Civilians
+win by identifying the criminal; the criminal wins by completing the Day 5 cover-up or
+escape.
+Most deduction games loop task, meeting, task, meeting with no larger arc. Here each day
+escalates: crime objectives get riskier, records start appearing on Day 3, and meeting
+powers grow until the final accusation.
+Task layers
+Every player gets public job tasks plus a private personal task. The impostor gets both of
+those plus hidden crime tasks, and must juggle all three.
+five-day round · crime objective and meeting power per day
+Layer Who gets
+it
+Visible to others? Example (Mechanic) Why it exists
+Public job
+tasks
+Everyone Yes, completion
+shows in the day
+report
+Repair two vehicles;
+pick up parts from
+the store; inspect
+the delivery van
+Gives the impostor
+cover and feeds the
+town meter
+Working-Town Social Deduction — Game Design Doc
+Page 2 of 8
+
+PAGE 3
+Example personal secrets
+Shopkeeper: make $500 today.
+Mechanic: hide that you damaged a customer's car.
+Doctor: you misplaced medication; recover it quietly.
+Delivery driver: finish every delivery before closing.
+The impostor's tradeoff: do the job well and look innocent, or spend time on the crime
+and fall behind on work. Poor work performance shows up at meetings as circumstantial
+evidence, never proof.
+Crossover rule: innocent tasks must routinely send players to the back alley, pharmacy
+storage, warehouse and garbage area. If only the impostor ever goes there, players solve
+the meta in three rounds.
+Jobs
+Each profession is both a job and an information source. Avoid "press E three times to
+mop the floor"; every job should carry a social responsibility.
+Layer Who gets
+it
+Visible to others? Example (Mechanic) Why it exists
+Personal
+secret
+Everyone No Don't let anyone find
+out you damaged a
+customer's car
+Makes innocents
+lie, creating organic
+false suspicion
+Hidden
+crime
+tasks
+Impostor
+only
+No Obtain a restricted
+item; move
+evidence; alter a
+record
+The impostor's win
+condition
+Job Controls Can investigate Legit behaviour that
+looks suspicious
+Shopkeeper Stock; who gets
+items
+Purchase records; notices
+missing stock
+Handing out restricted
+items on request
+Construction
+worker
+Warehouse
+access; tool
+lending
+Yard cameras Opening restricted
+storage
+Working-Town Social Deduction — Game Design Doc
+Page 3 of 8
+
+PAGE 4
+The impostor is assigned one of these jobs at random; there is no visible impostor role.
+Evidence and records
+The town generates paper trails: clues, never proof. Players bring them to the nightly
+meeting, and voice chat does the rest.
+Job Controls Can investigate Legit behaviour that
+looks suspicious
+Mechanic Garages; vehicle
+repairs
+Which vehicles were used,
+and when
+Moving vehicles
+nobody ordered
+Doctor /
+pharmacist
+Medical supplies Injuries, status effects,
+contamination; medical
+records
+Frequent pharmacy
+storage visits
+Sanitation
+worker
+Rubbish removal
+around town
+Inspect discarded objects Carrying bags; may
+destroy evidence by
+accident
+Delivery driver Packages
+between
+locations
+Who ordered what Constantly carrying
+boxes between
+buildings
+Record Source Example
+Store receipt Shopkeeper Industrial gloves purchased at 14:32
+Warehouse log Construction Storage Room B opened at 16:10
+Delivery log Delivery driver Package delivered to Garage
+CCTV Cameras at fixed
+spots
+Person in yellow jacket entered alley
+Vehicle log Mechanic Van used 18:00–18:15
+Witness
+statement
+Any player "I saw him leave the pharmacy carrying
+something"
+Working-Town Social Deduction — Game Design Doc
+Page 4 of 8
+
+PAGE 5
+Records should be partial: a time without a name, a jacket colour without a face, an item
+without a buyer. The impostor can also target records (alter a log, forge a receipt) as a
+crime task.
+Town stability and the day report
+Every completed job task feeds a shared Town Stability meter (or Revenue / Reputation).
+If it collapses, civilians lose even if they caught the criminal. This stops the game
+degenerating into six people stalking each other from Day 1.
+At the end of each day, before the meeting, everyone sees a report like this:
+DAY 2 REPORT
+Town productivity: 82%
+Mechanic       3/4 tasks
+Shopkeeper     4/4
+Sanitation     2/3
+Doctor         4/4
+Delivery       3/5
+Construction   4/4
+Suspicious events:
+- Warehouse inventory discrepancy
+- Unregistered vehicle movement
+- Missing cleaning supplies
+The report gives the group concrete things to argue about instead of pure vibes. A low
+task count is a lead, not a verdict: the delivery driver may just have had five tasks.
+Meetings and accusations
+No daily ejection vote. With six players, Among Us-style voting collapses the round: one
+random Day 1 vote and one wrong Day 2 vote leave four players. Instead, meeting powers
+escalate.
+Night Meeting power
+1 Discuss only
+2 Place one player under surveillance
+Working-Town Social Deduction — Game Design Doc
+Page 5 of 8
+
+PAGE 6
+Alternative to test: the town holds a single arrest warrant for the whole game. Either way,
+a wrong accusation should hand the impostor a major advantage so nobody spams votes.
+Impostor freedom and replayability
+Each crime phase has several routes, so players can't memorize "construction yard =
+impostor." A fixed list (go store, take knife, go warehouse) is solved after ten games.
+Each route forces interaction with a different player's workplace. One round the criminal
+keeps visiting sanitation; the next they never leave the mechanic's side.
+Map
+No city. The demo is one tiny town block of about seven locations, dense enough that
+players bump into each other constantly.
+Night Meeting power
+3 Issue a search warrant
+4 Arrest vote
+5 Final accusation
+Crime phase Route A Route B Route C
+Acquire tool Buy or beg from the
+shop
+Borrow from the
+warehouse
+Lift from the
+garage
+Obtain restricted
+material
+Pharmacy storage Warehouse Room B Intercept a
+delivery
+Move evidence Delivery package Sanitation bag Vehicle trunk
+Create alibi Forge a record Get seen doing a job
+task
+Ask someone to
+vouch
+Dispose / escape Sanitation route Construction route Transport route
+Working-Town Social Deduction — Game Design Doc
+Page 6 of 8
+
+PAGE 7
+The Town Square is the hub every route crosses, which maximizes chance sightings. The
+Back Alley, Warehouse storage and garbage area must also appear in civilian tasks so
+visiting them isn't a tell.
+MVP scope
+The first playable answers one question: do friends naturally start lying to each other? If
+yes, expand.
+Build
+demo town block · 7 locations
+4 players: 3 civilians, 1 impostor
+3 jobs: Shopkeeper, Mechanic, Sanitation
+3-day round, 7–10 minutes per day
+One tiny street
+Public job tasks + one personal secret each
+3 hidden impostor objectives, at least 2 routes each
+Basic inventory
+Simple records (receipts, one camera, one log)
+Town stability meter + end-of-day report
+Night meeting with proximity voice
+Working-Town Social Deduction — Game Design Doc
+Page 7 of 8
+
+PAGE 8
+Don't build yet: skill trees, cosmetics, NPC traffic, thirty jobs, procedural cities, combat, a
+GTA-scale map.
+Open questions to playtest
+One accusation at the end
+Escalating meeting powers, or one arrest warrant for the whole game?
+What exactly does a wrong accusation give the impostor?
+How low can Town Stability fall before civilians lose, and is that fun or frustrating?
+Does the impostor win on completing all crime tasks, or only on surviving Day 5?
+Are 7–10 minute days too long for 4 players on one street?
+Do personal secrets create enough false suspicion without drowning the real signal?
+Should players be able to lock resources or deny requests, and how does that affect
+the Day 4 panic?
+Working-Town Social Deduction — Game Design Doc
+Page 8 of 8

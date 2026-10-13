@@ -1,0 +1,8 @@
+{
+    "scene": "Assets/Town/Scenes/DaylightTown.unity",
+    "dirty": false,
+    "playing": false,
+    "modeledNeighborhood": true,
+    "colliders": 95,
+    "publicFaultLabels": 0
+}

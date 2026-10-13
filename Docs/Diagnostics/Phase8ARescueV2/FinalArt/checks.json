@@ -1,0 +1,22 @@
+[
+  {
+    "name": "final_native_material_scene_runs",
+    "passed": true
+  },
+  {
+    "name": "final_product_uses_conserved_stock",
+    "passed": true
+  },
+  {
+    "name": "inventory_has_one_physical_carried_unit",
+    "passed": true
+  },
+  {
+    "name": "safe_return_preserves_same_shelf_stock",
+    "passed": true
+  },
+  {
+    "name": "final_staff_reopens",
+    "passed": true
+  }
+]

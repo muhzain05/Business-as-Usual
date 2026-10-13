@@ -1,0 +1,96 @@
+[
+  {
+    "name": "main-menu_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "six_real_menu_actions",
+    "passed": true
+  },
+  {
+    "name": "credits_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "settings_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "separate_music_and_effects_controls",
+    "passed": true
+  },
+  {
+    "name": "sound_preferences_persist_across_processes",
+    "passed": true
+  },
+  {
+    "name": "loading_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "profession-selection_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "role-intro_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "private-practice_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "solo_is_one_worker_and_labelled_practice",
+    "passed": true
+  },
+  {
+    "name": "day-hud_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "destination_names_replace_ambiguous_distance_only_pin",
+    "passed": true
+  },
+  {
+    "name": "current-shift-crew_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "staff_desk_explains_fixed_day_job",
+    "passed": true
+  },
+  {
+    "name": "shared-board-access_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "handbook_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "pause_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "settings_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "display_text_bounds",
+    "passed": true,
+    "defects": []
+  }
+]

@@ -1,0 +1,44 @@
+PASS host_one_camera_one_listener_one_input | cameras 1 listeners 1 inputs 1
+PASS host_first_person_owner_only | {"active": true, "hiddenBody": true, "handsVisible": true, "viewmodels": 1}
+PASS host_sees_colleague_full_third_person_body
+PASS host_stable_eye_height | 1.000
+PASS client_one_camera_one_listener_one_input | cameras 1 listeners 1 inputs 1
+PASS client_first_person_owner_only | {"active": true, "hiddenBody": true, "handsVisible": true, "viewmodels": 1}
+PASS client_sees_colleague_full_third_person_body
+PASS client_stable_eye_height | 1.000
+PASS jobs_assigned_through_authority
+PASS look_yaw_pitch_replicate_to_colleague | yaw 90.0 pitch -20.0
+PASS idle_body_turns_to_face_look_direction | facing 90.0
+PASS collide_market_facade_east_of_door | end (-6.60, 0.02, 2.94)
+PASS collide_market_door_closed | end (-8.20, 0.02, 3.18)
+PASS collide_garage_rear_tool_rack | end (9.00, 0.02, 8.83)
+PASS collide_van_side | end (5.41, 0.02, 6.30)
+PASS collide_yard_waste_cart | end (11.27, 0.02, -7.05)
+PASS collide_garage_opening_passable | end (8.00, 0.02, 4.63)
+PASS inspect_pose_follows_server_work
+PASS pose_returns_to_idle_after_work
+PASS repair_pose_with_wrench_follows_server_work
+PASS animation_never_double_consumes_parts | [1, 1, 0, 0, 0, 1, 1, 0]
+PASS mechanic_shift_completes_in_first_person
+PASS carry_pose_grips_real_bag
+PASS sort_pose_follows_server_work
+PASS sorted_once_no_duplicate
+PASS remote_walk_animates_from_replicated_speed | speed 2.20
+PASS remote_jump_replicates_airborne_state | grounded False y 0.31
+PASS remote_lands_again
+PASS colleague_marker_when_in_plain_view | 1
+PASS no_colleague_marker_through_walls | 0
+PASS minimap_baked_and_drawing_objectives
+PASS expanded_map_tracks_real_position | {'x': 0.4375, 'y': 0.5357142686843872} -> {'x': 0.6875, 'y': 0.5357142686843872}, expected dx 0.250
+PASS escape_opens_local_pause
+PASS host_pause_does_not_freeze_colleague_or_server | moved 2.18 m
+PASS paused_player_ignores_real_movement_keys | moved 0.000 m
+PASS escape_resumes_and_relocks
+PASS resumed_player_moves_with_real_keys | moved 2.21 m
+PASS player_settings_persist_and_apply | {"listenerVolume": 0.4000000059604645, "sensitivity": 0.25, "vSyncCount": 0, "targetFrameRate": 60}
+PASS vsync_option_applies
+PASS windowed_resolution_option_applies | 1024x576 windowed True
+PASS client_carrying_before_leave
+PASS leave_session_returns_carried_bag_and_role
+PASS host_quits_cleanly
+43/43 passed

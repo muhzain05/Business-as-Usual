@@ -1,0 +1,19 @@
+[
+  {
+    "name": "one_real_solo_player",
+    "passed": true
+  },
+  {
+    "name": "walking_threshold_retains_same_parcel",
+    "passed": true
+  },
+  {
+    "name": "conserved_battery_parcel_delivered",
+    "passed": true
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "'Living Workday/Stock box 0' is not in list"
+  }
+]

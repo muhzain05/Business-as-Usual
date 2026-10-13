@@ -1,0 +1,9 @@
+{
+    "phase": "Phase5",
+    "result": "Succeeded",
+    "output": "D:/Business as Usual/Builds/Phase5/BusinessAsUsual.exe",
+    "errors": 0,
+    "warnings": 486,
+    "seconds": 53.954822799999998,
+    "bytes": 359246260
+}

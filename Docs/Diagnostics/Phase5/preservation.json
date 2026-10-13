@@ -1,0 +1,17 @@
+{
+  "indexUnchanged": true,
+  "changedExistingFiles": [
+    "Unity/BusinessAsUsual/Assets/Prototype/Scripts/BasicWorkstation.cs",
+    "Unity/BusinessAsUsual/Assets/Prototype/Scripts/PlayerInteractor.cs",
+    "Unity/BusinessAsUsual/Assets/Prototype/Scripts/SimpleDoor.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopDomain.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopHUD.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopShift.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/StockCrate.cs",
+    "Unity/BusinessAsUsual/Packages/manifest.json",
+    "Unity/BusinessAsUsual/Packages/packages-lock.json",
+    "Unity/BusinessAsUsual/ProjectSettings/EditorBuildSettings.asset"
+  ],
+  "protectedAssetsChanged": [],
+  "previousEvidenceChanged": []
+}

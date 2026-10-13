@@ -1,0 +1,476 @@
+{
+    "role": "client",
+    "status": "Disconnected / host unavailable",
+    "feedback": "",
+    "currentTarget": "",
+    "listening": false,
+    "connected": false,
+    "host": false,
+    "localCarried": false,
+    "localId": 0,
+    "serial": 15,
+    "snapshots": 0,
+    "bytes": 0,
+    "accepted": 0,
+    "rejected": 0,
+    "players": [],
+    "state": {
+        "revision": 11,
+        "orderIndex": 0,
+        "received": false,
+        "closed": false,
+        "dropped": false,
+        "holder": 18446744073709551615,
+        "message": "Welcome to Daylight Market. Receive the delivery at the rear stockroom.",
+        "quantities": [
+            6,
+            6,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "progress": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "movements": [],
+        "receipts": [],
+        "cratePosition": {
+            "x": -36.0,
+            "y": 0.30000001192092898,
+            "z": 8.199999809265137
+        },
+        "crateRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "doorIds": [
+            "Graybox Town/Shop/Shop Door"
+        ],
+        "workIds": [],
+        "doorOpen": [
+            false
+        ],
+        "workUses": [],
+        "town": {
+            "owners": [
+                18446744073709551615,
+                0,
+                2,
+                18446744073709551615,
+                18446744073709551615,
+                18446744073709551615
+            ],
+            "started": [
+                false,
+                true,
+                true,
+                false,
+                false,
+                false
+            ],
+            "completed": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "mechanicProgress": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "sanitationProgress": [
+                1,
+                1,
+                0,
+                0,
+                0
+            ],
+            "quantities": [
+                2,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "partsRequested": false,
+            "services": [
+                {
+                    "id": "SV-001",
+                    "vehicle": "Mikan delivery van",
+                    "fault": "Weak battery",
+                    "part": "battery",
+                    "inspected": false,
+                    "repaired": false,
+                    "recorded": false
+                },
+                {
+                    "id": "SV-002",
+                    "vehicle": "Municipal mini truck",
+                    "fault": "Clogged oil filter",
+                    "part": "filter",
+                    "inspected": false,
+                    "repaired": false,
+                    "recorded": false
+                }
+            ],
+            "bags": [
+                {
+                    "id": "WB-001",
+                    "source": "Town Square",
+                    "materialType": "Paper",
+                    "objectDescription": "Ordinary packaging",
+                    "available": true,
+                    "collected": true,
+                    "stage": 0,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": -1.0,
+                        "y": 0.30000001192092898,
+                        "z": 7.800000190734863
+                    },
+                    "position": {
+                        "x": -1.0,
+                        "y": 0.30000001192092898,
+                        "z": 7.800000190734863
+                    }
+                },
+                {
+                    "id": "WB-002",
+                    "source": "Back Alley",
+                    "materialType": "Mixed",
+                    "objectDescription": "Discarded umbrella and wrappers",
+                    "available": true,
+                    "collected": false,
+                    "stage": 0,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": 0.0,
+                        "y": 0.30000001192092898,
+                        "z": 11.0
+                    },
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.30000001192092898,
+                        "z": 11.0
+                    }
+                },
+                {
+                    "id": "WB-003",
+                    "source": "Sanitation Yard",
+                    "materialType": "Metal",
+                    "objectDescription": "Ordinary packaging",
+                    "available": true,
+                    "collected": false,
+                    "stage": 0,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": 5.0,
+                        "y": 0.30000001192092898,
+                        "z": -6.800000190734863
+                    },
+                    "position": {
+                        "x": 5.0,
+                        "y": 0.30000001192092898,
+                        "z": -6.800000190734863
+                    }
+                },
+                {
+                    "id": "WB-004",
+                    "source": "Daylight Market",
+                    "materialType": "Paper",
+                    "objectDescription": "Ordinary packaging",
+                    "available": false,
+                    "collected": false,
+                    "stage": 0,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": -10.0,
+                        "y": 0.30000001192092898,
+                        "z": 2.9000000953674318
+                    },
+                    "position": {
+                        "x": -10.0,
+                        "y": 0.30000001192092898,
+                        "z": 2.9000000953674318
+                    }
+                },
+                {
+                    "id": "WB-005",
+                    "source": "Garage",
+                    "materialType": "Metal",
+                    "objectDescription": "Replaced vehicle parts",
+                    "available": false,
+                    "collected": false,
+                    "stage": 0,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": 5.150000095367432,
+                        "y": 0.30000001192092898,
+                        "z": 8.550000190734864
+                    },
+                    "position": {
+                        "x": 5.150000095367432,
+                        "y": 0.30000001192092898,
+                        "z": 8.550000190734864
+                    }
+                },
+                {
+                    "id": "WB-006",
+                    "source": "Garage",
+                    "materialType": "Metal",
+                    "objectDescription": "Replaced vehicle parts",
+                    "available": false,
+                    "collected": false,
+                    "stage": 0,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": 10.850000381469727,
+                        "y": 0.30000001192092898,
+                        "z": 8.550000190734864
+                    },
+                    "position": {
+                        "x": 10.850000381469727,
+                        "y": 0.30000001192092898,
+                        "z": 8.550000190734864
+                    }
+                }
+            ],
+            "serviceRecords": [],
+            "disposalRecords": [],
+            "movements": [],
+            "message": "Assigned: Sanitation",
+            "works": [
+                {
+                    "worker": 18446744073709551615,
+                    "target": "",
+                    "started": 15.438893150327497,
+                    "duration": 0.0,
+                    "position": {
+                        "x": 5.349999904632568,
+                        "y": 0.024999871850013734,
+                        "z": 4.400000095367432
+                    }
+                },
+                {
+                    "worker": 18446744073709551615,
+                    "target": "",
+                    "started": 0.0,
+                    "duration": 0.0,
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "contribution": 0
+        }
+    },
+    "targetIds": [
+        "Daylight Market Interior/Functional Fixtures/Sunbeam Cola Shelf",
+        "Daylight Market Interior/Functional Fixtures/Stock Crate",
+        "Graybox Town/Sanitation Area/Collection Route Desk",
+        "Daylight Market Interior/Functional Fixtures/Meadow Tea Shelf",
+        "Town Workplaces/Vehicle 0 Repair",
+        "Daylight Market Interior/Functional Fixtures/Delivery Desk",
+        "Town Workplaces/Parts Request Slip",
+        "Town Workplaces/Route Bag 4",
+        "Town Workplaces/Route Bag 1",
+        "Town Workplaces/Vehicle 0 Inspection",
+        "Graybox Town/Garage/Service Desk",
+        "Town Workplaces/Vehicle 1 Inspection",
+        "Town Workplaces/Vehicle 1 Repair",
+        "Graybox Town/Shop/Shop Door",
+        "Town Workplaces/Parts Packing Counter",
+        "Daylight Market Interior/Functional Fixtures/Closing Terminal",
+        "Town Workplaces/Route Bag 0",
+        "Graybox Town/Sanitation Area/Metal Sorting Bin",
+        "Daylight Market Interior/Functional Fixtures/Golden Crackers Shelf",
+        "Graybox Town/Sanitation Area/Mixed Sorting Bin",
+        "Town Workplaces/Route Bag 5",
+        "Town Workplaces/Route Bag 2",
+        "Daylight Market Interior/Functional Fixtures/Checkout",
+        "Town Workplaces/Enter Daylight Market",
+        "Daylight Market Interior/Functional Fixtures/Town Exit",
+        "Town Workplaces/Route Bag 3",
+        "Graybox Town/Sanitation Area/Paper Sorting Bin",
+        "Town Workplaces/Parts Pickup Locker"
+    ],
+    "targetPoints": [
+        {
+            "x": -42.0,
+            "y": 0.6499999761581421,
+            "z": 6.0
+        },
+        {
+            "x": -36.0,
+            "y": 0.30000001192092898,
+            "z": 8.199999809265137
+        },
+        {
+            "x": 10.0,
+            "y": 1.0499999523162842,
+            "z": -6.0
+        },
+        {
+            "x": -40.0,
+            "y": 0.6499999761581421,
+            "z": 9.699999809265137
+        },
+        {
+            "x": 6.400000095367432,
+            "y": 0.6499999761581421,
+            "z": 4.75
+        },
+        {
+            "x": -36.0,
+            "y": 0.6499999761581421,
+            "z": 10.300000190734864
+        },
+        {
+            "x": 10.300000190734864,
+            "y": 0.6499999761581421,
+            "z": 8.199999809265137
+        },
+        {
+            "x": 5.150000095367432,
+            "y": 0.45000001788139346,
+            "z": 8.550000190734864
+        },
+        {
+            "x": 0.0,
+            "y": 0.45000001788139346,
+            "z": 11.0
+        },
+        {
+            "x": 5.349999904632568,
+            "y": 0.6499999761581421,
+            "z": 5.5
+        },
+        {
+            "x": 8.0,
+            "y": 1.0999999046325684,
+            "z": 7.5
+        },
+        {
+            "x": 10.649999618530274,
+            "y": 0.6499999761581421,
+            "z": 5.5
+        },
+        {
+            "x": 9.600000381469727,
+            "y": 0.6499999761581421,
+            "z": 4.75
+        },
+        {
+            "x": -7.300000190734863,
+            "y": 0.800000011920929,
+            "z": 3.3499999046325685
+        },
+        {
+            "x": -36.29999923706055,
+            "y": 0.6499999761581421,
+            "z": 1.100000023841858
+        },
+        {
+            "x": -36.20000076293945,
+            "y": 0.550000011920929,
+            "z": 1.7999999523162842
+        },
+        {
+            "x": -1.0,
+            "y": 0.45000001788139346,
+            "z": 7.800000190734863
+        },
+        {
+            "x": 9.0,
+            "y": 1.2000000476837159,
+            "z": -8.5
+        },
+        {
+            "x": -38.0,
+            "y": 0.6499999761581421,
+            "z": 6.0
+        },
+        {
+            "x": 7.5,
+            "y": 1.2000000476837159,
+            "z": -8.5
+        },
+        {
+            "x": 10.850000381469727,
+            "y": 0.45000001788139346,
+            "z": 8.550000190734864
+        },
+        {
+            "x": 5.0,
+            "y": 0.45000001788139346,
+            "z": -6.800000190734863
+        },
+        {
+            "x": -41.0,
+            "y": 0.550000011920929,
+            "z": 1.7999999523162842
+        },
+        {
+            "x": -7.800000190734863,
+            "y": 0.6499999761581421,
+            "z": 4.199999809265137
+        },
+        {
+            "x": -40.0,
+            "y": 0.6499999761581421,
+            "z": -0.10000000149011612
+        },
+        {
+            "x": -10.0,
+            "y": 0.45000001788139346,
+            "z": 2.9000000953674318
+        },
+        {
+            "x": 6.0,
+            "y": 1.2000000476837159,
+            "z": -8.5
+        },
+        {
+            "x": -10.800000190734864,
+            "y": 0.6499999761581421,
+            "z": 2.75
+        }
+    ],
+    "cameras": 0,
+    "listeners": 0,
+    "inputs": 0,
+    "huds": 0,
+    "townHuds": 0,
+    "frameMilliseconds": 1.8164966106414796
+}

@@ -1,0 +1,17 @@
+{
+  "scene": "P2_v001_Reference_Run",
+  "frame": 9,
+  "look_settings": {
+    "mode": "angles",
+    "target": [
+      "Mesh_0.007"
+    ],
+    "views": [
+      "front"
+    ],
+    "shading": "material",
+    "distance": 2.5,
+    "max_size": 700
+  },
+  "restore_required": true
+}

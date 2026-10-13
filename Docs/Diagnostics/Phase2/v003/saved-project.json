@@ -1,0 +1,252 @@
+{
+  "file": "Assets\\Characters\\Sunny\\Working\\Sunny_LegRepair_v003.blend",
+  "sha256": "866c1026badab8f902fdb1908492b56f0e3b105c8fb3e8bd5376cf80aeef682a",
+  "bones": 53,
+  "working_height": 1.2,
+  "protected_mesh_hashes": {
+    "ForearmHand_R": "87cbc65c9466092d6136df8bf80d810e1afae0ec06f71316fe34791a68378b33",
+    "ForearmHand_L": "ae3ba26256973d8f44b2c4a4c7a6db2838d8bce5c672e6e9c0974761b9a3eb04",
+    "Head": "22bc8c8b01105f9df38783031c841f891986460df2240cf347e55c1480e837e4",
+    "Mouth": "79b8905f70180031223ffbdb167a7cd41f236961828afca113a484a9af06bfa9",
+    "Eye_R": "5db777e42262e1daf2c68b90a26449b151cb27f6b654472ef263c1e625d6a04c",
+    "Eye_L": "2c2c1bef4c48fd4386f9fb38451c543df564997fb6d936b2853ed2d04d254516",
+    "Button_Top": "9916f2d4c577d5fbd6f03cf15bd8ad4dd5e78d8169d802ceef42cea1b7998aa7",
+    "Button_Middle": "0a1fa38670ac5214baa9f8f378618927b5c7c744d95b95cafb5a666a5d770ec1",
+    "Button_Bottom": "56ff6983493ce4096420490d2c0ef0f38597a33889a14da6e049fbf22ae58afb",
+    "UpperOutfit": "3f45df6a737cef6f27e3a13855e361ac7e8a64b8acb38241902e2b2b5902df96",
+    "Body_Torso": "6e0f0bef9b8498c0530c18334743135efdf3616e2e7ff3aecaf71cab9b6b4ef7",
+    "Body_Pelvis": "7c1d9755d99d2488cfbb4587957e9ce7e76c75982d8a67b05774043af6988cbe",
+    "Body_UpperArm_L": "cd820a71ac6caffbe6b16ca79786deceb37b1b8e3ac3367b54fb76eaa9b9ab29",
+    "Body_Thigh_L": "5337282f96f36274762f9cbec146c7a1c3b4f8e6503d06825877b8cfac30e539",
+    "Body_UpperArm_R": "7c7c53cc398ccd33f4422fb1c8dff819553f2761a1bda93d9ee229793c939322",
+    "Body_Thigh_R": "3089b9c4d5410046ac6625f1df4e14be8f7db2535dd6d05a36a15464fc4dcb51"
+  },
+  "modules": [
+    {
+      "name": "Sunny_v003_Shoe_R",
+      "vertices": 1130,
+      "polygons": 2223,
+      "groups": [
+        "mixamorig:RightFoot"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Shoe_L",
+      "vertices": 1130,
+      "polygons": 2217,
+      "groups": [
+        "mixamorig:LeftFoot"
+      ]
+    },
+    {
+      "name": "Sunny_v003_ForearmHand_R",
+      "vertices": 1073,
+      "polygons": 1977,
+      "groups": [
+        "mixamorig:RightHand",
+        "mixamorig:RightForeArm",
+        "mixamorig:RightArm",
+        "CoveredSkin_Jacket"
+      ]
+    },
+    {
+      "name": "Sunny_v003_ForearmHand_L",
+      "vertices": 1085,
+      "polygons": 1987,
+      "groups": [
+        "mixamorig:LeftForeArm",
+        "mixamorig:LeftHand",
+        "mixamorig:LeftArm",
+        "CoveredSkin_Jacket"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Shorts",
+      "vertices": 1046,
+      "polygons": 1491,
+      "groups": [
+        "mixamorig:Hips",
+        "mixamorig:RightUpLeg",
+        "mixamorig:LeftUpLeg"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Head",
+      "vertices": 589,
+      "polygons": 1174,
+      "groups": [
+        "mixamorig:Head"
+      ]
+    },
+    {
+      "name": "Sunny_v003_LowerLeg_R",
+      "vertices": 432,
+      "polygons": 410,
+      "groups": [
+        "mixamorig:RightLeg",
+        "mixamorig:RightUpLeg"
+      ]
+    },
+    {
+      "name": "Sunny_v003_LowerLeg_L",
+      "vertices": 432,
+      "polygons": 410,
+      "groups": [
+        "mixamorig:LeftLeg",
+        "mixamorig:LeftUpLeg"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Mouth",
+      "vertices": 106,
+      "polygons": 178,
+      "groups": [
+        "mixamorig:Head"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Eye_R",
+      "vertices": 76,
+      "polygons": 128,
+      "groups": [
+        "mixamorig:Head"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Eye_L",
+      "vertices": 76,
+      "polygons": 128,
+      "groups": [
+        "mixamorig:Head"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Button_Top",
+      "vertices": 43,
+      "polygons": 72,
+      "groups": [
+        "mixamorig:Spine1",
+        "mixamorig:Spine2"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Button_Middle",
+      "vertices": 42,
+      "polygons": 71,
+      "groups": [
+        "mixamorig:Spine",
+        "mixamorig:Spine1"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Button_Bottom",
+      "vertices": 42,
+      "polygons": 71,
+      "groups": [
+        "mixamorig:Hips",
+        "mixamorig:Spine"
+      ]
+    },
+    {
+      "name": "Sunny_v003_UpperOutfit",
+      "vertices": 1029,
+      "polygons": 856,
+      "groups": [
+        "mixamorig:Hips",
+        "mixamorig:Spine",
+        "mixamorig:Spine1",
+        "mixamorig:LeftArm",
+        "mixamorig:RightArm",
+        "mixamorig:Spine2",
+        "mixamorig:Neck",
+        "mixamorig:LeftForeArm",
+        "mixamorig:RightForeArm",
+        "mixamorig:LeftShoulder",
+        "mixamorig:RightShoulder"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Body_Torso",
+      "vertices": 240,
+      "polygons": 218,
+      "groups": [
+        "mixamorig:Hips",
+        "mixamorig:Spine",
+        "mixamorig:Spine1",
+        "mixamorig:Spine2",
+        "mixamorig:Neck",
+        "CoveredSkin_ClothedTorso"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Body_Pelvis",
+      "vertices": 120,
+      "polygons": 98,
+      "groups": [
+        "mixamorig:Hips",
+        "CoveredSkin_ClothedTorso"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Body_UpperArm_L",
+      "vertices": 168,
+      "polygons": 146,
+      "groups": [
+        "mixamorig:Spine2",
+        "mixamorig:LeftArm",
+        "mixamorig:LeftForeArm",
+        "CoveredSkin_RedundantEnvelope"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Body_Thigh_L",
+      "vertices": 168,
+      "polygons": 146,
+      "groups": [
+        "mixamorig:Hips",
+        "mixamorig:LeftUpLeg",
+        "mixamorig:LeftLeg",
+        "CoveredSkin_RedundantEnvelope"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Body_ConcealedFoot_L",
+      "vertices": 120,
+      "polygons": 98,
+      "groups": [
+        "mixamorig:LeftFoot"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Body_UpperArm_R",
+      "vertices": 168,
+      "polygons": 146,
+      "groups": [
+        "mixamorig:Spine2",
+        "mixamorig:RightArm",
+        "mixamorig:RightForeArm",
+        "CoveredSkin_RedundantEnvelope"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Body_Thigh_R",
+      "vertices": 168,
+      "polygons": 146,
+      "groups": [
+        "mixamorig:Hips",
+        "mixamorig:RightUpLeg",
+        "mixamorig:RightLeg",
+        "CoveredSkin_RedundantEnvelope"
+      ]
+    },
+    {
+      "name": "Sunny_v003_Body_ConcealedFoot_R",
+      "vertices": 120,
+      "polygons": 98,
+      "groups": [
+        "mixamorig:RightFoot"
+      ]
+    }
+  ],
+  "status": "REVIEW REQUIRED: residual cuff clipping and deep-flexion shorts compression; not production ready."
+}

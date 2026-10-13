@@ -1,0 +1,26 @@
+{
+  "opened_saved_file": "D:\\Business as Usual\\Assets\\Characters\\Sunny\\Working\\Sunny_Locomotion_v004.blend",
+  "checks": {
+    "Walk": {
+      "action": "Sunny_v004_Walk_Cartoon.003",
+      "range": [
+        1,
+        32
+      ],
+      "bone_count": 53,
+      "moving_feet": true,
+      "cuff_drivers_target_review_rig": true
+    },
+    "Run": {
+      "action": "Sunny_v004_Run_Cartoon.003",
+      "range": [
+        1,
+        24
+      ],
+      "bone_count": 53,
+      "moving_feet": true,
+      "cuff_drivers_target_review_rig": true
+    }
+  },
+  "all_file_images_packed": true
+}

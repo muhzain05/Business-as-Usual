@@ -1,0 +1,22 @@
+{
+  "phase": "Phase 8A Rescue V2",
+  "productionFolder": "Unity/BusinessAsUsual/Assets/RescueV2/Resources/RescueV2/Models",
+  "geometryMeasuredIn": "Unity 6000.3.26f1 imported FBX meshes; sum of triangle indices / 3",
+  "assets": [
+    {"name":"UtilityWagon","source":"Meshy T2","previewId":"01a1312d-d516-7203-b242-e95cf1db0746","refineId":"01a13132-ea9b-73e8-8c16-eb0336078bdf","credits":15,"importedMeshes":11,"importedTriangles":15341,"cleanup":"Blender normalization to 2.6m length, original hood removal, fitted lofted bonnet, underside/fenders, real hinge and authored open/close clip","editableSource":"UtilityWagon.blend"},
+    {"name":"EngineAssembly","source":"Meshy T2","previewId":"01a13259-01a5-758b-8d8c-e953585fd53d","refineId":"01a1325c-0dcb-70fd-8e65-7e4f2b0f32b1","credits":15,"importedMeshes":1,"importedTriangles":8957,"cleanup":"Blender scale/pivot cleanup, separate named textures, Unity placement inside the repair bay","editableSource":"Unity/BusinessAsUsual/Assets/RescueV2/Resources/RescueV2/Models/EngineAssembly.fbx"},
+    {"name":"CollectionCart","source":"Meshy T2","previewId":"01a1325c-0e19-77ac-9706-28d6d668eea6","refineId":"01a13260-da77-70e4-bd45-0f9f6e656ce1","credits":15,"importedMeshes":5,"importedTriangles":12341,"cleanup":"Blender normalization to 1m length, four separated wheel meshes and wheel-axis pivots, rolling clip; Unity server movement and actual conserved load slots","editableSource":"CollectionCart.blend"},
+    {"name":"ShippingCarton","source":"Meshy T2","previewId":"01a13283-8911-7537-9816-56e17f2c6954","refineId":"01a13286-7c53-704c-ad7c-6dca45d939c3","credits":15,"importedMeshes":1,"importedTriangles":5355,"cleanup":"Blender uniform normalization to 0.42m width, grounded pivot, labelled stock variants","editableSource":"ShippingCarton.blend"},
+    {"name":"WorkGloves","source":"Original Blender authoring","credits":0,"importedMeshes":54,"importedTriangles":9512,"cleanup":"FK wrists/fingers, attached spanner and probes; Idle, Reach, Grip, Tool, Probe, Stamp and Sort clips with Unity blending","editableSource":"WorkGloves.blend"},
+    {"name":"RetailProducts","source":"Existing project Sunbeam/Meadow/Golden product prefabs; original assets retained","credits":0,"cleanup":"Separate Rescue resource variants; GoldenPrintMesh remaps side UVs upright and unmirrored; shared GoldenPrint material; no modification to source prefab/texture/material"}
+  ],
+  "rejectedGeneration":{"name":"Closed cart/cabinet","previewId":"01a13259-085a-75d8-b4fb-8a227bd69e91","credits":5,"reason":"Failed open-cart silhouette; not refined or integrated"},
+  "rescueCredits":65,
+  "cumulativeCredits":140,
+  "authorizedLimit":300,
+  "remainingCredits":160,
+  "paidReservations":0,
+  "fontLicenses":"FontCandidates/**/OFL.txt and research_notes/Phase 8A visual rescue/font-download-manifest.json",
+  "uiIllustrations":"22 original vector SVG illustrations with matching Unity sprite exports",
+  "limitations":"Generated Meshy surface details remain uneven. Gloves use segmented FK meshes; contact poses are approximate. See phase8a-rescue-v2-verification.md."
+}

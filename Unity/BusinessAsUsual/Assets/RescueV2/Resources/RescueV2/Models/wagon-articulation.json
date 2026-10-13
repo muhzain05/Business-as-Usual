@@ -1,0 +1,15 @@
+{
+  "source": "01a13132-ea9b-73e8-8c16-eb0336078bdf",
+  "sourceFaces": 14084,
+  "bonnetFaces": 839,
+  "selectedSkinFaces": 271,
+  "lengthMetres": 2.6,
+  "hingeBlender": [
+    0.0,
+    -0.6136000156402588,
+    0.8322399854660034
+  ],
+  "front": "-Y",
+  "clip": "HoodOpen",
+  "duration": 0.8
+}

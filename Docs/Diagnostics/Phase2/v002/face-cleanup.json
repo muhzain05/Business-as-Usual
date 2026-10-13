@@ -1,0 +1,11 @@
+{
+  "pixels_cleaned": 10795,
+  "head_material": "Sunny_v002_HeadClean.001",
+  "source_images_changed": false,
+  "fill_srgb": [
+    0.9960784912109375,
+    0.803921639919281,
+    0.6549019813537598
+  ],
+  "scope": "dark baked eyes/smile only, head-front UV region; original separate face geometry and cheeks retained"
+}

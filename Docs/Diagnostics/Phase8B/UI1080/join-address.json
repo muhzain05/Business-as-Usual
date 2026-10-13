@@ -1,0 +1,358 @@
+{
+  "dayPrivate": {
+    "personalTitle": "",
+    "personalNote": "",
+    "arrangementTitle": "",
+    "arrangementNote": "",
+    "practice": false,
+    "hasArrangement": false,
+    "detour": false,
+    "declaredDirect": false,
+    "productive": false,
+    "personalDone": false
+  },
+  "music": 0.5999999642372131,
+  "effects": 0.06538461893796921,
+  "master": 1.0,
+  "performance": {
+    "gpu": "",
+    "cpu": "",
+    "graphics": "",
+    "samples": 0,
+    "medianFrameMs": 0.0,
+    "p95FrameMs": 0.0,
+    "drawCalls": 0,
+    "batches": 0,
+    "triangles": 0,
+    "renderCountersAvailable": false
+  },
+  "role": "host",
+  "status": "Main menu",
+  "feedback": "",
+  "currentTarget": "",
+  "listening": false,
+  "connected": false,
+  "host": false,
+  "localCarried": false,
+  "localId": 0,
+  "serial": 44,
+  "snapshots": 0,
+  "bytes": 0,
+  "accepted": 0,
+  "rejected": 0,
+  "players": [],
+  "state": {
+    "revision": 0,
+    "orderIndex": 0,
+    "received": false,
+    "closed": false,
+    "dropped": false,
+    "holder": 0,
+    "message": "",
+    "quantities": [],
+    "progress": [],
+    "movements": [],
+    "receipts": [],
+    "cratePosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "crateRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "doorIds": [],
+    "workIds": [],
+    "doorOpen": [],
+    "workUses": [],
+    "town": {
+      "owners": [],
+      "started": [],
+      "completed": [],
+      "mechanicProgress": [],
+      "sanitationProgress": [],
+      "quantities": [],
+      "partsRequested": false,
+      "services": [],
+      "bags": [],
+      "serviceRecords": [],
+      "disposalRecords": [],
+      "movements": [],
+      "message": "",
+      "works": [],
+      "contribution": 0,
+      "assistantProfession": 0
+    },
+    "workday": {
+      "items": [],
+      "received": false,
+      "verified": false,
+      "requested": false,
+      "prepared": false,
+      "dispatched": false,
+      "diagnosed": false,
+      "loadChecked": false,
+      "hood": false,
+      "released": false,
+      "installed": false,
+      "bench": false,
+      "closed": false,
+      "physical": false,
+      "removed": false,
+      "oldPlaced": false,
+      "repairTested": false,
+      "serviceSigned": false,
+      "shiftSigned": false,
+      "suspicious": false,
+      "parcelNote": "Direct transfer",
+      "serviceNote": "Initial diagnosis",
+      "noteAmendments": 0,
+      "customerOrders": 0,
+      "bolts": 0,
+      "stability": 5,
+      "cleaned": 0,
+      "assisted": 0,
+      "checkSamples": 0,
+      "durationSeconds": 480.0,
+      "requestedAt": 0.0,
+      "began": 0.0,
+      "gateUntil": 0.0,
+      "priority": "garage",
+      "collectionOrder": "paper",
+      "cartX": 7.5,
+      "cartZ": -4.900000095367432,
+      "cartYaw": 0.0,
+      "cartPusher": 18446744073709551615,
+      "cartChoice": 0,
+      "records": []
+    },
+    "day": {
+      "started": false,
+      "closed": false,
+      "solo": false,
+      "unattended": true,
+      "startedAt": 0.0,
+      "band": 0,
+      "ready": [],
+      "papers": [],
+      "bulletin": "Choose a workplace. Unstaffed jobs use labelled town services."
+    }
+  },
+  "targetIds": [],
+  "targetPoints": [],
+  "cameras": 0,
+  "listeners": 0,
+  "inputs": 0,
+  "huds": 0,
+  "townHuds": 0,
+  "frameMilliseconds": 0.0,
+  "guidance": {
+    "job": "",
+    "note": "",
+    "detail": "",
+    "objectives": [],
+    "mapPlayer": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "markerCount": 0,
+    "paperFraction": 0.0,
+    "bookOpen": false,
+    "staffDesk": false,
+    "cursorLocked": false
+  },
+  "feedbackCount": 0,
+  "firstPerson": {
+    "active": false,
+    "hiddenBody": false,
+    "handsVisible": false,
+    "paused": false,
+    "gameplayActive": false,
+    "inputBlocked": false,
+    "mapBaked": false,
+    "mapExpanded": false,
+    "yaw": 0.0,
+    "pitch": 0.0,
+    "cameraHeight": 0.0,
+    "fov": 0.0,
+    "handPose": "",
+    "pausePage": "",
+    "gestures": 0,
+    "viewmodels": 0,
+    "visibleColleagues": 0,
+    "mapObjectives": 0,
+    "mapClamped": 0,
+    "remoteHeadsTurned": 0,
+    "pauseOpened": 0,
+    "sfx": 0,
+    "vSyncCount": 0,
+    "targetFrameRate": 0,
+    "qualityLevel": 0,
+    "listenerVolume": 0.0,
+    "sensitivity": 0.0,
+    "screenWidth": 0,
+    "screenHeight": 0,
+    "windowed": false,
+    "mapPlayer": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cameraPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "remoteHandPose": "",
+    "internalWidth": 0,
+    "internalHeight": 0,
+    "renderSamples": 0,
+    "renderScale": 0.0,
+    "cadence": 0.0,
+    "townPhase": 0.0,
+    "townClock": 0.0,
+    "dynamicResolution": false,
+    "serverClock": false,
+    "mapMarkerIds": [],
+    "mapMarkerWorld": []
+  },
+  "workRecords": [],
+  "serverAuditCount": 0,
+  "workSupport": [],
+  "rescueUI": {
+    "screen": "Join",
+    "action": "Choose a profession",
+    "headingFont": "",
+    "tab": 0,
+    "records": 0,
+    "menuOpen": true,
+    "reference": {
+      "x": 1280.0,
+      "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+      {
+        "value": "Join the neighborhood",
+        "font": "Display",
+        "at": {
+          "x": 398.0,
+          "y": 459.0
+        },
+        "size": {
+          "x": 484.0,
+          "y": 50.0
+        },
+        "preferred": {
+          "x": 294.5400085449219,
+          "y": 36.0099983215332
+        },
+        "pointSize": 30.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Host IPv4 address",
+        "font": "ReadingBold",
+        "at": {
+          "x": 398.0,
+          "y": 409.0
+        },
+        "size": {
+          "x": 484.0,
+          "y": 24.0
+        },
+        "preferred": {
+          "x": 158.05999755859375,
+          "y": 22.31999969482422
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "127.0.0.1\u200b",
+        "font": "Reading",
+        "at": {
+          "x": 410.0,
+          "y": 357.0
+        },
+        "size": {
+          "x": 460.0,
+          "y": 30.0
+        },
+        "preferred": {
+          "x": 75.48999786376953,
+          "y": 24.799999237060547
+        },
+        "pointSize": 20.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "JOIN GAME",
+        "font": "Labels",
+        "at": {
+          "x": 410.0,
+          "y": 278.0
+        },
+        "size": {
+          "x": 206.0,
+          "y": 42.0
+        },
+        "preferred": {
+          "x": 97.19999694824219,
+          "y": 21.610000610351562
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "BACK",
+        "font": "Labels",
+        "at": {
+          "x": 652.0,
+          "y": 278.0
+        },
+        "size": {
+          "x": 218.0,
+          "y": 42.0
+        },
+        "preferred": {
+          "x": 48.970001220703125,
+          "y": 21.610000610351562
+        },
+        "pointSize": 18.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Same build \u00b7 host must be reachable on UDP 7777.",
+        "font": "Reading",
+        "at": {
+          "x": 398.0,
+          "y": 213.0
+        },
+        "size": {
+          "x": 484.0,
+          "y": 35.0
+        },
+        "preferred": {
+          "x": 357.20001220703125,
+          "y": 19.850000381469727
+        },
+        "pointSize": 16.0,
+        "offscreen": false,
+        "overflows": false
+      }
+    ],
+    "handPose": "legacy",
+    "interaction": "",
+    "authoredGestures": 0,
+    "authoredHandsVisible": false
+  }
+}

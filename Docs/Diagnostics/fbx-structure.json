@@ -1,0 +1,42 @@
+{
+  "Meshy_AI_Sunny_Little_Friend_biped_Animation_Running_withSkin.fbx": {
+    "fbx_version": 7400,
+    "geometries": [
+      {
+        "name": "b'Icosphere\\x00\\x01Geometry'",
+        "raw_vertices": 42,
+        "raw_polygons": 80
+      },
+      {
+        "name": "b'Mesh_0\\x00\\x01Geometry'",
+        "raw_vertices": 7897,
+        "raw_polygons": 15304
+      }
+    ]
+  },
+  "Meshy_AI_Sunny_Little_Friend_biped_Animation_Walking_withSkin.fbx": {
+    "fbx_version": 7400,
+    "geometries": [
+      {
+        "name": "b'Icosphere\\x00\\x01Geometry'",
+        "raw_vertices": 42,
+        "raw_polygons": 80
+      },
+      {
+        "name": "b'Mesh_0\\x00\\x01Geometry'",
+        "raw_vertices": 7897,
+        "raw_polygons": 15304
+      }
+    ]
+  },
+  "Meshy_AI_Sunny_Little_Friend_biped_Character_output.fbx": {
+    "fbx_version": 7400,
+    "geometries": [
+      {
+        "name": "b'Mesh_0\\x00\\x01Geometry'",
+        "raw_vertices": 10651,
+        "raw_polygons": 15304
+      }
+    ]
+  }
+}

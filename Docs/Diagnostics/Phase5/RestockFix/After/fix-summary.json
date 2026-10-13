@@ -1,0 +1,14 @@
+{
+  "timestampUtc": "2026-10-11T06:43:46.746250+00:00",
+  "checksPassed": 32,
+  "sharedStateVerified": true,
+  "conservationVerified": true,
+  "revenueCents": 1650,
+  "gameplayExceptions": 0,
+  "sha256": {
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkPlayer.cs": "a2a15e4cbe92e4774c72833deeeb22b0e89a38194d2691b00e1f0be272c716a8",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopHUD.cs": "85f916df647c1f2b222e70f5f5fb01b864c770ba3b460a2679422c23d9cfabf0",
+    "Scripts/test_phase5_network.py": "77a5f28d6bbda3fc7eabc80cc507df60c44a25fb76d7ac4b1d96142090e2b3ab",
+    "Builds/Phase5/BusinessAsUsual_Data/Managed/Assembly-CSharp.dll": "43c08fbc09ff2e1cedd294f068263eb3207b01daf4288e98309fdc61517d4b3e"
+  }
+}

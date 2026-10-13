@@ -1,0 +1,24 @@
+{
+  "hardware": {
+    "cpu": "Intel Core i7-11700F",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti",
+    "physicalMemoryBytes": 33983561728
+  },
+  "method": "30 reported frame samples per process over approximately 4.8 seconds, two windowed 1920x1080 Development players and Unity Editor running on the same PC. Timing observations, not GPU profiling or shipping benchmarks.",
+  "processes": {
+    "host": {
+      "samples": 30,
+      "medianMs": 5.9216978549957275,
+      "p95Ms": 8.542799949645996,
+      "minMs": 4.13190221786499,
+      "maxMs": 12.034701347351074
+    },
+    "client": {
+      "samples": 30,
+      "medianMs": 5.802752733230591,
+      "p95Ms": 9.601700782775879,
+      "minMs": 2.8040037155151367,
+      "maxMs": 11.530498504638672
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+    "screen": "HUD",
+    "action": "Open hood",
+    "headingFont": "",
+    "tab": 0,
+    "records": 0,
+    "menuOpen": false,
+    "reference": {
+        "x": 1280.0,
+        "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+        {
+            "value": "MECHANIC",
+            "font": "Labels",
+            "at": {
+                "x": 142.3029327392578,
+                "y": 1109.8751220703125
+            },
+            "size": {
+                "x": 385.7987060546875,
+                "y": 36.3653564453125
+            },
+            "preferred": {
+                "x": 86.58000183105469,
+                "y": 19.209999084472658
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Open hood",
+            "font": "Labels",
+            "at": {
+                "x": 142.3029327392578,
+                "y": 1064.0218505859375
+            },
+            "size": {
+                "x": 385.7987060546875,
+                "y": 45.853271484375
+            },
+            "preferred": {
+                "x": 116.70999908447266,
+                "y": 26.40999984741211
+            },
+            "pointSize": 22.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Tab  Work slip",
+            "font": "Reading",
+            "at": {
+                "x": 37.9486083984375,
+                "y": 975.4786376953125
+            },
+            "size": {
+                "x": 284.6043701171875,
+                "y": 31.62322998046875
+            },
+            "preferred": {
+                "x": 86.33999633789063,
+                "y": 17.3700008392334
+            },
+            "pointSize": 14.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "DAYLIGHT",
+            "font": "Labels",
+            "at": {
+                "x": 1657.5313720703125,
+                "y": 1119.3612060546875
+            },
+            "size": {
+                "x": 210.290771484375,
+                "y": 31.623291015625
+            },
+            "preferred": {
+                "x": 66.6500015258789,
+                "y": 16.809999465942384
+            },
+            "pointSize": 14.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "10 m",
+            "font": "Labels",
+            "at": {
+                "x": 1773.5072021484375,
+                "y": 553.0381469726563
+            },
+            "size": {
+                "x": 82.218505859375,
+                "y": 39.52764892578125
+            },
+            "preferred": {
+                "x": 35.11000061035156,
+                "y": 19.209999084472658
+            },
+            "pointSize": 16.0,
+            "offscreen": false,
+            "overflows": false
+        }
+    ],
+    "handPose": "Idle",
+    "interaction": "",
+    "authoredGestures": 1,
+    "authoredHandsVisible": true
+}

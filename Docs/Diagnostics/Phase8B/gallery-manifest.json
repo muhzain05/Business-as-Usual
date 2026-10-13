@@ -1,0 +1,149 @@
+{
+  "panels": [
+    [
+      "Before / Phase 8A rescue entry",
+      "BaselineUI/host-main.png",
+      "Native baseline recorded before Phase 8B."
+    ],
+    [
+      "After / neighborhood main menu",
+      "UI1080/host-main-menu.png",
+      "Real town geometry, six functional menu actions."
+    ],
+    [
+      "Before / anonymous destination",
+      "BaselineUI/host-compact-hud.png",
+      "Earlier native HUD used a distance-only route pin."
+    ],
+    [
+      "After / named turn guidance",
+      "UI720/host-named-turn-guidance.png",
+      "The destination and turn direction are explicit; decorative houses are not task targets."
+    ],
+    [
+      "Loading",
+      "UI720/host-loading.png",
+      "Actual town load and connection transition; one brief tip."
+    ],
+    [
+      "Choose a profession",
+      "UI720/host-profession-selection.png",
+      "Lead jobs and a helping profession."
+    ],
+    [
+      "Staff hub",
+      "FourProcess/host-staff-hub.png",
+      "Four real processes ready before the host opens the day."
+    ],
+    [
+      "During the shift / current crew",
+      "UI720/host-current-shift-crew.png",
+      "The staff desk explains the fixed job and opens shared copies instead of offering unavailable role changes."
+    ],
+    [
+      "Private copy",
+      "SoloShop/host-private-note.png",
+      "Only this worker receives their private note; solo is labelled practice."
+    ],
+    [
+      "Supported returns",
+      "SoloShop/host-temporary-hold.png",
+      "The same parcel is restaged on a physical receiving tray."
+    ],
+    [
+      "Alternative yard hold",
+      "SoloMechanic/host-temporary-hold.png",
+      "A second ordinary route, with a declaration separate from observation."
+    ],
+    [
+      "Mechanic / open hood",
+      "SoloMechanic/host-hood-after.png",
+      "Accepted Rescue V2 vehicle and animation reused; physical repair is still central."
+    ],
+    [
+      "Sanitation / collection",
+      "SoloSanitation/host-loaded-cart.png",
+      "Existing loads travel on the pushable cart; the obsolete pole cart is retired."
+    ],
+    [
+      "Compare selected copies",
+      "FourProcess/host-two-selected-copies.png",
+      "A declaration and an amendment are pinned voluntarily; no automatic guilt."
+    ],
+    [
+      "End of the shared day",
+      "FourProcess/host-shared-shift-summary.png",
+      "Public work outcomes, with private progress only for its holder."
+    ],
+    [
+      "Settings",
+      "UI720/host-settings.png",
+      "Separate sound controls and saved player preferences."
+    ],
+    [
+      "Display and resizing",
+      "UI1080/host-resized-1366.png",
+      "Actual native resize; labels refresh after the mode change."
+    ],
+    [
+      "Credits",
+      "UI720/host-credits.png",
+      "Project attribution, tools and bundled font acknowledgements."
+    ],
+    [
+      "Return to menu",
+      "UI1080/host-returned-main-menu.png",
+      "Networking is cleaned up; a fresh shift can start."
+    ]
+  ],
+  "clips": [
+    {
+      "name": "hood",
+      "source": [
+        "SoloMechanic\\host-preview-hood-30-00.png",
+        "SoloMechanic\\host-preview-hood-30-01.png",
+        "SoloMechanic\\host-preview-hood-30-02.png",
+        "SoloMechanic\\host-preview-hood-30-03.png",
+        "SoloMechanic\\host-preview-hood-30-04.png",
+        "SoloMechanic\\host-preview-hood-30-05.png",
+        "SoloMechanic\\host-preview-hood-30-06.png",
+        "SoloMechanic\\host-preview-hood-30-07.png",
+        "SoloMechanic\\host-preview-hood-30-08.png",
+        "SoloMechanic\\host-preview-hood-30-09.png",
+        "SoloMechanic\\host-preview-hood-30-10.png",
+        "SoloMechanic\\host-preview-hood-30-11.png",
+        "SoloMechanic\\host-preview-hood-30-12.png",
+        "SoloMechanic\\host-preview-hood-30-13.png",
+        "SoloMechanic\\host-preview-hood-30-14.png",
+        "SoloMechanic\\host-preview-hood-30-15.png"
+      ],
+      "frames": 16,
+      "gif": "hood-native-sequence.gif",
+      "description": "Derived GIF of consecutive unaltered native frame captures; nominal capture interval 0.1s, GIF playback 0.12s."
+    },
+    {
+      "name": "cart",
+      "source": [
+        "SoloSanitation\\host-preview-cart-travel-00.png",
+        "SoloSanitation\\host-preview-cart-travel-01.png",
+        "SoloSanitation\\host-preview-cart-travel-02.png",
+        "SoloSanitation\\host-preview-cart-travel-03.png",
+        "SoloSanitation\\host-preview-cart-travel-04.png",
+        "SoloSanitation\\host-preview-cart-travel-05.png",
+        "SoloSanitation\\host-preview-cart-travel-06.png",
+        "SoloSanitation\\host-preview-cart-travel-07.png",
+        "SoloSanitation\\host-preview-cart-travel-08.png",
+        "SoloSanitation\\host-preview-cart-travel-09.png",
+        "SoloSanitation\\host-preview-cart-travel-10.png",
+        "SoloSanitation\\host-preview-cart-travel-11.png",
+        "SoloSanitation\\host-preview-cart-travel-12.png",
+        "SoloSanitation\\host-preview-cart-travel-13.png",
+        "SoloSanitation\\host-preview-cart-travel-14.png",
+        "SoloSanitation\\host-preview-cart-travel-15.png"
+      ],
+      "frames": 16,
+      "gif": "cart-native-sequence.gif",
+      "description": "Derived GIF of consecutive unaltered native frame captures; nominal capture interval 0.1s, GIF playback 0.12s."
+    }
+  ]
+}

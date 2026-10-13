@@ -1,0 +1,96 @@
+{
+  "method": "Two independent Windows Development builds, actual NGO/Unity Transport localhost UDP. Automated commands and server test placement; no human-controlled playtest.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "host_client_connection_and_late_join_snapshot",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "separate_spawn_and_ownership",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "one_local_camera_listener_input_hud",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "jump_state_replicated",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_movement_and_running_state",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "independent_controls_move_both_characters",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "remote_movement_synchronization",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_snapshots_not_sent_each_frame",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_range_validation",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "duplicate_command_prevention",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "pickup_contention_single_holder",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "carried_object_is_local_to_holder",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "only_holder_can_return",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "delayed_stale_command_rejected",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "authoritative_drop_conserves_stock",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local_E_pickup_detection",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "disconnect_while_carrying_recovery",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "unexpected_failure",
+      "passed": false,
+      "details": "Traceback (most recent call last):\n  File \"D:\\Business as Usual\\Scripts\\test_phase5_network.py\", line 134, in <module>\n    command('client','reconnect');wait(lambda: read('client').get('connected') and len(read('client')['players'])==2);settled()\n                                                                                                                      ^^^^^^^^^\n  File \"D:\\Business as Usual\\Scripts\\test_phase5_network.py\", line 54, in settled\n    wait(lambda: read('host')['state']['revision'] == read('client')['state']['revision'])\n  File \"D:\\Business as Usual\\Scripts\\test_phase5_network.py\", line 28, in wait\n    raise AssertionError('Timed out waiting for network state')\nAssertionError: Timed out waiting for network state\n"
+    }
+  ]
+}

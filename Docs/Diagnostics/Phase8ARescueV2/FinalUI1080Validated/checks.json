@@ -1,0 +1,155 @@
+[
+  {
+    "name": "main_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "join_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "solo_button_starts_one_connected_player",
+    "passed": true
+  },
+  {
+    "name": "staff_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "intro-controls_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "intro-job_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "hud_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "typography-0_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "typography-1_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "typography-2_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "items_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "records_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "town_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "map_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "pause_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "settings_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "display_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "controls_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "report_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "tab_opens_new_clipboard",
+    "passed": true
+  },
+  {
+    "name": "escape_closes_clipboard",
+    "passed": true
+  },
+  {
+    "name": "resized-1366x768_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "resized-1280x720_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "resized-1920x1080_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "native-render-1920x1200-handbook_text_bounds",
+    "passed": true,
+    "defects": [],
+    "method": "Unity offscreen render; desktop cannot fit 1200px native window"
+  },
+  {
+    "name": "native-render-1920x1200-staff_text_bounds",
+    "passed": true,
+    "defects": [],
+    "method": "Unity offscreen render; desktop cannot fit 1200px native window"
+  },
+  {
+    "name": "native-render-1920x1200-settings_text_bounds",
+    "passed": true,
+    "defects": [],
+    "method": "Unity offscreen render; desktop cannot fit 1200px native window"
+  },
+  {
+    "name": "native-render-1920x1200-display_text_bounds",
+    "passed": true,
+    "defects": [],
+    "method": "Unity offscreen render; desktop cannot fit 1200px native window"
+  },
+  {
+    "name": "native-render-1920x1200-report_text_bounds",
+    "passed": true,
+    "defects": [],
+    "method": "Unity offscreen render; desktop cannot fit 1200px native window"
+  },
+  {
+    "name": "native-render-1920x1200-hud_text_bounds",
+    "passed": true,
+    "defects": [],
+    "method": "Unity offscreen render; desktop cannot fit 1200px native window"
+  }
+]

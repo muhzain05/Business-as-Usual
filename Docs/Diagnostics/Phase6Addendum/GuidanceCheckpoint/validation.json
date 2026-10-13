@@ -1,0 +1,11 @@
+{
+  "method": "Two independent Windows processes, actual NGO/UTP localhost UDP, production E dispatch and held input, opt-in server test placement.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "unexpected_failure",
+      "passed": false,
+      "details": "Traceback (most recent call last):\n  File \"D:\\Business as Usual\\Scripts\\test_phase6_guidance.py\", line 109, in <module>\n    launch('host');wait(lambda:read('host').get('connected'),60);launch('client');wait(lambda:read('client').get('connected') and len(read('client').get('players',[]))==2,60);synced()\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Business as Usual\\Scripts\\test_phase6_guidance.py\", line 22, in wait\n    raise AssertionError('Timed out waiting for network state')\nAssertionError: Timed out waiting for network state\n"
+    }
+  ]
+}

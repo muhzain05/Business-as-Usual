@@ -1,0 +1,178 @@
+{
+  "limit": 300,
+  "priorSpent": 0,
+  "plannedMaximum": 140,
+  "tasks": [
+    {
+      "asset": "Market",
+      "model": "meshy-t2",
+      "previewId": "01a12b41-5e02-77f7-a8df-87df2190c2d7",
+      "refineId": "01a12b43-bf83-74d7-9c06-a013f156e725",
+      "previewCredits": 5,
+      "refineReservedCredits": 0,
+      "refineCredits": 10,
+      "status": "SUCCEEDED"
+    },
+    {
+      "asset": "Garage",
+      "model": "meshy-t2",
+      "previewId": "01a12b41-6458-726d-800e-e6be1cdae44f",
+      "refineId": "01a12b43-c601-7575-89ea-3b37a051508e",
+      "previewCredits": 5,
+      "refineReservedCredits": 0,
+      "refineCredits": 10,
+      "status": "SUCCEEDED"
+    },
+    {
+      "asset": "Cottage",
+      "model": "meshy-t2",
+      "previewId": "01a12b41-6ab4-7146-83c7-1806620cc449",
+      "refineId": "01a12b43-c665-7428-98f0-131856c99742",
+      "previewCredits": 5,
+      "refineReservedCredits": 0,
+      "refineCredits": 10,
+      "status": "SUCCEEDED"
+    },
+    {
+      "asset": "Tree",
+      "model": "meshy-t2",
+      "previewId": "01a12b41-7193-7536-8ee3-967f69c42ad1",
+      "refineId": "01a12b43-c6d6-77d5-a1c9-135c2733d12d",
+      "previewCredits": 5,
+      "refineReservedCredits": 0,
+      "refineCredits": 10,
+      "status": "SUCCEEDED"
+    },
+    {
+      "asset": "Lamp",
+      "model": "meshy-t2",
+      "previewId": "01a12b41-786e-72f0-99e6-02336120ec4a",
+      "refineId": "01a12b43-c744-73c6-8052-3d4084ded35a",
+      "previewCredits": 5,
+      "refineReservedCredits": 0,
+      "refineCredits": 10,
+      "status": "SUCCEEDED"
+    },
+    {
+      "asset": "RescueV2 Hero utility wagon",
+      "phase": "Phase8ARescueV2",
+      "model": "meshy-t2",
+      "previewId": "01a1312d-d516-7203-b242-e95cf1db0746",
+      "previewCredits": 5,
+      "refineReservedCredits": 0,
+      "refineCredits": 10,
+      "status": "SUCCEEDED",
+      "targetFaces": 15000,
+      "formats": [
+        "fbx",
+        "glb"
+      ],
+      "faceCount": 14094,
+      "refineId": "01a13132-ea9b-73e8-8c16-eb0336078bdf"
+    },
+    {
+      "asset": "RescueV2 Engine",
+      "previewId": "01a13259-01a5-758b-8d8c-e953585fd53d",
+      "refineId": "01a1325c-0dcb-70fd-8e65-7e4f2b0f32b1",
+      "previewCredits": 5,
+      "refineCredits": 10,
+      "faceCount": 8979,
+      "status": "SUCCEEDED",
+      "phase": "Phase8ARescueV2",
+      "model": "meshy-t2",
+      "formats": [
+        "fbx",
+        "glb"
+      ],
+      "refineReservedCredits": 0
+    },
+    {
+      "asset": "RescueV2 Cart rejected cabinet",
+      "previewId": "01a13259-085a-75d8-b4fb-8a227bd69e91",
+      "previewCredits": 5,
+      "refineCredits": 0,
+      "faceCount": 12355,
+      "status": "REJECTED_GEOMETRY",
+      "reason": "Closed roof and cabinet silhouette; not an open collection cart.",
+      "phase": "Phase8ARescueV2",
+      "model": "meshy-t2",
+      "formats": [
+        "fbx",
+        "glb"
+      ]
+    },
+    {
+      "asset": "RescueV2 Open cart retry",
+      "previewId": "01a1325c-0e19-77ac-9706-28d6d668eea6",
+      "previewCredits": 5,
+      "refineCredits": 10,
+      "status": "SUCCEEDED",
+      "phase": "Phase8ARescueV2",
+      "model": "meshy-t2",
+      "formats": [
+        "fbx",
+        "glb"
+      ],
+      "refineId": "01a13260-da77-70e4-bd45-0f9f6e656ce1",
+      "faceCount": 12341,
+      "refineReservedCredits": 0
+    },
+    {
+      "asset": "RescueV2 Shipping carton",
+      "phase": "Phase8ARescueV2",
+      "model": "meshy-t2",
+      "previewId": "01a13283-8911-7537-9816-56e17f2c6954",
+      "previewCredits": 5,
+      "refineCredits": 10,
+      "refineReservedCredits": 0,
+      "status": "SUCCEEDED",
+      "targetFaces": 5000,
+      "formats": [
+        "fbx",
+        "glb"
+      ],
+      "refineId": "01a13286-7c53-704c-ad7c-6dca45d939c3",
+      "faceCount": 5355
+    },
+    {
+      "asset": "Phase8B Staff kiosk",
+      "phase": "Phase8B",
+      "model": "meshy-t2",
+      "previewId": "01a1340f-2c33-73c2-b8b5-c13d36acd82f",
+      "previewCredits": 5,
+      "refineCredits": 10,
+      "refineReservedCredits": 0,
+      "status": "SUCCEEDED",
+      "targetFaces": 10000,
+      "formats": [
+        "fbx",
+        "glb"
+      ],
+      "refineId": "01a13429-f3f7-726e-8889-2ca3f352c2e6",
+      "acceptedFor": "Integrated native menu/holds; normalized in Blender with grounded pivots and authored support surfaces."
+    },
+    {
+      "asset": "Phase8B Returns cabinet",
+      "phase": "Phase8B",
+      "model": "meshy-t2",
+      "previewId": "01a1340f-3214-7212-aebf-4f27da1852e2",
+      "previewCredits": 5,
+      "refineCredits": 10,
+      "refineReservedCredits": 0,
+      "status": "SUCCEEDED",
+      "targetFaces": 8000,
+      "formats": [
+        "fbx",
+        "glb"
+      ],
+      "refineId": "01a13429-ff9b-7762-a002-a769353078a0",
+      "acceptedFor": "Integrated native menu/holds; normalized in Blender with grounded pivots and authored support surfaces."
+    }
+  ],
+  "authorization": "User Phase 7B manual QA addendum: Meshy T2 approved, cumulative 300-credit limit.",
+  "spentTotal": 170,
+  "remaining": 130,
+  "authorizationRescueV2": "User Rescue V2 request: Meshy T2, respect previously authorized cumulative 300-credit limit.",
+  "reservedTotal": 0,
+  "authorizationPhase8B": "User October 13 Phase 8B brief: Meshy T2 within previously approved cumulative 300-credit budget."
+}

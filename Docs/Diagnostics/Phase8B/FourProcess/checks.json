@@ -1,0 +1,94 @@
+[
+  {
+    "name": "actual_4_connected_processes",
+    "passed": true
+  },
+  {
+    "name": "one_camera_listener_input_and_native_canvas_per_worker",
+    "passed": true
+  },
+  {
+    "name": "day_waits_for_every_connected_worker",
+    "passed": true
+  },
+  {
+    "name": "exactly_one_private_arrangement_independent_of_public_job",
+    "passed": true
+  },
+  {
+    "name": "public_snapshot_has_no_secret_assignment_or_seed",
+    "passed": true
+  },
+  {
+    "name": "other_workers_have_real_personal_secrets",
+    "passed": true
+  },
+  {
+    "name": "replayed_day_command_is_rejected",
+    "passed": true
+  },
+  {
+    "name": "stale_day_command_cannot_move_material",
+    "passed": true
+  },
+  {
+    "name": "remote_work_request_requires_real_range_and_line_of_sight",
+    "passed": true
+  },
+  {
+    "name": "remote_clients_receive_unobserved_custody",
+    "passed": true
+  },
+  {
+    "name": "ordinary_hold_moves_the_same_sealed_pair",
+    "passed": true
+  },
+  {
+    "name": "route_declaration_is_independent_of_the_real_detour",
+    "passed": true
+  },
+  {
+    "name": "visible_received_carton_exposes_its_coarse_intake_state",
+    "passed": true
+  },
+  {
+    "name": "real_client_mouse_turn_releases_the_clamp",
+    "passed": true
+  },
+  {
+    "name": "shared_work_chain_completes_without_desync",
+    "passed": true
+  },
+  {
+    "name": "profession_paper_copies_are_targeted",
+    "passed": true
+  },
+  {
+    "name": "public_work_state_has_no_records_or_server_audit",
+    "passed": true
+  },
+  {
+    "name": "voluntary_board_contains_only_two_selected_papers",
+    "passed": true
+  },
+  {
+    "name": "physical_noticeboard_opens_during_work",
+    "passed": true
+  },
+  {
+    "name": "covert_owner_also_completed_useful_work",
+    "passed": true
+  },
+  {
+    "name": "live_rejoin_preserves_owner_only_progress",
+    "passed": true
+  },
+  {
+    "name": "rejoined_worker_can_reopen_staff_and_return_to_work",
+    "passed": true
+  },
+  {
+    "name": "same_shift_report_reaches_all_connected_players",
+    "passed": true
+  }
+]

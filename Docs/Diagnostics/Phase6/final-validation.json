@@ -1,0 +1,73 @@
+{
+  "timestampUtc": "2026-10-11T09:07:40.774925+00:00",
+  "reports": {
+    "Phase 3": {
+      "passed": 19,
+      "total": 19,
+      "report": "Regression/Phase3/playmode-validation.json",
+      "modifiedUtc": "2026-10-11T08:38:11.783541+00:00"
+    },
+    "Phase 4": {
+      "passed": 87,
+      "total": 87,
+      "report": "Regression/Phase4/playmode-validation.json",
+      "modifiedUtc": "2026-10-11T08:39:29.769850+00:00"
+    },
+    "Phase 4.1": {
+      "passed": 57,
+      "total": 57,
+      "report": "Regression/Phase4.1/polish-validation.json",
+      "modifiedUtc": "2026-10-11T08:40:46.605234+00:00"
+    },
+    "Phase 4.2": {
+      "passed": 65,
+      "total": 65,
+      "report": "Regression/Phase4.2/ui-validation.json",
+      "modifiedUtc": "2026-10-11T08:50:10.245195+00:00"
+    },
+    "Phase 5": {
+      "passed": 32,
+      "total": 32,
+      "report": "Regression/Phase5/validation.json",
+      "modifiedUtc": "2026-10-11T08:54:51.131649+00:00"
+    },
+    "Phase 6 complete town": {
+      "passed": 35,
+      "total": 35,
+      "report": "TwoProcess1080/validation.json",
+      "modifiedUtc": "2026-10-11T09:02:08.567114+00:00"
+    },
+    "Phase 6 staffed cooperation and navigation": {
+      "passed": 20,
+      "total": 20,
+      "report": "Staffed1080/validation.json",
+      "modifiedUtc": "2026-10-11T09:04:00.551702+00:00"
+    },
+    "Phase 6 market entrance and exit": {
+      "passed": 4,
+      "total": 4,
+      "report": "MarketEntry720/validation.json",
+      "modifiedUtc": "2026-10-11T09:06:34.750952+00:00"
+    }
+  },
+  "buildSha256": {
+    "Builds/Phase5/BusinessAsUsual.exe": "b7cca8b82003185f22644d0ee1c23b3640de1b996802d4f5d0501e287011afa6",
+    "Builds/Phase5/BusinessAsUsual_Data/Managed/Assembly-CSharp.dll": "4a09711f27a51d6b70e9ea4c8c55e85fd816f2df0841fe33ec09c03b0e9f201e",
+    "Builds/Phase6/BusinessAsUsual.exe": "b7cca8b82003185f22644d0ee1c23b3640de1b996802d4f5d0501e287011afa6",
+    "Builds/Phase6/BusinessAsUsual_Data/Managed/Assembly-CSharp.dll": "dbb63ed7b85d014d3a1f26d5a825b067d0a60565364be67f04f594595d208b62"
+  },
+  "preservation": {
+    "indexUnchanged": true,
+    "changedExistingFiles": [
+      "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkPlayer.cs",
+      "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkSession.cs",
+      "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs",
+      "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs",
+      "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopDomain.cs",
+      "Unity/BusinessAsUsual/ProjectSettings/EditorBuildSettings.asset"
+    ],
+    "protectedAssetsChanged": []
+  },
+  "humanControlledTesting": false,
+  "twoPcLanTesting": false
+}

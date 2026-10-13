@@ -1,0 +1,189 @@
+{
+  "passed": 363,
+  "total": 363,
+  "humanInputTested": false,
+  "twoPcLanTested": false,
+  "creditsSpent": 0,
+  "suites": [
+    {
+      "suite": "Phase3",
+      "passed": 19,
+      "total": 19,
+      "report": "Regression/Phase3/playmode-validation.json"
+    },
+    {
+      "suite": "Phase4",
+      "passed": 87,
+      "total": 87,
+      "report": "Regression/Phase4/playmode-validation.json"
+    },
+    {
+      "suite": "Phase4.1",
+      "passed": 57,
+      "total": 57,
+      "report": "Regression/Phase4.1/polish-validation.json"
+    },
+    {
+      "suite": "Phase4.2",
+      "passed": 65,
+      "total": 65,
+      "report": "Regression/Phase4.2/ui-validation.json"
+    },
+    {
+      "suite": "Phase5",
+      "passed": 32,
+      "total": 32,
+      "report": "Phase5/validation.json"
+    },
+    {
+      "suite": "Town full 1080p",
+      "passed": 35,
+      "total": 35,
+      "report": "TownFull1080/validation.json"
+    },
+    {
+      "suite": "Staffed cooperation & navigation",
+      "passed": 20,
+      "total": 20,
+      "report": "Staffed1080/validation.json"
+    },
+    {
+      "suite": "Real market entry 720p",
+      "passed": 4,
+      "total": 4,
+      "report": "MarketEntry720/validation.json"
+    },
+    {
+      "suite": "Personal guidance & controls 1080p",
+      "passed": 22,
+      "total": 22,
+      "report": "Guidance1080/validation.json"
+    },
+    {
+      "suite": "Personal guidance & controls 720p",
+      "passed": 22,
+      "total": 22,
+      "report": "Guidance720/validation.json"
+    }
+  ],
+  "preservation": {
+    "indexUnchanged": true,
+    "changedExistingFiles": [
+      "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkPlayer.cs",
+      "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkSession.cs",
+      "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs",
+      "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs",
+      "Unity/BusinessAsUsual/Assets/Town/Scenes/DaylightTown.unity",
+      "Unity/BusinessAsUsual/Assets/Town/Scripts/TownHandbook.cs",
+      "Unity/BusinessAsUsual/Assets/Town/Scripts/TownJobs.cs"
+    ],
+    "protectedAssetsChanged": []
+  },
+  "runtimeLogs": [
+    {
+      "file": "Phase5\\client.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "Phase5\\host.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "TownFull1080\\client.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "TownFull1080\\host.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "Staffed1080\\client.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "Staffed1080\\host.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "MarketEntry720\\client.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "MarketEntry720\\host.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "Guidance1080\\client.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "Guidance1080\\host.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "Guidance720\\client.log",
+      "runtimeErrors": []
+    },
+    {
+      "file": "Guidance720\\host.log",
+      "runtimeErrors": []
+    }
+  ],
+  "reviewImagesVerified": 28,
+  "builds": [
+    {
+      "phase": "Phase5",
+      "result": "Succeeded",
+      "output": "D:/Business as Usual/Builds/Phase5/BusinessAsUsual.exe",
+      "errors": 0,
+      "warnings": 486,
+      "seconds": 53.954822799999995,
+      "bytes": 359246260
+    },
+    {
+      "phase": "Phase6",
+      "result": "Succeeded",
+      "output": "D:/Business as Usual/Builds/Phase6/BusinessAsUsual.exe",
+      "errors": 0,
+      "warnings": 1,
+      "seconds": 35.6237312,
+      "bytes": 388505988
+    }
+  ],
+  "binaries": [
+    {
+      "phase": "Phase5",
+      "sha256": "b7cca8b82003185f22644d0ee1c23b3640de1b996802d4f5d0501e287011afa6"
+    },
+    {
+      "phase": "Phase6",
+      "sha256": "b7cca8b82003185f22644d0ee1c23b3640de1b996802d4f5d0501e287011afa6"
+    }
+  ],
+  "frameSamples": {
+    "host": {
+      "medianMilliseconds": 7.5933990478515625,
+      "p95Milliseconds": 9.619501113891602,
+      "samples": 30
+    },
+    "client": {
+      "medianMilliseconds": 6.387999534606934,
+      "p95Milliseconds": 8.576700210571289,
+      "samples": 30
+    }
+  },
+  "finalEditorState": {
+    "scene": "Assets/Town/Scenes/DaylightTown.unity",
+    "dirty": false,
+    "playing": false,
+    "modeledNeighborhood": true,
+    "colliders": 95,
+    "publicFaultLabels": 0
+  },
+  "graphUpdate": {
+    "method": "graphify update . / AST-only, no LLM calls",
+    "nodes": 2175,
+    "edges": 4017,
+    "communities": 120
+  }
+}

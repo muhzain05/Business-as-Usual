@@ -1,0 +1,4985 @@
+{
+  "clips": {
+    "Rig": {
+      "frames": [
+        {
+          "frame": 2,
+          "min_edge_ratio": 0.9999838817582531,
+          "median_edge_ratio": 0.9999999612581346,
+          "p95_edge_ratio": 1.000001266549868,
+          "p99_edge_ratio": 1.0000028767815707,
+          "max_edge_ratio": 1.0000130691908078,
+          "edges_over_1_5": 0,
+          "edges_under_0_5": 0,
+          "worst_edges": [
+            {
+              "ratio": 1.0000130691908078,
+              "rest_midpoint": [
+                -0.3263482451438904,
+                0.017257438972592354,
+                0.3583976626396179
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:RightHand": 0.8581,
+                  "smartrig:RightHandMiddle1": 0.0112,
+                  "smartrig:RightHandMiddle4": 0.0572,
+                  "smartrig:RightHandThumb1": 0.0736
+                },
+                {
+                  "smartrig:RightHand": 0.4455,
+                  "smartrig:RightHandMiddle1": 0.0068,
+                  "smartrig:RightHandMiddle2": 0.5,
+                  "smartrig:RightHandMiddle4": 0.0246,
+                  "smartrig:RightHandThumb1": 0.0231
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000127350290131,
+              "rest_midpoint": [
+                0.1571645438671112,
+                0.09645603597164154,
+                0.5876736044883728
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:Spine": 0.0714,
+                  "smartrig:LeftShoulder": 0.5431,
+                  "smartrig:LeftArm": 0.2885,
+                  "smartrig:LeftUpLeg": 0.097
+                },
+                {
+                  "smartrig:Spine": 0.0868,
+                  "smartrig:LeftShoulder": 0.4543,
+                  "smartrig:LeftArm": 0.3025,
+                  "smartrig:LeftUpLeg": 0.1564
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000123009850332,
+              "rest_midpoint": [
+                -0.3266562223434448,
+                0.016640830785036087,
+                0.3583976626396179
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:RightHand": 0.4455,
+                  "smartrig:RightHandMiddle1": 0.0068,
+                  "smartrig:RightHandMiddle2": 0.5,
+                  "smartrig:RightHandMiddle4": 0.0246,
+                  "smartrig:RightHandThumb1": 0.0231
+                },
+                {
+                  "smartrig:RightHand": 0.8581,
+                  "smartrig:RightHandMiddle1": 0.0112,
+                  "smartrig:RightHandMiddle4": 0.0572,
+                  "smartrig:RightHandThumb1": 0.0736
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000121104961675,
+              "rest_midpoint": [
+                -0.23112478852272034,
+                -0.08967642486095428,
+                0.13282015919685364
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:RightLeg": 0.0201,
+                  "smartrig:RightFoot": 0.9067,
+                  "smartrig:RightToeBase": 0.0215,
+                  "smartrig:RightToe_End": 0.0516
+                },
+                {
+                  "smartrig:RightLeg": 0.0201,
+                  "smartrig:RightFoot": 0.9067,
+                  "smartrig:RightToeBase": 0.0215,
+                  "smartrig:RightToe_End": 0.0516
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000120920996738,
+              "rest_midpoint": [
+                0.23112478852272034,
+                -0.08967648446559906,
+                0.1328202486038208
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:LeftLeg": 0.0238,
+                  "smartrig:LeftFoot": 0.869,
+                  "smartrig:LeftToeBase": 0.0629,
+                  "smartrig:LeftToe_End": 0.0443
+                },
+                {
+                  "smartrig:LeftLeg": 0.0238,
+                  "smartrig:LeftFoot": 0.869,
+                  "smartrig:LeftToeBase": 0.0629,
+                  "smartrig:LeftToe_End": 0.0443
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000117177337566,
+              "rest_midpoint": [
+                0.19537723064422607,
+                0.06533147394657135,
+                0.5023114681243896
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:LeftShoulder": 0.0789,
+                  "smartrig:LeftArm": 0.2649,
+                  "smartrig:LeftForeArm": 0.2745,
+                  "smartrig:LeftUpLeg": 0.3817
+                },
+                {
+                  "smartrig:LeftShoulder": 0.104,
+                  "smartrig:LeftArm": 0.2584,
+                  "smartrig:LeftForeArm": 0.1934,
+                  "smartrig:LeftUpLeg": 0.4441
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000115127203364,
+              "rest_midpoint": [
+                -0.20061609148979187,
+                0.0795065239071846,
+                0.5075502395629883
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:RightShoulder": 0.091,
+                  "smartrig:RightArm": 0.2265,
+                  "smartrig:RightForeArm": 0.3006,
+                  "smartrig:RightUpLeg": 0.382
+                },
+                {
+                  "smartrig:RightShoulder": 0.091,
+                  "smartrig:RightArm": 0.2265,
+                  "smartrig:RightForeArm": 0.3006,
+                  "smartrig:RightUpLeg": 0.382
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000111682609292,
+              "rest_midpoint": [
+                -0.3266562521457672,
+                0.01602485217154026,
+                0.35808902978897095
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:RightHand": 0.4455,
+                  "smartrig:RightHandMiddle1": 0.0068,
+                  "smartrig:RightHandMiddle2": 0.5,
+                  "smartrig:RightHandMiddle4": 0.0246,
+                  "smartrig:RightHandThumb1": 0.0231
+                },
+                {
+                  "smartrig:RightHand": 0.8581,
+                  "smartrig:RightHandMiddle1": 0.0112,
+                  "smartrig:RightHandMiddle4": 0.0572,
+                  "smartrig:RightHandThumb1": 0.0736
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000111682609292,
+              "rest_midpoint": [
+                -0.3266562521457672,
+                0.01602485217154026,
+                0.35808902978897095
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:RightHand": 0.8581,
+                  "smartrig:RightHandMiddle1": 0.0112,
+                  "smartrig:RightHandMiddle4": 0.0572,
+                  "smartrig:RightHandThumb1": 0.0736
+                },
+                {
+                  "smartrig:RightHand": 0.4455,
+                  "smartrig:RightHandMiddle1": 0.0068,
+                  "smartrig:RightHandMiddle2": 0.5,
+                  "smartrig:RightHandMiddle4": 0.0246,
+                  "smartrig:RightHandThumb1": 0.0231
+                }
+              ]
+            },
+            {
+              "ratio": 1.0000110428804467,
+              "rest_midpoint": [
+                -0.31617894768714905,
+                0.049306586384773254,
+                0.36979955434799194
+              ],
+              "vertex_groups": [
+                {
+                  "smartrig:RightForeArm": 0.0054,
+                  "smartrig:RightHand": 0.47,
+                  "smartrig:RightHandMiddle2": 0.5,
+                  "smartrig:RightHandMiddle4": 0.0194,
+                  "smartrig:RightHandThumb1": 0.0052
+                },
+                {
+                  "smartrig:RightForeArm": 0.0498,
+                  "smartrig:RightHand": 0.908,
+                  "smartrig:RightHandMiddle4": 0.0249,
+                  "smartrig:RightHandThumb1": 0.0173
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sample_frames": [
+        2
+      ],
+      "bone_scale_deviation_max": 9.5367431640625e-07,
+      "bone_location_max": 2.0799148393005875e-07
+    },
+    "Walk": {
+      "frames": [
+        {
+          "frame": 1,
+          "min_edge_ratio": 0.11830832970938722,
+          "median_edge_ratio": 0.9984690858527844,
+          "p95_edge_ratio": 1.2322225413765902,
+          "p99_edge_ratio": 1.583386230898602,
+          "max_edge_ratio": 7.058496376683362,
+          "edges_over_1_5": 315,
+          "edges_under_0_5": 78,
+          "worst_edges": [
+            {
+              "ratio": 7.058496376683362,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 4.342846569751487,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.108245643426938,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.104883787668934,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 3.87316897094401,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.839576685930549,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            },
+            {
+              "ratio": 3.7057060022748307,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 3.409143670859966,
+              "rest_midpoint": [
+                -0.3063175678253174,
+                -0.007704769726842642,
+                0.3614792823791504
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                },
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                }
+              ]
+            },
+            {
+              "ratio": 3.319606393147308,
+              "rest_midpoint": [
+                -0.1935286819934845,
+                0.024344997480511665,
+                0.5004623532295227
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0886,
+                  "mixamorig:RightArm": 0.2205,
+                  "mixamorig:RightForeArm": 0.3008,
+                  "mixamorig:RightUpLeg": 0.3901
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                }
+              ]
+            },
+            {
+              "ratio": 3.2489055000273135,
+              "rest_midpoint": [
+                -0.04684143513441086,
+                -0.10261960327625275,
+                0.6200307607650757
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2899,
+                  "mixamorig:Spine1": 0.1815,
+                  "mixamorig:LeftShoulder": 0.0981,
+                  "mixamorig:RightShoulder": 0.4305
+                },
+                {
+                  "mixamorig:Spine": 0.3002,
+                  "mixamorig:Spine1": 0.1783,
+                  "mixamorig:RightShoulder": 0.427,
+                  "mixamorig:RightUpLeg": 0.0944
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 4,
+          "min_edge_ratio": 0.13438623298808203,
+          "median_edge_ratio": 0.9982808964644976,
+          "p95_edge_ratio": 1.2448782957650781,
+          "p99_edge_ratio": 1.627242677637071,
+          "max_edge_ratio": 8.553110702449375,
+          "edges_over_1_5": 356,
+          "edges_under_0_5": 57,
+          "worst_edges": [
+            {
+              "ratio": 8.553110702449375,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 4.928449419569276,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.612808761768492,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.1865197213296,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 3.789833936551665,
+              "rest_midpoint": [
+                -0.04684143513441086,
+                -0.10261960327625275,
+                0.6200307607650757
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2899,
+                  "mixamorig:Spine1": 0.1815,
+                  "mixamorig:LeftShoulder": 0.0981,
+                  "mixamorig:RightShoulder": 0.4305
+                },
+                {
+                  "mixamorig:Spine": 0.3002,
+                  "mixamorig:Spine1": 0.1783,
+                  "mixamorig:RightShoulder": 0.427,
+                  "mixamorig:RightUpLeg": 0.0944
+                }
+              ]
+            },
+            {
+              "ratio": 3.7650535370274247,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.7250811505581622,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 3.6447668140605627,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            },
+            {
+              "ratio": 3.292693422676336,
+              "rest_midpoint": [
+                -0.07858257740736008,
+                -0.10200298577547073,
+                0.6114026308059692
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.2635,
+                  "mixamorig:Spine1": 0.1246,
+                  "mixamorig:RightShoulder": 0.4606,
+                  "mixamorig:RightUpLeg": 0.1513
+                }
+              ]
+            },
+            {
+              "ratio": 3.288736933720373,
+              "rest_midpoint": [
+                0.1932200789451599,
+                0.024345029145479202,
+                0.5004622936248779
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0905,
+                  "mixamorig:LeftArm": 0.1926,
+                  "mixamorig:LeftForeArm": 0.1848,
+                  "mixamorig:LeftUpLeg": 0.5322
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1064,
+                  "mixamorig:LeftArm": 0.2561,
+                  "mixamorig:LeftForeArm": 0.1846,
+                  "mixamorig:LeftUpLeg": 0.4528
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 7,
+          "min_edge_ratio": 0.23963651861751148,
+          "median_edge_ratio": 0.9985698357825845,
+          "p95_edge_ratio": 1.2706435830241798,
+          "p99_edge_ratio": 1.710141784209452,
+          "max_edge_ratio": 11.136148546704407,
+          "edges_over_1_5": 474,
+          "edges_under_0_5": 57,
+          "worst_edges": [
+            {
+              "ratio": 11.136148546704407,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 6.284380005867118,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.7690115876669665,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.501256461992168,
+              "rest_midpoint": [
+                -0.04684143513441086,
+                -0.10261960327625275,
+                0.6200307607650757
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2899,
+                  "mixamorig:Spine1": 0.1815,
+                  "mixamorig:LeftShoulder": 0.0981,
+                  "mixamorig:RightShoulder": 0.4305
+                },
+                {
+                  "mixamorig:Spine": 0.3002,
+                  "mixamorig:Spine1": 0.1783,
+                  "mixamorig:RightShoulder": 0.427,
+                  "mixamorig:RightUpLeg": 0.0944
+                }
+              ]
+            },
+            {
+              "ratio": 4.03238508482879,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 3.9739958995086635,
+              "rest_midpoint": [
+                -0.07858257740736008,
+                -0.10200298577547073,
+                0.6114026308059692
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.2635,
+                  "mixamorig:Spine1": 0.1246,
+                  "mixamorig:RightShoulder": 0.4606,
+                  "mixamorig:RightUpLeg": 0.1513
+                }
+              ]
+            },
+            {
+              "ratio": 3.861917974126675,
+              "rest_midpoint": [
+                -0.0739595890045166,
+                -0.10015442222356796,
+                0.6114026308059692
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2819,
+                  "mixamorig:Spine1": 0.141,
+                  "mixamorig:RightShoulder": 0.4314,
+                  "mixamorig:RightUpLeg": 0.1457
+                },
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                }
+              ]
+            },
+            {
+              "ratio": 3.8079116792423444,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.767269233687376,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            },
+            {
+              "ratio": 3.579999601698392,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 10,
+          "min_edge_ratio": 0.22097877929621793,
+          "median_edge_ratio": 0.9984200227824103,
+          "p95_edge_ratio": 1.2394560992643406,
+          "p99_edge_ratio": 1.5861221393377547,
+          "max_edge_ratio": 8.079278788094594,
+          "edges_over_1_5": 334,
+          "edges_under_0_5": 75,
+          "worst_edges": [
+            {
+              "ratio": 8.079278788094594,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 4.579881947146825,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.552157423535347,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.256750067543187,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 3.807588641312116,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.8018843113462544,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            },
+            {
+              "ratio": 3.6086343031076047,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 3.5234917133547055,
+              "rest_midpoint": [
+                -0.04684143513441086,
+                -0.10261960327625275,
+                0.6200307607650757
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2899,
+                  "mixamorig:Spine1": 0.1815,
+                  "mixamorig:LeftShoulder": 0.0981,
+                  "mixamorig:RightShoulder": 0.4305
+                },
+                {
+                  "mixamorig:Spine": 0.3002,
+                  "mixamorig:Spine1": 0.1783,
+                  "mixamorig:RightShoulder": 0.427,
+                  "mixamorig:RightUpLeg": 0.0944
+                }
+              ]
+            },
+            {
+              "ratio": 3.384252221714784,
+              "rest_midpoint": [
+                -0.3063175678253174,
+                -0.007704769726842642,
+                0.3614792823791504
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                },
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                }
+              ]
+            },
+            {
+              "ratio": 3.152374228594281,
+              "rest_midpoint": [
+                -0.3158702850341797,
+                -0.028043396770954132,
+                0.3654857277870178
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                },
+                {
+                  "mixamorig:RightHand": 0.207,
+                  "mixamorig:RightHandMiddle4": 0.0038,
+                  "mixamorig:RightHandThumb1": 0.1107,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0119
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 14,
+          "min_edge_ratio": 0.17280551298660443,
+          "median_edge_ratio": 0.9982812704655347,
+          "p95_edge_ratio": 1.2413030020541662,
+          "p99_edge_ratio": 1.6138446274817007,
+          "max_edge_ratio": 8.948662550946029,
+          "edges_over_1_5": 363,
+          "edges_under_0_5": 89,
+          "worst_edges": [
+            {
+              "ratio": 8.948662550946029,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 4.440492434897914,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.213619561469496,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.1002642549282164,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 4.001808958503347,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            },
+            {
+              "ratio": 3.9732050169376416,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.8099639459438124,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 3.6619965977501994,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            },
+            {
+              "ratio": 3.5822317295607933,
+              "rest_midpoint": [
+                -0.3063175678253174,
+                -0.007704769726842642,
+                0.3614792823791504
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                },
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                }
+              ]
+            },
+            {
+              "ratio": 3.431114825482739,
+              "rest_midpoint": [
+                -0.0739595890045166,
+                -0.10015442222356796,
+                0.6114026308059692
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2819,
+                  "mixamorig:Spine1": 0.141,
+                  "mixamorig:RightShoulder": 0.4314,
+                  "mixamorig:RightUpLeg": 0.1457
+                },
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 17,
+          "min_edge_ratio": 0.21713945211264837,
+          "median_edge_ratio": 0.9975822821897654,
+          "p95_edge_ratio": 1.2869041505894416,
+          "p99_edge_ratio": 1.8429369487543774,
+          "max_edge_ratio": 10.515850211335305,
+          "edges_over_1_5": 548,
+          "edges_under_0_5": 69,
+          "worst_edges": [
+            {
+              "ratio": 10.515850211335305,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 5.259143513103794,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 5.160367417766657,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.477821146874329,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.386109985927747,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 4.382740126055962,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            },
+            {
+              "ratio": 4.1949199251570475,
+              "rest_midpoint": [
+                0.22403661906719208,
+                0.01756548509001732,
+                0.4875198006629944
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.011,
+                  "mixamorig:LeftArm": 0.1924,
+                  "mixamorig:LeftForeArm": 0.4526,
+                  "mixamorig:LeftUpLeg": 0.344
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0386,
+                  "mixamorig:LeftArm": 0.1567,
+                  "mixamorig:LeftForeArm": 0.3038,
+                  "mixamorig:LeftUpLeg": 0.5008
+                }
+              ]
+            },
+            {
+              "ratio": 4.112142104549401,
+              "rest_midpoint": [
+                0.24560843408107758,
+                0.016024282202124596,
+                0.46656399965286255
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftArm": 0.1024,
+                  "mixamorig:LeftForeArm": 0.5767,
+                  "mixamorig:LeftHand": 0.063,
+                  "mixamorig:LeftUpLeg": 0.2579
+                },
+                {
+                  "mixamorig:LeftArm": 0.0958,
+                  "mixamorig:LeftForeArm": 0.7205,
+                  "mixamorig:LeftHand": 0.1046,
+                  "mixamorig:LeftUpLeg": 0.0791
+                }
+              ]
+            },
+            {
+              "ratio": 4.082542422866945,
+              "rest_midpoint": [
+                -0.1935286819934845,
+                0.024344997480511665,
+                0.5004623532295227
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0886,
+                  "mixamorig:RightArm": 0.2205,
+                  "mixamorig:RightForeArm": 0.3008,
+                  "mixamorig:RightUpLeg": 0.3901
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                }
+              ]
+            },
+            {
+              "ratio": 3.9272099646049727,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 20,
+          "min_edge_ratio": 0.1206392963515898,
+          "median_edge_ratio": 0.9978221566705305,
+          "p95_edge_ratio": 1.306899478115979,
+          "p99_edge_ratio": 1.8898868201235826,
+          "max_edge_ratio": 10.713008519856334,
+          "edges_over_1_5": 615,
+          "edges_under_0_5": 86,
+          "worst_edges": [
+            {
+              "ratio": 10.713008519856334,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 6.730150010506992,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 6.124986077052925,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.948154809255202,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 4.362271612564083,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            },
+            {
+              "ratio": 4.299535350050154,
+              "rest_midpoint": [
+                0.22403661906719208,
+                0.01756548509001732,
+                0.4875198006629944
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.011,
+                  "mixamorig:LeftArm": 0.1924,
+                  "mixamorig:LeftForeArm": 0.4526,
+                  "mixamorig:LeftUpLeg": 0.344
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0386,
+                  "mixamorig:LeftArm": 0.1567,
+                  "mixamorig:LeftForeArm": 0.3038,
+                  "mixamorig:LeftUpLeg": 0.5008
+                }
+              ]
+            },
+            {
+              "ratio": 4.2806406036952245,
+              "rest_midpoint": [
+                0.24560843408107758,
+                0.016024282202124596,
+                0.46656399965286255
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftArm": 0.1024,
+                  "mixamorig:LeftForeArm": 0.5767,
+                  "mixamorig:LeftHand": 0.063,
+                  "mixamorig:LeftUpLeg": 0.2579
+                },
+                {
+                  "mixamorig:LeftArm": 0.0958,
+                  "mixamorig:LeftForeArm": 0.7205,
+                  "mixamorig:LeftHand": 0.1046,
+                  "mixamorig:LeftUpLeg": 0.0791
+                }
+              ]
+            },
+            {
+              "ratio": 4.2764620107398,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.212922030854758,
+              "rest_midpoint": [
+                0.02218843810260296,
+                -0.01417566929012537,
+                0.27642571926116943
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftUpLeg": 0.6127,
+                  "mixamorig:LeftLeg": 0.0674,
+                  "mixamorig:RightUpLeg": 0.2938,
+                  "mixamorig:RightLeg": 0.0261
+                },
+                {
+                  "mixamorig:Hips": 0.0228,
+                  "mixamorig:LeftUpLeg": 0.676,
+                  "mixamorig:LeftLeg": 0.0809,
+                  "mixamorig:RightUpLeg": 0.2203
+                }
+              ]
+            },
+            {
+              "ratio": 4.164069967881782,
+              "rest_midpoint": [
+                -0.1935286819934845,
+                0.024344997480511665,
+                0.5004623532295227
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0886,
+                  "mixamorig:RightArm": 0.2205,
+                  "mixamorig:RightForeArm": 0.3008,
+                  "mixamorig:RightUpLeg": 0.3901
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 23,
+          "min_edge_ratio": 0.13893241383940433,
+          "median_edge_ratio": 0.9980844842191752,
+          "p95_edge_ratio": 1.264194923207219,
+          "p99_edge_ratio": 1.700158447898734,
+          "max_edge_ratio": 9.148473890324427,
+          "edges_over_1_5": 440,
+          "edges_under_0_5": 96,
+          "worst_edges": [
+            {
+              "ratio": 9.148473890324427,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 4.461876019977695,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.200084203708824,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 3.9058069415123167,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 3.832884411237648,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            },
+            {
+              "ratio": 3.8062121658266452,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            },
+            {
+              "ratio": 3.6905244655511007,
+              "rest_midpoint": [
+                -0.1935286819934845,
+                0.024344997480511665,
+                0.5004623532295227
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0886,
+                  "mixamorig:RightArm": 0.2205,
+                  "mixamorig:RightForeArm": 0.3008,
+                  "mixamorig:RightUpLeg": 0.3901
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                }
+              ]
+            },
+            {
+              "ratio": 3.6777906929991975,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 3.652149703661918,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.432797307602615,
+              "rest_midpoint": [
+                0.22403661906719208,
+                0.01756548509001732,
+                0.4875198006629944
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.011,
+                  "mixamorig:LeftArm": 0.1924,
+                  "mixamorig:LeftForeArm": 0.4526,
+                  "mixamorig:LeftUpLeg": 0.344
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0386,
+                  "mixamorig:LeftArm": 0.1567,
+                  "mixamorig:LeftForeArm": 0.3038,
+                  "mixamorig:LeftUpLeg": 0.5008
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 26,
+          "min_edge_ratio": 0.11831055568802228,
+          "median_edge_ratio": 0.9984704302483719,
+          "p95_edge_ratio": 1.2322183269707194,
+          "p99_edge_ratio": 1.5833883375805542,
+          "max_edge_ratio": 7.058495875286267,
+          "edges_over_1_5": 315,
+          "edges_under_0_5": 78,
+          "worst_edges": [
+            {
+              "ratio": 7.058495875286267,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 4.342835990168878,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.108243169603631,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.104881879402591,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 3.873159332563491,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.839572745894131,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            },
+            {
+              "ratio": 3.7057048035396956,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 3.409141222778139,
+              "rest_midpoint": [
+                -0.3063175678253174,
+                -0.007704769726842642,
+                0.3614792823791504
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                },
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                }
+              ]
+            },
+            {
+              "ratio": 3.319606393147308,
+              "rest_midpoint": [
+                -0.1935286819934845,
+                0.024344997480511665,
+                0.5004623532295227
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0886,
+                  "mixamorig:RightArm": 0.2205,
+                  "mixamorig:RightForeArm": 0.3008,
+                  "mixamorig:RightUpLeg": 0.3901
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                }
+              ]
+            },
+            {
+              "ratio": 3.248896492192933,
+              "rest_midpoint": [
+                -0.04684143513441086,
+                -0.10261960327625275,
+                0.6200307607650757
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2899,
+                  "mixamorig:Spine1": 0.1815,
+                  "mixamorig:LeftShoulder": 0.0981,
+                  "mixamorig:RightShoulder": 0.4305
+                },
+                {
+                  "mixamorig:Spine": 0.3002,
+                  "mixamorig:Spine1": 0.1783,
+                  "mixamorig:RightShoulder": 0.427,
+                  "mixamorig:RightUpLeg": 0.0944
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sample_frames": [
+        1,
+        4,
+        7,
+        10,
+        14,
+        17,
+        20,
+        23,
+        26
+      ],
+      "bone_scale_deviation_max": 8.940696716308594e-07,
+      "bone_location_max": 0.04277608801465839
+    },
+    "Run": {
+      "frames": [
+        {
+          "frame": 1,
+          "min_edge_ratio": 0.11166797824599269,
+          "median_edge_ratio": 0.9979906380556463,
+          "p95_edge_ratio": 1.352858090339714,
+          "p99_edge_ratio": 2.036535681030536,
+          "max_edge_ratio": 9.561309234545126,
+          "edges_over_1_5": 741,
+          "edges_under_0_5": 141,
+          "worst_edges": [
+            {
+              "ratio": 9.561309234545126,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 6.235233237031958,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 5.183980525272681,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 5.02644361235758,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.992016968767102,
+              "rest_midpoint": [
+                0.22280466556549072,
+                0.09368227422237396,
+                0.5226501226425171
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0529,
+                  "mixamorig:LeftArm": 0.4133,
+                  "mixamorig:LeftForeArm": 0.442,
+                  "mixamorig:LeftUpLeg": 0.0917
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0729,
+                  "mixamorig:LeftArm": 0.3671,
+                  "mixamorig:LeftForeArm": 0.3392,
+                  "mixamorig:LeftUpLeg": 0.2207
+                }
+              ]
+            },
+            {
+              "ratio": 4.825158308479517,
+              "rest_midpoint": [
+                -0.24807427823543549,
+                0.040061891078948975,
+                0.4514644742012024
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightForeArm": 0.7503,
+                  "mixamorig:RightHand": 0.2343,
+                  "mixamorig:RightHandThumb1": 0.0154
+                },
+                {
+                  "mixamorig:RightArm": 0.0684,
+                  "mixamorig:RightForeArm": 0.5387,
+                  "mixamorig:RightHand": 0.0479,
+                  "mixamorig:RightUpLeg": 0.345
+                }
+              ]
+            },
+            {
+              "ratio": 4.740218705611379,
+              "rest_midpoint": [
+                0.22403661906719208,
+                0.01756548509001732,
+                0.4875198006629944
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.011,
+                  "mixamorig:LeftArm": 0.1924,
+                  "mixamorig:LeftForeArm": 0.4526,
+                  "mixamorig:LeftUpLeg": 0.344
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0386,
+                  "mixamorig:LeftArm": 0.1567,
+                  "mixamorig:LeftForeArm": 0.3038,
+                  "mixamorig:LeftUpLeg": 0.5008
+                }
+              ]
+            },
+            {
+              "ratio": 4.696127795444742,
+              "rest_midpoint": [
+                0.19291207194328308,
+                0.0520804226398468,
+                0.49922969937324524
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.1944,
+                  "mixamorig:LeftForeArm": 0.1945,
+                  "mixamorig:LeftUpLeg": 0.5233
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1027,
+                  "mixamorig:LeftArm": 0.2597,
+                  "mixamorig:LeftForeArm": 0.1954,
+                  "mixamorig:LeftUpLeg": 0.4422
+                }
+              ]
+            },
+            {
+              "ratio": 4.635970871296094,
+              "rest_midpoint": [
+                0.2160244882106781,
+                0.10261963307857513,
+                0.523574709892273
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.4092,
+                  "mixamorig:LeftForeArm": 0.3283,
+                  "mixamorig:LeftUpLeg": 0.1748
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1127,
+                  "mixamorig:LeftArm": 0.4861,
+                  "mixamorig:LeftForeArm": 0.2891,
+                  "mixamorig:LeftUpLeg": 0.1121
+                }
+              ]
+            },
+            {
+              "ratio": 4.497504604968842,
+              "rest_midpoint": [
+                0.1932200789451599,
+                0.024345029145479202,
+                0.5004622936248779
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0905,
+                  "mixamorig:LeftArm": 0.1926,
+                  "mixamorig:LeftForeArm": 0.1848,
+                  "mixamorig:LeftUpLeg": 0.5322
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1064,
+                  "mixamorig:LeftArm": 0.2561,
+                  "mixamorig:LeftForeArm": 0.1846,
+                  "mixamorig:LeftUpLeg": 0.4528
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 3,
+          "min_edge_ratio": 0.05880526866432633,
+          "median_edge_ratio": 0.9970376209648292,
+          "p95_edge_ratio": 1.3723768125185696,
+          "p99_edge_ratio": 2.0973955769048422,
+          "max_edge_ratio": 12.234568835313754,
+          "edges_over_1_5": 791,
+          "edges_under_0_5": 172,
+          "worst_edges": [
+            {
+              "ratio": 12.234568835313754,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 6.938889254964985,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 6.452225517483512,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 5.703636746100454,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 5.363432460082779,
+              "rest_midpoint": [
+                0.22280466556549072,
+                0.09368227422237396,
+                0.5226501226425171
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0529,
+                  "mixamorig:LeftArm": 0.4133,
+                  "mixamorig:LeftForeArm": 0.442,
+                  "mixamorig:LeftUpLeg": 0.0917
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0729,
+                  "mixamorig:LeftArm": 0.3671,
+                  "mixamorig:LeftForeArm": 0.3392,
+                  "mixamorig:LeftUpLeg": 0.2207
+                }
+              ]
+            },
+            {
+              "ratio": 5.110431703704438,
+              "rest_midpoint": [
+                0.22403661906719208,
+                0.01756548509001732,
+                0.4875198006629944
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.011,
+                  "mixamorig:LeftArm": 0.1924,
+                  "mixamorig:LeftForeArm": 0.4526,
+                  "mixamorig:LeftUpLeg": 0.344
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0386,
+                  "mixamorig:LeftArm": 0.1567,
+                  "mixamorig:LeftForeArm": 0.3038,
+                  "mixamorig:LeftUpLeg": 0.5008
+                }
+              ]
+            },
+            {
+              "ratio": 5.099212458190295,
+              "rest_midpoint": [
+                -0.04684143513441086,
+                -0.10261960327625275,
+                0.6200307607650757
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2899,
+                  "mixamorig:Spine1": 0.1815,
+                  "mixamorig:LeftShoulder": 0.0981,
+                  "mixamorig:RightShoulder": 0.4305
+                },
+                {
+                  "mixamorig:Spine": 0.3002,
+                  "mixamorig:Spine1": 0.1783,
+                  "mixamorig:RightShoulder": 0.427,
+                  "mixamorig:RightUpLeg": 0.0944
+                }
+              ]
+            },
+            {
+              "ratio": 4.970304237020787,
+              "rest_midpoint": [
+                -0.24807427823543549,
+                0.040061891078948975,
+                0.4514644742012024
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightForeArm": 0.7503,
+                  "mixamorig:RightHand": 0.2343,
+                  "mixamorig:RightHandThumb1": 0.0154
+                },
+                {
+                  "mixamorig:RightArm": 0.0684,
+                  "mixamorig:RightForeArm": 0.5387,
+                  "mixamorig:RightHand": 0.0479,
+                  "mixamorig:RightUpLeg": 0.345
+                }
+              ]
+            },
+            {
+              "ratio": 4.903089934024368,
+              "rest_midpoint": [
+                0.19291207194328308,
+                0.0520804226398468,
+                0.49922969937324524
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.1944,
+                  "mixamorig:LeftForeArm": 0.1945,
+                  "mixamorig:LeftUpLeg": 0.5233
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1027,
+                  "mixamorig:LeftArm": 0.2597,
+                  "mixamorig:LeftForeArm": 0.1954,
+                  "mixamorig:LeftUpLeg": 0.4422
+                }
+              ]
+            },
+            {
+              "ratio": 4.725117197188651,
+              "rest_midpoint": [
+                0.1932200789451599,
+                0.024345029145479202,
+                0.5004622936248779
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0905,
+                  "mixamorig:LeftArm": 0.1926,
+                  "mixamorig:LeftForeArm": 0.1848,
+                  "mixamorig:LeftUpLeg": 0.5322
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1064,
+                  "mixamorig:LeftArm": 0.2561,
+                  "mixamorig:LeftForeArm": 0.1846,
+                  "mixamorig:LeftUpLeg": 0.4528
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 5,
+          "min_edge_ratio": 0.1084947292260163,
+          "median_edge_ratio": 0.9966543072015971,
+          "p95_edge_ratio": 1.335409952325538,
+          "p99_edge_ratio": 1.9017496830313985,
+          "max_edge_ratio": 9.00081285445655,
+          "edges_over_1_5": 694,
+          "edges_under_0_5": 130,
+          "worst_edges": [
+            {
+              "ratio": 9.00081285445655,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 5.195169200267685,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 5.089565458187062,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 5.061297039726851,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.2193843796196395,
+              "rest_midpoint": [
+                0.2160244882106781,
+                0.10261963307857513,
+                0.523574709892273
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.4092,
+                  "mixamorig:LeftForeArm": 0.3283,
+                  "mixamorig:LeftUpLeg": 0.1748
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1127,
+                  "mixamorig:LeftArm": 0.4861,
+                  "mixamorig:LeftForeArm": 0.2891,
+                  "mixamorig:LeftUpLeg": 0.1121
+                }
+              ]
+            },
+            {
+              "ratio": 4.1313083512740265,
+              "rest_midpoint": [
+                -0.04684143513441086,
+                -0.10261960327625275,
+                0.6200307607650757
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2899,
+                  "mixamorig:Spine1": 0.1815,
+                  "mixamorig:LeftShoulder": 0.0981,
+                  "mixamorig:RightShoulder": 0.4305
+                },
+                {
+                  "mixamorig:Spine": 0.3002,
+                  "mixamorig:Spine1": 0.1783,
+                  "mixamorig:RightShoulder": 0.427,
+                  "mixamorig:RightUpLeg": 0.0944
+                }
+              ]
+            },
+            {
+              "ratio": 4.039810712073178,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 4.001576993891929,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.9931015704358304,
+              "rest_midpoint": [
+                0.19291207194328308,
+                0.0520804226398468,
+                0.49922969937324524
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.1944,
+                  "mixamorig:LeftForeArm": 0.1945,
+                  "mixamorig:LeftUpLeg": 0.5233
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1027,
+                  "mixamorig:LeftArm": 0.2597,
+                  "mixamorig:LeftForeArm": 0.1954,
+                  "mixamorig:LeftUpLeg": 0.4422
+                }
+              ]
+            },
+            {
+              "ratio": 3.954393430201331,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 7,
+          "min_edge_ratio": 0.0340405822640603,
+          "median_edge_ratio": 0.9967981366307859,
+          "p95_edge_ratio": 1.328344666095022,
+          "p99_edge_ratio": 1.9250673736897135,
+          "max_edge_ratio": 9.036968076422554,
+          "edges_over_1_5": 704,
+          "edges_under_0_5": 158,
+          "worst_edges": [
+            {
+              "ratio": 9.036968076422554,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 5.755437125022318,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 5.32793301520982,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            },
+            {
+              "ratio": 4.938822031040621,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.6108568235834495,
+              "rest_midpoint": [
+                -0.0739595890045166,
+                -0.10015442222356796,
+                0.6114026308059692
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2819,
+                  "mixamorig:Spine1": 0.141,
+                  "mixamorig:RightShoulder": 0.4314,
+                  "mixamorig:RightUpLeg": 0.1457
+                },
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                }
+              ]
+            },
+            {
+              "ratio": 4.28182674088085,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 4.272459379459247,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.053414221198718,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 4.047503600678801,
+              "rest_midpoint": [
+                0.24560843408107758,
+                0.016024282202124596,
+                0.46656399965286255
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftArm": 0.1024,
+                  "mixamorig:LeftForeArm": 0.5767,
+                  "mixamorig:LeftHand": 0.063,
+                  "mixamorig:LeftUpLeg": 0.2579
+                },
+                {
+                  "mixamorig:LeftArm": 0.0958,
+                  "mixamorig:LeftForeArm": 0.7205,
+                  "mixamorig:LeftHand": 0.1046,
+                  "mixamorig:LeftUpLeg": 0.0791
+                }
+              ]
+            },
+            {
+              "ratio": 3.9951452659275293,
+              "rest_midpoint": [
+                -0.3124811351299286,
+                -0.014175692573189735,
+                0.3633285164833069
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.7078,
+                  "mixamorig:RightHandMiddle4": 0.0372,
+                  "mixamorig:RightHandThumb1": 0.2163,
+                  "mixamorig:RightHandThumb4": 0.0387
+                },
+                {
+                  "mixamorig:RightHand": 0.2244,
+                  "mixamorig:RightHandMiddle4": 0.0068,
+                  "mixamorig:RightHandThumb1": 0.0944,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0077
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 9,
+          "min_edge_ratio": 0.08020889153371367,
+          "median_edge_ratio": 0.9979433656093817,
+          "p95_edge_ratio": 1.3991418033350391,
+          "p99_edge_ratio": 2.2175929720354612,
+          "max_edge_ratio": 14.964207434772266,
+          "edges_over_1_5": 888,
+          "edges_under_0_5": 204,
+          "worst_edges": [
+            {
+              "ratio": 14.964207434772266,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 7.221403968715413,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            },
+            {
+              "ratio": 6.792802903769717,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 6.602059704169065,
+              "rest_midpoint": [
+                -0.20246538519859314,
+                0.02557758428156376,
+                0.49984636902809143
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0501,
+                  "mixamorig:RightArm": 0.2098,
+                  "mixamorig:RightForeArm": 0.4054,
+                  "mixamorig:RightUpLeg": 0.3346
+                }
+              ]
+            },
+            {
+              "ratio": 6.1998903852016545,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 5.884493854613225,
+              "rest_midpoint": [
+                -0.0739595890045166,
+                -0.10015442222356796,
+                0.6114026308059692
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2819,
+                  "mixamorig:Spine1": 0.141,
+                  "mixamorig:RightShoulder": 0.4314,
+                  "mixamorig:RightUpLeg": 0.1457
+                },
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                }
+              ]
+            },
+            {
+              "ratio": 5.728874425780233,
+              "rest_midpoint": [
+                -0.1935286819934845,
+                0.024344997480511665,
+                0.5004623532295227
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0886,
+                  "mixamorig:RightArm": 0.2205,
+                  "mixamorig:RightForeArm": 0.3008,
+                  "mixamorig:RightUpLeg": 0.3901
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                }
+              ]
+            },
+            {
+              "ratio": 5.684102742086627,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 5.395312490284069,
+              "rest_midpoint": [
+                -0.19291208684444427,
+                0.05208040773868561,
+                0.4992297887802124
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0628,
+                  "mixamorig:RightArm": 0.1693,
+                  "mixamorig:RightForeArm": 0.3079,
+                  "mixamorig:RightUpLeg": 0.4601
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0784,
+                  "mixamorig:RightArm": 0.2235,
+                  "mixamorig:RightForeArm": 0.3191,
+                  "mixamorig:RightUpLeg": 0.3789
+                }
+              ]
+            },
+            {
+              "ratio": 5.269593381445158,
+              "rest_midpoint": [
+                0.22403661906719208,
+                0.01756548509001732,
+                0.4875198006629944
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.011,
+                  "mixamorig:LeftArm": 0.1924,
+                  "mixamorig:LeftForeArm": 0.4526,
+                  "mixamorig:LeftUpLeg": 0.344
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0386,
+                  "mixamorig:LeftArm": 0.1567,
+                  "mixamorig:LeftForeArm": 0.3038,
+                  "mixamorig:LeftUpLeg": 0.5008
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 11,
+          "min_edge_ratio": 0.1317591257419043,
+          "median_edge_ratio": 0.9968320071160771,
+          "p95_edge_ratio": 1.388313752899486,
+          "p99_edge_ratio": 2.1375745828047075,
+          "max_edge_ratio": 13.429719205484258,
+          "edges_over_1_5": 866,
+          "edges_under_0_5": 154,
+          "worst_edges": [
+            {
+              "ratio": 13.429719205484258,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 6.960637854586474,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            },
+            {
+              "ratio": 6.478555136163484,
+              "rest_midpoint": [
+                -0.20246538519859314,
+                0.02557758428156376,
+                0.49984636902809143
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0501,
+                  "mixamorig:RightArm": 0.2098,
+                  "mixamorig:RightForeArm": 0.4054,
+                  "mixamorig:RightUpLeg": 0.3346
+                }
+              ]
+            },
+            {
+              "ratio": 6.1424890903622895,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 5.597120743775964,
+              "rest_midpoint": [
+                -0.1935286819934845,
+                0.024344997480511665,
+                0.5004623532295227
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0886,
+                  "mixamorig:RightArm": 0.2205,
+                  "mixamorig:RightForeArm": 0.3008,
+                  "mixamorig:RightUpLeg": 0.3901
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                }
+              ]
+            },
+            {
+              "ratio": 5.475369317505617,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 5.211677968851713,
+              "rest_midpoint": [
+                -0.19291208684444427,
+                0.05208040773868561,
+                0.4992297887802124
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0628,
+                  "mixamorig:RightArm": 0.1693,
+                  "mixamorig:RightForeArm": 0.3079,
+                  "mixamorig:RightUpLeg": 0.4601
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0784,
+                  "mixamorig:RightArm": 0.2235,
+                  "mixamorig:RightForeArm": 0.3191,
+                  "mixamorig:RightUpLeg": 0.3789
+                }
+              ]
+            },
+            {
+              "ratio": 5.158220166317802,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 5.138114784242191,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 4.751626136339597,
+              "rest_midpoint": [
+                0.24560843408107758,
+                0.016024282202124596,
+                0.46656399965286255
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftArm": 0.1024,
+                  "mixamorig:LeftForeArm": 0.5767,
+                  "mixamorig:LeftHand": 0.063,
+                  "mixamorig:LeftUpLeg": 0.2579
+                },
+                {
+                  "mixamorig:LeftArm": 0.0958,
+                  "mixamorig:LeftForeArm": 0.7205,
+                  "mixamorig:LeftHand": 0.1046,
+                  "mixamorig:LeftUpLeg": 0.0791
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 13,
+          "min_edge_ratio": 0.0947137911910695,
+          "median_edge_ratio": 0.9968523011838751,
+          "p95_edge_ratio": 1.330368173243928,
+          "p99_edge_ratio": 1.8648111586105076,
+          "max_edge_ratio": 10.37659380657682,
+          "edges_over_1_5": 660,
+          "edges_under_0_5": 127,
+          "worst_edges": [
+            {
+              "ratio": 10.37659380657682,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 5.649923471658206,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            },
+            {
+              "ratio": 4.510163904329914,
+              "rest_midpoint": [
+                -0.20246538519859314,
+                0.02557758428156376,
+                0.49984636902809143
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0501,
+                  "mixamorig:RightArm": 0.2098,
+                  "mixamorig:RightForeArm": 0.4054,
+                  "mixamorig:RightUpLeg": 0.3346
+                }
+              ]
+            },
+            {
+              "ratio": 4.322724673477884,
+              "rest_midpoint": [
+                -0.1935286819934845,
+                0.024344997480511665,
+                0.5004623532295227
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0886,
+                  "mixamorig:RightArm": 0.2205,
+                  "mixamorig:RightForeArm": 0.3008,
+                  "mixamorig:RightUpLeg": 0.3901
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0699,
+                  "mixamorig:RightArm": 0.1676,
+                  "mixamorig:RightForeArm": 0.2935,
+                  "mixamorig:RightUpLeg": 0.469
+                }
+              ]
+            },
+            {
+              "ratio": 4.18338745711813,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.116980215841507,
+              "rest_midpoint": [
+                0.046532824635505676,
+                -0.10508476197719574,
+                0.6209553480148315
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.3067,
+                  "mixamorig:Spine1": 0.1822,
+                  "mixamorig:LeftShoulder": 0.4151,
+                  "mixamorig:LeftUpLeg": 0.096
+                },
+                {
+                  "mixamorig:Spine": 0.3138,
+                  "mixamorig:Spine1": 0.1895,
+                  "mixamorig:LeftShoulder": 0.3964,
+                  "mixamorig:RightShoulder": 0.1003
+                }
+              ]
+            },
+            {
+              "ratio": 4.038770055631267,
+              "rest_midpoint": [
+                -0.19291208684444427,
+                0.05208040773868561,
+                0.4992297887802124
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0628,
+                  "mixamorig:RightArm": 0.1693,
+                  "mixamorig:RightForeArm": 0.3079,
+                  "mixamorig:RightUpLeg": 0.4601
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0784,
+                  "mixamorig:RightArm": 0.2235,
+                  "mixamorig:RightForeArm": 0.3191,
+                  "mixamorig:RightUpLeg": 0.3789
+                }
+              ]
+            },
+            {
+              "ratio": 3.9557816719421814,
+              "rest_midpoint": [
+                0.22403661906719208,
+                0.01756548509001732,
+                0.4875198006629944
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.011,
+                  "mixamorig:LeftArm": 0.1924,
+                  "mixamorig:LeftForeArm": 0.4526,
+                  "mixamorig:LeftUpLeg": 0.344
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0386,
+                  "mixamorig:LeftArm": 0.1567,
+                  "mixamorig:LeftForeArm": 0.3038,
+                  "mixamorig:LeftUpLeg": 0.5008
+                }
+              ]
+            },
+            {
+              "ratio": 3.936152489477184,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 3.9040112321488762,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 15,
+          "min_edge_ratio": 0.11167320583855637,
+          "median_edge_ratio": 0.9974469732014981,
+          "p95_edge_ratio": 1.3204782945475693,
+          "p99_edge_ratio": 1.8578048994758105,
+          "max_edge_ratio": 10.583984289002968,
+          "edges_over_1_5": 644,
+          "edges_under_0_5": 154,
+          "worst_edges": [
+            {
+              "ratio": 10.583984289002968,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 5.942944050237881,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 4.9756449305362365,
+              "rest_midpoint": [
+                -0.0739595890045166,
+                -0.10015442222356796,
+                0.6114026308059692
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2819,
+                  "mixamorig:Spine1": 0.141,
+                  "mixamorig:RightShoulder": 0.4314,
+                  "mixamorig:RightUpLeg": 0.1457
+                },
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                }
+              ]
+            },
+            {
+              "ratio": 4.091587764723058,
+              "rest_midpoint": [
+                -0.04684143513441086,
+                -0.10261960327625275,
+                0.6200307607650757
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.2899,
+                  "mixamorig:Spine1": 0.1815,
+                  "mixamorig:LeftShoulder": 0.0981,
+                  "mixamorig:RightShoulder": 0.4305
+                },
+                {
+                  "mixamorig:Spine": 0.3002,
+                  "mixamorig:Spine1": 0.1783,
+                  "mixamorig:RightShoulder": 0.427,
+                  "mixamorig:RightUpLeg": 0.0944
+                }
+              ]
+            },
+            {
+              "ratio": 4.079493704559163,
+              "rest_midpoint": [
+                -0.31402111053466797,
+                -0.036980126053094864,
+                0.374114453792572
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightHand": 0.203,
+                  "mixamorig:RightHandMiddle1": 0.0023,
+                  "mixamorig:RightHandThumb1": 0.1089,
+                  "mixamorig:RightHandThumb2": 0.3333,
+                  "mixamorig:RightHandThumb3": 0.3333,
+                  "mixamorig:RightHandThumb4": 0.0192
+                },
+                {
+                  "mixamorig:RightHand": 0.695,
+                  "mixamorig:RightHandMiddle1": 0.0226,
+                  "mixamorig:RightHandThumb1": 0.2549,
+                  "mixamorig:RightHandThumb4": 0.0274
+                }
+              ]
+            },
+            {
+              "ratio": 4.07143241960932,
+              "rest_midpoint": [
+                -0.07858257740736008,
+                -0.10200298577547073,
+                0.6114026308059692
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.2635,
+                  "mixamorig:Spine1": 0.1246,
+                  "mixamorig:RightShoulder": 0.4606,
+                  "mixamorig:RightUpLeg": 0.1513
+                }
+              ]
+            },
+            {
+              "ratio": 4.062791157213179,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 3.8688982615559553,
+              "rest_midpoint": [
+                0.2160244882106781,
+                0.10261963307857513,
+                0.523574709892273
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.4092,
+                  "mixamorig:LeftForeArm": 0.3283,
+                  "mixamorig:LeftUpLeg": 0.1748
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1127,
+                  "mixamorig:LeftArm": 0.4861,
+                  "mixamorig:LeftForeArm": 0.2891,
+                  "mixamorig:LeftUpLeg": 0.1121
+                }
+              ]
+            },
+            {
+              "ratio": 3.8108251879606145,
+              "rest_midpoint": [
+                0.19291207194328308,
+                0.0520804226398468,
+                0.49922969937324524
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.1944,
+                  "mixamorig:LeftForeArm": 0.1945,
+                  "mixamorig:LeftUpLeg": 0.5233
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1027,
+                  "mixamorig:LeftArm": 0.2597,
+                  "mixamorig:LeftForeArm": 0.1954,
+                  "mixamorig:LeftUpLeg": 0.4422
+                }
+              ]
+            },
+            {
+              "ratio": 3.7703951688125983,
+              "rest_midpoint": [
+                -0.21756502985954285,
+                0.10261960327625275,
+                0.5235747694969177
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightShoulder": 0.0553,
+                  "mixamorig:RightArm": 0.3247,
+                  "mixamorig:RightForeArm": 0.4839,
+                  "mixamorig:RightUpLeg": 0.1361
+                },
+                {
+                  "mixamorig:RightShoulder": 0.0781,
+                  "mixamorig:RightArm": 0.3978,
+                  "mixamorig:RightForeArm": 0.4466,
+                  "mixamorig:RightUpLeg": 0.0775
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "frame": 17,
+          "min_edge_ratio": 0.11166558349525536,
+          "median_edge_ratio": 0.9979903381581006,
+          "p95_edge_ratio": 1.3528578709674182,
+          "p99_edge_ratio": 2.036533632203692,
+          "max_edge_ratio": 9.561316013657336,
+          "edges_over_1_5": 741,
+          "edges_under_0_5": 141,
+          "worst_edges": [
+            {
+              "ratio": 9.561316013657336,
+              "rest_midpoint": [
+                0.047149427235126495,
+                -0.11679528653621674,
+                0.5408321022987366
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4446,
+                  "mixamorig:Spine1": 0.1107,
+                  "mixamorig:LeftShoulder": 0.148,
+                  "mixamorig:LeftUpLeg": 0.2967
+                },
+                {
+                  "mixamorig:Spine": 0.4674,
+                  "mixamorig:LeftShoulder": 0.1391,
+                  "mixamorig:LeftUpLeg": 0.2752,
+                  "mixamorig:RightUpLeg": 0.1183
+                }
+              ]
+            },
+            {
+              "ratio": 6.235241193477992,
+              "rest_midpoint": [
+                -0.07334361970424652,
+                -0.12326686084270477,
+                0.5374424457550049
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4019,
+                  "mixamorig:Spine1": 0.096,
+                  "mixamorig:RightShoulder": 0.1651,
+                  "mixamorig:RightUpLeg": 0.337
+                },
+                {
+                  "mixamorig:Spine": 0.3878,
+                  "mixamorig:RightShoulder": 0.1472,
+                  "mixamorig:LeftUpLeg": 0.1043,
+                  "mixamorig:RightUpLeg": 0.3607
+                }
+              ]
+            },
+            {
+              "ratio": 5.183982247262773,
+              "rest_midpoint": [
+                -0.0770413726568222,
+                -0.1035441979765892,
+                0.6123266220092773
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.235,
+                  "mixamorig:Spine1": 0.1333,
+                  "mixamorig:Head": 0.1407,
+                  "mixamorig:RightShoulder": 0.491
+                },
+                {
+                  "mixamorig:Spine": 0.287,
+                  "mixamorig:Spine1": 0.1296,
+                  "mixamorig:RightShoulder": 0.4206,
+                  "mixamorig:RightUpLeg": 0.1628
+                }
+              ]
+            },
+            {
+              "ratio": 5.0264543271792,
+              "rest_midpoint": [
+                -0.053312353789806366,
+                -0.12018506228923798,
+                0.5423728227615356
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:Spine": 0.4462,
+                  "mixamorig:RightShoulder": 0.1473,
+                  "mixamorig:LeftUpLeg": 0.1274,
+                  "mixamorig:RightUpLeg": 0.279
+                },
+                {
+                  "mixamorig:Spine": 0.4279,
+                  "mixamorig:Spine1": 0.1072,
+                  "mixamorig:RightShoulder": 0.1602,
+                  "mixamorig:RightUpLeg": 0.3047
+                }
+              ]
+            },
+            {
+              "ratio": 4.992003599666569,
+              "rest_midpoint": [
+                0.22280466556549072,
+                0.09368227422237396,
+                0.5226501226425171
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0529,
+                  "mixamorig:LeftArm": 0.4133,
+                  "mixamorig:LeftForeArm": 0.442,
+                  "mixamorig:LeftUpLeg": 0.0917
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0729,
+                  "mixamorig:LeftArm": 0.3671,
+                  "mixamorig:LeftForeArm": 0.3392,
+                  "mixamorig:LeftUpLeg": 0.2207
+                }
+              ]
+            },
+            {
+              "ratio": 4.825160066395773,
+              "rest_midpoint": [
+                -0.24807427823543549,
+                0.040061891078948975,
+                0.4514644742012024
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:RightForeArm": 0.7503,
+                  "mixamorig:RightHand": 0.2343,
+                  "mixamorig:RightHandThumb1": 0.0154
+                },
+                {
+                  "mixamorig:RightArm": 0.0684,
+                  "mixamorig:RightForeArm": 0.5387,
+                  "mixamorig:RightHand": 0.0479,
+                  "mixamorig:RightUpLeg": 0.345
+                }
+              ]
+            },
+            {
+              "ratio": 4.740207248028209,
+              "rest_midpoint": [
+                0.22403661906719208,
+                0.01756548509001732,
+                0.4875198006629944
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.011,
+                  "mixamorig:LeftArm": 0.1924,
+                  "mixamorig:LeftForeArm": 0.4526,
+                  "mixamorig:LeftUpLeg": 0.344
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.0386,
+                  "mixamorig:LeftArm": 0.1567,
+                  "mixamorig:LeftForeArm": 0.3038,
+                  "mixamorig:LeftUpLeg": 0.5008
+                }
+              ]
+            },
+            {
+              "ratio": 4.696115577841627,
+              "rest_midpoint": [
+                0.19291207194328308,
+                0.0520804226398468,
+                0.49922969937324524
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.1944,
+                  "mixamorig:LeftForeArm": 0.1945,
+                  "mixamorig:LeftUpLeg": 0.5233
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1027,
+                  "mixamorig:LeftArm": 0.2597,
+                  "mixamorig:LeftForeArm": 0.1954,
+                  "mixamorig:LeftUpLeg": 0.4422
+                }
+              ]
+            },
+            {
+              "ratio": 4.6359716441597305,
+              "rest_midpoint": [
+                0.2160244882106781,
+                0.10261963307857513,
+                0.523574709892273
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0877,
+                  "mixamorig:LeftArm": 0.4092,
+                  "mixamorig:LeftForeArm": 0.3283,
+                  "mixamorig:LeftUpLeg": 0.1748
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1127,
+                  "mixamorig:LeftArm": 0.4861,
+                  "mixamorig:LeftForeArm": 0.2891,
+                  "mixamorig:LeftUpLeg": 0.1121
+                }
+              ]
+            },
+            {
+              "ratio": 4.497493999771303,
+              "rest_midpoint": [
+                0.1932200789451599,
+                0.024345029145479202,
+                0.5004622936248779
+              ],
+              "vertex_groups": [
+                {
+                  "mixamorig:LeftShoulder": 0.0905,
+                  "mixamorig:LeftArm": 0.1926,
+                  "mixamorig:LeftForeArm": 0.1848,
+                  "mixamorig:LeftUpLeg": 0.5322
+                },
+                {
+                  "mixamorig:LeftShoulder": 0.1064,
+                  "mixamorig:LeftArm": 0.2561,
+                  "mixamorig:LeftForeArm": 0.1846,
+                  "mixamorig:LeftUpLeg": 0.4528
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sample_frames": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17
+      ],
+      "bone_scale_deviation_max": 8.344650268554688e-07,
+      "bone_location_max": 0.038157309431056705
+    }
+  },
+  "component_weights": [
+    {
+      "id": 0,
+      "vertices": 1640,
+      "average_weights": {
+        "mixamorig:Head": 0.2766536428417056,
+        "mixamorig:LeftUpLeg": 0.12460897561707875,
+        "mixamorig:RightUpLeg": 0.1169132143327194,
+        "mixamorig:LeftShoulder": 0.0944020227047653,
+        "mixamorig:RightShoulder": 0.09038521220957968,
+        "mixamorig:LeftArm": 0.07381229165564547,
+        "mixamorig:RightArm": 0.06567164871358261,
+        "mixamorig:Spine": 0.05976780115473425,
+        "mixamorig:RightForeArm": 0.043983475042779635,
+        "mixamorig:LeftForeArm": 0.03004767883389499,
+        "mixamorig:Hips": 0.013131011082086622,
+        "mixamorig:Spine1": 0.010139397617426656,
+        "mixamorig:Spine2": 0.00034634543256000075,
+        "mixamorig:RightLeg": 0.00010772783354651638,
+        "mixamorig:LeftLeg": 1.8177124694353197e-05,
+        "mixamorig:Neck": 1.1387813782032647e-05
+      }
+    },
+    {
+      "id": 1,
+      "vertices": 1130,
+      "average_weights": {
+        "mixamorig:RightFoot": 0.8488654427296293,
+        "mixamorig:RightLeg": 0.0687461021153073,
+        "mixamorig:RightToe_End": 0.05351109137583217,
+        "mixamorig:RightToeBase": 0.02333553361788081,
+        "mixamorig:RightUpLeg": 0.005541836973681502
+      }
+    },
+    {
+      "id": 2,
+      "vertices": 1130,
+      "average_weights": {
+        "mixamorig:LeftFoot": 0.808771302715867,
+        "mixamorig:LeftLeg": 0.07281156621831655,
+        "mixamorig:LeftToe_End": 0.062349848693959924,
+        "mixamorig:LeftToeBase": 0.04968386491463392,
+        "mixamorig:LeftUpLeg": 0.006383425016646413
+      }
+    },
+    {
+      "id": 3,
+      "vertices": 929,
+      "average_weights": {
+        "mixamorig:RightHand": 0.5593345805016908,
+        "mixamorig:RightForeArm": 0.17476692296458313,
+        "mixamorig:RightHandThumb1": 0.059084533909433475,
+        "mixamorig:RightHandMiddle4": 0.03912236144807815,
+        "mixamorig:RightHandThumb4": 0.03534667015500994,
+        "mixamorig:RightHandThumb2": 0.033050299549437216,
+        "mixamorig:RightArm": 0.028731058534275863,
+        "mixamorig:RightHandMiddle2": 0.020568681289607295,
+        "mixamorig:RightHandThumb3": 0.018229075877794914,
+        "mixamorig:RightHandMiddle1": 0.01622026552914636,
+        "mixamorig:RightUpLeg": 0.009019823793013079,
+        "mixamorig:RightShoulder": 0.0046678439406247,
+        "mixamorig:RightHandMiddle3": 0.001857894138068129
+      }
+    },
+    {
+      "id": 4,
+      "vertices": 929,
+      "average_weights": {
+        "mixamorig:LeftHand": 0.6201635329829743,
+        "mixamorig:LeftForeArm": 0.15466630640209114,
+        "mixamorig:LeftHandMiddle1": 0.06721483230636496,
+        "Bone_032": 0.044373560780251425,
+        "mixamorig:LeftArm": 0.036570430518979104,
+        "mixamorig:LeftHandMiddle4": 0.03149072099008384,
+        "mixamorig:LeftHandMiddle2": 0.024864345279709144,
+        "mixamorig:LeftUpLeg": 0.012459495438681866,
+        "mixamorig:LeftShoulder": 0.0059511798751752006,
+        "mixamorig:LeftHandMiddle3": 0.0017305895259084564,
+        "Bone_033": 0.00051501633442008
+      }
+    },
+    {
+      "id": 5,
+      "vertices": 793,
+      "average_weights": {
+        "mixamorig:LeftUpLeg": 0.4153295786309081,
+        "mixamorig:RightUpLeg": 0.40961537706069817,
+        "mixamorig:RightLeg": 0.055256817978425105,
+        "mixamorig:LeftLeg": 0.05372491195177821,
+        "mixamorig:Hips": 0.02702511358478554,
+        "mixamorig:Spine": 0.014020779187712362,
+        "mixamorig:RightFoot": 0.010442542066341936,
+        "mixamorig:LeftFoot": 0.008935561553078316,
+        "mixamorig:RightForeArm": 0.0020855546765696504,
+        "mixamorig:LeftForeArm": 0.0011849683981910253,
+        "mixamorig:LeftArm": 0.0011476385853432993,
+        "mixamorig:RightArm": 0.001036074633791122,
+        "mixamorig:LeftShoulder": 0.00011456454781084914,
+        "mixamorig:RightShoulder": 6.074870350532243e-05,
+        "mixamorig:RightHandThumb4": 1.785863221864936e-05,
+        "mixamorig:LeftHandMiddle4": 1.918095231383879e-06
+      }
+    },
+    {
+      "id": 6,
+      "vertices": 589,
+      "average_weights": {
+        "mixamorig:Head": 0.9917650141821248,
+        "mixamorig:RightShoulder": 0.003962177298516383,
+        "mixamorig:LeftShoulder": 0.0038552145174443,
+        "mixamorig:Spine2": 0.00039516719684851907,
+        "mixamorig:Neck": 2.2153303128744653e-05,
+        "mixamorig:HeadTop_End": 2.760013337334039e-07
+      }
+    },
+    {
+      "id": 7,
+      "vertices": 187,
+      "average_weights": {
+        "mixamorig:RightFoot": 0.5139846847676498,
+        "mixamorig:RightUpLeg": 0.24877936973480538,
+        "mixamorig:RightLeg": 0.22916110067265383,
+        "mixamorig:LeftUpLeg": 0.008040836100830114,
+        "mixamorig:RightToeBase": 1.7990262847129793e-05,
+        "mixamorig:RightToe_End": 1.602583934607751e-05
+      }
+    },
+    {
+      "id": 8,
+      "vertices": 185,
+      "average_weights": {
+        "mixamorig:LeftFoot": 0.5055450611521264,
+        "mixamorig:LeftUpLeg": 0.25158622089169314,
+        "mixamorig:LeftLeg": 0.23348183043574838,
+        "mixamorig:RightUpLeg": 0.008812924874065493,
+        "mixamorig:LeftToeBase": 0.0005725945553717179,
+        "mixamorig:LeftToe_End": 1.3695444559326042e-06
+      }
+    },
+    {
+      "id": 9,
+      "vertices": 106,
+      "average_weights": {
+        "mixamorig:Head": 0.9986992928217042,
+        "mixamorig:RightShoulder": 0.0006021808868302647,
+        "mixamorig:LeftShoulder": 0.0005050832478445955,
+        "mixamorig:Spine2": 0.00019344782076758456
+      }
+    },
+    {
+      "id": 10,
+      "vertices": 76,
+      "average_weights": {
+        "mixamorig:Head": 0.9985861041043934,
+        "mixamorig:RightShoulder": 0.0014110879551720388,
+        "mixamorig:Spine2": 2.806336085900272e-06
+      }
+    },
+    {
+      "id": 11,
+      "vertices": 76,
+      "average_weights": {
+        "mixamorig:Head": 0.9988127484133369,
+        "mixamorig:LeftShoulder": 0.0011872563432246495
+      }
+    },
+    {
+      "id": 12,
+      "vertices": 43,
+      "average_weights": {
+        "mixamorig:RightShoulder": 0.38890063416126164,
+        "mixamorig:Spine": 0.3072623828815859,
+        "mixamorig:RightUpLeg": 0.1666546682285708,
+        "mixamorig:Spine1": 0.13391015643990317,
+        "mixamorig:Head": 0.0032721674719522168
+      }
+    },
+    {
+      "id": 13,
+      "vertices": 42,
+      "average_weights": {
+        "mixamorig:RightUpLeg": 0.3952658346721104,
+        "mixamorig:Spine": 0.358528923420679,
+        "mixamorig:RightShoulder": 0.15206049826173557,
+        "mixamorig:LeftUpLeg": 0.06199767990481286,
+        "mixamorig:Spine1": 0.0321470768678756
+      }
+    },
+    {
+      "id": 14,
+      "vertices": 42,
+      "average_weights": {
+        "mixamorig:RightUpLeg": 0.6289212434064775,
+        "mixamorig:Spine": 0.1771621700553667,
+        "mixamorig:LeftUpLeg": 0.12124387653810638,
+        "mixamorig:Hips": 0.07267273341615994
+      }
+    }
+  ],
+  "rig_split_weights": {
+    "coincident_positions": 2377,
+    "weight_discontinuity_positions": 3
+  },
+  "skeleton_comparison": {
+    "rig_only": [],
+    "clip_only": [
+      "Bone_032_end",
+      "Bone_037_end",
+      "Bone_038_end",
+      "HeadTop_End_end",
+      "LeftHandMiddle4_end",
+      "LeftToe_End_end",
+      "RightHandMiddle4_end",
+      "RightHandThumb4_end",
+      "RightToe_End_end",
+      "headfront_end"
+    ],
+    "common": [
+      {
+        "bone": "Bone_032",
+        "head_delta": 2.691506127743191e-07,
+        "tail_delta": 1.228781230931777e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Bone_033",
+        "head_delta": 2.84710657660447e-07,
+        "tail_delta": 2.691506127743191e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Bone_034",
+        "head_delta": 3.100954558202141e-07,
+        "tail_delta": 3.2818517817910057e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Bone_037",
+        "head_delta": 3.4995925106212375e-07,
+        "tail_delta": 0.031090022352589005,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Bone_038",
+        "head_delta": 4.2278352257940494e-07,
+        "tail_delta": 0.030821746614402325,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Head",
+        "head_delta": 3.447479713061523e-07,
+        "tail_delta": 6.256458874567037e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "HeadTop_End",
+        "head_delta": 8.374195042498882e-07,
+        "tail_delta": 0.14453048520044046,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Hips",
+        "head_delta": 0.0,
+        "tail_delta": 3.0563844519521926e-08,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftArm",
+        "head_delta": 2.9019031068906855e-07,
+        "tail_delta": 3.1735013174931803e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftFoot",
+        "head_delta": 1.2818463544611077e-07,
+        "tail_delta": 1.5232748016909415e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftForeArm",
+        "head_delta": 2.0267770452403194e-07,
+        "tail_delta": 1.201947465904182e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftHand",
+        "head_delta": 1.201947465904182e-07,
+        "tail_delta": 2.7337133599754175e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftHandMiddle1",
+        "head_delta": 2.3836764195700795e-07,
+        "tail_delta": 2.846862848779976e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftHandMiddle2",
+        "head_delta": 2.4292349249461035e-07,
+        "tail_delta": 1.5200827839302395e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftHandMiddle3",
+        "head_delta": 8.2378627313286e-08,
+        "tail_delta": 2.2080006469394928e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftHandMiddle4",
+        "head_delta": 2.2080006469394928e-07,
+        "tail_delta": 3.3394895242176905e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftLeg",
+        "head_delta": 2.986047331594191e-08,
+        "tail_delta": 1.2818463544611077e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftShoulder",
+        "head_delta": 1.3313678859553064e-07,
+        "tail_delta": 1.1451859883173852e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftToeBase",
+        "head_delta": 1.5232748016909415e-07,
+        "tail_delta": 1.1470023034766802e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftToe_End",
+        "head_delta": 1.1470023034766802e-07,
+        "tail_delta": 1.7136335372924805e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "LeftUpLeg",
+        "head_delta": 6.188917057900187e-08,
+        "tail_delta": 2.986047331594191e-08,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Neck",
+        "head_delta": 3.0368765883642123e-07,
+        "tail_delta": 3.6606434669416666e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightArm",
+        "head_delta": 1.8162461732698836e-07,
+        "tail_delta": 2.4586915969848633e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightFoot",
+        "head_delta": 1.564621925354004e-07,
+        "tail_delta": 1.70551585290724e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightForeArm",
+        "head_delta": 3.9789169796760945e-07,
+        "tail_delta": 3.1961601344945505e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHand",
+        "head_delta": 3.1961601344945505e-07,
+        "tail_delta": 1.8405347059720195e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHandMiddle1",
+        "head_delta": 2.0212918469683135e-07,
+        "tail_delta": 2.432874123343184e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHandMiddle2",
+        "head_delta": 2.2650867869794758e-07,
+        "tail_delta": 2.0838329599718744e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHandMiddle3",
+        "head_delta": 2.0838329599718744e-07,
+        "tail_delta": 2.950279395762582e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHandMiddle4",
+        "head_delta": 2.950279395762582e-07,
+        "tail_delta": 2.6320698458933376e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHandThumb1",
+        "head_delta": 2.4823546747724856e-07,
+        "tail_delta": 2.421152116249788e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHandThumb2",
+        "head_delta": 2.864418806088785e-07,
+        "tail_delta": 2.8954397964213855e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHandThumb3",
+        "head_delta": 1.883483344331075e-07,
+        "tail_delta": 2.2870369968072814e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightHandThumb4",
+        "head_delta": 3.3527612686157227e-07,
+        "tail_delta": 3.332000937312528e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightLeg",
+        "head_delta": 3.7299440045842505e-08,
+        "tail_delta": 1.564621925354004e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightShoulder",
+        "head_delta": 1.8059975303226726e-07,
+        "tail_delta": 1.8162461732698836e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightToeBase",
+        "head_delta": 1.70551585290724e-07,
+        "tail_delta": 2.4541719394923157e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightToe_End",
+        "head_delta": 2.4541719394923157e-07,
+        "tail_delta": 4.37495656487441e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "RightUpLeg",
+        "head_delta": 3.725290298461914e-08,
+        "tail_delta": 3.7299440045842505e-08,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Spine",
+        "head_delta": 1.4018261081995786e-08,
+        "tail_delta": 7.843594078961344e-08,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Spine1",
+        "head_delta": 1.452476979617941e-07,
+        "tail_delta": 6.821510724625222e-08,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "Spine2",
+        "head_delta": 1.471491509905889e-08,
+        "tail_delta": 2.3861429592626293e-07,
+        "orientation_degrees": 0.0
+      },
+      {
+        "bone": "headfront",
+        "head_delta": 3.2485148518085264e-07,
+        "tail_delta": 0.1445311093334497,
+        "orientation_degrees": 0.0
+      }
+    ]
+  }
+}

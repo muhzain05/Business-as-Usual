@@ -1,0 +1,38 @@
+[
+  {
+    "name": "one_worker_with_explicit_services",
+    "passed": true
+  },
+  {
+    "name": "hood_blocks_real_W_movement",
+    "passed": true
+  },
+  {
+    "name": "parcel_restaged_on_yard",
+    "passed": true
+  },
+  {
+    "name": "covert_note_is_a_regular_supported_declaration",
+    "passed": true
+  },
+  {
+    "name": "same_parcel_delivery_continues_after_detour",
+    "passed": true
+  },
+  {
+    "name": "service_correction_retains_an_actual_copy",
+    "passed": true
+  },
+  {
+    "name": "tested_repair_signed",
+    "passed": true
+  },
+  {
+    "name": "shared_board_only_contains_selected_copy",
+    "passed": true
+  },
+  {
+    "name": "full_solo_mechanic_day_completed",
+    "passed": true
+  }
+]

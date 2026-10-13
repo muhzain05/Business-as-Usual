@@ -1,0 +1,42 @@
+[
+  {
+    "name": "one_worker_with_explicit_services",
+    "passed": true
+  },
+  {
+    "name": "parcel_restaged_on_returns",
+    "passed": true
+  },
+  {
+    "name": "covert_note_is_a_regular_supported_declaration",
+    "passed": true
+  },
+  {
+    "name": "same_parcel_delivery_continues_after_detour",
+    "passed": true
+  },
+  {
+    "name": "checkout_conserved_0",
+    "passed": true
+  },
+  {
+    "name": "checkout_conserved_1",
+    "passed": true
+  },
+  {
+    "name": "checkout_conserved_2",
+    "passed": true
+  },
+  {
+    "name": "shared_board_only_contains_selected_copy",
+    "passed": true
+  },
+  {
+    "name": "full_solo_shopkeeper_day_completed",
+    "passed": true
+  },
+  {
+    "name": "private_arrangement_requires_detour_declaration_and_real_work",
+    "passed": true
+  }
+]

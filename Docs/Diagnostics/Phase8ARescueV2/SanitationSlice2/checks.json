@@ -1,0 +1,35 @@
+[
+  {
+    "name": "one_real_solo_player",
+    "passed": true
+  },
+  {
+    "name": "server_cart_moves_and_parks_from_real_input",
+    "passed": true
+  },
+  {
+    "name": "same_square_batch_loaded",
+    "passed": true
+  },
+  {
+    "name": "three_real_batches_in_cart",
+    "passed": true
+  },
+  {
+    "name": "loaded_cart_returns_toward_yard",
+    "passed": true
+  },
+  {
+    "name": "selected_cart_batch_sorted_3",
+    "passed": true
+  },
+  {
+    "name": "selected_cart_batch_sorted_1",
+    "passed": true
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "Timeout; {'host': 'Not available yet.'}"
+  }
+]

@@ -1,0 +1,376 @@
+{
+  "method": "Two actual NGO Windows processes; opt-in placement, production commands. Native URP target descriptor measured.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "host_native_initial",
+      "passed": true,
+      "detail": "{'screenWidth': 1280, 'screenHeight': 720, 'internalWidth': 1280, 'internalHeight': 720, 'renderScale': 1.0, 'dynamicResolution': False}"
+    },
+    {
+      "name": "client_native_initial",
+      "passed": true,
+      "detail": "{'screenWidth': 1280, 'screenHeight': 720, 'internalWidth': 1280, 'internalHeight': 720, 'renderScale': 1.0, 'dynamicResolution': False}"
+    },
+    {
+      "name": "quality_preset_selected_0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "native_quality_0",
+      "passed": true,
+      "detail": "{'screenWidth': 1280, 'screenHeight': 720, 'internalWidth': 1280, 'internalHeight': 720, 'renderScale': 1.0, 'dynamicResolution': False}"
+    },
+    {
+      "name": "quality_preset_selected_1",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "name": "native_quality_1",
+      "passed": true,
+      "detail": "{'screenWidth': 1280, 'screenHeight': 720, 'internalWidth': 1280, 'internalHeight': 720, 'renderScale': 1.0, 'dynamicResolution': False}"
+    },
+    {
+      "name": "synchronized_server_clock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "same_town_phase",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "hands_visible_fov_60",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "hands_visible_fov_74",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "hands_visible_fov_95",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "mechanic_initial_inspections",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "mechanic_initial_inspections_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "one_inspection_after_completion",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "one_inspection_after_completion_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "completed_inspection_gone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no_inactive_repair_blue_pin",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "private_markers_no_cross_job",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "parts_unlock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "parts_unlock_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "repairs_unlock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "repairs_unlock_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "repair_one_completed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "repair_one_completed_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "record_unlock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "record_unlock_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "mechanic_complete_no_markers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sanitation_route",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sanitation_route_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "matching_bin_Paper",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "matching_bin_Paper_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sorted_Paper",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sorted_Paper_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "collected_bag_removed_0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "matching_bin_Mixed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "matching_bin_Mixed_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sorted_Mixed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sorted_Mixed_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "collected_bag_removed_1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "matching_bin_Metal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "matching_bin_Metal_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sorted_Metal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sorted_Metal_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "collected_bag_removed_2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sanitation_complete_no_markers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "shop_delivery_interior",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "shop_delivery_interior_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exterior_objective_bound_to_actual_door",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "stock_crate_unlock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "stock_crate_unlock_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "shelves_unlock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "shelves_unlock_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "restock_Sunbeam_Cola_Shelf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "restock_Sunbeam_Cola_Shelf_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "stocked_marker_retires_Sunbeam Cola Shelf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "restock_Meadow_Tea_Shelf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "restock_Meadow_Tea_Shelf_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "stocked_marker_retires_Meadow Tea Shelf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "restock_Golden_Crackers_Shelf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "restock_Golden_Crackers_Shelf_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "stocked_marker_retires_Golden Crackers Shelf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "checkout_ready_0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "checkout_ready_0_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "checkout_ready_1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "checkout_ready_1_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "checkout_ready_2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "checkout_ready_2_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "closing_unlock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "closing_unlock_coordinates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "shop_complete_outside_no_stale_marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "cadence_walk",
+      "passed": true,
+      "detail": "1.692307949066162"
+    },
+    {
+      "name": "remote_speed_2.2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "cadence_run",
+      "passed": true,
+      "detail": "1.4000000953674316"
+    },
+    {
+      "name": "remote_speed_4.2",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

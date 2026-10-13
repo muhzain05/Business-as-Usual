@@ -1,0 +1,5 @@
+PASS market_door_opens_with_production_E
+PASS player_walks_through_market_door
+PASS production_E_enters_connected_interior
+PASS entry_exit_preserves_both_assignments
+4/4 passed

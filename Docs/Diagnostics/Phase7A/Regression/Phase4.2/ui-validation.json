@@ -1,0 +1,348 @@
+{
+    "timestampUtc": "2026-10-11T11:54:25.0926079Z",
+    "method": "Live Unity Play mode; production interactions, synthetic Input System events and queued Game view GUI clicks. No human usability test.",
+    "checks": [
+        {
+            "name": "licensed_fonts_loaded",
+            "details": "All four approved bundled font files loaded.",
+            "passed": true
+        },
+        {
+            "name": "presentation_cache_reload",
+            "details": "Re-enabling after nonserialized caches/actions are cleared recreates fonts, drawing cache and Tab action.",
+            "passed": true
+        },
+        {
+            "name": "initial_order",
+            "details": "Current order preserved.",
+            "passed": true
+        },
+        {
+            "name": "snapshot_cached",
+            "details": "No full view rebuild without state changes.",
+            "passed": true
+        },
+        {
+            "name": "integer_money",
+            "details": "No float currency conversion.",
+            "passed": true
+        },
+        {
+            "name": "safe_bounds_1920x1080",
+            "details": "Reference layout fits; 24px text scales to 24px.",
+            "passed": true
+        },
+        {
+            "name": "safe_bounds_1280x720",
+            "details": "Reference layout fits; 24px text scales to 16px.",
+            "passed": true
+        },
+        {
+            "name": "safe_bounds_1600x900",
+            "details": "Reference layout fits; 24px text scales to 20px.",
+            "passed": true
+        },
+        {
+            "name": "safe_bounds_2560x1080",
+            "details": "Reference layout fits; 24px text scales to 24px.",
+            "passed": true
+        },
+        {
+            "name": "panel_read_only_None",
+            "details": "Presentation selection preserves transactions, time and cursor mode.",
+            "passed": true
+        },
+        {
+            "name": "panel_read_only_Receipts",
+            "details": "Presentation selection preserves transactions, time and cursor mode.",
+            "passed": true
+        },
+        {
+            "name": "panel_read_only_Tasks",
+            "details": "Presentation selection preserves transactions, time and cursor mode.",
+            "passed": true
+        },
+        {
+            "name": "panel_read_only_Inventory",
+            "details": "Presentation selection preserves transactions, time and cursor mode.",
+            "passed": true
+        },
+        {
+            "name": "panel_read_only_Order",
+            "details": "Presentation selection preserves transactions, time and cursor mode.",
+            "passed": true
+        },
+        {
+            "name": "panel_read_only_Report",
+            "details": "Presentation selection preserves transactions, time and cursor mode.",
+            "passed": true
+        },
+        {
+            "name": "Tab_opens_receipts",
+            "details": "Production Tab action.",
+            "passed": true
+        },
+        {
+            "name": "Tab_closes_receipts",
+            "details": "Production Tab action.",
+            "passed": true
+        },
+        {
+            "name": "expanded_UI_does_not_steal_E",
+            "details": "E remains production interaction when mouse captured; opening book does not pause gameplay.",
+            "passed": true
+        },
+        {
+            "name": "repeated_E_no_duplicate_delivery",
+            "details": "Receive exposes the nearby crate, so the second E may legitimately pick it up. Original quantities and delivery count remain exact.",
+            "passed": true
+        },
+        {
+            "name": "Esc_releases_cursor",
+            "details": "Production Esc action unchanged.",
+            "passed": true
+        },
+        {
+            "name": "UI_click_does_not_capture_cursor",
+            "details": "Hovering released-cursor UI consumes its click.",
+            "passed": true
+        },
+        {
+            "name": "actual_tasks_button",
+            "details": "Queued Game view MouseDown/MouseUp reaches the production GUI button.",
+            "passed": true
+        },
+        {
+            "name": "actual_shift_tab",
+            "details": "Live handbook tab click.",
+            "passed": true
+        },
+        {
+            "name": "outside_click_recaptures_cursor",
+            "details": "Original gameplay click-to-capture action restored outside UI.",
+            "passed": true
+        },
+        {
+            "name": "Q_return_while_UI_browsing",
+            "details": "Existing Q action returns carried stock without a UI transaction.",
+            "passed": true
+        },
+        {
+            "name": "carry_production",
+            "details": "Production crate interaction.",
+            "passed": true
+        },
+        {
+            "name": "captured_01-normal-hud-1920x1080",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "captured_01-normal-hud-1280x720",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "carry_inventory_exact",
+            "details": "Handbook and HUD use current ledger quantities.",
+            "passed": true
+        },
+        {
+            "name": "captured_02-task-handbook-1920x1080",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "captured_02-task-handbook-1280x720",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "stock_for_UI_crackers",
+            "details": "Unchanged production shelf/reach path.",
+            "passed": true
+        },
+        {
+            "name": "stock_for_UI_cola",
+            "details": "Unchanged production shelf/reach path.",
+            "passed": true
+        },
+        {
+            "name": "stock_for_UI_tea",
+            "details": "Unchanged production shelf/reach path.",
+            "passed": true
+        },
+        {
+            "name": "partial_basket_exact",
+            "details": "Partial order and task counts reflect the domain.",
+            "passed": true
+        },
+        {
+            "name": "captured_03-customer-order-1920x1080",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "captured_03-customer-order-1280x720",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "captured_06-interaction-prompt-1920x1080",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "captured_06-interaction-prompt-1280x720",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "order_value_S1-001",
+            "details": "Unpaid value from integer quantities and prices.",
+            "passed": true
+        },
+        {
+            "name": "checkout_for_UI_S1-001",
+            "details": "Production checkout.",
+            "passed": true
+        },
+        {
+            "name": "order_value_S1-002",
+            "details": "Unpaid value from integer quantities and prices.",
+            "passed": true
+        },
+        {
+            "name": "checkout_for_UI_S1-002",
+            "details": "Production checkout.",
+            "passed": true
+        },
+        {
+            "name": "order_value_S1-003",
+            "details": "Unpaid value from integer quantities and prices.",
+            "passed": true
+        },
+        {
+            "name": "checkout_for_UI_S1-003",
+            "details": "Production checkout.",
+            "passed": true
+        },
+        {
+            "name": "HUD_revenue_updated",
+            "details": "Live HUD refresh follows three checkouts.",
+            "passed": true
+        },
+        {
+            "name": "receipt_exact_BAU-0001",
+            "details": "Item quantities, unit prices and totals remain exact.",
+            "passed": true
+        },
+        {
+            "name": "receipt_exact_BAU-0002",
+            "details": "Item quantities, unit prices and totals remain exact.",
+            "passed": true
+        },
+        {
+            "name": "receipt_exact_BAU-0003",
+            "details": "Item quantities, unit prices and totals remain exact.",
+            "passed": true
+        },
+        {
+            "name": "captured_04-printed-receipt-1920x1080",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "captured_04-printed-receipt-1280x720",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "actual_second_receipt_button",
+            "details": "Live receipt list selects Eli.",
+            "passed": true
+        },
+        {
+            "name": "captured_receipt-02-1920x1080",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "actual_third_receipt_button",
+            "details": "Live receipt list selects Jo.",
+            "passed": true
+        },
+        {
+            "name": "receipt_index_clamped",
+            "details": "Invalid presentation index cannot escape the receipt list.",
+            "passed": true
+        },
+        {
+            "name": "captured_receipt-03-1920x1080",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "repeated_browsing_no_transactions",
+            "details": "Repeated opens/closes/navigation create no sale or inventory movement.",
+            "passed": true
+        },
+        {
+            "name": "close_shift_production",
+            "details": "Unchanged closing station.",
+            "passed": true
+        },
+        {
+            "name": "completion_opens_report",
+            "details": "Live closure triggers report once.",
+            "passed": true
+        },
+        {
+            "name": "captured_05-shift-report-1920x1080",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "captured_05-shift-report-1280x720",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        },
+        {
+            "name": "closed_report_can_close",
+            "details": "Report does not reopen every frame; front exit remains accessible.",
+            "passed": true
+        },
+        {
+            "name": "UI_did_not_modify_time",
+            "details": "UI does not pause or alter time.",
+            "passed": true
+        },
+        {
+            "name": "stock_conserved",
+            "details": "Final counts unchanged.",
+            "passed": true
+        },
+        {
+            "name": "captured_report-reduced-motion-1280x720",
+            "details": "Actual Game view ScreenCapture with UI; dimensions independently checked from PNG.",
+            "passed": true
+        }
+    ],
+    "screenshots": [
+        "01-normal-hud-1920x1080.png",
+        "01-normal-hud-1280x720.png",
+        "02-task-handbook-1920x1080.png",
+        "02-task-handbook-1280x720.png",
+        "03-customer-order-1920x1080.png",
+        "03-customer-order-1280x720.png",
+        "06-interaction-prompt-1920x1080.png",
+        "06-interaction-prompt-1280x720.png",
+        "04-printed-receipt-1920x1080.png",
+        "04-printed-receipt-1280x720.png",
+        "receipt-02-1920x1080.png",
+        "receipt-03-1920x1080.png",
+        "05-shift-report-1920x1080.png",
+        "05-shift-report-1280x720.png",
+        "report-reduced-motion-1280x720.png"
+    ]
+}

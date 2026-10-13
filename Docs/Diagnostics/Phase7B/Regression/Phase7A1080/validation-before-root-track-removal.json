@@ -1,0 +1,222 @@
+{
+  "method": "Two independent Windows processes, actual NGO/UTP localhost UDP, production E dispatch, held input and virtual-keyboard Esc/W, opt-in server test placement.",
+  "humanControlled": false,
+  "exe": "D:\\Business as Usual\\Builds\\Phase7B\\BusinessAsUsual.exe",
+  "checks": [
+    {
+      "name": "host_one_camera_one_listener_one_input",
+      "passed": true,
+      "detail": "cameras 1 listeners 1 inputs 1"
+    },
+    {
+      "name": "host_first_person_owner_only",
+      "passed": true,
+      "detail": "{\"active\": true, \"hiddenBody\": true, \"handsVisible\": true, \"viewmodels\": 1}"
+    },
+    {
+      "name": "host_sees_colleague_full_third_person_body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "host_stable_eye_height",
+      "passed": true,
+      "detail": "1.000"
+    },
+    {
+      "name": "client_one_camera_one_listener_one_input",
+      "passed": true,
+      "detail": "cameras 1 listeners 1 inputs 1"
+    },
+    {
+      "name": "client_first_person_owner_only",
+      "passed": true,
+      "detail": "{\"active\": true, \"hiddenBody\": true, \"handsVisible\": true, \"viewmodels\": 1}"
+    },
+    {
+      "name": "client_sees_colleague_full_third_person_body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "client_stable_eye_height",
+      "passed": true,
+      "detail": "1.000"
+    },
+    {
+      "name": "jobs_assigned_through_authority",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "look_yaw_pitch_replicate_to_colleague",
+      "passed": true,
+      "detail": "yaw 90.0 pitch -20.0"
+    },
+    {
+      "name": "idle_body_turns_to_face_look_direction",
+      "passed": false,
+      "detail": "facing 0.0"
+    },
+    {
+      "name": "collide_market_facade_east_of_door",
+      "passed": true,
+      "detail": "end (-6.60, 0.02, 2.94)"
+    },
+    {
+      "name": "collide_market_door_closed",
+      "passed": true,
+      "detail": "end (-8.20, 0.02, 3.18)"
+    },
+    {
+      "name": "collide_garage_rear_tool_rack",
+      "passed": true,
+      "detail": "end (9.00, 0.02, 8.83)"
+    },
+    {
+      "name": "collide_van_side",
+      "passed": true,
+      "detail": "end (5.41, 0.02, 6.30)"
+    },
+    {
+      "name": "collide_yard_waste_cart",
+      "passed": true,
+      "detail": "end (11.27, 0.02, -7.05)"
+    },
+    {
+      "name": "collide_garage_opening_passable",
+      "passed": true,
+      "detail": "end (8.00, 0.02, 4.73)"
+    },
+    {
+      "name": "inspect_pose_follows_server_work",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "pose_returns_to_idle_after_work",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "repair_pose_with_wrench_follows_server_work",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "animation_never_double_consumes_parts",
+      "passed": true,
+      "detail": "[1, 1, 0, 0, 0, 1, 1, 0]"
+    },
+    {
+      "name": "mechanic_shift_completes_in_first_person",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "carry_pose_grips_real_bag",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sort_pose_follows_server_work",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sorted_once_no_duplicate",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "remote_walk_animates_from_replicated_speed",
+      "passed": true,
+      "detail": "speed 2.20"
+    },
+    {
+      "name": "remote_jump_replicates_airborne_state",
+      "passed": true,
+      "detail": "grounded False y 0.11"
+    },
+    {
+      "name": "remote_lands_again",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "colleague_marker_when_in_plain_view",
+      "passed": true,
+      "detail": "1"
+    },
+    {
+      "name": "no_colleague_marker_through_walls",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "name": "minimap_baked_and_drawing_objectives",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "expanded_map_tracks_real_position",
+      "passed": true,
+      "detail": "{'x': 0.4375, 'y': 0.5357142686843872} -> {'x': 0.6875, 'y': 0.5357142686843872}, expected dx 0.250"
+    },
+    {
+      "name": "escape_opens_local_pause",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "host_pause_does_not_freeze_colleague_or_server",
+      "passed": true,
+      "detail": "moved 2.29 m"
+    },
+    {
+      "name": "paused_player_ignores_real_movement_keys",
+      "passed": true,
+      "detail": "moved 0.000 m"
+    },
+    {
+      "name": "escape_resumes_and_relocks",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "resumed_player_moves_with_real_keys",
+      "passed": true,
+      "detail": "moved 2.25 m"
+    },
+    {
+      "name": "player_settings_persist_and_apply",
+      "passed": true,
+      "detail": "{\"listenerVolume\": 0.4000000059604645, \"sensitivity\": 0.25, \"vSyncCount\": 0, \"targetFrameRate\": 60}"
+    },
+    {
+      "name": "vsync_option_applies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "windowed_resolution_option_applies",
+      "passed": true,
+      "detail": "1024x576 windowed True"
+    },
+    {
+      "name": "client_carrying_before_leave",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "leave_session_returns_carried_bag_and_role",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "host_quits_cleanly",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Town environment audit and improvement plan
+
+Before views: `Diagnostics/Phase6/Before` (street, square, garage, yard and overhead). Unity MCP captured original TownPrototype at player height and overhead without saving changes. Bare cuboid buildings, no roofs, floating labels, block benches/bins and a sky-colored empty backdrop do not meet the established shop quality. The compact layout and wide garage entrance are useful foundations.
+
+Preserve workplace positions and the connected street/alley loop. First implement functional jobs in the cloned town; then replace visible graybox shells in controlled passes. Retain colliders where compatible and use explicit collision volumes for remodeled fixtures. All approved shop interior assets, Sunny source and original scenes remain unchanged.
+
+Original reusable Blender models: beveled plaster/wood facade modules, layered tiled roofs, soft arch frames, cafe-style striped awning, chunky service van, workbench/tool rack, municipal bins/cart, tied waste bag, slatted bench, planter, round tree canopy and clock landmark. Use shared warm plaster, sage paint, dark teal metal, terracotta and mustard materials; reusable parts and original texture motifs instead of paid assets. Work in a separate Blender scene and restore the user's character scene afterward.
+
+Square: clock/post landmark, noticeboard with handbook notices, slatted benches and planters; keep a generous meeting area. Shop: cream plaster, green window frames, striped awning and Daylight Market lettering, with the approved interior connected through its entrance. Garage: blue-green plaster, rounded opening, corrugated shutter header, striped service bay, two original service vehicles, pegboard and tools. Yard: covered sorting bench, differentiated bins, cart and storage, with clear bag placement pads. Alley: wall trim, drainpipes, crates, restrained posters and warm practical lamps. Street: bevel curbs, crossings, road seams, route arrows, stylized trees and modest neighborhood backdrop beyond the boundary.
+
+Lighting: soft golden directional light, warm/cool ambient balance, short useful shadows, restrained fog and URP color grading. No day/night cycle or excessive bloom. Shared instanced materials, reusable meshes/prefabs, static environment geometry and limited practical lights. Compare before/after at the same viewpoints; inspect frame timing and renderer/material/triangle counts, navigation and interaction clearance.
+
+No major layout changes or paid generation are required for this plan. If either becomes necessary, prepare a concrete proposal and stop for approval.

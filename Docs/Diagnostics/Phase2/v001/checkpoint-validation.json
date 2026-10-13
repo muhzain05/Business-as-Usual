@@ -1,0 +1,18 @@
+{
+  "version": "v001",
+  "source_hashes_verified": 9,
+  "phase1_project_hash_unchanged": true,
+  "phase2_project_hash_verified": true,
+  "module_partition_exact": true,
+  "uv_material_alignment_preserved": true,
+  "custom_normals_within_tolerance": true,
+  "walk_frames_equivalent": 26,
+  "run_frames_equivalent": 17,
+  "images_verified": 11,
+  "scripts_compile": true,
+  "documentation_links_resolve": true,
+  "lfs_attributes_and_hook_verified": true,
+  "no_commit": true,
+  "no_remote": true,
+  "readiness": "extraction checkpoint only; reconstruction and deformation repairs pending approval"
+}

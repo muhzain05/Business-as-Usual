@@ -1,0 +1,102 @@
+{
+  "origin": "Original modeled Blender geometry, shared town palette",
+  "creditsSpent": 0,
+  "models": [
+    {
+      "name": "MarketShell",
+      "triangles": 7784,
+      "materials": [
+        "Town_Plaster.004",
+        "Town_Paper.004",
+        "Town_Teal.004",
+        "Town_Sage.004",
+        "Town_Glass.004",
+        "Town_Blue.004",
+        "Town_Coral.004"
+      ],
+      "size": [
+        7.699999809265137,
+        6.860000133514404,
+        4.565000057220459
+      ]
+    },
+    {
+      "name": "WorkshopShell",
+      "triangles": 6712,
+      "materials": [
+        "Town_Blue.004",
+        "Town_Paper.004",
+        "Town_Teal.004",
+        "Town_Sage.004",
+        "Town_Glass.004",
+        "Town_Mustard.004",
+        "Town_Steel.004",
+        "Town_Plaster.004",
+        "Town_Coral.004"
+      ],
+      "size": [
+        7.699999809265137,
+        6.769999980926514,
+        4.494999885559082
+      ]
+    },
+    {
+      "name": "TownHouseA",
+      "triangles": 6332,
+      "materials": [
+        "Town_Plaster.004",
+        "Town_Paper.004",
+        "Town_Teal.004",
+        "Town_Sage.004",
+        "Town_Glass.004",
+        "Town_Blue.004",
+        "Town_Wood.004",
+        "Town_Leaf.004",
+        "Town_Mustard.004",
+        "Town_Coral.004"
+      ],
+      "size": [
+        6.300000190734863,
+        6.190000534057617,
+        4.654999732971191
+      ]
+    },
+    {
+      "name": "TownHouseB",
+      "triangles": 6420,
+      "materials": [
+        "Town_Sage.004",
+        "Town_Paper.004",
+        "Town_Teal.004",
+        "Town_Glass.004",
+        "Town_Blue.004",
+        "Town_Wood.004",
+        "Town_Leaf.004",
+        "Town_Coral.004",
+        "Town_Mustard.004",
+        "Town_Plaster.004"
+      ],
+      "size": [
+        6.300000190734863,
+        6.190000534057617,
+        4.824999809265137
+      ]
+    },
+    {
+      "name": "ParcelCart",
+      "triangles": 668,
+      "materials": [
+        "Town_Rubber.004",
+        "Town_Teal.004",
+        "Town_Wood.004",
+        "Town_Paper.004",
+        "Town_Steel.004"
+      ],
+      "size": [
+        0.7799999713897705,
+        1.0320000648498535,
+        1.1670000553131104
+      ]
+    }
+  ]
+}

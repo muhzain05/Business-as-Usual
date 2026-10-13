@@ -1,0 +1,51 @@
+{
+  "method": "Two independent Windows Development builds, actual NGO/Unity Transport localhost UDP. Automated commands and server test placement; no human-controlled playtest.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "host_client_connection_and_late_join_snapshot",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "separate_spawn_and_ownership",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "one_local_camera_listener_input_hud",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "jump_state_replicated",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_movement_and_running_state",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "remote_movement_synchronization",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_snapshots_not_sent_each_frame",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_range_validation",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "unexpected_failure",
+      "passed": false,
+      "details": "Traceback (most recent call last):\n  File \"D:\\Business as Usual\\Scripts\\test_phase5_network.py\", line 106, in <module>\n    rejected=read('host')['rejected'];command('host','raw',target=delivery,sequence=1,revision=use_rev,order='S1-001');wait(lambda: read('host')['rejected']>rejected)\n                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Business as Usual\\Scripts\\test_phase5_network.py\", line 46, in command\n    tmp.replace(path)\n  File \"C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py\", line 1376, in replace\n    os.replace(self, target)\nPermissionError: [WinError 5] Access is denied: 'D:\\\\Business as Usual\\\\Docs\\\\Diagnostics\\\\Phase5\\\\TwoProcess\\\\host.control.tmp' -> 'D:\\\\Business as Usual\\\\Docs\\\\Diagnostics\\\\Phase5\\\\TwoProcess\\\\host.control.json'\n"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "name": "four_actual_processes_connected",
+    "passed": true
+  },
+  {
+    "name": "one_owned_camera_listener_input_hud_each",
+    "passed": true
+  },
+  {
+    "name": "three_leads_and_shared_shop_assistant",
+    "passed": true
+  },
+  {
+    "name": "assistant_cannot_steal_lead",
+    "passed": true
+  },
+  {
+    "name": "all_four_have_independent_fallback_work",
+    "passed": true
+  },
+  {
+    "name": "shipment_verification_and_preparation",
+    "passed": true
+  },
+  {
+    "name": "duplicate_sequence_one_custody_change",
+    "passed": true
+  },
+  {
+    "name": "disconnect_recovers_parcel_and_assistant_slot",
+    "passed": true
+  },
+  {
+    "name": "rejoin_restores_shared_workday",
+    "passed": true
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "Timeout; {'host': 'Workstation reset. Useful fallback work; up to 12 resets per shift.', 'client1': 'Move closer with a clear line of sight.', 'client2': 'Move closer with a clear line of sight.', 'client3': 'Carrying the garage parcel. E at the receiving tray; Q returns it.'}"
+  }
+]

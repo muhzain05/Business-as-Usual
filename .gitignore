@@ -1,0 +1,42 @@
+# Local caches and editor state; source art stays versioned.
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+# Blender rolling backup files; .blend working files stay versioned.
+*.blend1
+*.blend2
+# Unity generated caches, build outputs and local editor state.
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Builds/
+*.csproj
+*.sln
+*.slnx
+*.user
+# Standalone test projects are source; their compiled outputs are generated.
+!Tests/**/*.csproj
+Tests/**/bin/
+Tests/**/obj/
+# Local credentials must never be uploaded.
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.p12
+*.pfx
+# Graphify local caches and rolling snapshots; navigation outputs stay versioned.
+graphify-out/cache/
+graphify-out/backups/
+graphify-out/20??-??-??/
+graphify-out/.graphify_*.json
+graphify-out/.graphify_root
+graphify-out/.graphify_python
+graphify-out/.needs_update

@@ -1,0 +1,22 @@
+{
+  "method": "Two independent Windows processes, actual NGO/UTP localhost UDP, production E dispatch and held input, opt-in server test placement.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "market_door_opens_with_production_E",
+      "passed": true
+    },
+    {
+      "name": "player_walks_through_market_door",
+      "passed": true
+    },
+    {
+      "name": "production_E_enters_connected_interior",
+      "passed": true
+    },
+    {
+      "name": "entry_exit_preserves_both_assignments",
+      "passed": true
+    }
+  ]
+}

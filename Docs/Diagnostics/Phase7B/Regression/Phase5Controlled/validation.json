@@ -1,0 +1,166 @@
+{
+  "method": "Two independent Windows Development builds, actual NGO/Unity Transport localhost UDP. Automated commands and server test placement; no human-controlled playtest.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "host_client_connection_and_late_join_snapshot",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "separate_spawn_and_ownership",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "one_local_camera_listener_input_hud",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "jump_state_replicated",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_movement_and_running_state",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "independent_controls_move_both_characters",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "remote_movement_synchronization",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_snapshots_not_sent_each_frame",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_range_validation",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "duplicate_command_prevention",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "pickup_contention_single_holder",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "carried_object_is_local_to_holder",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "only_holder_can_return",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "delayed_stale_command_rejected",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "authoritative_E_drop_conserves_stock",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "local_E_pickup_detection",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "disconnect_while_carrying_recovery",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "client_reconnection_and_full_snapshot",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_doorOpen",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_workUses",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "door_closes_on_both_processes",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "host_local_E_restocks_shelf_keeps_crate",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "simultaneous_stocking_tea",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "client_local_E_restocks_tea",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "simultaneous_stocking_crackers",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "client_fixed_revision_restocks_crackers",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "empty_crate_auto_return",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_order_and_duplicate_receipt_1",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_order_and_duplicate_receipt_2",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_order_and_duplicate_receipt_3",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_shift_completion",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "host_disconnect_ends_client_session",
+      "passed": true,
+      "details": ""
+    }
+  ]
+}

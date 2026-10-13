@@ -1,0 +1,4 @@
+{
+  "method": "Unity MCP live serialized-reference inspection after final build and tests.",
+  "observation": "[Log] Scene=Assets/Multiplayer/Scenes/ShopkeeperMultiplayer.unity dirty=False playing=False missingScripts=0\n[Log] Manager=LAN Network Session transport=UnityTransport prefab=SunnyNetworkPlayer tickRate=30 listening=False\n[Log] SharedShift=Shop Shift crate=Stock Crate preview=Connection Desk Preview Camera"
+}

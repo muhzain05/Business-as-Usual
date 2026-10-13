@@ -1,0 +1,113 @@
+{
+  "hardware": "NVIDIA GeForce RTX 3060 Ti, Windows, Unity editor open",
+  "method": "Two actual local Windows Development players. Five-second warmup, twelve-second sample, uncapped/vsync off; sampled Time.unscaledDeltaTime wall frame intervals, not isolated CPU/GPU execution. Short samples are not cross-machine or release-build benchmarks.",
+  "qualityNote": "Original Windows build includes PC only (index 0); Phase 7B includes Performance (0) and High/PC (1).",
+  "runs": {
+    "Before1080": {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "measuredResolution": {
+        "host": [
+          1920,
+          1080
+        ],
+        "client": [
+          1920,
+          1080
+        ]
+      },
+      "measuredQuality": {
+        "host": 0,
+        "client": 0
+      },
+      "results": {
+        "host": {
+          "samples": 80,
+          "meanMs": 5.577598574757576,
+          "medianMs": 5.4521965980529785,
+          "p95Ms": 7.3206987380981445
+        },
+        "client": {
+          "samples": 80,
+          "meanMs": 4.561289396882057,
+          "medianMs": 4.452650308609009,
+          "p95Ms": 5.872696876525879
+        }
+      }
+    },
+    "After1080High": {
+      "resolution": [
+        1920,
+        1080
+      ],
+      "measuredResolution": {
+        "host": [
+          1920,
+          1080
+        ],
+        "client": [
+          1920,
+          1080
+        ]
+      },
+      "measuredQuality": {
+        "host": 1,
+        "client": 1
+      },
+      "results": {
+        "host": {
+          "samples": 79,
+          "meanMs": 5.610844174517861,
+          "medianMs": 5.439696788787842,
+          "p95Ms": 7.68169641494751
+        },
+        "client": {
+          "samples": 79,
+          "meanMs": 4.950894129427174,
+          "medianMs": 4.653096675872803,
+          "p95Ms": 6.795698642730713
+        }
+      }
+    },
+    "After720Performance": {
+      "resolution": [
+        1280,
+        720
+      ],
+      "measuredResolution": {
+        "host": [
+          1280,
+          720
+        ],
+        "client": [
+          1280,
+          720
+        ]
+      },
+      "measuredQuality": {
+        "host": 0,
+        "client": 0
+      },
+      "results": {
+        "host": {
+          "samples": 80,
+          "meanMs": 4.834921047091484,
+          "medianMs": 4.626002550125122,
+          "p95Ms": 7.2318949699401855
+        },
+        "client": {
+          "samples": 79,
+          "meanMs": 5.226202352137506,
+          "medianMs": 4.285196781158447,
+          "p95Ms": 6.061600208282471
+        }
+      }
+    }
+  },
+  "1080MeanIncreasePercent": {
+    "host": 0.5960557991882665,
+    "client": 8.541548203703918
+  }
+}

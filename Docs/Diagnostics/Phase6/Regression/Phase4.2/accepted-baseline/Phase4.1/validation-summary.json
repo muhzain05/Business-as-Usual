@@ -1,0 +1,55 @@
+{
+  "suites": {
+    "Phase4.1": {
+      "passed": 57,
+      "total": 57,
+      "failed": []
+    },
+    "Phase4": {
+      "passed": 87,
+      "total": 87,
+      "failed": []
+    },
+    "Phase3": {
+      "passed": 19,
+      "total": 19,
+      "failed": []
+    }
+  },
+  "prototypeFilesUnchanged": 90,
+  "restoredImplicitLightComponents": 8,
+  "targetedTrackedChanges": [
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Editor/ShopArtBuilder.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Editor/ShopBuilder.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Editor/ShopValidation.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Materials/Shop_Paper.mat",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Materials/Shop_Screen.mat",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scenes/ShopkeeperShift.unity",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopHUD.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopStation.cs",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Scripts/ShopStockDisplay.cs"
+  ],
+  "unexpectedChanges": [],
+  "stagingActionsPerformed": false,
+  "noCommitOrPush": true,
+  "notes": [
+    "Original diagnostic outputs restored after retaining new reports in Phase4.1/Regression.",
+    "verify_phase4.py passed independently.",
+    "Legacy verify_phase3.py passed its source/asset/live checks, then stopped at its empty-staging assertion. Existing staged work is intentionally preserved; no staging was cleared."
+  ],
+  "finalRefreshVerified": false,
+  "lastSuccessfulConsoleCheck": {
+    "errors": 0,
+    "warnings": 0
+  },
+  "reviewPackage": {
+    "mockups": 6,
+    "referenceResolution": [
+      1920,
+      1080
+    ],
+    "inkPaperContrast": 9.17,
+    "fontSampleMissingGlyphs": 0,
+    "documentationLinksValid": true
+  }
+}

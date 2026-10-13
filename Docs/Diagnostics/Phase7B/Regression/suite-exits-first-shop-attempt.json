@@ -1,0 +1,38 @@
+[
+  {
+    "suite": "Targeted1080",
+    "exitCode": 0
+  },
+  {
+    "suite": "Targeted720",
+    "exitCode": 0
+  },
+  {
+    "suite": "Phase7A720",
+    "exitCode": 0
+  },
+  {
+    "suite": "Phase7A1080",
+    "exitCode": 0
+  },
+  {
+    "suite": "Phase6Full",
+    "exitCode": 0
+  },
+  {
+    "suite": "Phase6Staffed",
+    "exitCode": 0
+  },
+  {
+    "suite": "Phase6Entry",
+    "exitCode": 0
+  },
+  {
+    "suite": "Phase6Guidance",
+    "exitCode": 0
+  },
+  {
+    "suite": "Phase5",
+    "exitCode": 1
+  }
+]

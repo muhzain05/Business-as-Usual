@@ -1,0 +1,44 @@
+{
+  "checks": [
+    {
+      "name": "roundtrip--16-0",
+      "passed": true
+    },
+    {
+      "name": "roundtrip--16-1",
+      "passed": true
+    },
+    {
+      "name": "roundtrip--16-2",
+      "passed": true
+    },
+    {
+      "name": "roundtrip--46.5-0",
+      "passed": true
+    },
+    {
+      "name": "roundtrip--46.5-1",
+      "passed": true
+    },
+    {
+      "name": "roundtrip--46.5-2",
+      "passed": true
+    },
+    {
+      "name": "whole-icon-clamped",
+      "passed": true
+    },
+    {
+      "name": "locked-and-absent-filtered",
+      "passed": true
+    },
+    {
+      "name": "destroyed-target-retires",
+      "passed": true
+    },
+    {
+      "name": "ambient-wrap-continuous",
+      "passed": true
+    }
+  ]
+}

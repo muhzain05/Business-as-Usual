@@ -1,0 +1,62 @@
+{
+  "palette": {
+    "paper": "#F6E9C9",
+    "ink": "#244047",
+    "green": "#649B76",
+    "mustard": "#EFC864",
+    "coral": "#CE735A"
+  },
+  "referenceResolution": [
+    1920,
+    1080
+  ],
+  "safeMargin": 48,
+  "spacing": [
+    8,
+    16,
+    24,
+    32,
+    48
+  ],
+  "outline": 4,
+  "shadowOffset": [
+    7,
+    8
+  ],
+  "type": {
+    "display": "Dela Gothic One",
+    "body": "M PLUS Rounded 1c Regular",
+    "emphasis": "M PLUS Rounded 1c ExtraBold",
+    "annotation": "Yusei Magic"
+  },
+  "fontPixels": {
+    "display": [
+      32,
+      44,
+      62
+    ],
+    "body": [
+      24,
+      28
+    ],
+    "numeric": [
+      27,
+      34,
+      53
+    ],
+    "micro": 20
+  },
+  "transitionsMs": {
+    "paper": 150,
+    "stamp": 180,
+    "restock": 650
+  },
+  "mockups": [
+    "01-normal-hud.png",
+    "02-task-handbook.png",
+    "03-customer-order.png",
+    "04-printed-receipt.png",
+    "05-shift-report.png",
+    "06-interaction-prompt.png"
+  ]
+}

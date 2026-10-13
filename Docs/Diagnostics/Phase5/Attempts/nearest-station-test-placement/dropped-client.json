@@ -1,0 +1,252 @@
+{
+  "role": "client",
+  "status": "CLIENT / Sunny 1 / 2 players",
+  "feedback": "You are not holding the crate.",
+  "listening": true,
+  "connected": true,
+  "host": false,
+  "localCarried": false,
+  "localId": 1,
+  "serial": 7,
+  "snapshots": 0,
+  "bytes": 0,
+  "accepted": 0,
+  "rejected": 0,
+  "players": [
+    {
+      "id": 1,
+      "owner": 0,
+      "local": false,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "position": {
+        "x": 0.004700218793004751,
+        "y": 0.02501864545047283,
+        "z": 3.004822254180908
+      },
+      "speed": 0.0,
+      "inputs": 0
+    },
+    {
+      "id": 3,
+      "owner": 1,
+      "local": true,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "position": {
+        "x": 3.9952025413513184,
+        "y": 0.025003759190440178,
+        "z": 7.099442481994629
+      },
+      "speed": 0.0,
+      "inputs": 0
+    }
+  ],
+  "state": {
+    "revision": 3,
+    "orderIndex": 0,
+    "received": true,
+    "closed": false,
+    "dropped": true,
+    "holder": 18446744073709551615,
+    "message": "Crate placed on the ground. E picks it up; Q returns it while held.",
+    "quantities": [
+      0,
+      0,
+      0,
+      6,
+      6,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "progress": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movements": [
+      {
+        "sequence": 1,
+        "quantity": 6,
+        "sku": "cola",
+        "from": "delivery",
+        "to": "dock",
+        "reason": "delivery received"
+      },
+      {
+        "sequence": 2,
+        "quantity": 6,
+        "sku": "tea",
+        "from": "delivery",
+        "to": "dock",
+        "reason": "delivery received"
+      },
+      {
+        "sequence": 3,
+        "quantity": 6,
+        "sku": "crackers",
+        "from": "delivery",
+        "to": "dock",
+        "reason": "delivery received"
+      },
+      {
+        "sequence": 4,
+        "quantity": 6,
+        "sku": "cola",
+        "from": "dock",
+        "to": "carry",
+        "reason": "crate pickup"
+      },
+      {
+        "sequence": 5,
+        "quantity": 6,
+        "sku": "tea",
+        "from": "dock",
+        "to": "carry",
+        "reason": "crate pickup"
+      },
+      {
+        "sequence": 6,
+        "quantity": 6,
+        "sku": "crackers",
+        "from": "dock",
+        "to": "carry",
+        "reason": "crate pickup"
+      },
+      {
+        "sequence": 7,
+        "quantity": 6,
+        "sku": "cola",
+        "from": "carry",
+        "to": "dock",
+        "reason": "crate returned"
+      },
+      {
+        "sequence": 8,
+        "quantity": 6,
+        "sku": "tea",
+        "from": "carry",
+        "to": "dock",
+        "reason": "crate returned"
+      },
+      {
+        "sequence": 9,
+        "quantity": 6,
+        "sku": "crackers",
+        "from": "carry",
+        "to": "dock",
+        "reason": "crate returned"
+      }
+    ],
+    "receipts": [],
+    "cratePosition": {
+      "x": -1.0806465148925781,
+      "y": 0.33000001311302185,
+      "z": 3.3933231830596924
+    },
+    "crateRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "doorIds": [
+      "Shared Door Test Fixture"
+    ],
+    "workIds": [
+      "Shared Workstation Test Fixture"
+    ],
+    "doorOpen": [
+      false
+    ],
+    "workUses": [
+      0
+    ]
+  },
+  "targetIds": [
+    "Functional Fixtures/Closing Terminal",
+    "Shared Door Test Fixture",
+    "Functional Fixtures/Sunbeam Cola Shelf",
+    "Shared Workstation Test Fixture",
+    "Functional Fixtures/Meadow Tea Shelf",
+    "Functional Fixtures/Town Exit",
+    "Functional Fixtures/Delivery Desk",
+    "Functional Fixtures/Stock Crate",
+    "Functional Fixtures/Checkout",
+    "Functional Fixtures/Golden Crackers Shelf"
+  ],
+  "targetPoints": [
+    {
+      "x": 3.799999952316284,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": -3.200000286102295,
+      "y": 0.800000011920929,
+      "z": 6.349999904632568
+    },
+    {
+      "x": -2.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": -4.099999904632568,
+      "y": 0.0,
+      "z": 3.0
+    },
+    {
+      "x": 0.0,
+      "y": 0.6499999761581421,
+      "z": 9.699999809265137
+    },
+    {
+      "x": 0.0,
+      "y": 0.6499999761581421,
+      "z": -0.10000000149011612
+    },
+    {
+      "x": 4.0,
+      "y": 0.6499999761581421,
+      "z": 10.300000190734863
+    },
+    {
+      "x": -1.0806465148925781,
+      "y": 0.33000001311302185,
+      "z": 3.3933231830596924
+    },
+    {
+      "x": -1.0,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 2.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    }
+  ],
+  "cameras": 1,
+  "listeners": 1,
+  "inputs": 1,
+  "huds": 1
+}

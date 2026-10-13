@@ -1,0 +1,61 @@
+Mono path[0] = 'D:/Business as Usual/Builds/Phase8B/BusinessAsUsual_Data/Managed'
+Mono config path = 'D:/Business as Usual/Builds/Phase8B/MonoBleedingEdge/etc'
+Found 1 interfaces on host : 0) 192.168.1.69
+Player connection [81576]  Target information:
+
+Player connection [81576]  * "[IP] 192.168.1.69 [Port] 55001 [Flags] 2 [Guid] 2727884375 [EditorId] 111373473 [Version] 1048832 [Id] WindowsPlayer(2,DESKTOP-QUT58R4) [Debug] 0 [PackageName] WindowsPlayer [ProjectName] BusinessAsUsual" 
+
+Player connection [81576] Started UDP target info broadcast (1) on [225.0.0.222:54997].
+
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.3.26f1 (de8167e7440c)
+[Subsystems] Discovering subsystems at path D:/Business as Usual/Builds/Phase8B/BusinessAsUsual_Data/UnitySubsystems
+[D3D12 Device Filter] Vendor Name: NVIDIA
+[D3D12 Device Filter] Device Name: NVIDIA GeForce RTX 3060 Ti
+[D3D12 Device Filter] Driver Version: 32.0.15.9649
+[D3D12 Device Filter] Feature Level: 12.2
+[D3D12 Device Filter] Graphics Memory: 8024 MB
+[D3D12 Device Filter] Processor Count: 16
+[D3D12 Device Filter] Device Type: Discrete
+GfxDevice: creating device client; kGfxThreadingModeSplitJobs
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:          NVIDIA
+    VRAM:            8024 MB
+    App VRAM Budget: 7256 MB
+    Driver:          32.0.15.9649
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.241 seconds
+- Finished resetting the current domain, in  0.003 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+UnloadTime: 1.051600 ms
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.084500 ms
+Unloading 246 unused Assets / (94.8 KB). Loaded Objects now: 14645.
+Memory consumption went from 162.8 MB to 162.7 MB.
+Total: 6.058500 ms (FindLiveObjects: 2.429800 ms CreateObjectMapping: 0.324300 ms MarkObjects: 3.076700 ms  DeleteObjects: 0.226700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.244800 ms
+Unloading 844 unused Assets / (7.8 MB). Loaded Objects now: 13446.
+Memory consumption went from 171.6 MB to 163.9 MB.
+Total: 9.333800 ms (FindLiveObjects: 1.364100 ms CreateObjectMapping: 0.279700 ms MarkObjects: 4.150200 ms  DeleteObjects: 3.538000 ms)
+
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+PlayerConnection::Cleanup##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1791884658195,"processId":24044,"allocatedMemory":779642,"memoryLabels":[{"Default":136},{"NewDelete":776},{"Thread":13248},{"Manager":551510},{"GfxDevice":2208},{"GfxThread":16896},{"Audio":752},{"Serialization":520},{"JobScheduler":32768},{"String":511},{"HashMap":152576},{"PoolAlloc":960},{"CloudService":144},{"WebRequest":3773},{"VR":1872},{"Video":144},{"NativeArray":372},{"Subsystems":96},{"Gui":364},{"CoreBusinessMetrics":120}]}

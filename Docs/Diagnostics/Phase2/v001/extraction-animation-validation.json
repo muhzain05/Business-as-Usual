@@ -1,0 +1,414 @@
+{
+  "version": "v001",
+  "purpose": "extraction equivalence, not a deformation-repair claim",
+  "clips": {
+    "Walk": {
+      "action": "target_character|target_character|target_character|target_character|Walking.001",
+      "frames_checked": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "missing_bone_paths": [],
+      "frames": [
+        {
+          "frame": 1,
+          "max_position_difference": 4.807789863616728e-07,
+          "p99_edge_ratio": 1.5833842301154046,
+          "max_edge_ratio": 7.05853739140026,
+          "edges_over_1_5": 315,
+          "edges_under_0_5": 78
+        },
+        {
+          "frame": 2,
+          "max_position_difference": 4.852360429670616e-07,
+          "p99_edge_ratio": 1.569532443030896,
+          "max_edge_ratio": 7.2771462647137595,
+          "edges_over_1_5": 302,
+          "edges_under_0_5": 58
+        },
+        {
+          "frame": 3,
+          "max_position_difference": 4.851609619583392e-07,
+          "p99_edge_ratio": 1.590843932052431,
+          "max_edge_ratio": 7.901660238863468,
+          "edges_over_1_5": 321,
+          "edges_under_0_5": 58
+        },
+        {
+          "frame": 4,
+          "max_position_difference": 4.778982673678599e-07,
+          "p99_edge_ratio": 1.627243831819485,
+          "max_edge_ratio": 8.553156982260102,
+          "edges_over_1_5": 356,
+          "edges_under_0_5": 57
+        },
+        {
+          "frame": 5,
+          "max_position_difference": 4.790584275198879e-07,
+          "p99_edge_ratio": 1.663129100842811,
+          "max_edge_ratio": 9.19811033372331,
+          "edges_over_1_5": 439,
+          "edges_under_0_5": 53
+        },
+        {
+          "frame": 6,
+          "max_position_difference": 5.366487236430975e-07,
+          "p99_edge_ratio": 1.6935892131622412,
+          "max_edge_ratio": 9.982487505585187,
+          "edges_over_1_5": 472,
+          "edges_under_0_5": 51
+        },
+        {
+          "frame": 7,
+          "max_position_difference": 4.788157516540645e-07,
+          "p99_edge_ratio": 1.7101434546804104,
+          "max_edge_ratio": 11.1361837657568,
+          "edges_over_1_5": 474,
+          "edges_under_0_5": 57
+        },
+        {
+          "frame": 8,
+          "max_position_difference": 4.814712530792806e-07,
+          "p99_edge_ratio": 1.6902941180289417,
+          "max_edge_ratio": 11.689727146641161,
+          "edges_over_1_5": 446,
+          "edges_under_0_5": 53
+        },
+        {
+          "frame": 9,
+          "max_position_difference": 4.806779474994697e-07,
+          "p99_edge_ratio": 1.627591242334889,
+          "max_edge_ratio": 10.309799051290438,
+          "edges_over_1_5": 387,
+          "edges_under_0_5": 60
+        },
+        {
+          "frame": 10,
+          "max_position_difference": 4.77999893794818e-07,
+          "p99_edge_ratio": 1.5861224283183453,
+          "max_edge_ratio": 8.079307936044593,
+          "edges_over_1_5": 334,
+          "edges_under_0_5": 75
+        },
+        {
+          "frame": 11,
+          "max_position_difference": 4.776550020751605e-07,
+          "p99_edge_ratio": 1.5781978080359302,
+          "max_edge_ratio": 6.510616957079104,
+          "edges_over_1_5": 312,
+          "edges_under_0_5": 85
+        },
+        {
+          "frame": 12,
+          "max_position_difference": 4.826228243321671e-07,
+          "p99_edge_ratio": 1.5757636393484362,
+          "max_edge_ratio": 6.460961198223532,
+          "edges_over_1_5": 298,
+          "edges_under_0_5": 95
+        },
+        {
+          "frame": 13,
+          "max_position_difference": 4.807789863616728e-07,
+          "p99_edge_ratio": 1.57491629006263,
+          "max_edge_ratio": 7.545195702006058,
+          "edges_over_1_5": 309,
+          "edges_under_0_5": 98
+        },
+        {
+          "frame": 14,
+          "max_position_difference": 4.786961795153919e-07,
+          "p99_edge_ratio": 1.6138448663652987,
+          "max_edge_ratio": 8.948725223534806,
+          "edges_over_1_5": 363,
+          "edges_under_0_5": 89
+        },
+        {
+          "frame": 15,
+          "max_position_difference": 4.77825663829564e-07,
+          "p99_edge_ratio": 1.6956241525593703,
+          "max_edge_ratio": 10.274543270471233,
+          "edges_over_1_5": 431,
+          "edges_under_0_5": 77
+        },
+        {
+          "frame": 16,
+          "max_position_difference": 4.77999893794818e-07,
+          "p99_edge_ratio": 1.7625255496133176,
+          "max_edge_ratio": 10.928511934588618,
+          "edges_over_1_5": 500,
+          "edges_under_0_5": 67
+        },
+        {
+          "frame": 17,
+          "max_position_difference": 4.794493479489138e-07,
+          "p99_edge_ratio": 1.842932592922121,
+          "max_edge_ratio": 10.515926643376337,
+          "edges_over_1_5": 548,
+          "edges_under_0_5": 69
+        },
+        {
+          "frame": 18,
+          "max_position_difference": 4.794493479489138e-07,
+          "p99_edge_ratio": 1.880309450803056,
+          "max_edge_ratio": 9.593965104935043,
+          "edges_over_1_5": 596,
+          "edges_under_0_5": 71
+        },
+        {
+          "frame": 19,
+          "max_position_difference": 4.806779474994697e-07,
+          "p99_edge_ratio": 1.9008592893513134,
+          "max_edge_ratio": 10.062262070296093,
+          "edges_over_1_5": 618,
+          "edges_under_0_5": 77
+        },
+        {
+          "frame": 20,
+          "max_position_difference": 4.805480091749757e-07,
+          "p99_edge_ratio": 1.889881985000358,
+          "max_edge_ratio": 10.71308455664599,
+          "edges_over_1_5": 615,
+          "edges_under_0_5": 86
+        },
+        {
+          "frame": 21,
+          "max_position_difference": 4.81989800621148e-07,
+          "p99_edge_ratio": 1.8452182413133489,
+          "max_edge_ratio": 10.603117482101812,
+          "edges_over_1_5": 585,
+          "edges_under_0_5": 77
+        },
+        {
+          "frame": 22,
+          "max_position_difference": 4.798544105322545e-07,
+          "p99_edge_ratio": 1.763832212615608,
+          "max_edge_ratio": 9.919708963506785,
+          "edges_over_1_5": 524,
+          "edges_under_0_5": 76
+        },
+        {
+          "frame": 23,
+          "max_position_difference": 4.795217056481153e-07,
+          "p99_edge_ratio": 1.700158314772113,
+          "max_edge_ratio": 9.148539646706507,
+          "edges_over_1_5": 440,
+          "edges_under_0_5": 96
+        },
+        {
+          "frame": 24,
+          "max_position_difference": 4.814712530792806e-07,
+          "p99_edge_ratio": 1.6377410480299865,
+          "max_edge_ratio": 8.242493423934233,
+          "edges_over_1_5": 376,
+          "edges_under_0_5": 102
+        },
+        {
+          "frame": 25,
+          "max_position_difference": 4.81067551891742e-07,
+          "p99_edge_ratio": 1.5949524378137798,
+          "max_edge_ratio": 7.4360149834478255,
+          "edges_over_1_5": 340,
+          "edges_under_0_5": 89
+        },
+        {
+          "frame": 26,
+          "max_position_difference": 4.807789863616728e-07,
+          "p99_edge_ratio": 1.5833822239388744,
+          "max_edge_ratio": 7.05852091816913,
+          "edges_over_1_5": 315,
+          "edges_under_0_5": 78
+        }
+      ],
+      "max_position_difference": 5.366487236430975e-07,
+      "passed_extraction_equivalence": true
+    },
+    "Run": {
+      "action": "target_character.001|target_character|target_character|target_character|Running.001",
+      "frames_checked": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "missing_bone_paths": [],
+      "frames": [
+        {
+          "frame": 1,
+          "max_position_difference": 4.814712530792806e-07,
+          "p99_edge_ratio": 2.0365372522367284,
+          "max_edge_ratio": 9.561352699861072,
+          "edges_over_1_5": 741,
+          "edges_under_0_5": 141
+        },
+        {
+          "frame": 2,
+          "max_position_difference": 4.828528090125218e-07,
+          "p99_edge_ratio": 2.125721959096531,
+          "max_edge_ratio": 11.765343439118599,
+          "edges_over_1_5": 805,
+          "edges_under_0_5": 180
+        },
+        {
+          "frame": 3,
+          "max_position_difference": 4.828528090125218e-07,
+          "p99_edge_ratio": 2.097399027946272,
+          "max_edge_ratio": 12.234601062659355,
+          "edges_over_1_5": 791,
+          "edges_under_0_5": 172
+        },
+        {
+          "frame": 4,
+          "max_position_difference": 4.789280498024284e-07,
+          "p99_edge_ratio": 2.010889625749263,
+          "max_edge_ratio": 11.110365620885535,
+          "edges_over_1_5": 740,
+          "edges_under_0_5": 132
+        },
+        {
+          "frame": 5,
+          "max_position_difference": 4.806057638785284e-07,
+          "p99_edge_ratio": 1.901754203130582,
+          "max_edge_ratio": 9.00084358837855,
+          "edges_over_1_5": 694,
+          "edges_under_0_5": 130
+        },
+        {
+          "frame": 6,
+          "max_position_difference": 4.915689588548745e-07,
+          "p99_edge_ratio": 1.8577475811126782,
+          "max_edge_ratio": 6.803878531493497,
+          "edges_over_1_5": 641,
+          "edges_under_0_5": 137
+        },
+        {
+          "frame": 7,
+          "max_position_difference": 4.883399488977772e-07,
+          "p99_edge_ratio": 1.9250702584577735,
+          "max_edge_ratio": 9.037024257756558,
+          "edges_over_1_5": 704,
+          "edges_under_0_5": 158
+        },
+        {
+          "frame": 8,
+          "max_position_difference": 4.807064232118791e-07,
+          "p99_edge_ratio": 2.0639464051022816,
+          "max_edge_ratio": 13.274992067391853,
+          "edges_over_1_5": 790,
+          "edges_under_0_5": 165
+        },
+        {
+          "frame": 9,
+          "max_position_difference": 4.789280498024284e-07,
+          "p99_edge_ratio": 2.2176044992652946,
+          "max_edge_ratio": 14.964310805423796,
+          "edges_over_1_5": 888,
+          "edges_under_0_5": 204
+        },
+        {
+          "frame": 10,
+          "max_position_difference": 4.807789863616728e-07,
+          "p99_edge_ratio": 2.2261070778380168,
+          "max_edge_ratio": 15.002174533905983,
+          "edges_over_1_5": 940,
+          "edges_under_0_5": 199
+        },
+        {
+          "frame": 11,
+          "max_position_difference": 4.85203866814522e-07,
+          "p99_edge_ratio": 2.1375794368455034,
+          "max_edge_ratio": 13.429776103051392,
+          "edges_over_1_5": 866,
+          "edges_under_0_5": 154
+        },
+        {
+          "frame": 12,
+          "max_position_difference": 4.915124923727108e-07,
+          "p99_edge_ratio": 2.025247630134753,
+          "max_edge_ratio": 11.631734418941182,
+          "edges_over_1_5": 774,
+          "edges_under_0_5": 136
+        },
+        {
+          "frame": 13,
+          "max_position_difference": 5.387650784787811e-07,
+          "p99_edge_ratio": 1.8648158101866625,
+          "max_edge_ratio": 10.376651205946509,
+          "edges_over_1_5": 660,
+          "edges_under_0_5": 127
+        },
+        {
+          "frame": 14,
+          "max_position_difference": 5.364935406266061e-07,
+          "p99_edge_ratio": 1.7998829548063662,
+          "max_edge_ratio": 12.055825498248497,
+          "edges_over_1_5": 558,
+          "edges_under_0_5": 132
+        },
+        {
+          "frame": 15,
+          "max_position_difference": 4.915124923727108e-07,
+          "p99_edge_ratio": 1.8578023966347843,
+          "max_edge_ratio": 10.584059252219928,
+          "edges_over_1_5": 644,
+          "edges_under_0_5": 154
+        },
+        {
+          "frame": 16,
+          "max_position_difference": 4.917383193969727e-07,
+          "p99_edge_ratio": 2.0070729664302718,
+          "max_edge_ratio": 9.277597909081898,
+          "edges_over_1_5": 708,
+          "edges_under_0_5": 137
+        },
+        {
+          "frame": 17,
+          "max_position_difference": 4.814712530792806e-07,
+          "p99_edge_ratio": 2.0365375887889234,
+          "max_edge_ratio": 9.561358511061636,
+          "edges_over_1_5": 741,
+          "edges_under_0_5": 141
+        }
+      ],
+      "max_position_difference": 5.387650784787811e-07,
+      "passed_extraction_equivalence": true
+    }
+  },
+  "rig_rest_matrices_unchanged": true
+}

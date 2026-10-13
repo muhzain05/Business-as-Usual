@@ -1,0 +1,102 @@
+{
+  "suites": [
+    {
+      "suite": "FinalFour720",
+      "passed": 24,
+      "total": 24,
+      "path": "FinalFour720/checks.json"
+    },
+    {
+      "suite": "FinalFour1080SanitationAssistant",
+      "passed": 25,
+      "total": 25,
+      "path": "FinalFour1080SanitationAssistant/checks.json"
+    },
+    {
+      "suite": "FinalRecoveryMechanicAssistant",
+      "passed": 23,
+      "total": 23,
+      "path": "FinalRecoveryMechanicAssistant/checks.json"
+    },
+    {
+      "suite": "Layout",
+      "passed": 4,
+      "total": 4,
+      "path": "Layout/checks.json"
+    },
+    {
+      "suite": "LegacyPhase6Full",
+      "passed": 35,
+      "total": 35,
+      "path": "LegacyPhase6Full/validation.json"
+    },
+    {
+      "suite": "LegacyPhase6Staffed",
+      "passed": 20,
+      "total": 20,
+      "path": "LegacyPhase6Staffed/validation.json"
+    },
+    {
+      "suite": "LegacyPhase6Entry",
+      "passed": 4,
+      "total": 4,
+      "path": "LegacyPhase6Entry/validation.json"
+    },
+    {
+      "suite": "LegacyGuidance",
+      "passed": 22,
+      "total": 22,
+      "path": "LegacyGuidance/validation.json"
+    },
+    {
+      "suite": "LegacyPhase7A",
+      "passed": 43,
+      "total": 43,
+      "path": "LegacyPhase7A/validation.json"
+    },
+    {
+      "suite": "LegacyPhase7B",
+      "passed": 77,
+      "total": 77,
+      "path": "LegacyPhase7B/validation.json"
+    },
+    {
+      "suite": "Phase5Controlled",
+      "passed": 32,
+      "total": 32,
+      "path": "Phase5Controlled/validation.json"
+    },
+    {
+      "suite": "EditorRegression\\Phase3",
+      "passed": 19,
+      "total": 19,
+      "path": "EditorRegression/Phase3/playmode-validation.json"
+    },
+    {
+      "suite": "EditorRegression\\Phase4",
+      "passed": 87,
+      "total": 87,
+      "path": "EditorRegression/Phase4/playmode-validation.json"
+    },
+    {
+      "suite": "EditorRegression\\Phase4.1",
+      "passed": 57,
+      "total": 57,
+      "path": "EditorRegression/Phase4.1/polish-validation.json"
+    },
+    {
+      "suite": "EditorRegression\\Phase4.2",
+      "passed": 65,
+      "total": 65,
+      "path": "EditorRegression/Phase4.2/ui-validation.json"
+    },
+    {
+      "suite": "EditorRegression\\Phase7A\\Editor",
+      "passed": 22,
+      "total": 22,
+      "path": "EditorRegression/Phase7A/Editor/static-validation.json"
+    }
+  ],
+  "humanPlaytest": false,
+  "crossMachineLAN": false
+}

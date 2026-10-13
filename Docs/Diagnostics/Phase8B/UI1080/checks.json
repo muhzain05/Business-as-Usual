@@ -1,0 +1,82 @@
+[
+  {
+    "name": "main-menu_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "look_fov_motion_controls_change",
+    "passed": true
+  },
+  {
+    "name": "quality_control_changes_preset",
+    "passed": true
+  },
+  {
+    "name": "display-settings_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "look_fov_motion_persist_across_processes",
+    "passed": true
+  },
+  {
+    "name": "quality_preference_persists",
+    "passed": true
+  },
+  {
+    "name": "resized-1366_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "fullscreen_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "fullscreen_button_changes_mode",
+    "passed": true
+  },
+  {
+    "name": "windowed_button_changes_mode",
+    "passed": true
+  },
+  {
+    "name": "quality_restored",
+    "passed": true
+  },
+  {
+    "name": "staff-hub_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "private-mechanic_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "returned-main-menu_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "return_to_menu_cleans_network_session",
+    "passed": true
+  },
+  {
+    "name": "fresh_solo_can_start_after_host_return",
+    "passed": true
+  },
+  {
+    "name": "join-address_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "unreachable_join_does_not_strand_player",
+    "passed": true
+  }
+]

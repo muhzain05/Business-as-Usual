@@ -1,0 +1,42 @@
+{
+  "file": "Assets\\Characters\\Sunny\\Working\\Sunny_Locomotion_v004.blend",
+  "bytes": 137109123,
+  "sha256": "694b527c44d88b09e09453058357e1f2edf997ff3b615e9013a2d08df990a861",
+  "status": "Motion review candidate. Residual shorts/calf contact and knee folding; not production ready.",
+  "bones": 53,
+  "working_height": 1.2,
+  "protected_mesh_digests": {
+    "Shoe_R": "1ebc8f702357d1424cbda224705b8ac825b5d47634b87d380d0b4ce39b1e2656",
+    "Shoe_L": "ea36b28704fda56217f552f08618076fdc1c2f4b67ce11598da8fda2731d45d6",
+    "ForearmHand_R": "3f79cb1c54bbefd609aef43de5de49026ed6723a5fc9f5e519f925d81fbb2ba7",
+    "ForearmHand_L": "7932a250ef834b1d3b11912c7161c175a7706eb08ecf6472d5dc2982a9ee8e27",
+    "Shorts": "2f456426b55cc4ad4f9ace14bdeb15a740b675b5cc6432426cb06e640deab03f",
+    "Head": "b1d756b18350c7534ea3db428eabe2ca10f0c02e8dbd3d5335f3d338b8cd840a",
+    "LowerLeg_R": "71b5c0ddb1dbeebbcfb424f1a178df403ea4d92279088fa52c796221f4ac3d00",
+    "LowerLeg_L": "e053e304d75043b1b2f0a804ff7135526a0db0b67e26fc92546267d16d0c36e9",
+    "Mouth": "58057346013e6b02aef5e71845dc901e9afa0caa25384c0ce1eb635a379a1d6a",
+    "Eye_R": "e486e82eeffd74ddb9f1b9ec5b8f9d6efaf546dc10f487994888d1aa4fb9e660",
+    "Eye_L": "987c51d891386a7a2ac5f26d28b8da4926fca73e5a5a45c6e93b18c75bee0e7b",
+    "Button_Top": "423da55cbc534996367c7b449a6f61d27d01b443a176af0f96c47d6d3bf8a934",
+    "Button_Middle": "df8cdeb538580600334155931031b38e86e8c231d4fd2a865ae402c86b98dca4",
+    "Button_Bottom": "fd19f8a6657020472ca544d2a7a04e21a04d4ee6d4180bee27afb1de5a361ef7",
+    "UpperOutfit": "05d3d835552e0d5d8a73359e1ad0b306dd671730f48b8c675b8b166745c49291",
+    "Body_Torso": "54035d2de93c0fdda7f7b6b551c84326b453776cce575c46c3c324723a4e8727",
+    "Body_Pelvis": "bf505a14d6c9832dd898437dd4a635f0920812743109e2d94c0af66761bd3dd9",
+    "Body_UpperArm_L": "e43fc73d42a62276676989c070b566e97f6b22b150a9e20f5b49aaccb8ed1f8f",
+    "Body_Thigh_L": "f29c956b2d2f466f43e85a9b2b95198d274c3fa84cfa34d3296a0ea9eac91934",
+    "Body_ConcealedFoot_L": "7390e5a34a3017a37b8c2f581d946eeb1fca017caa789b4a6aee21080904321e",
+    "Body_UpperArm_R": "b317788b453142fb1e06ce53882766843274589a5f0551cd936cf8cbe99d3c5d",
+    "Body_Thigh_R": "9197eb84b11e23868685365cfce2bd238aa70d6f5bb471aa016512ddef1a6495",
+    "Body_ConcealedFoot_R": "92b829a30c30acdea76e6807b628b70e7ff1adde0ed4a147b55bbdfc71b63575"
+  },
+  "all_file_textures_packed": true,
+  "review_scenes": [
+    "P2_v004_Walk_Review",
+    "P2_v004_Run_Review"
+  ],
+  "actions": {
+    "Walk": "Sunny_v004_Walk_Cartoon.003",
+    "Run": "Sunny_v004_Run_Cartoon.003"
+  }
+}

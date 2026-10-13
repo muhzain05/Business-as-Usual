@@ -1,0 +1,15 @@
+{
+  "version": "v002",
+  "project": "Assets/Characters/Sunny/Working/Sunny_Phase2_Repair_v002.blend",
+  "bytes": 96356167,
+  "sha256": "d00d1f0dc2da21469b11262277dfd1857438d7cc1676bdb113a7bf51249b4926",
+  "source_hashes_verified": 9,
+  "protected_projects": {
+    "Assets/Characters/Sunny/Working/Sunny_Phase1_Audit.blend": "965b0370c530bc46105beffe580a17e1ddf805785b77f88365f6a57f13633df0",
+    "Assets/Characters/Sunny/Working/Sunny_Phase2_Extraction_v001.blend": "75fa375d8080389a5fe9bb6cc8ec423decf04a330f451f87b73bbcdb6bc95afe"
+  },
+  "quality_pass": false,
+  "review_scene": "P2_v002_Repair",
+  "walk_scene": "P2_v002_Walk_Review",
+  "run_scene": "P2_v002_Run_Review"
+}

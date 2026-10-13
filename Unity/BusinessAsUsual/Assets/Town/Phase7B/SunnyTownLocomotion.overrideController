@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SunnyTownLocomotion
+  m_Controller: {fileID: 9100000, guid: 95025ab800ab6f94f9705b46c0777ca3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -6166862874508299306, guid: a4933641fa856634fa8172d6f8938b24, type: 3}
+    m_OverrideClip: {fileID: 0}
+  - m_OriginalClip: {fileID: -6166862874508299306, guid: 710d5565e8a6abc45a1a57738932f870, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: d93a40c93c3356248afd77d149b1cdc8, type: 2}
+  - m_OriginalClip: {fileID: -6166862874508299306, guid: abafcf8b63f3d2b4a8562a4323e3d25e, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: cad66fac3861f644996c18abd99c4aa6, type: 2}

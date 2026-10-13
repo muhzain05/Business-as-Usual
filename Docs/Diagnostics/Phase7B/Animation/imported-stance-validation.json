@@ -1,0 +1,37 @@
+{
+  "method": "101 samples in middle left-ankle stance on final Unity clips plus authoritative travel; root transform tracks removed from final derivatives. Not a whole-sole or human gait assessment.",
+  "samples": [
+    {
+      "clip": "Phase7A-Walk",
+      "length": 1.333333,
+      "cadence": 1.45,
+      "speed": 2.2,
+      "stance": 0.62,
+      "worldStanceDrift": 0.9703718
+    },
+    {
+      "clip": "Phase7B-Walk",
+      "length": 0.3333333,
+      "cadence": 1.692308,
+      "speed": 2.2,
+      "stance": 0.6,
+      "worldStanceDrift": 0.00048058
+    },
+    {
+      "clip": "Phase7A-Run",
+      "length": 1.0,
+      "cadence": 1.85,
+      "speed": 4.2,
+      "stance": 0.34,
+      "worldStanceDrift": 0.4367483
+    },
+    {
+      "clip": "Phase7B-Run",
+      "length": 0.2666667,
+      "cadence": 1.4,
+      "speed": 4.2,
+      "stance": 0.4,
+      "worldStanceDrift": 0.0031838
+    }
+  ]
+}

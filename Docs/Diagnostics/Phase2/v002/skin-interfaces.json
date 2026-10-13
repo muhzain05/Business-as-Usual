@@ -1,0 +1,21 @@
+{
+  "interfaces": {
+    "thigh_L": 24,
+    "upperarm_L": 26,
+    "thigh_R": 24,
+    "upperarm_R": 24
+  },
+  "occlusion_masks": {
+    "Sunny_v002_ForearmHand_L": 202,
+    "Sunny_v002_LowerLeg_L": 112,
+    "Sunny_v002_Body_UpperArm_L": 168,
+    "Sunny_v002_Body_Thigh_L": 168,
+    "Sunny_v002_ForearmHand_R": 178,
+    "Sunny_v002_LowerLeg_R": 112,
+    "Sunny_v002_Body_UpperArm_R": 168,
+    "Sunny_v002_Body_Thigh_R": 168,
+    "Sunny_v002_Body_Torso": 240,
+    "Sunny_v002_Body_Pelvis": 120
+  },
+  "limitation": "Torso/pelvis and proximal shoulder joins remain modular overlaps; masks are visible and reversible, not deleted skin."
+}

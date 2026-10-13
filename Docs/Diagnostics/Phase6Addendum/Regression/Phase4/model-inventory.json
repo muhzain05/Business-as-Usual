@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Shelf",
+    "vertices": 4512,
+    "triangles": 8836,
+    "materials": [
+      "Shop_Terracotta",
+      "Shop_Cream",
+      "Shop_Dark",
+      "Shop_Paper",
+      "Shop_Teal"
+    ]
+  },
+  {
+    "name": "Fridge",
+    "vertices": 9888,
+    "triangles": 19364,
+    "materials": [
+      "Shop_Cream",
+      "Shop_Terracotta",
+      "Shop_Teal",
+      "Shop_Paper",
+      "Shop_Metal",
+      "Shop_Dark"
+    ]
+  },
+  {
+    "name": "Counter",
+    "vertices": 1248,
+    "triangles": 2444,
+    "materials": [
+      "Shop_Terracotta",
+      "Shop_Cream",
+      "Shop_Dark",
+      "Shop_Metal",
+      "Shop_Blue"
+    ]
+  },
+  {
+    "name": "Register",
+    "vertices": 3504,
+    "triangles": 6860,
+    "materials": [
+      "Shop_Metal",
+      "Shop_Dark",
+      "Shop_Paper",
+      "Shop_Cream",
+      "Shop_Teal",
+      "Shop_Screen"
+    ]
+  },
+  {
+    "name": "Scanner",
+    "vertices": 384,
+    "triangles": 748,
+    "materials": [
+      "Shop_Dark",
+      "Shop_Metal",
+      "Shop_Cream",
+      "Shop_Teal",
+      "Shop_Terracotta"
+    ]
+  },
+  {
+    "name": "Basket",
+    "vertices": 4608,
+    "triangles": 9024,
+    "materials": [
+      "Shop_Blue",
+      "Shop_Metal"
+    ]
+  },
+  {
+    "name": "Crate",
+    "vertices": 288,
+    "triangles": 564,
+    "materials": [
+      "Shop_Cardboard",
+      "Shop_Paper"
+    ]
+  },
+  {
+    "name": "Product_Sunbeam",
+    "vertices": 216,
+    "triangles": 420,
+    "materials": [
+      "Shop_Terracotta",
+      "Shop_Sunbeam"
+    ]
+  },
+  {
+    "name": "Product_Meadow",
+    "vertices": 216,
+    "triangles": 420,
+    "materials": [
+      "Shop_Glass",
+      "Shop_Meadow",
+      "Shop_Cream"
+    ]
+  },
+  {
+    "name": "Product_Golden",
+    "vertices": 96,
+    "triangles": 188,
+    "materials": [
+      "Shop_Golden"
+    ]
+  },
+  {
+    "name": "Product_Cloud",
+    "vertices": 192,
+    "triangles": 376,
+    "materials": [
+      "Shop_Cloud",
+      "Shop_Cream"
+    ]
+  },
+  {
+    "name": "Product_Orchard",
+    "vertices": 216,
+    "triangles": 420,
+    "materials": [
+      "Shop_Glass",
+      "Shop_Orchard",
+      "Shop_Cream"
+    ]
+  },
+  {
+    "name": "Product_Tide",
+    "vertices": 288,
+    "triangles": 560,
+    "materials": [
+      "Shop_Tide",
+      "Shop_Metal",
+      "Shop_Dark"
+    ]
+  },
+  {
+    "name": "Product_LittleFox",
+    "vertices": 288,
+    "triangles": 560,
+    "materials": [
+      "Shop_LittleFox",
+      "Shop_Metal",
+      "Shop_Dark"
+    ]
+  },
+  {
+    "name": "Product_Garden",
+    "vertices": 288,
+    "triangles": 560,
+    "materials": [
+      "Shop_Garden",
+      "Shop_Metal",
+      "Shop_Dark"
+    ]
+  }
+]

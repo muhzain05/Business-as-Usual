@@ -1,0 +1,11 @@
+name,passed
+roundtrip--16-0,True
+roundtrip--16-1,True
+roundtrip--16-2,True
+roundtrip--46.5-0,True
+roundtrip--46.5-1,True
+roundtrip--46.5-2,True
+whole-icon-clamped,True
+locked-and-absent-filtered,True
+destroyed-target-retires,True
+ambient-wrap-continuous,True

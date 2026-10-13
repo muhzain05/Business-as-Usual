@@ -1,0 +1,50 @@
+{
+  "01-normal-hud-1920x1080.png": [
+    1920,
+    1080
+  ],
+  "01-normal-hud-1280x720.png": [
+    1280,
+    720
+  ],
+  "02-task-handbook-1920x1080.png": [
+    1920,
+    1080
+  ],
+  "02-task-handbook-1280x720.png": [
+    1280,
+    720
+  ],
+  "03-customer-order-1920x1080.png": [
+    1920,
+    1080
+  ],
+  "03-customer-order-1280x720.png": [
+    1280,
+    720
+  ],
+  "04-printed-receipt-1920x1080.png": [
+    1920,
+    1080
+  ],
+  "04-printed-receipt-1280x720.png": [
+    1280,
+    720
+  ],
+  "05-shift-report-1920x1080.png": [
+    1920,
+    1080
+  ],
+  "05-shift-report-1280x720.png": [
+    1280,
+    720
+  ],
+  "06-interaction-prompt-1920x1080.png": [
+    1920,
+    1080
+  ],
+  "06-interaction-prompt-1280x720.png": [
+    1280,
+    720
+  ]
+}

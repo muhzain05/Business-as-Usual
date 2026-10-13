@@ -1,0 +1,52 @@
+using System.Linq;
+using UnityEngine;
+using BusinessAsUsual.Prototype;
+using UnityEngine.InputSystem;
+namespace BusinessAsUsual.Shopkeeper
+{
+    public sealed class ShopHUD : MonoBehaviour
+    {
+        public ShopShift shift;
+        public PlayerInteractor player;
+        GUIStyle text, heading;
+        InputAction receiptKey;
+        bool showReceipts;
+        ShopRestockReach reach;
+        void Awake(){reach=GetComponent<ShopRestockReach>();receiptKey=new InputAction("Receipt book",InputActionType.Button,"<Keyboard>/tab");receiptKey.Enable();}
+        void Update(){if(receiptKey.WasPressedThisFrame())showReceipts=!showReceipts;}
+        void OnDestroy(){receiptKey?.Dispose();}
+        void OnGUI()
+        {
+            if(!shift || !player) return;
+            if(text==null) { text=new GUIStyle(GUI.skin.label){fontSize=16,wordWrap=true};heading=new GUIStyle(text){fontSize=22,fontStyle=FontStyle.Bold}; }
+            float scale=Mathf.Min(Screen.width/1280f,Screen.height/720f); GUI.matrix=Matrix4x4.Scale(new Vector3(scale,scale,1));
+            GUI.Box(new Rect(16,16,390,310),"");
+            GUI.Label(new Rect(30,24,360,34),"DAYLIGHT MARKET / SHOPKEEPER",heading);
+            GUI.Label(new Rect(30,62,360,36),"WASD • Mouse • E use • Q return crate\nTab receipts • Esc release mouse",text);
+            int y=98; foreach(var task in shift.Tasks.Tasks) { GUI.Label(new Rect(30,y,360,25),(task.Complete?"✓ ":"• ")+task.description+" "+task.progress+"/"+task.target,text); y+=25; }
+            GUI.Label(new Rect(30,y+5,360,30),"Revenue $"+(shift.Transactions.RevenueCents/100f).ToString("F2")+"   Receipts "+shift.Transactions.Receipts.Count,text);
+            GUI.Box(new Rect(874,16,390,270),"");
+            GUI.Label(new Rect(888,26,360,32),shift.Closed?"SHIFT COMPLETE":"CUSTOMER ORDER",heading);
+            var order=shift.CurrentOrder;
+            GUI.Label(new Rect(888,62,350,40),order==null?"All customers served":order.customer,text);
+            y=105; if(order!=null) foreach(var l in order.lines) { GUI.Label(new Rect(888,y,350,28),ShopShift.Products.First(p=>p.sku==l.sku).name+"  "+shift.Stock.Count("basket",l.sku)+" / "+l.quantity,text); y+=29; }
+            var receipt=shift.Transactions.Receipts.LastOrDefault(); if(receipt!=null) GUI.Label(new Rect(888,207,350,62),"LAST RECEIPT "+receipt.id+"\n"+receipt.customer+"  $"+(receipt.totalCents/100f).ToString("F2"),text);
+            GUI.Box(new Rect(290,600,700,100),"");
+            GUI.Label(new Rect(308,609,666,34),reach && reach.IsActive?reach.ActivityLabel:player.Current?"[E] "+player.Current.Prompt:"Approach a labeled shop station",heading);
+            GUI.Label(new Rect(308,646,666,48),shift.Message,text);
+            if(showReceipts || shift.Closed)
+            {
+                GUI.Box(new Rect(410,20,458,570),"");GUI.Label(new Rect(428,32,420,34),shift.Closed?"SHIFT COMPLETE / RECEIPT BOOK":"RECEIPT BOOK / TAB TO HIDE",heading);
+                int lineY=80;
+                foreach(var r in shift.Transactions.Receipts)
+                {
+                    GUI.Label(new Rect(428,lineY,420,25),r.id+" • "+r.customer,text);lineY+=28;
+                    foreach(var l in r.lines){GUI.Label(new Rect(440,lineY,405,25),l.quantity+" × "+l.name+" @ $"+(l.unitPriceCents/100f).ToString("F2")+" = $"+(l.totalCents/100f).ToString("F2"),text);lineY+=25;}
+                    GUI.Label(new Rect(440,lineY,400,25),"TOTAL $"+(r.totalCents/100f).ToString("F2"),text);lineY+=38;
+                }
+                GUI.Label(new Rect(428,490,420,74),"Shift revenue: $"+(shift.Transactions.RevenueCents/100f).ToString("F2")+"\nTown Stability contribution: +"+shift.StabilityContribution+"\n"+(shift.Closed?"Use the front exit to return to town.":"Receipts are printed at checkout."),text);
+            }
+            GUI.matrix=Matrix4x4.identity;
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "source_assets_sha256_verified": 9,
+  "blender_projects_sha256_verified": 5,
+  "export_hashes_verified": 3,
+  "playmode_checks_passed": 19,
+  "human_input_tested": false,
+  "unity_assets_and_meta_verified": 98,
+  "windows_build_result": "Succeeded",
+  "windows_build_errors": 0,
+  "windows_build_warnings": 486,
+  "caches_and_builds_ignored": true,
+  "staged_files": 0,
+  "commits": 0,
+  "remotes": 0,
+  "required_artifacts": {
+    "Assets/Prototype/Scenes/TownPrototype.unity": "3b3330432f44f4394a81d1ad98415a1ab6fae0a3b49d8309db4d34d37feb7cae",
+    "Assets/Prototype/Prefabs/SunnyPlayer.prefab": "3873a98ce1da2959153f594b70f82b8825e5a1f207f20e452079370d9a5eb5ed",
+    "Assets/Prototype/Animation/SunnyLocomotion.controller": "15b420cf4720381a3182137e731b60907a60ee5bcd9cafe868e89317d8689884"
+  }
+}

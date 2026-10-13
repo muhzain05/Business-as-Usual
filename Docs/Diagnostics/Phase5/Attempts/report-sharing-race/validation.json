@@ -1,0 +1,56 @@
+{
+  "method": "Two independent Windows Development builds, actual NGO/Unity Transport localhost UDP. Automated commands and server test placement; no human-controlled playtest.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "host_client_connection_and_late_join_snapshot",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "separate_spawn_and_ownership",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "one_local_camera_listener_input_hud",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "jump_state_replicated",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_movement_and_running_state",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "remote_movement_synchronization",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "shared_snapshots_not_sent_each_frame",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "server_range_validation",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "duplicate_command_prevention",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "unexpected_failure",
+      "passed": false,
+      "details": "'state'"
+    }
+  ]
+}

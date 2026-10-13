@@ -1,0 +1,154 @@
+{
+    "suite": "Phase 7A play mode (editor host)",
+    "scene": "Assets/Town/Scenes/DaylightTown.unity",
+    "utc": "2026-10-11T14:15:41.7876657Z",
+    "passed": 29,
+    "total": 29,
+    "checks": [
+        {
+            "name": "one_camera_one_listener",
+            "passed": true,
+            "detail": "cameras 1 listeners 1"
+        },
+        {
+            "name": "first_person_active_orbit_disabled",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "owner_body_hidden_but_casts_shadow",
+            "passed": true,
+            "detail": "19 renderers"
+        },
+        {
+            "name": "viewmodel_built_from_sunny_forearms",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "eye_height_stable",
+            "passed": true,
+            "detail": "1.000"
+        },
+        {
+            "name": "job_selected_through_authority",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "collide_market_facade_east_of_door",
+            "passed": true,
+            "detail": "end (-6.60, 0.02, 2.94) eyeClear True"
+        },
+        {
+            "name": "collide_market_facade_west_of_door",
+            "passed": true,
+            "detail": "end (-9.60, 0.02, 2.94) eyeClear True"
+        },
+        {
+            "name": "collide_market_door_closed_blocks",
+            "passed": true,
+            "detail": "end (-8.20, 0.02, 3.18) eyeClear True"
+        },
+        {
+            "name": "collide_garage_west_wall_inside",
+            "passed": true,
+            "detail": "end (4.89, 0.02, 8.40) eyeClear True"
+        },
+        {
+            "name": "collide_garage_rear_wall_and_tool_rack",
+            "passed": true,
+            "detail": "end (9.00, 0.02, 8.83) eyeClear True"
+        },
+        {
+            "name": "collide_van_0_side",
+            "passed": true,
+            "detail": "end (5.41, 0.02, 6.30) eyeClear True"
+        },
+        {
+            "name": "collide_van_1_front",
+            "passed": true,
+            "detail": "end (9.60, 0.02, 4.84) eyeClear True"
+        },
+        {
+            "name": "collide_waste_cart",
+            "passed": true,
+            "detail": "end (11.27, 0.02, -7.05) eyeClear True"
+        },
+        {
+            "name": "collide_yard_crate_stack",
+            "passed": true,
+            "detail": "end (4.50, 0.02, -8.51) eyeClear True"
+        },
+        {
+            "name": "collide_parcel_cart",
+            "passed": true,
+            "detail": "end (-12.81, 0.02, 2.55) eyeClear True"
+        },
+        {
+            "name": "collide_parts_workbench",
+            "passed": true,
+            "detail": "end (-10.80, 0.02, 2.39) eyeClear True"
+        },
+        {
+            "name": "collide_north_boundary",
+            "passed": true,
+            "detail": "end (3.00, 0.02, 13.39) eyeClear True"
+        },
+        {
+            "name": "collide_garage_opening_is_open",
+            "passed": true,
+            "detail": "end (8.00, 0.02, 4.55) eyeClear True"
+        },
+        {
+            "name": "collide_market_doorway_open_passable",
+            "passed": true,
+            "detail": "end (-8.20, 0.02, 5.13)"
+        },
+        {
+            "name": "interaction_targets_what_the_camera_aims_at",
+            "passed": true,
+            "detail": "aim inspect -> Vehicle 0 Inspection, aim repair -> Vehicle 0 Repair"
+        },
+        {
+            "name": "pause_releases_cursor_and_blocks_input",
+            "passed": true,
+            "detail": "lock None"
+        },
+        {
+            "name": "pause_never_freezes_simulation",
+            "passed": true,
+            "detail": "timeScale 1"
+        },
+        {
+            "name": "pause_keeps_server_authority_running",
+            "passed": true,
+            "detail": "server motor still steps while this player reads the menu"
+        },
+        {
+            "name": "escape_resumes_and_relocks_cursor",
+            "passed": true,
+            "detail": "lock Locked"
+        },
+        {
+            "name": "escape_closes_handbook_before_pausing",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "minimap_switches_to_market_floor_plan",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "minimap_town_region_outdoors",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "name": "hands_pull_back_from_walls",
+            "passed": true,
+            "detail": "see fp-pressed-against-market-wall.png"
+        }
+    ]
+}

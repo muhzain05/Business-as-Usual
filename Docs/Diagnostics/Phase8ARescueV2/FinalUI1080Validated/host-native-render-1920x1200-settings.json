@@ -1,0 +1,209 @@
+{
+    "screen": "Settings",
+    "action": "Open hood",
+    "headingFont": "",
+    "tab": 0,
+    "records": 0,
+    "menuOpen": true,
+    "reference": {
+        "x": 1280.0,
+        "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+        {
+            "value": "Your preferences",
+            "font": "Display",
+            "at": {
+                "x": 545.74267578125,
+                "y": 887.7686767578125
+            },
+            "size": {
+                "x": 828.51611328125,
+                "y": 71.15008544921875
+            },
+            "preferred": {
+                "x": 247.13999938964845,
+                "y": 38.40999984741211
+            },
+            "pointSize": 32.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Volume",
+            "font": "Labels",
+            "at": {
+                "x": 545.74267578125,
+                "y": 805.54833984375
+            },
+            "size": {
+                "x": 608.7381591796875,
+                "y": 41.1092529296875
+            },
+            "preferred": {
+                "x": 73.4000015258789,
+                "y": 24.010000228881837
+            },
+            "pointSize": 20.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "100%",
+            "font": "ReadingBold",
+            "at": {
+                "x": 1194.0086669921875,
+                "y": 805.54833984375
+            },
+            "size": {
+                "x": 180.2501220703125,
+                "y": 41.1092529296875
+            },
+            "preferred": {
+                "x": 49.130001068115237,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Look sensitivity",
+            "font": "Labels",
+            "at": {
+                "x": 545.74267578125,
+                "y": 680.6387939453125
+            },
+            "size": {
+                "x": 608.7381591796875,
+                "y": 41.11016845703125
+            },
+            "preferred": {
+                "x": 153.3800048828125,
+                "y": 24.010000228881837
+            },
+            "pointSize": 20.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "24%",
+            "font": "ReadingBold",
+            "at": {
+                "x": 1194.0086669921875,
+                "y": 680.6387939453125
+            },
+            "size": {
+                "x": 180.2501220703125,
+                "y": 41.11016845703125
+            },
+            "preferred": {
+                "x": 39.2599983215332,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "Field of view",
+            "font": "Labels",
+            "at": {
+                "x": 545.74267578125,
+                "y": 555.7283935546875
+            },
+            "size": {
+                "x": 608.7381591796875,
+                "y": 41.11016845703125
+            },
+            "preferred": {
+                "x": 122.83999633789063,
+                "y": 24.010000228881837
+            },
+            "pointSize": 20.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "92",
+            "font": "ReadingBold",
+            "at": {
+                "x": 1194.0086669921875,
+                "y": 555.7283935546875
+            },
+            "size": {
+                "x": 180.2501220703125,
+                "y": 41.11016845703125
+            },
+            "preferred": {
+                "x": 20.649999618530275,
+                "y": 22.31999969482422
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "REDUCED MOTION  OFF",
+            "font": "Labels",
+            "at": {
+                "x": 564.714111328125,
+                "y": 391.290283203125
+            },
+            "size": {
+                "x": 790.5689697265625,
+                "y": 66.406982421875
+            },
+            "preferred": {
+                "x": 204.55999755859376,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "DISPLAY & PERFORMANCE",
+            "font": "Labels",
+            "at": {
+                "x": 564.714111328125,
+                "y": 307.4909362792969
+            },
+            "size": {
+                "x": 790.5689697265625,
+                "y": 66.40701293945313
+            },
+            "preferred": {
+                "x": 233.47000122070313,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        },
+        {
+            "value": "BACK",
+            "font": "Labels",
+            "at": {
+                "x": 564.714111328125,
+                "y": 223.68896484375
+            },
+            "size": {
+                "x": 215.034423828125,
+                "y": 47.433929443359378
+            },
+            "preferred": {
+                "x": 48.970001220703128,
+                "y": 21.610000610351564
+            },
+            "pointSize": 18.0,
+            "offscreen": false,
+            "overflows": false
+        }
+    ],
+    "handPose": "Idle",
+    "interaction": "",
+    "authoredGestures": 1,
+    "authoredHandsVisible": true
+}

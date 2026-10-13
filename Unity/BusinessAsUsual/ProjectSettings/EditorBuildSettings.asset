@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Multiplayer/Scenes/ShopkeeperMultiplayer.unity
+    guid: 8c84d5e821703084e9df86d4b37222bb
+  - enabled: 1
+    path: Assets/Prototype/Scenes/TownPrototype.unity
+    guid: 3d49726ba1f688949bb10da8eb91aae8
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Shopkeeper/Scenes/ShopkeeperShift.unity
+    guid: cac1fbaf0438b3a468763a6692d14eb1
+  - enabled: 1
+    path: Assets/Town/Scenes/DaylightTown.unity
+    guid: d477347593dc1c949a52039c62b5ae38
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

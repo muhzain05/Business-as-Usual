@@ -1,0 +1,82 @@
+[
+  {
+    "name": "actual_4_process_roster",
+    "passed": true
+  },
+  {
+    "name": "one_owner_camera_listener_input_and_viewmodel",
+    "passed": true
+  },
+  {
+    "name": "remote_walk_uses_foot_planting",
+    "passed": true
+  },
+  {
+    "name": "replayed_transfer_changes_custody_once",
+    "passed": true
+  },
+  {
+    "name": "courier_disconnect_recovers_same_parcel",
+    "passed": true
+  },
+  {
+    "name": "all_clients_share_same_delivered_objects",
+    "passed": true
+  },
+  {
+    "name": "shared_manual_repair_signed_and_conserved",
+    "passed": true
+  },
+  {
+    "name": "shared_retail_scan_uses_same_stock",
+    "passed": true
+  },
+  {
+    "name": "network_collection_reuses_repair_packaging_and_scrap",
+    "passed": true
+  },
+  {
+    "name": "four_worker_shift_completed",
+    "passed": true
+  },
+  {
+    "name": "private_record_scope_host",
+    "passed": true
+  },
+  {
+    "name": "shared_payload_omits_audit_and_private_records_host",
+    "passed": true
+  },
+  {
+    "name": "private_record_scope_client1",
+    "passed": true
+  },
+  {
+    "name": "shared_payload_omits_audit_and_private_records_client1",
+    "passed": true
+  },
+  {
+    "name": "private_record_scope_client2",
+    "passed": true
+  },
+  {
+    "name": "shared_payload_omits_audit_and_private_records_client2",
+    "passed": true
+  },
+  {
+    "name": "private_record_scope_client3",
+    "passed": true
+  },
+  {
+    "name": "shared_payload_omits_audit_and_private_records_client3",
+    "passed": true
+  },
+  {
+    "name": "records_differ_between_professions",
+    "passed": true
+  },
+  {
+    "name": "one_local_canvas_per_worker",
+    "passed": true
+  }
+]

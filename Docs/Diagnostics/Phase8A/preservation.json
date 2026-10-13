@@ -1,0 +1,24 @@
+{
+  "backup": "D:\\Business as Usual Backups\\pre-phase8A-2026-10-12",
+  "indexTree": "77fff87b7cbe089ce03bbd6725231e0f38c8a062",
+  "indexUnchanged": true,
+  "intentionalExistingCodeChanges": [
+    "Unity/BusinessAsUsual/Assets/FirstPerson/Scripts/FirstPersonHands.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/TownHandbook.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkSession.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkPlayer.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/TownGuidance.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/TownJobs.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs",
+    "Unity/BusinessAsUsual/Assets/FirstPerson/Scripts/FirstPersonView.cs"
+  ],
+  "restoredBuildSideEffects": [
+    "Unity/BusinessAsUsual/ProjectSettings/ProjectSettings.asset",
+    "Unity/BusinessAsUsual/Assets/Shopkeeper/Materials/Shop_Screen.mat"
+  ],
+  "expectedLiveEditorLogs": [],
+  "unexpectedProtectedChanges": [],
+  "baselineFilesVerified": 5814,
+  "meshyCreditsSpent": 0
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Material_0.008",
+    "color_linear": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "roughness": 0.5,
+    "metallic": 0.0,
+    "textures": {
+      "base": "Texture_0.png",
+      "data": "Texture_1.png",
+      "normal": "Texture_2.png"
+    }
+  },
+  {
+    "name": "Sunny_v002_CollarCream.007",
+    "color_linear": [
+      0.8100000023841858,
+      0.7799999713897705,
+      0.7099999785423279,
+      1.0
+    ],
+    "roughness": 0.7799999713897705,
+    "metallic": 0.0,
+    "textures": {}
+  },
+  {
+    "name": "Sunny_v002_ConcealedSkin.011",
+    "color_linear": [
+      0.6800000071525574,
+      0.4000000059604645,
+      0.23000000417232513,
+      1.0
+    ],
+    "roughness": 0.7799999713897705,
+    "metallic": 0.0,
+    "textures": {}
+  },
+  {
+    "name": "Sunny_v002_ConcealedSkin.012",
+    "color_linear": [
+      0.6800000071525574,
+      0.4000000059604645,
+      0.23000000417232513,
+      1.0
+    ],
+    "roughness": 0.7799999713897705,
+    "metallic": 0.0,
+    "textures": {}
+  },
+  {
+    "name": "Sunny_v002_HeadClean.006",
+    "color_linear": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "roughness": 0.5,
+    "metallic": 0.0,
+    "textures": {
+      "base": "Texture_3.png",
+      "data": "Texture_1.png",
+      "normal": "Texture_4.png"
+    }
+  },
+  {
+    "name": "Sunny_v002_JacketTeal.007",
+    "color_linear": [
+      0.08500000089406967,
+      0.20499999821186066,
+      0.23999999463558197,
+      1.0
+    ],
+    "roughness": 0.7799999713897705,
+    "metallic": 0.0,
+    "textures": {}
+  },
+  {
+    "name": "Sunny_v002_ShirtCream.007",
+    "color_linear": [
+      0.7200000286102295,
+      0.6899999976158142,
+      0.6299999952316284,
+      1.0
+    ],
+    "roughness": 0.7799999713897705,
+    "metallic": 0.0,
+    "textures": {}
+  },
+  {
+    "name": "Sunny_v003_ConcealedLegSkin.004",
+    "color_linear": [
+      0.8700000047683716,
+      0.6200000047683716,
+      0.4300000071525574,
+      1.0
+    ],
+    "roughness": 0.800000011920929,
+    "metallic": 0.0,
+    "textures": {}
+  },
+  {
+    "name": "Sunny_v003_ShortsCuff.003",
+    "color_linear": [
+      0.01899999938905239,
+      0.029999999329447746,
+      0.0430000014603138,
+      1.0
+    ],
+    "roughness": 0.800000011920929,
+    "metallic": 0.0,
+    "textures": {}
+  }
+]

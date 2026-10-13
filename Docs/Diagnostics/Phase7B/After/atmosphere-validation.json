@@ -1,0 +1,20 @@
+{
+  "checks": [
+    {
+      "name": "clouds-drift",
+      "passed": true
+    },
+    {
+      "name": "sun-dims-at-night",
+      "passed": true
+    },
+    {
+      "name": "street-lamps-light",
+      "passed": true
+    },
+    {
+      "name": "windows-night-only",
+      "passed": true
+    }
+  ]
+}

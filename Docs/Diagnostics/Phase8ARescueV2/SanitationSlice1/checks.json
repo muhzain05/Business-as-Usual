@@ -1,0 +1,15 @@
+[
+  {
+    "name": "one_real_solo_player",
+    "passed": true
+  },
+  {
+    "name": "server_cart_moves_and_parks_from_real_input",
+    "passed": false
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "server_cart_moves_and_parks_from_real_input"
+  }
+]

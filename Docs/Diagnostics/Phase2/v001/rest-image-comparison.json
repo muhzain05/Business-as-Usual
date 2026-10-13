@@ -1,0 +1,18 @@
+{
+  "purpose": "same-view rest appearance comparison; not repair validation",
+  "views": [
+    {
+      "view": "front",
+      "mean_absolute_rgb_difference_0_255": 0.0006349105569752861
+    },
+    {
+      "view": "side",
+      "mean_absolute_rgb_difference_0_255": 0.0001640185605519489
+    },
+    {
+      "view": "back",
+      "mean_absolute_rgb_difference_0_255": 0.00019576408840071323
+    }
+  ],
+  "note": "Rendering variation and normal quantization can change pixels; inspect visually as well."
+}

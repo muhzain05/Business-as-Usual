@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f6e7dfeab6924c4bba4e461423d754a, type: 3}
+  m_Name: WorkdaySkin
+  m_EditorClassIdentifier: Assembly-CSharp::BusinessAsUsual.RescueV2.RescueSkin
+  display: {fileID: 11400000, guid: a4a24eb08483504478294b5cf6a16346, type: 2}
+  labels: {fileID: 11400000, guid: ce3a45e5a80d7da44bdd14c2d9fc3305, type: 2}
+  reading: {fileID: 11400000, guid: bb7e16e300f6add43a70d9219a299479, type: 2}
+  readingBold: {fileID: 11400000, guid: 44f4326f00554cb48b36a3c002229794, type: 2}
+  comparisonHeadings:
+  - {fileID: 11400000, guid: d56662cc3af5384499c39e8c80fcfdda, type: 2}
+  - {fileID: 11400000, guid: fc310b0657fe86f47965175cc31919c5, type: 2}
+  paper: {r: 0.96862745, g: 0.92156863, b: 0.8039216, a: 1}
+  ink: {r: 0.1254902, g: 0.24705882, b: 0.2509804, a: 1}
+  white: {r: 1, g: 0.9764706, b: 0.9137255, a: 1}
+  dark: {r: 0.08235294, g: 0.18039216, b: 0.1764706, a: 1}
+  mustard: {r: 0.90588236, g: 0.7137255, b: 0.2784314, a: 1}
+  coral: {r: 0.827451, g: 0.43529412, b: 0.33333334, a: 1}
+  green: {r: 0.24313726, g: 0.4509804, b: 0.3647059, a: 1}
+  rule: {r: 0.8392157, g: 0.77254903, b: 0.6313726, a: 1}
+  feedbackSeconds: 0.18

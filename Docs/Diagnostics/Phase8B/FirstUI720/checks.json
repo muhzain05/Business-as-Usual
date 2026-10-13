@@ -1,0 +1,46 @@
+[
+  {
+    "name": "main-menu_text_bounds",
+    "passed": false,
+    "defects": [
+      {
+        "value": "Business\nas Usual",
+        "font": "Display",
+        "at": {
+          "x": 74.0,
+          "y": 489.0
+        },
+        "size": {
+          "x": 388.0,
+          "y": 112.0
+        },
+        "preferred": {
+          "x": 194.36000061035156,
+          "y": 116.16999816894531
+        },
+        "pointSize": 48.0,
+        "offscreen": false,
+        "overflows": true
+      }
+    ]
+  },
+  {
+    "name": "six_real_menu_actions",
+    "passed": true
+  },
+  {
+    "name": "credits_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "settings_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "min() iterable argument is empty"
+  }
+]

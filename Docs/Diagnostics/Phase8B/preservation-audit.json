@@ -1,0 +1,16 @@
+{
+  "baselineFiles": 9227,
+  "stageUnchanged": true,
+  "indexBytesUnchanged": true,
+  "changedBaselineFiles": [
+    "Docs/meshy-credit-ledger.json",
+    "Scripts/test_phase8a_network.py",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkSession.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs",
+    "Unity/BusinessAsUsual/Assets/RescueV2/Scripts/RescueInterface.cs",
+    "Unity/BusinessAsUsual/Assets/RescueV2/Scripts/RescueWorld.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/LivingWorkday.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/WorkdayDomain.cs"
+  ]
+}

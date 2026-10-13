@@ -1,0 +1,23 @@
+{
+  "front": {
+    "silhouette_iou": 0.9664872959452343,
+    "original_pixels": 121146,
+    "repair_pixels": 117853,
+    "rgb_mae": 3.261234871794872,
+    "interpretation": "Intentional jacket changes; pixel differences are not a fidelity pass."
+  },
+  "side": {
+    "silhouette_iou": 0.9456805392369055,
+    "original_pixels": 80737,
+    "repair_pixels": 76581,
+    "rgb_mae": 2.0142358974358974,
+    "interpretation": "Intentional jacket changes; pixel differences are not a fidelity pass."
+  },
+  "back": {
+    "silhouette_iou": 0.9652147461194422,
+    "original_pixels": 121355,
+    "repair_pixels": 117678,
+    "rgb_mae": 3.740804102564103,
+    "interpretation": "Intentional jacket changes; pixel differences are not a fidelity pass."
+  }
+}

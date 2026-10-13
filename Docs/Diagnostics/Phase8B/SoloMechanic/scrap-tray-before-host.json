@@ -1,0 +1,1244 @@
+{
+  "dayPrivate": {
+    "personalTitle": "Correct the rushed note",
+    "personalNote": "After a load test, amend the service note before signing.",
+    "arrangementTitle": "Practice a quiet detour",
+    "arrangementNote": "Restage the garage parcel at RETURNS or YARD HOLD. Declare direct transfer on its slip. Complete useful work too.",
+    "practice": true,
+    "hasArrangement": true,
+    "detour": true,
+    "declaredDirect": true,
+    "productive": true,
+    "personalDone": true
+  },
+  "music": 0.5999999642372131,
+  "effects": 0.06538461893796921,
+  "master": 1.0,
+  "performance": {
+    "gpu": "NVIDIA GeForce RTX 3060 Ti",
+    "cpu": "11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz",
+    "graphics": "Direct3D12",
+    "samples": 12000,
+    "medianFrameMs": 2.981299638748169,
+    "p95FrameMs": 4.528897285461426,
+    "drawCalls": 3683,
+    "batches": 3285,
+    "triangles": 1571831,
+    "renderCountersAvailable": true
+  },
+  "role": "host",
+  "status": "HOST / Sunny 0 / 1 players",
+  "feedback": "Old battery lifted. Set it in the scrap tray.",
+  "currentTarget": "Living Workday/Scrap tray",
+  "listening": true,
+  "connected": true,
+  "host": true,
+  "localCarried": false,
+  "localId": 0,
+  "serial": 82,
+  "snapshots": 281,
+  "bytes": 1549983,
+  "accepted": 15,
+  "rejected": 1,
+  "players": [
+    {
+      "id": 1,
+      "owner": 0,
+      "local": true,
+      "spawned": true,
+      "grounded": true,
+      "running": false,
+      "jumping": false,
+      "bodyVisible": false,
+      "position": {
+        "x": 5.300000190734863,
+        "y": 0.02499993145465851,
+        "z": 7.0
+      },
+      "leftFoot": {
+        "x": -0.12874840199947357,
+        "y": 0.15808731317520142,
+        "z": -0.03349211812019348
+      },
+      "speed": 0.0,
+      "lookYaw": 1.3660374861501623e-05,
+      "lookPitch": 44.99999237060547,
+      "facing": 1.3660374861501623e-05,
+      "inputs": 1738,
+      "footPlants": 0
+    }
+  ],
+  "state": {
+    "revision": 21,
+    "orderIndex": 0,
+    "received": false,
+    "closed": false,
+    "dropped": false,
+    "holder": 18446744073709551615,
+    "message": "Town ledger updated.",
+    "quantities": [
+      6,
+      6,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "progress": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movements": [],
+    "receipts": [],
+    "cratePosition": {
+      "x": -36.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    "crateRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "doorIds": [
+      "Graybox Town/Shop/Shop Door"
+    ],
+    "workIds": [],
+    "doorOpen": [
+      false
+    ],
+    "workUses": [],
+    "town": {
+      "owners": [
+        18446744073709551615,
+        0,
+        18446744073709551615,
+        18446744073709551615,
+        18446744073709551615,
+        18446744073709551615
+      ],
+      "started": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "completed": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mechanicProgress": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sanitationProgress": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "quantities": [
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "partsRequested": false,
+      "services": [
+        {
+          "id": "SV-001",
+          "vehicle": "Mikan delivery van",
+          "fault": "Weak battery",
+          "part": "battery",
+          "inspected": false,
+          "repaired": false,
+          "recorded": false
+        },
+        {
+          "id": "SV-002",
+          "vehicle": "Municipal mini truck",
+          "fault": "Clogged oil filter",
+          "part": "filter",
+          "inspected": false,
+          "repaired": false,
+          "recorded": false
+        }
+      ],
+      "bags": [
+        {
+          "id": "WB-001",
+          "source": "Town Square",
+          "materialType": "Paper",
+          "objectDescription": "Ordinary packaging",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": -1.0,
+            "y": 0.30000001192092896,
+            "z": 7.800000190734863
+          },
+          "position": {
+            "x": -1.0,
+            "y": 0.30000001192092896,
+            "z": 7.800000190734863
+          }
+        },
+        {
+          "id": "WB-002",
+          "source": "Back Alley",
+          "materialType": "Mixed",
+          "objectDescription": "Discarded umbrella and wrappers",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 0.0,
+            "y": 0.30000001192092896,
+            "z": 11.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.30000001192092896,
+            "z": 11.0
+          }
+        },
+        {
+          "id": "WB-003",
+          "source": "Sanitation Yard",
+          "materialType": "Metal",
+          "objectDescription": "Ordinary packaging",
+          "available": true,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 5.0,
+            "y": 0.30000001192092896,
+            "z": -6.800000190734863
+          },
+          "position": {
+            "x": 5.0,
+            "y": 0.30000001192092896,
+            "z": -6.800000190734863
+          }
+        },
+        {
+          "id": "WB-004",
+          "source": "Daylight Market",
+          "materialType": "Paper",
+          "objectDescription": "Ordinary packaging",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": -10.0,
+            "y": 0.30000001192092896,
+            "z": 2.9000000953674316
+          },
+          "position": {
+            "x": -10.0,
+            "y": 0.30000001192092896,
+            "z": 2.9000000953674316
+          }
+        },
+        {
+          "id": "WB-005",
+          "source": "Garage",
+          "materialType": "Metal",
+          "objectDescription": "Replaced vehicle parts",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 5.150000095367432,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          },
+          "position": {
+            "x": 5.150000095367432,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          }
+        },
+        {
+          "id": "WB-006",
+          "source": "Garage",
+          "materialType": "Metal",
+          "objectDescription": "Replaced vehicle parts",
+          "available": false,
+          "collected": false,
+          "stage": 0,
+          "holder": 18446744073709551615,
+          "origin": {
+            "x": 10.850000381469727,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          },
+          "position": {
+            "x": 10.850000381469727,
+            "y": 0.30000001192092896,
+            "z": 8.550000190734863
+          }
+        }
+      ],
+      "serviceRecords": [],
+      "disposalRecords": [],
+      "movements": [],
+      "message": "Town work updated.",
+      "works": [
+        {
+          "worker": 18446744073709551615,
+          "target": "",
+          "started": 0.0,
+          "duration": 0.0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "worker": 18446744073709551615,
+          "target": "",
+          "started": 0.0,
+          "duration": 0.0,
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "contribution": 0,
+      "assistantProfession": 1
+    },
+    "workday": {
+      "items": [
+        {
+          "id": "PART-8A-001",
+          "material": "battery",
+          "custody": "garage",
+          "sku": "",
+          "holder": 18446744073709551615,
+          "revision": 7,
+          "inspected": false,
+          "shelved": false,
+          "fromCart": false
+        },
+        {
+          "id": "PACK-8A-001",
+          "material": "paper",
+          "custody": "garage",
+          "sku": "",
+          "holder": 18446744073709551615,
+          "revision": 5,
+          "inspected": false,
+          "shelved": false,
+          "fromCart": false
+        },
+        {
+          "id": "OLD-8A-001",
+          "material": "mixed",
+          "custody": "removed-carry",
+          "sku": "",
+          "holder": 0,
+          "revision": 3,
+          "inspected": false,
+          "shelved": false,
+          "fromCart": false
+        },
+        {
+          "id": "BAG-8A-001",
+          "material": "paper",
+          "custody": "recorded",
+          "sku": "",
+          "holder": 18446744073709551615,
+          "revision": 4,
+          "inspected": true,
+          "shelved": false,
+          "fromCart": false
+        },
+        {
+          "id": "ORDER-8A-001",
+          "material": "stock",
+          "custody": "customer",
+          "sku": "cola",
+          "holder": 18446744073709551615,
+          "revision": 1,
+          "inspected": false,
+          "shelved": false,
+          "fromCart": false
+        },
+        {
+          "id": "ORDER-8A-002",
+          "material": "stock",
+          "custody": "stockroom",
+          "sku": "tea",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false,
+          "shelved": false,
+          "fromCart": false
+        },
+        {
+          "id": "ORDER-8A-003",
+          "material": "stock",
+          "custody": "stockroom",
+          "sku": "crackers",
+          "holder": 18446744073709551615,
+          "revision": 0,
+          "inspected": false,
+          "shelved": false,
+          "fromCart": false
+        }
+      ],
+      "received": true,
+      "verified": false,
+      "requested": true,
+      "prepared": true,
+      "dispatched": true,
+      "diagnosed": true,
+      "loadChecked": true,
+      "hood": true,
+      "released": true,
+      "installed": false,
+      "bench": false,
+      "closed": false,
+      "physical": true,
+      "removed": true,
+      "oldPlaced": false,
+      "repairTested": false,
+      "serviceSigned": false,
+      "shiftSigned": false,
+      "suspicious": true,
+      "parcelNote": "Direct transfer",
+      "serviceNote": "Load check performed",
+      "noteAmendments": 1,
+      "customerOrders": 1,
+      "bolts": 1,
+      "stability": 9,
+      "cleaned": 0,
+      "assisted": 0,
+      "checkSamples": 2,
+      "durationSeconds": 480.0,
+      "requestedAt": 14.239226618306711,
+      "began": 2.605991806089878,
+      "gateUntil": 0.0,
+      "priority": "garage",
+      "collectionOrder": "paper",
+      "cartX": 7.5,
+      "cartZ": -4.900000095367432,
+      "cartYaw": 0.0,
+      "cartPusher": 18446744073709551615,
+      "cartChoice": 0,
+      "records": []
+    },
+    "day": {
+      "started": true,
+      "closed": false,
+      "solo": true,
+      "unattended": true,
+      "startedAt": 2.605991806089878,
+      "band": 1,
+      "ready": [
+        0
+      ],
+      "papers": [],
+      "bulletin": "Opening work \u00b7 serve, repair and collect."
+    }
+  },
+  "targetIds": [
+    "Daylight Market Interior/Functional Fixtures/Town Exit",
+    "Town Workplaces/Route Bag 5",
+    "Town Workplaces/Parts Pickup Locker",
+    "Town Workplaces/Vehicle 0 Repair",
+    "Town Workplaces/Vehicle 1 Inspection",
+    "Graybox Town/Sanitation Area/Paper Sorting Bin",
+    "Daylight Market Interior/Functional Fixtures/Sunbeam Cola Shelf",
+    "Daylight Market Interior/Functional Fixtures/Golden Crackers Shelf",
+    "Town Workplaces/Route Bag 0",
+    "Daylight Market Interior/Functional Fixtures/Stock Crate",
+    "Town Workplaces/Enter Daylight Market",
+    "Town Workplaces/Route Bag 2",
+    "Daylight Market Interior/Functional Fixtures/Delivery Desk",
+    "Graybox Town/Sanitation Area/Metal Sorting Bin",
+    "Town Workplaces/Route Bag 1",
+    "Daylight Market Interior/Functional Fixtures/Closing Terminal",
+    "Daylight Market Interior/Functional Fixtures/Checkout",
+    "Graybox Town/Sanitation Area/Mixed Sorting Bin",
+    "Daylight Market Interior/Functional Fixtures/Meadow Tea Shelf",
+    "Town Workplaces/Vehicle 0 Inspection",
+    "Town Workplaces/Vehicle 1 Repair",
+    "Town Workplaces/Parts Request Slip",
+    "Town Workplaces/Route Bag 3",
+    "Graybox Town/Shop/Shop Door",
+    "Graybox Town/Sanitation Area/Collection Route Desk",
+    "Graybox Town/Garage/Service Desk",
+    "Town Workplaces/Parts Packing Counter",
+    "Town Workplaces/Route Bag 4",
+    "Living Workday/Shipment",
+    "Living Workday/Dispatch",
+    "Living Workday/Parcel",
+    "Living Workday/Counter",
+    "Living Workday/Request",
+    "Living Workday/Hood",
+    "Living Workday/Probes",
+    "Living Workday/Terminal",
+    "Living Workday/Socket",
+    "Living Workday/Bay tray",
+    "Living Workday/Paper pickup",
+    "Living Workday/Metal pickup",
+    "Living Workday/Square pickup",
+    "Living Workday/Manifest",
+    "Living Workday/Yard intake",
+    "Living Workday/Paper chute",
+    "Living Workday/Mixed chute",
+    "Living Workday/Metal chute",
+    "Living Workday/Market reset",
+    "Living Workday/Garage reset",
+    "Living Workday/Yard reset",
+    "Living Workday/Shift report",
+    "Living Workday/Lift battery",
+    "Living Workday/Scrap tray",
+    "Living Workday/Replacement",
+    "Living Workday/Repair test",
+    "Living Workday/Service ticket",
+    "Living Workday/Stock box 0",
+    "Living Workday/Stock shelf 0",
+    "Living Workday/Shelf product 0",
+    "Living Workday/Stock box 1",
+    "Living Workday/Stock shelf 1",
+    "Living Workday/Shelf product 1",
+    "Living Workday/Stock box 2",
+    "Living Workday/Stock shelf 2",
+    "Living Workday/Shelf product 2",
+    "Living Workday/Order counter",
+    "Living Workday/Order register",
+    "Living Workday/Collection cart",
+    "Living Workday/Cart batch 1",
+    "Living Workday/Cart batch 2",
+    "Living Workday/Cart batch 3",
+    "Living Workday/Returns counter",
+    "Living Workday/Yard holding",
+    "Living Workday/Service amendment"
+  ],
+  "targetPoints": [
+    {
+      "x": -40.0,
+      "y": 0.6499999761581421,
+      "z": -0.10000000149011612
+    },
+    {
+      "x": 10.850000381469727,
+      "y": 0.45000001788139343,
+      "z": 8.550000190734863
+    },
+    {
+      "x": -10.800000190734863,
+      "y": 0.6499999761581421,
+      "z": 2.75
+    },
+    {
+      "x": 6.400000095367432,
+      "y": 0.6499999761581421,
+      "z": 4.75
+    },
+    {
+      "x": 10.649999618530273,
+      "y": 0.6499999761581421,
+      "z": 5.5
+    },
+    {
+      "x": 6.0,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": -42.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": -38.0,
+      "y": 0.6499999761581421,
+      "z": 6.0
+    },
+    {
+      "x": -1.0,
+      "y": 0.45000001788139343,
+      "z": 7.800000190734863
+    },
+    {
+      "x": -36.0,
+      "y": 0.30000001192092896,
+      "z": 8.199999809265137
+    },
+    {
+      "x": -8.199999809265137,
+      "y": 0.6499999761581421,
+      "z": 4.199999809265137
+    },
+    {
+      "x": 5.0,
+      "y": 0.45000001788139343,
+      "z": -6.800000190734863
+    },
+    {
+      "x": -36.0,
+      "y": 0.36000001430511475,
+      "z": 10.300000190734863
+    },
+    {
+      "x": 9.0,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": 0.0,
+      "y": 0.45000001788139343,
+      "z": 11.0
+    },
+    {
+      "x": -36.20000076293945,
+      "y": 0.550000011920929,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": -41.0,
+      "y": 0.375,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 7.5,
+      "y": 1.2000000476837158,
+      "z": -8.5
+    },
+    {
+      "x": -40.0,
+      "y": 0.6499999761581421,
+      "z": 9.699999809265137
+    },
+    {
+      "x": 5.349999904632568,
+      "y": 0.6499999761581421,
+      "z": 5.5
+    },
+    {
+      "x": 9.600000381469727,
+      "y": 0.6499999761581421,
+      "z": 4.75
+    },
+    {
+      "x": 10.300000190734863,
+      "y": 0.6499999761581421,
+      "z": 8.199999809265137
+    },
+    {
+      "x": -10.0,
+      "y": 0.45000001788139343,
+      "z": 2.9000000953674316
+    },
+    {
+      "x": -7.75,
+      "y": 0.9500000476837158,
+      "z": 3.380000114440918
+    },
+    {
+      "x": 10.0,
+      "y": 1.0499999523162842,
+      "z": -6.0
+    },
+    {
+      "x": 8.0,
+      "y": 1.0999999046325684,
+      "z": 7.5
+    },
+    {
+      "x": -35.900001525878906,
+      "y": 0.6499999761581421,
+      "z": 4.800000190734863
+    },
+    {
+      "x": 5.150000095367432,
+      "y": 0.45000001788139343,
+      "z": 8.550000190734863
+    },
+    {
+      "x": -36.0,
+      "y": 0.7300000190734863,
+      "z": 10.300000190734863
+    },
+    {
+      "x": -36.0,
+      "y": 0.7300000190734863,
+      "z": 10.300000190734863
+    },
+    {
+      "x": -36.0,
+      "y": 0.8999999761581421,
+      "z": 10.300000190734863
+    },
+    {
+      "x": -41.0,
+      "y": 0.8199999928474426,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 8.199999809265137,
+      "y": 0.8600000143051147,
+      "z": 7.199999809265137
+    },
+    {
+      "x": 6.400000095367432,
+      "y": 0.7350000143051147,
+      "z": 5.070000171661377
+    },
+    {
+      "x": 6.550000190734863,
+      "y": 0.7569999694824219,
+      "z": 5.434999942779541
+    },
+    {
+      "x": 6.735000133514404,
+      "y": 0.6980000138282776,
+      "z": 5.375
+    },
+    {
+      "x": 6.635000228881836,
+      "y": 0.628000020980835,
+      "z": 5.434999942779541
+    },
+    {
+      "x": 8.199999809265137,
+      "y": 0.7400000095367432,
+      "z": 7.199999809265137
+    },
+    {
+      "x": 5.300000190734863,
+      "y": 0.11999999731779099,
+      "z": 8.300000190734863
+    },
+    {
+      "x": 5.300000190734863,
+      "y": 0.18000000715255737,
+      "z": 7.800000190734863
+    },
+    {
+      "x": -1.0,
+      "y": 0.5,
+      "z": 7.800000190734863
+    },
+    {
+      "x": 10.0,
+      "y": 0.75,
+      "z": -6.199999809265137
+    },
+    {
+      "x": 10.0,
+      "y": 0.6499999761581421,
+      "z": -7.0
+    },
+    {
+      "x": 6.0,
+      "y": 1.149999976158142,
+      "z": -7.980000019073486
+    },
+    {
+      "x": 7.5,
+      "y": 1.149999976158142,
+      "z": -7.980000019073486
+    },
+    {
+      "x": 9.0,
+      "y": 1.149999976158142,
+      "z": -7.980000019073486
+    },
+    {
+      "x": -38.0,
+      "y": 0.800000011920929,
+      "z": 7.199999809265137
+    },
+    {
+      "x": 7.400000095367432,
+      "y": 0.7699999809265137,
+      "z": 7.550000190734863
+    },
+    {
+      "x": 10.600000381469727,
+      "y": 0.800000011920929,
+      "z": -8.300000190734863
+    },
+    {
+      "x": 0.0,
+      "y": 0.75,
+      "z": 4.699999809265137
+    },
+    {
+      "x": 6.635000228881836,
+      "y": 0.6980000138282776,
+      "z": 5.434999942779541
+    },
+    {
+      "x": 5.300000190734863,
+      "y": 0.2800000011920929,
+      "z": 7.800000190734863
+    },
+    {
+      "x": 8.199999809265137,
+      "y": 0.8799999952316284,
+      "z": 7.199999809265137
+    },
+    {
+      "x": 6.720000267028809,
+      "y": 0.7569999694824219,
+      "z": 5.434999942779541
+    },
+    {
+      "x": 7.650000095367432,
+      "y": 0.75,
+      "z": 7.199999809265137
+    },
+    {
+      "x": -35.650001525878906,
+      "y": 0.20500001311302185,
+      "z": 8.449999809265137
+    },
+    {
+      "x": -42.0,
+      "y": 0.7549999952316284,
+      "z": 5.554999828338623
+    },
+    {
+      "x": -42.0,
+      "y": 0.7549999952316284,
+      "z": 5.554999828338623
+    },
+    {
+      "x": -35.650001525878906,
+      "y": 0.20500001311302185,
+      "z": 8.949999809265137
+    },
+    {
+      "x": -40.0,
+      "y": 0.7549999952316284,
+      "z": 9.255000114440918
+    },
+    {
+      "x": -40.0,
+      "y": 0.7549999952316284,
+      "z": 9.255000114440918
+    },
+    {
+      "x": -35.650001525878906,
+      "y": 0.20500001311302185,
+      "z": 9.449999809265137
+    },
+    {
+      "x": -38.0,
+      "y": 0.7549999952316284,
+      "z": 5.554999828338623
+    },
+    {
+      "x": -38.0,
+      "y": 0.7549999952316284,
+      "z": 5.554999828338623
+    },
+    {
+      "x": -41.70000076293945,
+      "y": 0.800000011920929,
+      "z": 1.899999976158142
+    },
+    {
+      "x": -40.29999923706055,
+      "y": 0.9100000262260437,
+      "z": 1.7999999523162842
+    },
+    {
+      "x": 7.5,
+      "y": 0.8649999499320984,
+      "z": -5.349999904632568
+    },
+    {
+      "x": 7.5,
+      "y": 0.5049999952316284,
+      "z": -4.710000038146973
+    },
+    {
+      "x": 7.619999885559082,
+      "y": 0.5049999952316284,
+      "z": -5.059999942779541
+    },
+    {
+      "x": 7.380000114440918,
+      "y": 0.5049999952316284,
+      "z": -5.050000190734863
+    },
+    {
+      "x": -2.700000047683716,
+      "y": 0.800000011920929,
+      "z": 6.199999809265137
+    },
+    {
+      "x": 11.800000190734863,
+      "y": 0.800000011920929,
+      "z": -6.300000190734863
+    },
+    {
+      "x": 7.900000095367432,
+      "y": 0.800000011920929,
+      "z": 7.150000095367432
+    }
+  ],
+  "cameras": 1,
+  "listeners": 1,
+  "inputs": 1,
+  "huds": 0,
+  "townHuds": 1,
+  "frameMilliseconds": 3.0180060863494873,
+  "guidance": {
+    "job": "Mechanic",
+    "note": "Place old battery",
+    "detail": "Set the old battery in the low scrap tray.",
+    "objectives": [
+      {
+        "id": "Living Workday/Scrap tray",
+        "title": "Place old battery",
+        "icon": "wrench",
+        "active": true,
+        "position": {
+          "x": 5.300000190734863,
+          "y": 0.2800000011920929,
+          "z": 7.800000190734863
+        }
+      }
+    ],
+    "mapPlayer": {
+      "x": 5.300000190734863,
+      "y": 0.02499993145465851,
+      "z": 7.0
+    },
+    "markerCount": 0,
+    "paperFraction": 0.11102816462516785,
+    "bookOpen": false,
+    "staffDesk": false,
+    "cursorLocked": true
+  },
+  "feedbackCount": 16,
+  "firstPerson": {
+    "active": true,
+    "hiddenBody": true,
+    "handsVisible": true,
+    "paused": false,
+    "gameplayActive": true,
+    "inputBlocked": false,
+    "mapBaked": true,
+    "mapExpanded": false,
+    "yaw": 1.3660374861501623e-05,
+    "pitch": 44.99999237060547,
+    "cameraHeight": 1.0,
+    "fov": 92.0,
+    "handPose": "Grip",
+    "pausePage": "Main",
+    "gestures": 30,
+    "viewmodels": 1,
+    "visibleColleagues": 0,
+    "mapObjectives": 0,
+    "mapClamped": 0,
+    "remoteHeadsTurned": 0,
+    "pauseOpened": 0,
+    "sfx": 46,
+    "vSyncCount": 1,
+    "targetFrameRate": -1,
+    "qualityLevel": 1,
+    "listenerVolume": 1.0,
+    "sensitivity": 0.11999999731779099,
+    "screenWidth": 1280,
+    "screenHeight": 720,
+    "windowed": true,
+    "mapPlayer": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cameraPosition": {
+      "x": 5.300000190734863,
+      "y": 1.024999976158142,
+      "z": 7.0
+    },
+    "remoteHandPose": "",
+    "internalWidth": 1280,
+    "internalHeight": 720,
+    "renderSamples": 1,
+    "renderScale": 1.0,
+    "cadence": 1.0,
+    "townPhase": 0.4497680068016052,
+    "townClock": 65.86079774119077,
+    "dynamicResolution": false,
+    "serverClock": true,
+    "mapMarkerIds": [
+      "Living Workday/Scrap tray"
+    ],
+    "mapMarkerWorld": [
+      {
+        "x": 5.300000190734863,
+        "y": 0.2800000011920929,
+        "z": 7.800000190734863
+      }
+    ]
+  },
+  "workRecords": [
+    {
+      "id": "WD-003",
+      "reference": "PACK-8A-001",
+      "heading": "Parts request",
+      "text": "One replacement battery requested; carrier is not recorded.",
+      "interval": "Shift minute 0",
+      "profession": 2
+    },
+    {
+      "id": "WD-005",
+      "reference": "PACK-8A-001",
+      "heading": "Town service / Supply cabinet",
+      "text": "One conserved battery parcel placed in the garage cabinet. Unattended municipal service.",
+      "interval": "Shift minute 0",
+      "profession": 2
+    },
+    {
+      "id": "WD-009",
+      "reference": "PACK-8A-001",
+      "heading": "Bay intake",
+      "text": "Sealed parcel placed in bay tray; carrier identity omitted.",
+      "interval": "Shift minute 0",
+      "profession": 2
+    },
+    {
+      "id": "WD-010",
+      "reference": "OLD-8A-001",
+      "heading": "Load reading",
+      "text": "10.1 V observed under load. Replacement contents were not inspected here.",
+      "interval": "Shift minute 0",
+      "profession": 2
+    },
+    {
+      "id": "WD-011",
+      "reference": "OLD-8A-001",
+      "heading": "Service amendment",
+      "text": "Initial diagnosis \u2192 Load check performed. Correction reason is not independently verified.",
+      "interval": "Shift minute 0",
+      "profession": 2
+    }
+  ],
+  "serverAuditCount": 20,
+  "workSupport": [
+    1,
+    0,
+    0
+  ],
+  "rescueUI": {
+    "screen": "HUD",
+    "action": "Place old battery",
+    "headingFont": "",
+    "tab": 0,
+    "records": 0,
+    "menuOpen": false,
+    "reference": {
+      "x": 1280.0,
+      "y": 720.0
+    },
+    "activeCanvases": 1,
+    "text": [
+      {
+        "value": "MECHANIC",
+        "font": "Labels",
+        "at": {
+          "x": 90.0,
+          "y": 663.0
+        },
+        "size": {
+          "x": 244.0,
+          "y": 23.0
+        },
+        "preferred": {
+          "x": 86.58000183105469,
+          "y": 19.209999084472656
+        },
+        "pointSize": 16.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Place old battery",
+        "font": "Labels",
+        "at": {
+          "x": 90.0,
+          "y": 634.0
+        },
+        "size": {
+          "x": 244.0,
+          "y": 29.0
+        },
+        "preferred": {
+          "x": 182.60000610351562,
+          "y": 26.40999984741211
+        },
+        "pointSize": 22.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Tab  Work slip",
+        "font": "Reading",
+        "at": {
+          "x": 24.0,
+          "y": 578.0
+        },
+        "size": {
+          "x": 180.0,
+          "y": 20.0
+        },
+        "preferred": {
+          "x": 86.33999633789062,
+          "y": 17.3700008392334
+        },
+        "pointSize": 14.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "DAY 1 / OPENING WORK",
+        "font": "ReadingBold",
+        "at": {
+          "x": 24.0,
+          "y": 548.0
+        },
+        "size": {
+          "x": 326.0,
+          "y": 23.0
+        },
+        "preferred": {
+          "x": 162.63999938964844,
+          "y": 17.3700008392334
+        },
+        "pointSize": 14.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "E",
+        "font": "Labels",
+        "at": {
+          "x": 474.0,
+          "y": 41.0
+        },
+        "size": {
+          "x": 40.0,
+          "y": 38.0
+        },
+        "preferred": {
+          "x": 13.710000038146973,
+          "y": 26.40999984741211
+        },
+        "pointSize": 22.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Place old battery",
+        "font": "Labels",
+        "at": {
+          "x": 524.0,
+          "y": 54.0
+        },
+        "size": {
+          "x": 280.0,
+          "y": 28.0
+        },
+        "preferred": {
+          "x": 166.0,
+          "y": 24.010000228881836
+        },
+        "pointSize": 20.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "Q  Return safely",
+        "font": "Reading",
+        "at": {
+          "x": 524.0,
+          "y": 34.0
+        },
+        "size": {
+          "x": 280.0,
+          "y": 20.0
+        },
+        "preferred": {
+          "x": 98.02999877929688,
+          "y": 17.3700008392334
+        },
+        "pointSize": 14.0,
+        "offscreen": false,
+        "overflows": false
+      },
+      {
+        "value": "DAYLIGHT",
+        "font": "Labels",
+        "at": {
+          "x": 1114.0,
+          "y": 669.0
+        },
+        "size": {
+          "x": 133.0,
+          "y": 20.0
+        },
+        "preferred": {
+          "x": 66.6500015258789,
+          "y": 16.809999465942383
+        },
+        "pointSize": 14.0,
+        "offscreen": false,
+        "overflows": false
+      }
+    ],
+    "handPose": "Grip",
+    "interaction": "Scrap tray",
+    "authoredGestures": 30,
+    "authoredHandsVisible": true
+  }
+}

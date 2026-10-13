@@ -1,0 +1,42 @@
+{
+  "method": "Automated Unity MCP calls to ordinary session methods with Play mode; no test-driver flags or human input. Stop invoked its production delayed reload; SinglePlayer invoked its production scene transition.",
+  "checks": [
+    {
+      "name": "ordinary_host_connected",
+      "passed": true
+    },
+    {
+      "name": "one_network_manager",
+      "passed": true
+    },
+    {
+      "name": "one_local_player_camera_hud",
+      "passed": true
+    },
+    {
+      "name": "disconnect_reloads_clean_connection_menu",
+      "passed": true
+    },
+    {
+      "name": "connection_preview_restored",
+      "passed": true
+    },
+    {
+      "name": "single_player_entry_loads_original_scene",
+      "passed": true
+    },
+    {
+      "name": "no_network_manager_in_single_player",
+      "passed": true
+    },
+    {
+      "name": "original_single_player_and_presentation",
+      "passed": true
+    }
+  ],
+  "observations": [
+    "[Log] connected=True managers=1 players=1 cameras=1 hud=1\n[Log] Ordinary disconnect invoked",
+    "[Log] scene=ShopkeeperMultiplayer managers=1 listening=False players=0 preview=True",
+    "[Log] scene=ShopkeeperShift managers=0 sunny=1 hud=1 camera=1\n[Log] backgroundBehavior=ResetAndDisableNonBackgroundDevices"
+  ]
+}

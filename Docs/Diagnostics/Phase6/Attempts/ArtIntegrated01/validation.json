@@ -1,0 +1,59 @@
+{
+  "method": "Two independent Windows processes, actual NGO/UTP localhost UDP, production E dispatch and held input, opt-in server test placement.",
+  "humanControlled": false,
+  "checks": [
+    {
+      "name": "two_owned_players_one_input_camera_listener",
+      "passed": true
+    },
+    {
+      "name": "different_jobs_synchronize",
+      "passed": true
+    },
+    {
+      "name": "cannot_steal_colleague_assignment",
+      "passed": true
+    },
+    {
+      "name": "unimplemented_professions_rejected",
+      "passed": true
+    },
+    {
+      "name": "private_job_tasks_require_assignment",
+      "passed": true
+    },
+    {
+      "name": "release_E_cancels_inspection",
+      "passed": true
+    },
+    {
+      "name": "authoritative_visible_bag_pickup",
+      "passed": true
+    },
+    {
+      "name": "normal_E_bag_drop",
+      "passed": true
+    },
+    {
+      "name": "disconnect_recovers_bag_and_releases_role",
+      "passed": true
+    },
+    {
+      "name": "rejoin_can_resume_shared_job",
+      "passed": true
+    },
+    {
+      "name": "mechanic_and_sanitation_work_simultaneously",
+      "passed": true
+    },
+    {
+      "name": "two_fault_types_identified",
+      "passed": true
+    },
+    {
+      "name": "unexpected_failure",
+      "passed": false,
+      "details": "Traceback (most recent call last):\n  File \"D:\\Business as Usual\\Scripts\\test_phase6_network.py\", line 118, in <module>\n    place('host','Parts Request Slip');use('host','Parts Request Slip',local=True);place('host','Parts Pickup Locker');use('host','Parts Pickup Locker',local=True)\n                                                                                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Business as Usual\\Scripts\\test_phase6_network.py\", line 53, in use\n    wait(lambda:state()['revision']>rev);synced()\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Business as Usual\\Scripts\\test_phase6_network.py\", line 22, in wait\n    raise AssertionError('Timed out waiting for network state')\nAssertionError: Timed out waiting for network state\n"
+    }
+  ]
+}

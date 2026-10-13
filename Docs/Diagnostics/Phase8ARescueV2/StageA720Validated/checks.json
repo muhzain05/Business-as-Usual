@@ -1,0 +1,89 @@
+[
+  {
+    "name": "main_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "solo_button_starts_one_connected_player",
+    "passed": true
+  },
+  {
+    "name": "staff_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "intro-controls_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "intro-job_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "hud_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "typography-0_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "typography-1_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "typography-2_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "items_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "records_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "town_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "map_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "pause_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "settings_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "controls_text_bounds",
+    "passed": true,
+    "defects": []
+  },
+  {
+    "name": "tab_opens_new_clipboard",
+    "passed": true
+  },
+  {
+    "name": "escape_closes_clipboard",
+    "passed": true
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "build": {
+    "result": "Succeeded",
+    "path": "D:\\Business as Usual\\Builds\\Phase8A-RescueV2\\BusinessAsUsual.exe",
+    "errors": 0,
+    "warnings": 486
+  },
+  "suites": [
+    {
+      "suite": "FinalUI720Validated",
+      "passed": 23,
+      "total": 23,
+      "path": "FinalUI720Validated/checks.json",
+      "assemblySha256": "a792a3564a63d235d58765c6e8b63f8aa7bfa177264ed03742e0cd88570a84bb"
+    },
+    {
+      "suite": "FinalUI1080Validated",
+      "passed": 30,
+      "total": 30,
+      "path": "FinalUI1080Validated/checks.json",
+      "assemblySha256": "a792a3564a63d235d58765c6e8b63f8aa7bfa177264ed03742e0cd88570a84bb"
+    },
+    {
+      "suite": "FinalMechanic",
+      "passed": 17,
+      "total": 17,
+      "path": "FinalMechanic/checks.json",
+      "assemblySha256": "7a47a0d6cfe0bab0d8c5813bffc965e732c73f50f36ef0d5098b5c56f6c300da"
+    },
+    {
+      "suite": "FinalRetailGrounded",
+      "passed": 11,
+      "total": 11,
+      "path": "FinalRetailGrounded/checks.json",
+      "assemblySha256": "3ce2944e721abaf8909ac7ece7d0eafd9360f89fd69854ca22936fcb9730df3f"
+    },
+    {
+      "suite": "FinalSanitationValidated",
+      "passed": 10,
+      "total": 10,
+      "path": "FinalSanitationValidated/checks.json",
+      "assemblySha256": "bc9f9ede45310313e30bff21cd517795752a650d507a1ee5be1d6aeec618ae4b"
+    },
+    {
+      "suite": "FinalTwoProcess",
+      "passed": 13,
+      "total": 13,
+      "path": "FinalTwoProcess/checks.json",
+      "assemblySha256": "a792a3564a63d235d58765c6e8b63f8aa7bfa177264ed03742e0cd88570a84bb"
+    },
+    {
+      "suite": "FinalFourProcess",
+      "passed": 20,
+      "total": 20,
+      "path": "FinalFourProcess/checks.json",
+      "assemblySha256": "7a47a0d6cfe0bab0d8c5813bffc965e732c73f50f36ef0d5098b5c56f6c300da"
+    },
+    {
+      "suite": "FinalArtGrounded",
+      "passed": 6,
+      "total": 6,
+      "path": "FinalArtGrounded/checks.json",
+      "assemblySha256": "3ce2944e721abaf8909ac7ece7d0eafd9360f89fd69854ca22936fcb9730df3f"
+    }
+  ],
+  "physicalDomainAssertions": 367,
+  "legacyDomainAssertions": 10385,
+  "humanUsabilityTest": false,
+  "crossMachineLAN": false,
+  "render1200": "Native Unity offscreen composition, not a 1200px desktop window",
+  "currentAssemblySha256": "3ce2944e721abaf8909ac7ece7d0eafd9360f89fd69854ca22936fcb9730df3f"
+}

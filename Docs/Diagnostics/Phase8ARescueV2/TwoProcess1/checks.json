@@ -1,0 +1,50 @@
+[
+  {
+    "name": "actual_2_process_roster",
+    "passed": true
+  },
+  {
+    "name": "one_owner_camera_listener_input_and_viewmodel",
+    "passed": true
+  },
+  {
+    "name": "replayed_transfer_changes_custody_once",
+    "passed": true
+  },
+  {
+    "name": "all_clients_share_same_delivered_objects",
+    "passed": true
+  },
+  {
+    "name": "shared_manual_repair_signed_and_conserved",
+    "passed": true
+  },
+  {
+    "name": "shared_retail_scan_uses_same_stock",
+    "passed": true
+  },
+  {
+    "name": "private_record_scope_host",
+    "passed": true
+  },
+  {
+    "name": "shared_payload_omits_audit_and_private_records_host",
+    "passed": true
+  },
+  {
+    "name": "private_record_scope_client1",
+    "passed": true
+  },
+  {
+    "name": "shared_payload_omits_audit_and_private_records_client1",
+    "passed": true
+  },
+  {
+    "name": "records_differ_between_professions",
+    "passed": true
+  },
+  {
+    "name": "one_local_canvas_per_worker",
+    "passed": true
+  }
+]

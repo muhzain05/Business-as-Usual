@@ -1,0 +1,19 @@
+[
+  {
+    "name": "native_staff_desk_1280x720",
+    "passed": true
+  },
+  {
+    "name": "native_staff_desk_1920x1080",
+    "passed": true
+  },
+  {
+    "name": "native_staff_desk_1366x768",
+    "passed": true
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "Traceback (most recent call last):\n  File \"D:\\Business as Usual\\Scripts\\test_phase8a_layout.py\", line 9, in <module>\n    cmd('host','display',run=True,x=width,y=height);wait(lambda:read('host')['firstPerson']['screenWidth']==width and read('host')['firstPerson']['screenHeight']==height)\n                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\Business as Usual\\Scripts\\test_phase8a_network.py\", line 25, in wait\n    raise AssertionError('Timeout; '+str({r:read(r).get('feedback') for r in roles}))\nAssertionError: Timeout; {'host': '', 'client1': None, 'client2': None, 'client3': None}\n"
+  }
+]

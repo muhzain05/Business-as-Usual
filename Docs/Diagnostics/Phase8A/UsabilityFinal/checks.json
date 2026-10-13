@@ -1,0 +1,43 @@
+[
+  {
+    "name": "intro_blocks_local_gameplay",
+    "passed": true
+  },
+  {
+    "name": "one_next_destination",
+    "passed": true
+  },
+  {
+    "name": "help_reopens_and_blocks",
+    "passed": true
+  },
+  {
+    "name": "escape_closes_help",
+    "passed": true
+  },
+  {
+    "name": "host-market-shelf",
+    "passed": true
+  },
+  {
+    "name": "host-market-counter",
+    "passed": true
+  },
+  {
+    "name": "host-market-wall",
+    "passed": true
+  },
+  {
+    "name": "host-yard-bin",
+    "passed": true
+  },
+  {
+    "name": "host-service-vehicle",
+    "passed": false
+  },
+  {
+    "name": "exception",
+    "passed": false,
+    "error": "host-service-vehicle"
+  }
+]

@@ -1,0 +1,557 @@
+{
+  "method": "Skin cage; nonadjacent raw triangle crossings are not a visibility test. Compare matching renders.",
+  "poses": [
+    {
+      "version": "Before",
+      "pose": "idle",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.0000013022606764,
+          "max_edge_ratio": 1.00000341138754,
+          "min_edge_ratio": 0.999993401889605,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 1.0000019537498164,
+          "max_edge_ratio": 1.0000020290931513,
+          "min_edge_ratio": 0.9999983376374618,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 1.0000018870418415,
+          "max_edge_ratio": 1.0000019310028956,
+          "min_edge_ratio": 0.9999985805945772,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.000001442419176,
+          "max_edge_ratio": 1.00000690877148,
+          "min_edge_ratio": 0.9999967077433278,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000010293155073,
+          "max_edge_ratio": 1.0000038271610596,
+          "min_edge_ratio": 0.9999962673648807,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 30,
+        "LowerLeg_R": 34
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "Before",
+      "pose": "hip_flexion",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 2.3454145936407094,
+          "max_edge_ratio": 2.9361213793755745,
+          "min_edge_ratio": 0.3523525229155849,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 2.0041963122358304,
+          "max_edge_ratio": 2.172047770545002,
+          "min_edge_ratio": 0.29379205068292996,
+          "nonadjacent_triangle_crossings": 21,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 1.000010731599353,
+          "max_edge_ratio": 1.000012570537537,
+          "min_edge_ratio": 0.9999987400972729,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000026877490151,
+          "max_edge_ratio": 1.0000103524447024,
+          "min_edge_ratio": 0.9999879024697104,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000017301592032,
+          "max_edge_ratio": 1.0000048499622998,
+          "min_edge_ratio": 0.9999905377291006,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 29,
+        "LowerLeg_R": 34
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "Before",
+      "pose": "knee_bends",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.0000013022606764,
+          "max_edge_ratio": 1.00000341138754,
+          "min_edge_ratio": 0.999993401889605,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 3.4434812947123286,
+          "max_edge_ratio": 4.561834063607832,
+          "min_edge_ratio": 0.17997845126766598,
+          "nonadjacent_triangle_crossings": 74,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 3.4134542775422636,
+          "max_edge_ratio": 4.57282555684796,
+          "min_edge_ratio": 0.09606050470657075,
+          "nonadjacent_triangle_crossings": 71,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000021431569297,
+          "max_edge_ratio": 1.0000241449230645,
+          "min_edge_ratio": 0.9999879024697104,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000024544248471,
+          "max_edge_ratio": 1.0000115078874332,
+          "min_edge_ratio": 0.9999911221180438,
+          "nonadjacent_triangle_crossings": 65,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 123,
+        "LowerLeg_R": 130
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "Before",
+      "pose": "foot_lift",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.8021136824649966,
+          "max_edge_ratio": 2.2035511699432537,
+          "min_edge_ratio": 0.3010754785772867,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 2.0191077992420516,
+          "max_edge_ratio": 2.4550018626146404,
+          "min_edge_ratio": 0.0741489465716138,
+          "nonadjacent_triangle_crossings": 38,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 1.000010731599353,
+          "max_edge_ratio": 1.000012570537537,
+          "min_edge_ratio": 0.9999987400972729,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000011324045497,
+          "max_edge_ratio": 1.0000056387539464,
+          "min_edge_ratio": 0.9999951837970007,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000017301592032,
+          "max_edge_ratio": 1.0000048499622998,
+          "min_edge_ratio": 0.9999905377291006,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 87,
+        "LowerLeg_R": 34
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "Before",
+      "pose": "forward_step",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.3630175700719835,
+          "max_edge_ratio": 1.4720823138053738,
+          "min_edge_ratio": 0.3606725754937503,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 1.4862555734151286,
+          "max_edge_ratio": 1.5672639388223306,
+          "min_edge_ratio": 0.36005602731641795,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 1.000010731599353,
+          "max_edge_ratio": 1.000012570537537,
+          "min_edge_ratio": 0.9999987400972729,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000019393593227,
+          "max_edge_ratio": 1.000008791166557,
+          "min_edge_ratio": 0.9999919542873191,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000017301592032,
+          "max_edge_ratio": 1.0000048499622998,
+          "min_edge_ratio": 0.9999905377291006,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 51,
+        "LowerLeg_R": 34
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "Before",
+      "pose": "crouch",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.816054645480506,
+          "max_edge_ratio": 2.0794161070112422,
+          "min_edge_ratio": 0.386651308018736,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 2.29265574708531,
+          "max_edge_ratio": 2.622836293916041,
+          "min_edge_ratio": 0.15091974944777733,
+          "nonadjacent_triangle_crossings": 54,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 2.246821651952868,
+          "max_edge_ratio": 2.654331996527473,
+          "min_edge_ratio": 0.11623313751558649,
+          "nonadjacent_triangle_crossings": 50,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000016166697734,
+          "max_edge_ratio": 1.0000080788942927,
+          "min_edge_ratio": 0.9999948744127919,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.000001728663153,
+          "max_edge_ratio": 1.0000055918950108,
+          "min_edge_ratio": 0.9999942413165877,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 89,
+        "LowerLeg_R": 79
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "After",
+      "pose": "idle",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.0000018213184596,
+          "max_edge_ratio": 1.0000047476743508,
+          "min_edge_ratio": 0.9999969804099063,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 1.0000009876990317,
+          "max_edge_ratio": 1.0000012449120073,
+          "min_edge_ratio": 0.9999977498975056,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 1.0000022104924111,
+          "max_edge_ratio": 1.0000022104924111,
+          "min_edge_ratio": 0.9999990123000538,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.000001442419176,
+          "max_edge_ratio": 1.00000690877148,
+          "min_edge_ratio": 0.9999967077433278,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000010293155073,
+          "max_edge_ratio": 1.0000038271610596,
+          "min_edge_ratio": 0.9999962673648807,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 0,
+        "LowerLeg_R": 0
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "After",
+      "pose": "hip_flexion",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 2.189532904623338,
+          "max_edge_ratio": 3.2351345921675603,
+          "min_edge_ratio": 0.192026677449398,
+          "nonadjacent_triangle_crossings": 34,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 1.000001616573955,
+          "max_edge_ratio": 1.0000023026319116,
+          "min_edge_ratio": 0.9999972129618871,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 1.0000022104924111,
+          "max_edge_ratio": 1.0000022104924111,
+          "min_edge_ratio": 0.9999990123000538,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000026877490151,
+          "max_edge_ratio": 1.0000103524447024,
+          "min_edge_ratio": 0.9999879024697104,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000017301592032,
+          "max_edge_ratio": 1.0000048499622998,
+          "min_edge_ratio": 0.9999905377291006,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 38,
+        "LowerLeg_R": 0
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "After",
+      "pose": "knee_bends",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.551712072468634,
+          "max_edge_ratio": 1.6001109663557314,
+          "min_edge_ratio": 0.6387513121566281,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 2.3146338483511224,
+          "max_edge_ratio": 2.9281220696442722,
+          "min_edge_ratio": 0.2299856049276858,
+          "nonadjacent_triangle_crossings": 66,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 2.3113892247123435,
+          "max_edge_ratio": 2.9218733471718177,
+          "min_edge_ratio": 0.2183026138096699,
+          "nonadjacent_triangle_crossings": 58,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000021431569297,
+          "max_edge_ratio": 1.0000241449230645,
+          "min_edge_ratio": 0.9999879024697104,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000024544248471,
+          "max_edge_ratio": 1.0000115078874332,
+          "min_edge_ratio": 0.9999911221180438,
+          "nonadjacent_triangle_crossings": 65,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 78,
+        "LowerLeg_R": 79
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "After",
+      "pose": "foot_lift",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.7850786728601353,
+          "max_edge_ratio": 2.2804568944842543,
+          "min_edge_ratio": 0.19368268101490368,
+          "nonadjacent_triangle_crossings": 24,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 1.9860961889149016,
+          "max_edge_ratio": 2.3176040937847184,
+          "min_edge_ratio": 0.18132415281345984,
+          "nonadjacent_triangle_crossings": 43,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 1.0000022104924111,
+          "max_edge_ratio": 1.0000022104924111,
+          "min_edge_ratio": 0.9999990123000538,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000011324045497,
+          "max_edge_ratio": 1.0000056387539464,
+          "min_edge_ratio": 0.9999951837970007,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000017301592032,
+          "max_edge_ratio": 1.0000048499622998,
+          "min_edge_ratio": 0.9999905377291006,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 50,
+        "LowerLeg_R": 0
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "After",
+      "pose": "forward_step",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.4238834331453383,
+          "max_edge_ratio": 1.6320771889680383,
+          "min_edge_ratio": 0.5013017000665758,
+          "nonadjacent_triangle_crossings": 1,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 1.2571771319741702,
+          "max_edge_ratio": 1.367851846145263,
+          "min_edge_ratio": 0.5500244598957321,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 1.0000022104924111,
+          "max_edge_ratio": 1.0000022104924111,
+          "min_edge_ratio": 0.9999990123000538,
+          "nonadjacent_triangle_crossings": 0,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000019393593227,
+          "max_edge_ratio": 1.000008791166557,
+          "min_edge_ratio": 0.9999919542873191,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.0000017301592032,
+          "max_edge_ratio": 1.0000048499622998,
+          "min_edge_ratio": 0.9999905377291006,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 0,
+        "LowerLeg_R": 0
+      },
+      "shoe_pair_crossings": 0
+    },
+    {
+      "version": "After",
+      "pose": "crouch",
+      "metrics": {
+        "Shorts": {
+          "p99_edge_ratio": 1.7669946778617216,
+          "max_edge_ratio": 2.061924597771483,
+          "min_edge_ratio": 0.28268686657269226,
+          "nonadjacent_triangle_crossings": 36,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_L": {
+          "p99_edge_ratio": 2.109732692797074,
+          "max_edge_ratio": 2.487977722643792,
+          "min_edge_ratio": 0.07930216588557465,
+          "nonadjacent_triangle_crossings": 52,
+          "zero_area_faces": 0
+        },
+        "LowerLeg_R": {
+          "p99_edge_ratio": 2.1053376565223894,
+          "max_edge_ratio": 2.4830188366218136,
+          "min_edge_ratio": 0.0949182964077436,
+          "nonadjacent_triangle_crossings": 50,
+          "zero_area_faces": 0
+        },
+        "Shoe_L": {
+          "p99_edge_ratio": 1.0000016166697734,
+          "max_edge_ratio": 1.0000080788942927,
+          "min_edge_ratio": 0.9999948744127919,
+          "nonadjacent_triangle_crossings": 68,
+          "zero_area_faces": 0
+        },
+        "Shoe_R": {
+          "p99_edge_ratio": 1.000001728663153,
+          "max_edge_ratio": 1.0000055918950108,
+          "min_edge_ratio": 0.9999942413165877,
+          "nonadjacent_triangle_crossings": 63,
+          "zero_area_faces": 0
+        }
+      },
+      "shorts_calf_crossings": {
+        "LowerLeg_L": 56,
+        "LowerLeg_R": 61
+      },
+      "shoe_pair_crossings": 0
+    }
+  ]
+}

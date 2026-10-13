@@ -1,0 +1,38 @@
+[
+  {
+    "suite": "FourProcess720",
+    "exitCode": 0
+  },
+  {
+    "suite": "FourProcess1080SanitationAssistant",
+    "exitCode": 0
+  },
+  {
+    "suite": "RecoveryMechanicAssistant",
+    "exitCode": 0
+  },
+  {
+    "suite": "LegacyPhase6Full",
+    "exitCode": 0
+  },
+  {
+    "suite": "LegacyPhase6Staffed",
+    "exitCode": 0
+  },
+  {
+    "suite": "LegacyPhase6Entry",
+    "exitCode": 0
+  },
+  {
+    "suite": "LegacyGuidance",
+    "exitCode": 0
+  },
+  {
+    "suite": "LegacyPhase7A",
+    "exitCode": 0
+  },
+  {
+    "suite": "LegacyPhase7B",
+    "exitCode": 0
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "backup": "D:\\Business as Usual Backups\\pre-phase7B-2026-10-11",
+  "checks": [
+    {
+      "group": "original_sunny_working_sources",
+      "checked": 19,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "group": "original_sunny_unity_sources",
+      "checked": 22,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "group": "shop_gameplay_and_ui",
+      "checked": 244,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "group": "authority",
+      "checked": 3,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "group": "legacy_scenes",
+      "checked": 4,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "group": "accepted_diagnostics",
+      "checked": 2534,
+      "passed": true,
+      "differences": []
+    },
+    {
+      "group": "original_staging_tree",
+      "passed": true,
+      "before": "77fff87b7cbe089ce03bbd6725231e0f38c8a062",
+      "after": "77fff87b7cbe089ce03bbd6725231e0f38c8a062"
+    },
+    {
+      "group": "functional_target_ids_and_static_points",
+      "passed": true,
+      "count": 28,
+      "dynamic_points_excluded": [
+        "Town Workplaces/Route Bag 3",
+        "Town Workplaces/Route Bag 4",
+        "Daylight Market Interior/Functional Fixtures/Stock Crate",
+        "Town Workplaces/Route Bag 5",
+        "Town Workplaces/Route Bag 1",
+        "Town Workplaces/Route Bag 2",
+        "Town Workplaces/Route Bag 0"
+      ],
+      "changed_static_points": []
+    }
+  ]
+}

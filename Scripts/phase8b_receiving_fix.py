@@ -1,0 +1,9 @@
+from pathlib import Path
+root=Path('Unity/BusinessAsUsual/Assets')
+p=root/'Town/Scripts/WorkdayDomain.cs';s=p.read_text(encoding='utf-8-sig');needle='            if(s.suspicious&&(action=="hold-return"||action=="hold-yard"))'
+assert needle in s;s=s.replace(needle,'            if(s.suspicious&&action=="collect-parcel"){if(profession==0||Held(actor)!=null||part.custody!="garage"||pack.custody!="garage"||s.removed)return false;Move(part,"parcel",actor,time,actor);Move(pack,"parcel",actor,time,actor);message="Sealed parcel lifted for a stock check or delivery correction.";return true;}\n'+needle);p.write_text(s,encoding='utf-8-sig')
+p=root/'Town/Scripts/LivingWorkday.cs';s=p.read_text(encoding='utf-8-sig');needle='            if(!alternate&&action=="file"';i=s.index(needle);s=s[:i]+'            if(!alternate&&action=="deliver"&&Domain.State.suspicious&&Domain.Held(player.OwnerClientId)==null&&Domain.Find("PART-8A-001").custody=="garage"&&Domain.Find("PACK-8A-001").custody=="garage")action="collect-parcel";\n'+s[i:]
+s=s.replace('case "deliver":return held?.custody=="parcel";','case "deliver":return held?.custody=="parcel"||s.suspicious&&empty&&part.custody=="garage"&&w.Domain.Find("PACK-8A-001").custody=="garage"&&!s.removed;')
+s=s.replace('public override string Prompt=>','public override string Prompt=>LivingWorkday.Instance&&LivingWorkday.Instance.Domain.State.suspicious&&action=="deliver"&&LivingWorkday.Instance.Domain.Find("PART-8A-001").custody=="garage"?"Lift sealed parcel / R Hold receiving gate":')
+p.write_text(s,encoding='utf-8-sig')
+p=root/'Phase8B/Scripts/RescueInterface.Phase8B.cs';s=p.read_text(encoding='utf-8-sig');s=s.replace('Either ordinary hold works: RETURNS or YARD HOLD.','E restage / R change slip / deliver / do useful work.');p.write_text(s,encoding='utf-8-sig')

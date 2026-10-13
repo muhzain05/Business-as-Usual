@@ -1,0 +1,14 @@
+[
+  {
+    "suite": "FinalFour720",
+    "exitCode": 0
+  },
+  {
+    "suite": "FinalFour1080SanitationAssistant",
+    "exitCode": 0
+  },
+  {
+    "suite": "FinalRecoveryMechanicAssistant",
+    "exitCode": 0
+  }
+]

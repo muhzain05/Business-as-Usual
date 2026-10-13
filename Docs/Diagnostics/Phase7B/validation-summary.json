@@ -1,0 +1,180 @@
+{
+  "generatedUtc": "2026-10-11T16:07:18.142772+00:00",
+  "build": "Builds/Phase7B/BusinessAsUsual.exe",
+  "shopRegressionBuild": "Builds/Phase7B-Phase5Regression/BusinessAsUsual.exe",
+  "method": "Live editor and actual two-process NGO Windows tests, with opt-in placement and synthetic input. Not a human or cross-machine LAN playtest.",
+  "meshySpent": 75,
+  "meshyLimit": 300,
+  "suites": [
+    {
+      "suite": "Phase 3 editor",
+      "passed": 19,
+      "total": 19,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase3/playmode-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 4 editor",
+      "passed": 87,
+      "total": 87,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase4/playmode-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 4.1 editor",
+      "passed": 57,
+      "total": 57,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase4.1/polish-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 4.2 editor UI",
+      "passed": 65,
+      "total": 65,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase4.2/ui-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 7A static",
+      "passed": 22,
+      "total": 22,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase7A/Editor/static-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 7A editor play",
+      "passed": 29,
+      "total": 29,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase7A/Editor/playmode-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 7B targeted 1080p",
+      "passed": 77,
+      "total": 77,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Targeted1080/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 7B targeted 720p",
+      "passed": 77,
+      "total": 77,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Targeted720/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 7A multiplayer 720p",
+      "passed": 43,
+      "total": 43,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase7A720/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 7A multiplayer 1080p",
+      "passed": 43,
+      "total": 43,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase7A1080/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 6 full",
+      "passed": 35,
+      "total": 35,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase6Full/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 6 staffed",
+      "passed": 20,
+      "total": 20,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase6Staffed/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 6 entry",
+      "passed": 4,
+      "total": 4,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase6Entry/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 6 guidance",
+      "passed": 22,
+      "total": 22,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase6Guidance/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Phase 5 shop multiplayer (fixed revision contention)",
+      "passed": 32,
+      "total": 32,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Regression/Phase5Controlled/validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Map transforms/lifetime",
+      "passed": 10,
+      "total": 10,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/map-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Atmosphere preview",
+      "passed": 4,
+      "total": 4,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/After/atmosphere-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Actual town player Animator binding",
+      "passed": 2,
+      "total": 2,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/Animation/prefab-binding-validation.json",
+      "failures": []
+    },
+    {
+      "suite": "Imported walk middle-stance ankle drift",
+      "passed": 1,
+      "total": 1,
+      "allPassed": true,
+      "beforeMeters": 0.9703718,
+      "afterMeters": 0.00048058,
+      "method": "Sampled left ankle, not every sole vertex or human gait comfort."
+    },
+    {
+      "suite": "Imported run middle-stance ankle drift",
+      "passed": 1,
+      "total": 1,
+      "allPassed": true,
+      "beforeMeters": 0.4367483,
+      "afterMeters": 0.0031838,
+      "method": "Sampled left ankle, not every sole vertex or human gait comfort."
+    },
+    {
+      "suite": "Protected source/staging preservation",
+      "passed": 8,
+      "total": 8,
+      "allPassed": true,
+      "report": "Docs/Diagnostics/Phase7B/preservation.json"
+    }
+  ],
+  "allPassed": true
+}

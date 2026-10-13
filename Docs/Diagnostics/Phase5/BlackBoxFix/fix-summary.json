@@ -1,0 +1,20 @@
+{
+  "timestampUtc": "2026-10-11T07:27:00.789265+00:00",
+  "ordinaryPlay": {
+    "diagnosticFixtures": 2,
+    "activeFixtures": 0,
+    "fixtureTargets": 0,
+    "automated": false
+  },
+  "transportChecksPassed": 32,
+  "sharedStateVerified": true,
+  "revenueCents": 1650,
+  "gameplayExceptions": 0,
+  "sha256": {
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs": "aabd5248c0e95749628395c2805ecd6cb47096c9eaa31436ec6c52312c8edf7a",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs": "7c7d45505151f8c4be6355b657df99b2232e1a1b66d7c69c246dad519adb6d2e",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Editor/NetworkBuilder.cs": "e924de64e3d028971eec42d927d1e8f1af9f9c576db27da61c86aac47859714d",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scenes/ShopkeeperMultiplayer.unity": "8050363d9cf65301d0981e5cd5ce824e835321e69e372a0af3e96fa4c3cd5a04",
+    "Builds/Phase5/BusinessAsUsual_Data/Managed/Assembly-CSharp.dll": "5780bdcb81a7ac940da2e6b8f96201b19a1c2126b885955895d2cd575eda71de"
+  }
+}

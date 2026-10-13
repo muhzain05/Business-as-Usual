@@ -1,0 +1,291 @@
+{
+    "method": "Live Unity Play mode: real frame timing, production interactions, synthetic Q and deterministic motor interruption. No human playthrough.",
+    "timestampUtc": "2026-10-11T08:40:43.5020214Z",
+    "checks": [
+        {
+            "name": "generic_rig_supported",
+            "details": "Existing named upper bones; no humanoid retargeting or root motion.",
+            "passed": true
+        },
+        {
+            "name": "world_labels_depth_material",
+            "details": "192 fixed world labels use LEqual depth testing.",
+            "passed": true
+        },
+        {
+            "name": "begin:cola",
+            "details": "Production shelf interaction starts 0.65s upper-body reach.",
+            "passed": true
+        },
+        {
+            "name": "row_waits_for_reach:cola",
+            "details": "Visual placement waits; ledger commits once at interaction acceptance.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:0",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:1",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:2",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:3",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:4",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:5",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:6",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:7",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:8",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:9",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:10",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:cola:11",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "placement:cola",
+            "details": "All six visible at the reach peak.",
+            "passed": true
+        },
+        {
+            "name": "finish:cola",
+            "details": "Exactly one transfer; smooth return ends without inventory callbacks.",
+            "passed": true
+        },
+        {
+            "name": "begin:crackers",
+            "details": "Production shelf interaction starts 0.65s upper-body reach.",
+            "passed": true
+        },
+        {
+            "name": "row_waits_for_reach:crackers",
+            "details": "Visual placement waits; ledger commits once at interaction acceptance.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:0",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:1",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:2",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:3",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:4",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:5",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:6",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:7",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:8",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:9",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:10",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:crackers:11",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "placement:crackers",
+            "details": "All six visible at the reach peak.",
+            "passed": true
+        },
+        {
+            "name": "finish:crackers",
+            "details": "Exactly one transfer; smooth return ends without inventory callbacks.",
+            "passed": true
+        },
+        {
+            "name": "begin:tea",
+            "details": "Production shelf interaction starts 0.65s upper-body reach.",
+            "passed": true
+        },
+        {
+            "name": "row_waits_for_reach:tea",
+            "details": "Visual placement waits; ledger commits once at interaction acceptance.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:0",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:1",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:2",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:3",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:4",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:5",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:6",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:7",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:8",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:9",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:10",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "repeat_blocked:tea:11",
+            "details": "Held/repeated input cannot trigger a second shelf action.",
+            "passed": true
+        },
+        {
+            "name": "placement:tea",
+            "details": "All six visible at the reach peak.",
+            "passed": true
+        },
+        {
+            "name": "finish:tea",
+            "details": "Exactly one transfer; smooth return ends without inventory callbacks.",
+            "passed": true
+        },
+        {
+            "name": "normal_conservation",
+            "details": "All 18 units conserved; empty crate automatically returns.",
+            "passed": true
+        },
+        {
+            "name": "movement_interrupt",
+            "details": "Moving cancels reach in 0.12s; committed inventory is neither duplicated nor rolled back.",
+            "passed": true
+        },
+        {
+            "name": "Q_after_interrupt",
+            "details": "Q returns remaining contents only.",
+            "passed": true
+        },
+        {
+            "name": "disable_interrupt",
+            "details": "Disabling restores pose and adds no inventory transaction.",
+            "passed": true
+        },
+        {
+            "name": "repeat_after_disable",
+            "details": "Same carried SKU exhausted; repeat cannot duplicate units.",
+            "passed": true
+        },
+        {
+            "name": "last_shelf_repeat_blocked",
+            "details": "Final crate auto-return does not turn a repeat press into an early collection.",
+            "passed": true
+        },
+        {
+            "name": "interruption_conservation",
+            "details": "Fresh interruption shift conserves all original quantities.",
+            "passed": true
+        }
+    ]
+}

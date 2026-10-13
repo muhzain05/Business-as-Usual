@@ -1,0 +1,326 @@
+[
+  {
+    "version": "Before",
+    "pose": "idle",
+    "view": "front",
+    "knees": {
+      "Left": 22.01027093998775,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "idle",
+    "view": "side",
+    "knees": {
+      "Left": 22.01027093998775,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "idle",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 22.01027093998775,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "idle",
+    "view": "front",
+    "knees": {
+      "Left": 22.01027093998775,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "idle",
+    "view": "side",
+    "knees": {
+      "Left": 22.01027093998775,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "idle",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 22.01027093998775,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "hip_flexion",
+    "view": "front",
+    "knees": {
+      "Left": 22.010252156967532,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "hip_flexion",
+    "view": "side",
+    "knees": {
+      "Left": 22.010252156967532,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "hip_flexion",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 22.010252156967532,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "hip_flexion",
+    "view": "front",
+    "knees": {
+      "Left": 22.010252156967532,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "hip_flexion",
+    "view": "side",
+    "knees": {
+      "Left": 22.010252156967532,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "hip_flexion",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 22.010252156967532,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "knee_bends",
+    "view": "front",
+    "knees": {
+      "Left": 99.45157729680679,
+      "Right": 99.57166568279395
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "knee_bends",
+    "view": "side",
+    "knees": {
+      "Left": 99.45157729680679,
+      "Right": 99.57166568279395
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "knee_bends",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 99.45157729680679,
+      "Right": 99.57166568279395
+    }
+  },
+  {
+    "version": "After",
+    "pose": "knee_bends",
+    "view": "front",
+    "knees": {
+      "Left": 99.45157729680679,
+      "Right": 99.57166568279395
+    }
+  },
+  {
+    "version": "After",
+    "pose": "knee_bends",
+    "view": "side",
+    "knees": {
+      "Left": 99.45157729680679,
+      "Right": 99.57166568279395
+    }
+  },
+  {
+    "version": "After",
+    "pose": "knee_bends",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 99.45157729680679,
+      "Right": 99.57166568279395
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "foot_lift",
+    "view": "front",
+    "knees": {
+      "Left": 73.46380716536464,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "foot_lift",
+    "view": "side",
+    "knees": {
+      "Left": 73.46380716536464,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "foot_lift",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 73.46380716536464,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "foot_lift",
+    "view": "front",
+    "knees": {
+      "Left": 73.46380716536464,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "foot_lift",
+    "view": "side",
+    "knees": {
+      "Left": 73.46380716536464,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "foot_lift",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 73.46380716536464,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "forward_step",
+    "view": "front",
+    "knees": {
+      "Left": 19.42274256538763,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "forward_step",
+    "view": "side",
+    "knees": {
+      "Left": 19.42274256538763,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "forward_step",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 19.42274256538763,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "forward_step",
+    "view": "front",
+    "knees": {
+      "Left": 19.42274256538763,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "forward_step",
+    "view": "side",
+    "knees": {
+      "Left": 19.42274256538763,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "After",
+    "pose": "forward_step",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 19.42274256538763,
+      "Right": 21.808746208526525
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "crouch",
+    "view": "front",
+    "knees": {
+      "Left": 81.63086243143482,
+      "Right": 81.64776714963061
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "crouch",
+    "view": "side",
+    "knees": {
+      "Left": 81.63086243143482,
+      "Right": 81.64776714963061
+    }
+  },
+  {
+    "version": "Before",
+    "pose": "crouch",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 81.63086243143482,
+      "Right": 81.64776714963061
+    }
+  },
+  {
+    "version": "After",
+    "pose": "crouch",
+    "view": "front",
+    "knees": {
+      "Left": 81.63086243143482,
+      "Right": 81.64776714963061
+    }
+  },
+  {
+    "version": "After",
+    "pose": "crouch",
+    "view": "side",
+    "knees": {
+      "Left": 81.63086243143482,
+      "Right": 81.64776714963061
+    }
+  },
+  {
+    "version": "After",
+    "pose": "crouch",
+    "view": "three_quarter",
+    "knees": {
+      "Left": 81.63086243143482,
+      "Right": 81.64776714963061
+    }
+  }
+]

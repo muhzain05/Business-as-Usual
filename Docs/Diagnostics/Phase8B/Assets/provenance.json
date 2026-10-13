@@ -1,0 +1,266 @@
+{
+  "phaseCost": 30,
+  "cumulativeSpent": 170,
+  "reserved": 0,
+  "remaining": 130,
+  "model": "meshy-t2",
+  "tasks": [
+    {
+      "asset": "Phase8B Staff kiosk",
+      "phase": "Phase8B",
+      "model": "meshy-t2",
+      "previewId": "01a1340f-2c33-73c2-b8b5-c13d36acd82f",
+      "previewCredits": 5,
+      "refineCredits": 10,
+      "refineReservedCredits": 0,
+      "status": "SUCCEEDED",
+      "targetFaces": 10000,
+      "formats": [
+        "fbx",
+        "glb"
+      ],
+      "refineId": "01a13429-f3f7-726e-8889-2ca3f352c2e6",
+      "acceptedFor": "Integrated native menu/holds; normalized in Blender with grounded pivots and authored support surfaces."
+    },
+    {
+      "asset": "Phase8B Returns cabinet",
+      "phase": "Phase8B",
+      "model": "meshy-t2",
+      "previewId": "01a1340f-3214-7212-aebf-4f27da1852e2",
+      "previewCredits": 5,
+      "refineCredits": 10,
+      "refineReservedCredits": 0,
+      "status": "SUCCEEDED",
+      "targetFaces": 8000,
+      "formats": [
+        "fbx",
+        "glb"
+      ],
+      "refineId": "01a13429-ff9b-7762-a002-a769353078a0",
+      "acceptedFor": "Integrated native menu/holds; normalized in Blender with grounded pivots and authored support surfaces."
+    }
+  ],
+  "files": [
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\geometry-audit.json",
+      "bytes": 1480,
+      "sha256": "8a67adac49cdacfec45a846e0379b522a0925d5a009fb47277854d8141e42056"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\kiosk-preview.glb",
+      "bytes": 187024,
+      "sha256": "7576ae4fc23cec16b812094447e3005a639f23d5d28ced0fa4e602e818468680"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\kiosk-preview.png",
+      "bytes": 476321,
+      "sha256": "a9547084cc09418c60ab9237727a2b825c4f6f4e53efc22850d4fa0eed2eb100"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\kiosk-textured.glb",
+      "bytes": 2683024,
+      "sha256": "ef3bba910c319895954cdf15e8932ddbd4723b2cb80967e86945497e6f791147"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\kiosk-textured_base_color.png",
+      "bytes": 4036797,
+      "sha256": "5c585254ed1ef62f59b813c99834cdc02b8702c37f0a286714c7df7afcccb0cb"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\preview-audit.json",
+      "bytes": 511,
+      "sha256": "07f8a9a18deb534410550a3ef14542dc976145116634c73aad879344dbdb1549"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\production-cleanup.json",
+      "bytes": 643,
+      "sha256": "a08c7109224cc34ba0d3f2bae95ed67b36795b16121dea474de7d272d80297a5"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\returns-preview.glb",
+      "bytes": 127660,
+      "sha256": "24e05537b017cac2c061f751776380d580284a69b6d656dae6b630f518c8e154"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\returns-preview.png",
+      "bytes": 454106,
+      "sha256": "a48b47e5754c0068883a23063580258bad956544f3d128278d4d74667f786a3b"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\returns-textured.glb",
+      "bytes": 1985572,
+      "sha256": "678e5a995569df3e7184885f4cd84997c824f9de4310ee1b7ed8e290526fc9d6"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\returns-textured_base_color.png",
+      "bytes": 3836333,
+      "sha256": "0b92b5ceb83626ca2a37243faa9f447048daf84522efd742bb11dab8430f2d75"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\ReturnsCabinet.blend",
+      "bytes": 2077245,
+      "sha256": "9427de7fd8f940bd179594d07cf40c264e6264f98391a919de85ccef25457a01"
+    },
+    {
+      "path": "Docs\\Diagnostics\\Phase8B\\Assets\\StaffKiosk.blend",
+      "bytes": 2757499,
+      "sha256": "b947ca98778d81d82c7666a1f6c78b0f3a2914742fd55a7a5fcb9b21e54f9a9d"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models.meta",
+      "bytes": 172,
+      "sha256": "91651c1bd2f2cd4bac2e06398687cac574c11e9021cac7c49a895b0f87b38005"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\ReturnsCabinet.prefab",
+      "bytes": 5666,
+      "sha256": "737ca3f665995c4bfd8e052e26c7548edb697b6675ff414e2590b16bdc89d599"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\ReturnsCabinet.prefab.meta",
+      "bytes": 154,
+      "sha256": "77fcbbee1375b565e5fbc328c97141f2eaef54d3117bd321b7aff955141add4c"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\StaffKiosk.prefab",
+      "bytes": 6487,
+      "sha256": "2045df5241a76bf5ede4a6a0cad51a1db2c25739fb9c352d7f118ad524fe0bec"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\StaffKiosk.prefab.meta",
+      "bytes": 154,
+      "sha256": "86928d0a3b0696497d69bb3bbf3a06d189473e84d069d533356deab24423cb93"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet.fbm.meta",
+      "bytes": 172,
+      "sha256": "4d79b358e671f208616c8d997b3bcefc2cb8a6ef0fcb631a02486db4e328fd17"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet.fbx",
+      "bytes": 388604,
+      "sha256": "4e3b9d450de9cb37310ad1a0f41137852c28a613d2aaab618b776e7bea414352"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet.fbx.meta",
+      "bytes": 2891,
+      "sha256": "b50518b399f5ef215eba8cab26460b7eb6400fa125f6a5f12f14b0f4d6eb90d1"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet_Albedo.png",
+      "bytes": 230791,
+      "sha256": "50e99ed393357bb6768c9d818713890179209521df624fd11901da37e3640b90"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet_Albedo.png.meta",
+      "bytes": 3007,
+      "sha256": "23dab04dab003151c297e24098675e30c623ca3d12586edc084dd8c2463ab873"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet_Material_0.mat",
+      "bytes": 3929,
+      "sha256": "0697cc278818b0baf4ce9f523a77a4873718d82ad97861ea3c3afce134ded2b0"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet_Material_0.mat.meta",
+      "bytes": 188,
+      "sha256": "016e22a6d9c39bc5c6c2d257880bdfa509b3acf2a969b41413a6657ba9934761"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet_Paper.mat",
+      "bytes": 3845,
+      "sha256": "73270fab9bdbc8099da7e578407c10f3d2577034bd7befdb8af2e48080d9898a"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet_Paper.mat.meta",
+      "bytes": 188,
+      "sha256": "c7d4a6997bbf46c9ded2cf8ca7b3b10a24c21094497d3f146aa44eef8ece58a3"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet_Wood.mat",
+      "bytes": 3870,
+      "sha256": "1390a6f6298cce6e085ee748c1b726c3b13a4b050137efddccde63339ca35ba6"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet_Wood.mat.meta",
+      "bytes": 188,
+      "sha256": "d94f18cf0d7f20d5d9ad84c460ff296c435b67a1f67e0b4a3b001f542c46dd8b"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk.fbm.meta",
+      "bytes": 172,
+      "sha256": "a228ad21f06885efe0ca982fd2423012538f0c8a9d9312aa4865b92058562840"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk.fbx",
+      "bytes": 602940,
+      "sha256": "a2519272c8ce9d114d3f631585ca6568223e20cba25f2b702caedfeb8091d365"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk.fbx.meta",
+      "bytes": 2891,
+      "sha256": "5a273f08d140226387085554cb38b65da79802dc5a97287bea084ae0747a24fa"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk_Albedo.png",
+      "bytes": 374641,
+      "sha256": "ca42a453e2bd8979b4315676744554f787be0371337caa6e891772b57b8f350e"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk_Albedo.png.meta",
+      "bytes": 3007,
+      "sha256": "ef0fbb182d6c33bc6822606300a74066b39e05e5e0537e687d6453d96f014c40"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk_Material_0.mat",
+      "bytes": 3925,
+      "sha256": "ef7b63b0379f0120e570e1675c71d7bab810bc656ef2f954653cf6bc88db13a7"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk_Material_0.mat.meta",
+      "bytes": 188,
+      "sha256": "2b05f5e54d424e3f003ae5e182934cb738643d3165384a04963864d8a3d99f5f"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk_Paper.mat",
+      "bytes": 3840,
+      "sha256": "50a62cb14dec2931ef02d7aeb7fca90fa6907d4de19f0d5632e9f21e33cfcebf"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk_Paper.mat.meta",
+      "bytes": 188,
+      "sha256": "77f70a398c14bb29c39eec58824dc6d2abd0781b9a773d018bca1b193ed110cd"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk_Wood.mat",
+      "bytes": 3866,
+      "sha256": "88c48320311e5cce52173a8d563969169db0150841a521d12cbe34c194dfefaf"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk_Wood.mat.meta",
+      "bytes": 188,
+      "sha256": "8d65c34916d8d3772e7ca853163eac54ef63bebe365b6f887f1c30b98db0eab0"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet.fbm\\ReturnsCabinet_Albedo.png",
+      "bytes": 230791,
+      "sha256": "50e99ed393357bb6768c9d818713890179209521df624fd11901da37e3640b90"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\ReturnsCabinet.fbm\\ReturnsCabinet_Albedo.png.meta",
+      "bytes": 3007,
+      "sha256": "b2e1e1acdbb0ed0f1bc64fda5dfa6cefc2ac20a3a340bd42f6438cd868b4877d"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk.fbm\\StaffKiosk_Albedo.png",
+      "bytes": 374641,
+      "sha256": "ca42a453e2bd8979b4315676744554f787be0371337caa6e891772b57b8f350e"
+    },
+    {
+      "path": "Unity\\BusinessAsUsual\\Assets\\Phase8B\\Resources\\Phase8B\\Models\\StaffKiosk.fbm\\StaffKiosk_Albedo.png.meta",
+      "bytes": 3007,
+      "sha256": "4854edf91698fd22d7eded0af5b5147b5248a7e753aa9bdc091a84ed60d54633"
+    }
+  ],
+  "cleanupTool": "Blender 5.2.2 LTS batch CLI; MCP unavailable"
+}

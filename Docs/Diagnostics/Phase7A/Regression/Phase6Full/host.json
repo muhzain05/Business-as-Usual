@@ -1,0 +1,1003 @@
+{
+    "role": "host",
+    "status": "HOST / Sunny 0 / 2 players",
+    "feedback": "Back in Daylight Town.",
+    "currentTarget": "",
+    "listening": true,
+    "connected": true,
+    "host": true,
+    "localCarried": false,
+    "localId": 0,
+    "serial": 94,
+    "snapshots": 68,
+    "bytes": 344064,
+    "accepted": 52,
+    "rejected": 4,
+    "players": [
+        {
+            "id": 4,
+            "owner": 2,
+            "local": false,
+            "spawned": true,
+            "grounded": true,
+            "running": false,
+            "jumping": false,
+            "bodyVisible": true,
+            "position": {
+                "x": 1.0,
+                "y": 0.02499993145465851,
+                "z": 2.3805134296417238
+            },
+            "speed": 0.0,
+            "lookYaw": 0.0,
+            "lookPitch": 0.0,
+            "facing": 0.0,
+            "inputs": 2354
+        },
+        {
+            "id": 1,
+            "owner": 0,
+            "local": true,
+            "spawned": true,
+            "grounded": true,
+            "running": false,
+            "jumping": false,
+            "bodyVisible": false,
+            "position": {
+                "x": -1.0,
+                "y": 0.02499993145465851,
+                "z": 2.4332635402679445
+            },
+            "speed": 0.0,
+            "lookYaw": 0.0,
+            "lookPitch": 0.0,
+            "facing": 0.0,
+            "inputs": 2973
+        }
+    ],
+    "state": {
+        "revision": 65,
+        "orderIndex": 3,
+        "received": true,
+        "closed": true,
+        "dropped": false,
+        "holder": 18446744073709551615,
+        "message": "Town ledger updated.",
+        "quantities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            3,
+            3,
+            3
+        ],
+        "progress": [
+            1,
+            6,
+            6,
+            6,
+            3,
+            1
+        ],
+        "movements": [
+            {
+                "sequence": 1,
+                "quantity": 6,
+                "sku": "cola",
+                "from": "delivery",
+                "to": "dock",
+                "reason": "delivery received"
+            },
+            {
+                "sequence": 2,
+                "quantity": 6,
+                "sku": "tea",
+                "from": "delivery",
+                "to": "dock",
+                "reason": "delivery received"
+            },
+            {
+                "sequence": 3,
+                "quantity": 6,
+                "sku": "crackers",
+                "from": "delivery",
+                "to": "dock",
+                "reason": "delivery received"
+            },
+            {
+                "sequence": 4,
+                "quantity": 6,
+                "sku": "cola",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 5,
+                "quantity": 6,
+                "sku": "tea",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 6,
+                "quantity": 6,
+                "sku": "crackers",
+                "from": "dock",
+                "to": "carry",
+                "reason": "crate pickup"
+            },
+            {
+                "sequence": 7,
+                "quantity": 6,
+                "sku": "cola",
+                "from": "carry",
+                "to": "shelf",
+                "reason": "shelf restock"
+            },
+            {
+                "sequence": 8,
+                "quantity": 6,
+                "sku": "tea",
+                "from": "carry",
+                "to": "shelf",
+                "reason": "shelf restock"
+            },
+            {
+                "sequence": 9,
+                "quantity": 6,
+                "sku": "crackers",
+                "from": "carry",
+                "to": "shelf",
+                "reason": "shelf restock"
+            },
+            {
+                "sequence": 10,
+                "quantity": 1,
+                "sku": "cola",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-001"
+            },
+            {
+                "sequence": 11,
+                "quantity": 1,
+                "sku": "cola",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-001"
+            },
+            {
+                "sequence": 12,
+                "quantity": 1,
+                "sku": "crackers",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-001"
+            },
+            {
+                "sequence": 13,
+                "quantity": 2,
+                "sku": "cola",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-001"
+            },
+            {
+                "sequence": 14,
+                "quantity": 1,
+                "sku": "crackers",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-001"
+            },
+            {
+                "sequence": 15,
+                "quantity": 1,
+                "sku": "tea",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-002"
+            },
+            {
+                "sequence": 16,
+                "quantity": 1,
+                "sku": "crackers",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-002"
+            },
+            {
+                "sequence": 17,
+                "quantity": 1,
+                "sku": "crackers",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-002"
+            },
+            {
+                "sequence": 18,
+                "quantity": 1,
+                "sku": "tea",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-002"
+            },
+            {
+                "sequence": 19,
+                "quantity": 2,
+                "sku": "crackers",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-002"
+            },
+            {
+                "sequence": 20,
+                "quantity": 1,
+                "sku": "cola",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-003"
+            },
+            {
+                "sequence": 21,
+                "quantity": 1,
+                "sku": "tea",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-003"
+            },
+            {
+                "sequence": 22,
+                "quantity": 1,
+                "sku": "tea",
+                "from": "shelf",
+                "to": "basket",
+                "reason": "pick:S1-003"
+            },
+            {
+                "sequence": 23,
+                "quantity": 1,
+                "sku": "cola",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-003"
+            },
+            {
+                "sequence": 24,
+                "quantity": 2,
+                "sku": "tea",
+                "from": "basket",
+                "to": "sold",
+                "reason": "sale:S1-003"
+            }
+        ],
+        "receipts": [
+            {
+                "id": "BAU-0001",
+                "orderId": "S1-001",
+                "customer": "Mara / morning break",
+                "timestampUtc": "2026-10-11T11:56:07.4697246Z",
+                "totalCents": 510,
+                "lines": [
+                    {
+                        "sku": "cola",
+                        "name": "Sunbeam Cola",
+                        "quantity": 2,
+                        "unitPriceCents": 180,
+                        "totalCents": 360
+                    },
+                    {
+                        "sku": "crackers",
+                        "name": "Golden Crackers",
+                        "quantity": 1,
+                        "unitPriceCents": 150,
+                        "totalCents": 150
+                    }
+                ]
+            },
+            {
+                "id": "BAU-0002",
+                "orderId": "S1-002",
+                "customer": "Eli / lunch supplies",
+                "timestampUtc": "2026-10-11T11:56:11.9498904Z",
+                "totalCents": 520,
+                "lines": [
+                    {
+                        "sku": "tea",
+                        "name": "Meadow Tea",
+                        "quantity": 1,
+                        "unitPriceCents": 220,
+                        "totalCents": 220
+                    },
+                    {
+                        "sku": "crackers",
+                        "name": "Golden Crackers",
+                        "quantity": 2,
+                        "unitPriceCents": 150,
+                        "totalCents": 300
+                    }
+                ]
+            },
+            {
+                "id": "BAU-0003",
+                "orderId": "S1-003",
+                "customer": "Jo / afternoon pickup",
+                "timestampUtc": "2026-10-11T11:56:16.3112318Z",
+                "totalCents": 620,
+                "lines": [
+                    {
+                        "sku": "cola",
+                        "name": "Sunbeam Cola",
+                        "quantity": 1,
+                        "unitPriceCents": 180,
+                        "totalCents": 180
+                    },
+                    {
+                        "sku": "tea",
+                        "name": "Meadow Tea",
+                        "quantity": 2,
+                        "unitPriceCents": 220,
+                        "totalCents": 440
+                    }
+                ]
+            }
+        ],
+        "cratePosition": {
+            "x": -36.0,
+            "y": 0.30000001192092898,
+            "z": 8.199999809265137
+        },
+        "crateRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "doorIds": [
+            "Graybox Town/Shop/Shop Door"
+        ],
+        "workIds": [],
+        "doorOpen": [
+            false
+        ],
+        "workUses": [],
+        "town": {
+            "owners": [
+                0,
+                18446744073709551615,
+                2,
+                18446744073709551615,
+                18446744073709551615,
+                18446744073709551615
+            ],
+            "started": [
+                true,
+                true,
+                true,
+                false,
+                false,
+                false
+            ],
+            "completed": [
+                true,
+                true,
+                true,
+                false,
+                false,
+                false
+            ],
+            "mechanicProgress": [
+                1,
+                2,
+                2,
+                2,
+                2,
+                1
+            ],
+            "sanitationProgress": [
+                1,
+                3,
+                3,
+                3,
+                1
+            ],
+            "quantities": [
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1
+            ],
+            "partsRequested": true,
+            "services": [
+                {
+                    "id": "SV-001",
+                    "vehicle": "Mikan delivery van",
+                    "fault": "Weak battery",
+                    "part": "battery",
+                    "inspected": true,
+                    "repaired": true,
+                    "recorded": true
+                },
+                {
+                    "id": "SV-002",
+                    "vehicle": "Municipal mini truck",
+                    "fault": "Clogged oil filter",
+                    "part": "filter",
+                    "inspected": true,
+                    "repaired": true,
+                    "recorded": true
+                }
+            ],
+            "bags": [
+                {
+                    "id": "WB-001",
+                    "source": "Town Square",
+                    "materialType": "Paper",
+                    "objectDescription": "Ordinary packaging",
+                    "available": true,
+                    "collected": true,
+                    "stage": 2,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": -1.0,
+                        "y": 0.30000001192092898,
+                        "z": 7.800000190734863
+                    },
+                    "position": {
+                        "x": -1.0,
+                        "y": 0.02499993145465851,
+                        "z": 6.700000286102295
+                    }
+                },
+                {
+                    "id": "WB-002",
+                    "source": "Back Alley",
+                    "materialType": "Mixed",
+                    "objectDescription": "Discarded umbrella and wrappers",
+                    "available": true,
+                    "collected": true,
+                    "stage": 2,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": 0.0,
+                        "y": 0.30000001192092898,
+                        "z": 11.0
+                    },
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.02499993145465851,
+                        "z": 9.899999618530274
+                    }
+                },
+                {
+                    "id": "WB-003",
+                    "source": "Sanitation Yard",
+                    "materialType": "Metal",
+                    "objectDescription": "Ordinary packaging",
+                    "available": true,
+                    "collected": true,
+                    "stage": 2,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": 5.0,
+                        "y": 0.30000001192092898,
+                        "z": -6.800000190734863
+                    },
+                    "position": {
+                        "x": 5.0,
+                        "y": 0.02499993145465851,
+                        "z": -7.900000095367432
+                    }
+                },
+                {
+                    "id": "WB-004",
+                    "source": "Daylight Market",
+                    "materialType": "Paper",
+                    "objectDescription": "Ordinary packaging",
+                    "available": true,
+                    "collected": true,
+                    "stage": 2,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": -10.0,
+                        "y": 0.30000001192092898,
+                        "z": 2.9000000953674318
+                    },
+                    "position": {
+                        "x": -10.0,
+                        "y": 0.024999871850013734,
+                        "z": 1.8000000715255738
+                    }
+                },
+                {
+                    "id": "WB-005",
+                    "source": "Garage",
+                    "materialType": "Metal",
+                    "objectDescription": "Replaced vehicle parts",
+                    "available": true,
+                    "collected": true,
+                    "stage": 2,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": 5.150000095367432,
+                        "y": 0.30000001192092898,
+                        "z": 8.550000190734864
+                    },
+                    "position": {
+                        "x": 5.150000095367432,
+                        "y": 0.024999871850013734,
+                        "z": 7.450000286102295
+                    }
+                },
+                {
+                    "id": "WB-006",
+                    "source": "Garage",
+                    "materialType": "Metal",
+                    "objectDescription": "Replaced vehicle parts",
+                    "available": true,
+                    "collected": true,
+                    "stage": 2,
+                    "holder": 18446744073709551615,
+                    "origin": {
+                        "x": 10.850000381469727,
+                        "y": 0.30000001192092898,
+                        "z": 8.550000190734864
+                    },
+                    "position": {
+                        "x": 10.413366317749024,
+                        "y": 0.02499993145465851,
+                        "z": 8.858675003051758
+                    }
+                }
+            ],
+            "serviceRecords": [
+                {
+                    "id": "SR-SV-001",
+                    "vehicle": "Mikan delivery van",
+                    "fault": "Weak battery",
+                    "part": "battery",
+                    "timestampUtc": "2026-10-11T11:55:20.6114086Z",
+                    "actor": 0,
+                    "location": {
+                        "x": 8.0,
+                        "y": 1.0999999046325684,
+                        "z": 7.5
+                    }
+                },
+                {
+                    "id": "SR-SV-002",
+                    "vehicle": "Municipal mini truck",
+                    "fault": "Clogged oil filter",
+                    "part": "filter",
+                    "timestampUtc": "2026-10-11T11:55:20.6217342Z",
+                    "actor": 0,
+                    "location": {
+                        "x": 8.0,
+                        "y": 1.0999999046325684,
+                        "z": 7.5
+                    }
+                }
+            ],
+            "disposalRecords": [
+                {
+                    "id": "DR-WB-001",
+                    "source": "Town Square",
+                    "materialType": "Paper",
+                    "objectDescription": "Ordinary packaging",
+                    "timestampUtc": "2026-10-11T11:56:02.5394760Z",
+                    "actor": 2,
+                    "location": {
+                        "x": -1.0,
+                        "y": 0.30000001192092898,
+                        "z": 7.800000190734863
+                    }
+                },
+                {
+                    "id": "DR-WB-002",
+                    "source": "Back Alley",
+                    "materialType": "Mixed",
+                    "objectDescription": "Discarded umbrella and wrappers",
+                    "timestampUtc": "2026-10-11T11:56:02.5404906Z",
+                    "actor": 2,
+                    "location": {
+                        "x": 0.0,
+                        "y": 0.30000001192092898,
+                        "z": 11.0
+                    }
+                },
+                {
+                    "id": "DR-WB-003",
+                    "source": "Sanitation Yard",
+                    "materialType": "Metal",
+                    "objectDescription": "Ordinary packaging",
+                    "timestampUtc": "2026-10-11T11:56:02.5404906Z",
+                    "actor": 2,
+                    "location": {
+                        "x": 5.0,
+                        "y": 0.30000001192092898,
+                        "z": -6.800000190734863
+                    }
+                },
+                {
+                    "id": "DR-WB-004",
+                    "source": "Daylight Market",
+                    "materialType": "Paper",
+                    "objectDescription": "Ordinary packaging",
+                    "timestampUtc": "2026-10-11T11:56:02.5404906Z",
+                    "actor": 2,
+                    "location": {
+                        "x": -10.0,
+                        "y": 0.30000001192092898,
+                        "z": 2.9000000953674318
+                    }
+                },
+                {
+                    "id": "DR-WB-005",
+                    "source": "Garage",
+                    "materialType": "Metal",
+                    "objectDescription": "Replaced vehicle parts",
+                    "timestampUtc": "2026-10-11T11:56:02.5404906Z",
+                    "actor": 2,
+                    "location": {
+                        "x": 5.150000095367432,
+                        "y": 0.30000001192092898,
+                        "z": 8.550000190734864
+                    }
+                },
+                {
+                    "id": "DR-WB-006",
+                    "source": "Garage",
+                    "materialType": "Metal",
+                    "objectDescription": "Replaced vehicle parts",
+                    "timestampUtc": "2026-10-11T11:56:02.5404906Z",
+                    "actor": 2,
+                    "location": {
+                        "x": 10.850000381469727,
+                        "y": 0.30000001192092898,
+                        "z": 8.550000190734864
+                    }
+                }
+            ],
+            "movements": [
+                {
+                    "sequence": 1,
+                    "quantity": 1,
+                    "sku": "battery",
+                    "from": "warehouse",
+                    "to": "counter",
+                    "reason": "unstaffed municipal reserve"
+                },
+                {
+                    "sequence": 2,
+                    "quantity": 1,
+                    "sku": "filter",
+                    "from": "warehouse",
+                    "to": "counter",
+                    "reason": "unstaffed municipal reserve"
+                },
+                {
+                    "sequence": 3,
+                    "quantity": 1,
+                    "sku": "battery",
+                    "from": "counter",
+                    "to": "mechanic",
+                    "reason": "mechanic collection"
+                },
+                {
+                    "sequence": 4,
+                    "quantity": 1,
+                    "sku": "filter",
+                    "from": "counter",
+                    "to": "mechanic",
+                    "reason": "mechanic collection"
+                },
+                {
+                    "sequence": 5,
+                    "quantity": 1,
+                    "sku": "battery",
+                    "from": "mechanic",
+                    "to": "installed",
+                    "reason": "repair:SV-001"
+                },
+                {
+                    "sequence": 6,
+                    "quantity": 1,
+                    "sku": "filter",
+                    "from": "mechanic",
+                    "to": "installed",
+                    "reason": "repair:SV-002"
+                }
+            ],
+            "message": "Town work updated.",
+            "works": [
+                {
+                    "worker": 18446744073709551615,
+                    "target": "",
+                    "started": 0.0,
+                    "duration": 0.0,
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "worker": 18446744073709551615,
+                    "target": "",
+                    "started": 0.0,
+                    "duration": 0.0,
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ],
+            "contribution": 9
+        }
+    },
+    "targetIds": [
+        "Town Workplaces/Route Bag 4",
+        "Graybox Town/Sanitation Area/Collection Route Desk",
+        "Graybox Town/Sanitation Area/Mixed Sorting Bin",
+        "Town Workplaces/Route Bag 1",
+        "Daylight Market Interior/Functional Fixtures/Checkout",
+        "Town Workplaces/Vehicle 1 Repair",
+        "Town Workplaces/Parts Request Slip",
+        "Daylight Market Interior/Functional Fixtures/Golden Crackers Shelf",
+        "Town Workplaces/Route Bag 5",
+        "Daylight Market Interior/Functional Fixtures/Delivery Desk",
+        "Town Workplaces/Parts Packing Counter",
+        "Town Workplaces/Route Bag 0",
+        "Daylight Market Interior/Functional Fixtures/Closing Terminal",
+        "Daylight Market Interior/Functional Fixtures/Sunbeam Cola Shelf",
+        "Daylight Market Interior/Functional Fixtures/Meadow Tea Shelf",
+        "Daylight Market Interior/Functional Fixtures/Stock Crate",
+        "Graybox Town/Shop/Shop Door",
+        "Town Workplaces/Vehicle 0 Repair",
+        "Town Workplaces/Parts Pickup Locker",
+        "Town Workplaces/Enter Daylight Market",
+        "Town Workplaces/Route Bag 3",
+        "Graybox Town/Garage/Service Desk",
+        "Graybox Town/Sanitation Area/Paper Sorting Bin",
+        "Town Workplaces/Vehicle 1 Inspection",
+        "Town Workplaces/Route Bag 2",
+        "Graybox Town/Sanitation Area/Metal Sorting Bin",
+        "Town Workplaces/Vehicle 0 Inspection",
+        "Daylight Market Interior/Functional Fixtures/Town Exit"
+    ],
+    "targetPoints": [
+        {
+            "x": 5.150000095367432,
+            "y": 0.1749998778104782,
+            "z": 7.450000286102295
+        },
+        {
+            "x": 10.0,
+            "y": 1.0499999523162842,
+            "z": -6.0
+        },
+        {
+            "x": 7.5,
+            "y": 1.2000000476837159,
+            "z": -8.5
+        },
+        {
+            "x": 0.0,
+            "y": 0.17499993741512299,
+            "z": 9.899999618530274
+        },
+        {
+            "x": -41.0,
+            "y": 0.550000011920929,
+            "z": 1.7999999523162842
+        },
+        {
+            "x": 9.600000381469727,
+            "y": 0.6499999761581421,
+            "z": 4.75
+        },
+        {
+            "x": 10.300000190734864,
+            "y": 0.6499999761581421,
+            "z": 8.199999809265137
+        },
+        {
+            "x": -38.0,
+            "y": 0.6499999761581421,
+            "z": 6.0
+        },
+        {
+            "x": 10.413366317749024,
+            "y": 0.17499993741512299,
+            "z": 8.858675003051758
+        },
+        {
+            "x": -36.0,
+            "y": 0.6499999761581421,
+            "z": 10.300000190734864
+        },
+        {
+            "x": -35.900001525878909,
+            "y": 0.6499999761581421,
+            "z": 4.800000190734863
+        },
+        {
+            "x": -1.0,
+            "y": 0.17499993741512299,
+            "z": 6.700000286102295
+        },
+        {
+            "x": -36.20000076293945,
+            "y": 0.550000011920929,
+            "z": 1.7999999523162842
+        },
+        {
+            "x": -42.0,
+            "y": 0.6499999761581421,
+            "z": 6.0
+        },
+        {
+            "x": -40.0,
+            "y": 0.6499999761581421,
+            "z": 9.699999809265137
+        },
+        {
+            "x": -36.0,
+            "y": 0.30000001192092898,
+            "z": 8.199999809265137
+        },
+        {
+            "x": -7.75,
+            "y": 0.9500000476837158,
+            "z": 3.380000114440918
+        },
+        {
+            "x": 6.400000095367432,
+            "y": 0.6499999761581421,
+            "z": 4.75
+        },
+        {
+            "x": -10.800000190734864,
+            "y": 0.6499999761581421,
+            "z": 2.75
+        },
+        {
+            "x": -8.199999809265137,
+            "y": 0.6499999761581421,
+            "z": 4.199999809265137
+        },
+        {
+            "x": -10.0,
+            "y": 0.1749998778104782,
+            "z": 1.8000000715255738
+        },
+        {
+            "x": 8.0,
+            "y": 1.0999999046325684,
+            "z": 7.5
+        },
+        {
+            "x": 6.0,
+            "y": 1.2000000476837159,
+            "z": -8.5
+        },
+        {
+            "x": 10.649999618530274,
+            "y": 0.6499999761581421,
+            "z": 5.5
+        },
+        {
+            "x": 5.0,
+            "y": 0.17499993741512299,
+            "z": -7.900000095367432
+        },
+        {
+            "x": 9.0,
+            "y": 1.2000000476837159,
+            "z": -8.5
+        },
+        {
+            "x": 5.349999904632568,
+            "y": 0.6499999761581421,
+            "z": 5.5
+        },
+        {
+            "x": -40.0,
+            "y": 0.6499999761581421,
+            "z": -0.10000000149011612
+        }
+    ],
+    "cameras": 1,
+    "listeners": 1,
+    "inputs": 1,
+    "huds": 0,
+    "townHuds": 1,
+    "frameMilliseconds": 5.777905464172363,
+    "guidance": {
+        "job": "Shopkeeper",
+        "note": "Open Daylight Market",
+        "detail": "Open the exterior door, step through, then E to enter.",
+        "objectives": [
+            {
+                "id": "Graybox Town/Shop/Shop Door",
+                "title": "Market door",
+                "icon": "door",
+                "active": true,
+                "position": {
+                    "x": -7.75,
+                    "y": 0.9500000476837158,
+                    "z": 3.380000114440918
+                }
+            }
+        ],
+        "mapPlayer": {
+            "x": -1.0,
+            "y": 0.02499993145465851,
+            "z": 2.4332635402679445
+        },
+        "markerCount": 1,
+        "paperFraction": 0.11102816462516785,
+        "bookOpen": true,
+        "staffDesk": false,
+        "cursorLocked": false
+    },
+    "feedbackCount": 40,
+    "firstPerson": {
+        "active": true,
+        "hiddenBody": true,
+        "handsVisible": true,
+        "paused": false,
+        "gameplayActive": false,
+        "inputBlocked": false,
+        "mapBaked": true,
+        "mapExpanded": false,
+        "yaw": 0.0,
+        "pitch": 0.0,
+        "cameraHeight": 0.9999781250953674,
+        "fov": 74.0,
+        "handPose": "idle",
+        "pausePage": "Main",
+        "gestures": 34,
+        "viewmodels": 1,
+        "visibleColleagues": 1,
+        "mapObjectives": 1,
+        "mapClamped": 0,
+        "remoteHeadsTurned": 0,
+        "pauseOpened": 0,
+        "sfx": 120,
+        "vSyncCount": 1,
+        "targetFrameRate": -1,
+        "qualityLevel": 0,
+        "listenerVolume": 1.0,
+        "sensitivity": 0.11999999731779099,
+        "mapPlayer": {
+            "x": 0.7923076152801514,
+            "y": 0.8533333539962769
+        },
+        "cameraPosition": {
+            "x": -0.9999614357948303,
+            "y": 1.0249780416488648,
+            "z": 2.4332635402679445
+        },
+        "remoteHandPose": ""
+    }
+}

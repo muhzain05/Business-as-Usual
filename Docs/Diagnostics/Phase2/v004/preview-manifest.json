@@ -1,0 +1,55 @@
+{
+  "fps": 24,
+  "loops_encoded": 2,
+  "comparison_sync": "Normalized cycle phase; v003 source clips are time-scaled to v004 duration.",
+  "previews": [
+    {
+      "file": "walk-side-preview-two-loops.gif",
+      "frames": 64,
+      "duration_ms": 2670,
+      "loops_encoded": 2
+    },
+    {
+      "file": "walk-side-comparison-two-loops.gif",
+      "frames": 64,
+      "duration_ms": 2670,
+      "loops_encoded": 2
+    },
+    {
+      "file": "walk-front-preview-two-loops.gif",
+      "frames": 64,
+      "duration_ms": 2670,
+      "loops_encoded": 2
+    },
+    {
+      "file": "walk-front-comparison-two-loops.gif",
+      "frames": 64,
+      "duration_ms": 2670,
+      "loops_encoded": 2
+    },
+    {
+      "file": "run-side-preview-two-loops.gif",
+      "frames": 48,
+      "duration_ms": 2000,
+      "loops_encoded": 2
+    },
+    {
+      "file": "run-side-comparison-two-loops.gif",
+      "frames": 48,
+      "duration_ms": 2000,
+      "loops_encoded": 2
+    },
+    {
+      "file": "run-three_quarter-preview-two-loops.gif",
+      "frames": 48,
+      "duration_ms": 2000,
+      "loops_encoded": 2
+    },
+    {
+      "file": "run-three_quarter-comparison-two-loops.gif",
+      "frames": 48,
+      "duration_ms": 2000,
+      "loops_encoded": 2
+    }
+  ]
+}

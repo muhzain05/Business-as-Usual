@@ -1,0 +1,22 @@
+{
+  "baseline": "D:\\Business as Usual Backups\\pre-phase8A-rescue-v2-2026-10-12",
+  "baselineFiles": 6834,
+  "missing": [],
+  "changed": [
+    "Docs/Design/phase8A-playtest.md",
+    "Docs/meshy-credit-ledger.json",
+    "Scripts/launch_phase8a.ps1",
+    "Unity/BusinessAsUsual/Assets/FirstPerson/Scripts/PauseMenu.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkPlayer.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkSession.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkShop.cs",
+    "Unity/BusinessAsUsual/Assets/Multiplayer/Scripts/NetworkTestDriver.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/LivingWorkday.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/TownHandbook.cs",
+    "Unity/BusinessAsUsual/Assets/Town/Scripts/WorkdayDomain.cs"
+  ],
+  "indexStagesUnchanged": true,
+  "originalScenesUnchanged": true,
+  "originalMaterialsUnchanged": true,
+  "originalPrefabsUnchanged": true
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_1010060047_texture.blend",
+    "path": "Assets/Characters/Sunny/Source/Original/Meshy_AI_Sunny_Little_Friend_1010060047_texture.blend",
+    "bytes": 6161295,
+    "sha256": "0002c7eb9691951063ffaac5536f4b3c7e2b9281f9bab1c046bfb6c065721d76"
+  },
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_biped.zip",
+    "path": "Assets/Characters/Sunny/Source/Archives/Meshy_AI_Sunny_Little_Friend_biped.zip",
+    "bytes": 37569456,
+    "sha256": "a25c4e65536c511b0c70666bf9d6caf9631b14f6eb62bc136917735efcc308e2"
+  },
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped_Animation_Running_withSkin.fbx",
+    "path": "Assets/Characters/Sunny/Source/Animations/Meshy_AI_Sunny_Little_Friend_biped_Animation_Running_withSkin.fbx",
+    "bytes": 13987644,
+    "sha256": "c4ee2b26f14f0848119f89c7e581abac2566f27df6caa0f0045bd660c018b28b"
+  },
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped_Animation_Walking_withSkin.fbx",
+    "path": "Assets/Characters/Sunny/Source/Animations/Meshy_AI_Sunny_Little_Friend_biped_Animation_Walking_withSkin.fbx",
+    "bytes": 13995324,
+    "sha256": "36f62972d84cfb53549bdd811b5b8733919885b2ccedca3df92940684ef0b55d"
+  },
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped_Character_output.fbx",
+    "path": "Assets/Characters/Sunny/Source/Rigged/Meshy_AI_Sunny_Little_Friend_biped_Character_output.fbx",
+    "bytes": 3022988,
+    "sha256": "0c90ba9d9bd5eb376c302f3998fdce6f378f8e0c28520db0d0fbb4e250011e15"
+  },
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped_texture_0.png",
+    "path": "Assets/Characters/Sunny/Source/Textures/Meshy_AI_Sunny_Little_Friend_biped_texture_0.png",
+    "bytes": 3931141,
+    "sha256": "a015749b81840f3d2908fa939631e3727d128cb3b9ebf2a81643b80855b0f7e1"
+  },
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped_texture_0_metallic.png",
+    "path": "Assets/Characters/Sunny/Source/Textures/Meshy_AI_Sunny_Little_Friend_biped_texture_0_metallic.png",
+    "bytes": 21294,
+    "sha256": "2d4b3117bdfcae2e38633da5590afa2872c63ad148ed8f332eea6f456043e3e4"
+  },
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped_texture_0_normal.png",
+    "path": "Assets/Characters/Sunny/Source/Textures/Meshy_AI_Sunny_Little_Friend_biped_texture_0_normal.png",
+    "bytes": 2546876,
+    "sha256": "44379ae939cbf98ca9aabb29fc493c7ffbe3fe4c8b7ca8c8ebe18bdc4abe5f03"
+  },
+  {
+    "original_path": "Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped\\Meshy_AI_Sunny_Little_Friend_biped_texture_0_roughness.png",
+    "path": "Assets/Characters/Sunny/Source/Textures/Meshy_AI_Sunny_Little_Friend_biped_texture_0_roughness.png",
+    "bytes": 979334,
+    "sha256": "4412a3eeaa3712542994622f0ff748a505d8e4df642037d92d9f2fe440cdd1de"
+  }
+]
